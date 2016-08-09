@@ -1,0 +1,23 @@
+{
+  "name": "Final-Project",
+  "version": "1.0.0",
+  "description": "![alt tag](https://github.com/zee-A-team/Final-Project/blob/master/The-a-team-the-cast-mr-t-george-peppard-dwight-schultz-dirk-bendict.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viltaria/Final-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viltaria/Final-Project/issues"
+  },
+  "homepage": "https://github.com/Viltaria/Final-Project#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
