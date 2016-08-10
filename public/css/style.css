@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+.map {
+  position: relative;
+  overflow: hidden;
+  height:100%;
+  width:100%;
+}
+
+.layer {
+  position: absolute;
+}
+
+.tile {
+  pointer-events: none;
+  position: absolute;
+  width: 256px;
+  height: 256px;
+}
+
+.info {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+
+.dot {
+  position:absolute;
+  width:5px;
+  height:5px;
+}

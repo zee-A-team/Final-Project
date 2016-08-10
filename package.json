@@ -4,7 +4,8 @@
   "description": "![alt tag](https://github.com/zee-A-team/Final-Project/blob/master/The-a-team-the-cast-mr-t-george-peppard-dwight-schultz-dirk-bendict.jpg)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,8 @@
   },
   "homepage": "https://github.com/Viltaria/Final-Project#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "topojson": "^1.6.26"
   }
 }
