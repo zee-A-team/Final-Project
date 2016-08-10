@@ -1,5 +1,5 @@
 body {
-  background:black;
+  background:white;
 }
 
 /* Map */
@@ -11,12 +11,11 @@ body {
 }
 
 .land {
-  stroke:rgb(44,155,155);
+  stroke: rgb(44,155,155);
   fill: black;
 }
 
 .boundary {
   fill: none;
   stroke: rgb(44,155,155);
-  stroke-width: 2px;
 }
