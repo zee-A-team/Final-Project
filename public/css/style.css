@@ -1,33 +1,22 @@
 body {
-  margin: 0;
+  background:black;
 }
 
-.map {
-  position: relative;
-  overflow: hidden;
-  height:100%;
-  width:100%;
+/* Map */
+.graticule {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .5;
+  stroke-width: .5px;
 }
 
-.layer {
-  position: absolute;
+.land {
+  stroke:rgb(44,155,155);
+  fill: black;
 }
 
-.tile {
-  pointer-events: none;
-  position: absolute;
-  width: 256px;
-  height: 256px;
-}
-
-.info {
-  position: absolute;
-  bottom: 10px;
-  left: 10px;
-}
-
-.dot {
-  position:absolute;
-  width:5px;
-  height:5px;
+.boundary {
+  fill: none;
+  stroke: rgb(44,155,155);
+  stroke-width: 2px;
 }
