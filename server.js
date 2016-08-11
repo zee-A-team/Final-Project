@@ -21,18 +21,12 @@ app.use(express.static('public'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:true}));
 
-app.get('/api', (req, res) => {
-  var req = new XMLHttpRequest();
-  req.open('GET', '');
-  req.send();
-});
-
 app.get( '/test', ( req, res ) => {
     Animal.find( ( err, animals ) => {
       if (err) res.send(err);
       res.json(animals);
     });
-  })
+  });
 
 app.post( '/test', ( req, res ) => {
     var animal = new Animal();
