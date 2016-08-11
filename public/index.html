@@ -1,17 +1,176 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Extinct Animals</title>
-  <script src="//d3js.org/d3.v3.min.js"></script>
-  <script src="/js/d3.geo.tile.min.js"></script>
-  <script src="http://d3js.org/topojson.v1.min.js"></script>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Chiasm Crossfilter Integration</title>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="css/style.css"></link>
-</head>
-<body>
+    <!-- A functional reactive model library. See github.com/curran/model -->
+    <script src="http://curran.github.io/model/cdn/model-v0.2.4.js"></script>
 
-<script type="text/javascript" src="./js/index.js"></script>
-</body>
+    <!-- The common base for Chiasm components (depends on Model.js). -->
+    <script src="http://chiasm-project.github.io/chiasm-component/chiasm-component-v0.2.1.js"></script>
+
+    <!-- This script defines the BarChart component. -->
+    <script src="barChart.js"> </script>
+
+    <!-- Load Crossfilter and the Crossfilter Chiasm component. -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script>
+    <script src="chiasm-crossfilter.js"></script>
+
+    <!-- Chiasm.js depends on Model.js, Lodash.js, D3.js. -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+
+    <!-- Chiasm.js and plugins. See github.com/chiasm-project -->
+    <script src="http://chiasm-project.github.io/chiasm/chiasm-v0.2.0.js"></script>
+    <script src="http://chiasm-project.github.io/chiasm-layout/chiasm-layout-v0.2.2.js"></script>
+    <script src="http://chiasm-project.github.io/chiasm-links/chiasm-links-v0.2.1.js"></script>
+    <script src="http://chiasm-project.github.io/chiasm-dataset-loader/chiasm-dataset-loader-v0.3.1.js"></script>
+
+    <!-- The map component. -->
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+    <script src="chiasm-leaflet.js"></script>
+    <script src="bubble-map.js"></script>
+
+    <!-- Make the Chiasm container fill the page and have a 20px black border. -->
+    <style>
+
+      #chiasm-container {
+        position: fixed;
+        left: 0px;
+        right: 0px;
+        top: 0px;
+        bottom: 0px;
+      }
+
+      /* Style the brush. Draws from http://bl.ocks.org/mbostock/4343214 */
+      .brush .extent {
+        stroke: black;
+        fill-opacity: .2;
+        shape-rendering: crispEdges;
+      }
+
+      /* Axis CSS from bar chart example http://bl.ocks.org/mbostock/3885304 */
+      .axis {
+        font: 10px sans-serif;
+      }
+
+      .axis path,
+      .axis line {
+        fill: none;
+        stroke: lightgray;
+        shape-rendering: crispEdges;
+      }
+
+      /* Custom CSS for axis labels. */
+      .axis-label {
+        text-anchor: middle;
+        font-size: 1.1em;
+      }
+
+    </style>
+  </head>
+  <body>
+
+    <!-- Chiasm component DOM elements will be injected into this div. -->
+    <div id="chiasm-container"></div>
+
+    <!-- This is the main program that sets up the Chiasm application. -->
+    <script>
+
+      // Create a new Chiasm instance.
+      var chiasm = new Chiasm();
+
+      // Register plugins that the configuration can access.
+      chiasm.plugins.layout = ChiasmLayout;
+      chiasm.plugins.links = ChiasmLinks;
+      chiasm.plugins.datasetLoader = ChiasmDatasetLoader;
+      chiasm.plugins.barChart = BarChart;
+      chiasm.plugins.bubbleMap = BubbleMap;
+      chiasm.plugins.crossfilter = ChiasmCrossfilter;
+
+      // Set the Chaism configuration.
+      chiasm.setConfig({
+        "layout": {
+          "plugin": "layout",
+          "state": {
+            "containerSelector": "#chiasm-container",
+            "layout": {
+              "orientation": "vertical",
+              "children": [
+                "map",
+                "date-chart"
+              ]
+            },
+            "sizes": {
+              "date-chart": {
+                "size": 0.3
+              }
+            }
+          }
+        },
+        "map": {
+          "plugin": "bubbleMap",
+          "state": {
+            "center": [15, 33],
+            "zoom": 4,
+            "rColumn": "dead_and_missing",
+            "rMax": 30
+          }
+        },
+        "date-chart": {
+          "plugin": "barChart",
+          "state": {
+            "fill": "#FF7F78",
+            "yColumn": "value",
+            "xColumn": "key",
+            "margin": { left: 14, top: 1, right: 14, bottom: 20 }
+          }
+        },
+        "data-loader": {
+          "plugin": "datasetLoader",
+          "state": {
+            "path": "events"
+          }
+        },
+        "crossfilter": {
+          "plugin": "crossfilter",
+          "state": {
+            "groups": {
+              "dates": {
+                "dimension": "date",
+                "aggregation": "month"
+              },
+              "locations": {
+                "dimension": "latlong",
+              },
+              "latitudes": {
+                "dimension": "latitude",
+                "aggregation": "floor 500"
+              },
+              "longitudes": {
+                "dimension": "longitude",
+                "aggregation": "floor 500"
+              }
+            }
+          }
+        },
+        "links": {
+          "plugin": "links",
+          "state": {
+            "bindings": [
+              "data-loader.dataset -> crossfilter.dataset",
+              "crossfilter.dates -> date-chart.data",
+              "crossfilter.locations-elements -> map.data",
+              "data-loader.dataset -> map.datasetForScaleDomain",
+              "date-chart.brushIntervalX -> crossfilter.dateFilter",
+              "map.longitudeInterval -> crossfilter.longitudeFilter",
+              "map.latitudeInterval -> crossfilter.latitudeFilter"
+            ]
+          }
+        }
+      });
+    </script>
+  </body>
 </html>
