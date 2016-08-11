@@ -5,7 +5,6 @@ const bodyParser = require('body-parser');
 const Animal = require('./models/Animal');
 const PORT = process.env.PORT || 3000;
 
-
 /*----------  MONGOOSE ORM SETUP   ----------*/
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/et');
@@ -14,8 +13,6 @@ db.on('error', console.error.bind(console, "connect error:"));
 db.once('open', () => {
   console.log("Mongo reporting for duty!");
 });
-const isDeveloping = process.env.NODE_ENV !== 'production';
-const port = isDeveloping ? 3000 : process.env.PORT;
 
 app.use(express.static('public'));
 app.use(bodyParser.json());
