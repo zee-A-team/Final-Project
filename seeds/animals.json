@@ -1,0 +1,1645 @@
+[
+  {
+    "_id": "57ab8c5b1eff02897b163ed1",
+    "Common name": "Alaotra grebe",
+    "Scientific name": "Tachybaptus rufolavatus",
+    "Extinction date": "1985",
+    "Range": "Madagascar",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8c5b1eff02897b163ed2",
+    "Common name": "Aldabra brush-warbler",
+    "Scientific name": "Nesillas aldabrana",
+    "Extinction date": "1983",
+    "Range": "Seychelles",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8c5b1eff02897b163ed3",
+    "Common name": "Ascension flightless crake",
+    "Scientific name": "Mundia elpenor",
+    "Extinction date": "1656",
+    "Range": "United Kingdom (Ascension)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8c5b1eff02897b163ed4",
+    "Common name": "Ascension night heron",
+    "Scientific name": "Nycticorax olsoni",
+    "Extinction date": "1600",
+    "Range": "United Kingdom (Ascension)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8c5b1eff02897b163ed5",
+    "Common name": "Broad-billed parrot",
+    "Scientific name": "Lophopsittacus mauritianus",
+    "Extinction date": "1680",
+    "Range": "Mauritius",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8c5b1eff02897b163ed6",
+    "Common name": "Canary Islands oystercatcher",
+    "Scientific name": "Haematopus meadewaldoi",
+    "Extinction date": "1940",
+    "Range": "Spain (Canary Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8c5b1eff02897b163ed7",
+    "Common name": "Canary Islands quail",
+    "Scientific name": "Coturnix gomerae",
+    "Extinction date": "Unknown",
+    "Range": "United Kingdom (Saint Helena)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8c5b1eff02897b163ed8",
+    "Common name": "Saint Helena dove",
+    "Scientific name": "Dysmoropelia dekarchiskos",
+    "Extinction date": "After 1502",
+    "Range": "United Kingdom (Saint Helena)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8c5b1eff02897b163ed9",
+    "Common name": "Saint Helena hoopoe",
+    "Scientific name": "Upupa antaios",
+    "Extinction date": "Early 16th century",
+    "Range": "United Kingdom (Saint Helena)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8c5b1eff02897b163eda",
+    "Common name": "Saint Helena rail",
+    "Scientific name": "Porzana astrictocarpus",
+    "Extinction date": "After 1502",
+    "Range": "United Kingdom (Saint Helena)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8c5b1eff02897b163edb",
+    "Common name": "Seychelles parakeet",
+    "Scientific name": "Psittacula wardis",
+    "Extinction date": "1886",
+    "Range": "Seychelles",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8c5b1eff02897b163edc",
+    "Common name": "Small Saint Helena petrel",
+    "Scientific name": "Bulweria bifax",
+    "Extinction date": "After 1502",
+    "Range": "United Kingdom (Saint Helena)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8c5b1eff02897b163edd",
+    "Common name": "Tristan moorhen",
+    "Scientific name": "Gallinula nesiotis",
+    "Extinction date": "late 19th century",
+    "Range": "United Kingdom (Tristan da Cunha)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163ede",
+    "Common name": "Atlas wild ass",
+    "Scientific name": "Equus africanus atlanticus",
+    "Extinction date": "300",
+    "Range": "North African",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163edf",
+    "Common name": "Canary Islands giant rats",
+    "Scientific name": "Canariomys bravoi and Canariomys tamarani",
+    "Extinction date": "1500",
+    "Range": "Spain (Canary Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163ee0",
+    "Common name": "Giant aye-aye",
+    "Scientific name": "Daubentonia robusta",
+    "Extinction date": "1000",
+    "Range": "Madagascar",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163ee1",
+    "Common name": "Giant fossa",
+    "Scientific name": "Cryptoprocta spelea",
+    "Extinction date": "Unknown",
+    "Range": "Madagascar",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163ee2",
+    "Common name": "Hipposideros besaoka",
+    "Scientific name": "Hipposideros besaoka",
+    "Extinction date": "10000",
+    "Range": "Madagascar",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163ee3",
+    "Common name": "Homotherium",
+    "Scientific name": "Homotherium",
+    "Extinction date": "10,000",
+    "Range": "Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163ee4",
+    "Common name": "Koala lemur",
+    "Scientific name": "Megaladapis",
+    "Extinction date": "1420",
+    "Range": "Madagascar",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163ee5",
+    "Common name": "Lava mouse",
+    "Scientific name": "Malpaisomys insularis",
+    "Extinction date": "1500",
+    "Range": "Spain (Canary Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163ee6",
+    "Common name": "Malagasy aardvark",
+    "Scientific name": "Plesiorycteropus",
+    "Extinction date": "200",
+    "Range": "Madagascar",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163ee7",
+    "Common name": "Malagasy hippopotamus",
+    "Scientific name": "Hippopotamus",
+    "Extinction date": "1000",
+    "Range": "Madagascar",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163ee8",
+    "Common name": "Megalotragus",
+    "Scientific name": "Megalotragus",
+    "Extinction date": "10,000",
+    "Range": "Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163ee9",
+    "Common name": "Microgale macpheei",
+    "Scientific name": "Microgale macpheei",
+    "Extinction date": "100",
+    "Range": "Madagascar",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163eea",
+    "Common name": "North African elephant",
+    "Scientific name": "Loxodonta africana pharaoensis",
+    "Extinction date": "300",
+    "Range": "North Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163eeb",
+    "Common name": "Pelorovis",
+    "Scientific name": "Pelorovis",
+    "Extinction date": "2000",
+    "Range": "Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8cde1eff02897b163eec",
+    "Common name": "Sivatherium",
+    "Scientific name": "Sivatherium",
+    "Extinction date": "6000",
+    "Range": "Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163eed",
+    "Common name": "Atlas bear",
+    "Scientific name": "Ursus arctos crowtheri",
+    "Extinction date": "1870",
+    "Range": "North Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163eee",
+    "Common name": "Aurochs",
+    "Scientific name": "Bos primigenius",
+    "Extinction date": "1627",
+    "Range": "North Africa || Europe",
+    "Image": ""
+  },
+  {
+    "_id": "57ab8d111eff02897b163eef",
+    "Common name": "Bluebuck",
+    "Scientific name": "Hippotragus leucophaeus",
+    "Extinction date": "1799",
+    "Range": "South Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163ef0",
+    "Common name": "Bubal hartebeest",
+    "Scientific name": "Alcelaphus buselaphus buselaphus",
+    "Extinction date": "1923",
+    "Range": "North Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163ef1",
+    "Common name": "Cape lion",
+    "Scientific name": "Panthera leo melanochaitus",
+    "Extinction date": "1860",
+    "Range": "South Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163ef2",
+    "Common name": "Cape serval",
+    "Scientific name": "Leptailurus serval serval",
+    "Extinction date": "Unknown",
+    "Range": "South Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163ef3",
+    "Common name": "Cape warthog",
+    "Scientific name": "Phacochoerus aethiopicus aethiopicus",
+    "Extinction date": "1900",
+    "Range": "South Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163ef4",
+    "Common name": "Kenya oribi",
+    "Scientific name": "Ourebia ourebi kenyae",
+    "Extinction date": "Unknown",
+    "Range": "Kenya",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163ef5",
+    "Common name": "Large sloth lemur",
+    "Scientific name": "Palaeopropithecus",
+    "Extinction date": "1500",
+    "Range": "Madagascar",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163ef6",
+    "Common name": "Lesser Mascarene flying fox",
+    "Scientific name": "Pteropus subniger",
+    "Extinction date": "Early 19th century",
+    "Range": "Mauritius and France (Reunion)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163ef7",
+    "Common name": "Quagga",
+    "Scientific name": "Equus quagga quagga[",
+    "Extinction date": "August 12, 1883",
+    "Range": "Namibia and South Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163ef8",
+    "Common name": "Red gazelle",
+    "Scientific name": "Eudorcas rufinaa[",
+    "Extinction date": "1894",
+    "Range": "Algeria",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163ef9",
+    "Common name": "Robert's lechwe",
+    "Scientific name": "Kobus leche robertsi[",
+    "Extinction date": "Unknown",
+    "Range": "South Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d111eff02897b163efa",
+    "Common name": "Western black rhinoceros",
+    "Scientific name": "Diceros bicornis longipes[",
+    "Extinction date": "1996",
+    "Range": "Cameroon",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163efb",
+    "Common name": "Cape Verde giant skink",
+    "Scientific name": "Macroscincus coctei[",
+    "Extinction date": "1920",
+    "Range": "Cape Verde",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163efc",
+    "Common name": "Domed Mauritius giant tortoise",
+    "Scientific name": "Cylindraspis triserrata[",
+    "Extinction date": "Early 18th century",
+    "Range": "Mauritius",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163efd",
+    "Common name": "Domed Rodrigues giant tortoise",
+    "Scientific name": "Cylindraspis peltastes[",
+    "Extinction date": "1800",
+    "Range": "Mauritius",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163efe",
+    "Common name": "Eastwood's long-tailed seps",
+    "Scientific name": "Tetradactylus eastwoodae[",
+    "Extinction date": "1912",
+    "Range": "South Africa",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163eff",
+    "Common name": "Hoffstetter's worm snake",
+    "Scientific name": "Typhlops cariei[",
+    "Extinction date": "Unknown",
+    "Range": "Mauritius",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163f00",
+    "Common name": "Mauritian giant skink",
+    "Scientific name": "Didosaurus maurtianus[",
+    "Extinction date": "1650",
+    "Range": "Mauritius",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163f01",
+    "Common name": "Mozambique centipede-eater",
+    "Scientific name": "Aparallactus nigriceps",
+    "Extinction date": "1840",
+    "Range": "France (Reunion)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163f02",
+    "Common name": "Rodrigues day gecko",
+    "Scientific name": "Phelsuma edwardnewtoni",
+    "Extinction date": "1917",
+    "Range": "Mauritius",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163f03",
+    "Common name": "Rodrigues giant day gecko",
+    "Scientific name": "Phelsuma gigas[",
+    "Extinction date": "1842",
+    "Range": "Mauritius",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163f04",
+    "Common name": "Roque Chico de Salmor giant lizard",
+    "Scientific name": "Gallotia simonyi simonyi",
+    "Extinction date": "1930",
+    "Range": "Spain (Canary Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163f05",
+    "Common name": "Round Island burrowing boa",
+    "Scientific name": "Bolyeria multocarinata[",
+    "Extinction date": "1975",
+    "Range": "Mauritius",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163f06",
+    "Common name": "Saddle-backed Mauritius giant tortoise",
+    "Scientific name": "Cylindraspis inepta[",
+    "Extinction date": "Early 18th century",
+    "Range": "Mauritius",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d401eff02897b163f07",
+    "Common name": "Saddle-backed Rodrigues giant tortoise",
+    "Scientific name": "Cylindraspis vosmaeri[",
+    "Extinction date": "1800",
+    "Range": "Mauritius",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d611eff02897b163f08",
+    "Common name": "Turquoise-throated puffleg",
+    "Scientific Name": "Eriocnemis godini",
+    "Extinction Date": 1850,
+    "Range": "Colombia and Ecuador",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d611eff02897b163f09",
+    "Common name": "Atelopus ignescens",
+    "Scientific Name": "Atelopus ignescens",
+    "Extinction Date": "Unknown",
+    "Range": "Ecuador",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d611eff02897b163f0a",
+    "Common name": "Atelopus longirostris",
+    "Scientific Name": "Atelopus longirostris",
+    "Extinction Date": 1989,
+    "Range": "Ecuador",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d611eff02897b163f0b",
+    "Common name": "Atelopus vogli",
+    "Scientific Name": "Atelopus vogli",
+    "Extinction Date": 1933,
+    "Range": "Venezuela",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d611eff02897b163f0c",
+    "Common name": "Spiny-knee leaf frog",
+    "Scientific Name": "Phrynomedusa fimbriata",
+    "Extinction Date": "1920",
+    "Range": "Brazil",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d611eff02897b163f0d",
+    "Common name": "Chile Darwin's frog",
+    "Scientific Name": "Rhinoderma rufum",
+    "Extinction Date": 1980,
+    "Range": "Chile",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d611eff02897b163f0e",
+    "Common name": "Charles Island tortoise",
+    "Scientific Name": "Chelonoidis nigra nigra",
+    "Extinction Date": 1850,
+    "Range": "Ecuador (Galapagos Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d611eff02897b163f0f",
+    "Common name": "Pinta Island tortoise",
+    "Scientific Name": "Chelonoidis nigra abingdonii",
+    "Extinction Date": 2012,
+    "Range": "Ecuador (Galapagos Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f10",
+    "Common name": "Alejandro Selkirk Island Firecrown",
+    "Scientific Name": "Sephanoides fernandensis leyboldi",
+    "Extinction Date": 1908,
+    "Range": "Chile",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f11",
+    "Common name": "Colombian grebe",
+    "Scientific Name": "Podiceps andinus",
+    "Extinction Date": 1970,
+    "Range": "Colombia",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f12",
+    "Common name": "Darwin's ground finch",
+    "Scientific Name": "Geospiza magnirostris magnirostris",
+    "Extinction Date": 1957,
+    "Range": "Ecuador (Galapagos Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f13",
+    "Common name": "Niceforo's pintail",
+    "Scientific Name": "Anas georgica niceforoi",
+    "Extinction Date": 1952,
+    "Range": "Colombia",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f14",
+    "Common name": "San Cristabal vermilion flycatcher",
+    "Scientific Name": "Pyrocephalus rubinus dubius",
+    "Extinction Date": "1980",
+    "Range": "Ecuador (Galapagos Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f15",
+    "Common name": "Red-throated wood-rail",
+    "Scientific Name": "Aramides gutturalis",
+    "Extinction Date": 1843,
+    "Range": "Peru",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f16",
+    "Common name": "Antioquia brush finch",
+    "Scientific Name": "Heliangelus zusii",
+    "Extinction Date": "1971",
+    "Range": "Colombia",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f17",
+    "Common name": "Bogota SunAngel",
+    "Scientific Name": "Heliangelus zusii",
+    "Extinction Date": "1907",
+    "Range": "Colombia",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f18",
+    "Common name": "Eskimo Curlew",
+    "Scientific Name": "Numenius borealis",
+    "Extinction Date": "1939",
+    "Range": "Brazil and Argentina",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f19",
+    "Common name": "Glaucous macaw",
+    "Scientific Name": "Anodorhynchus glaucus",
+    "Extinction Date": "1960",
+    "Range": "Argentina, Brazil, Paraguay and Uruguay",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f1a",
+    "Common name": "Hooded seedeater",
+    "Scientific Name": "Sporophila melanops",
+    "Extinction Date": 1823,
+    "Range": "Brazil",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f1b",
+    "Common name": "Letitia's thorntail",
+    "Scientific Name": "Discosura letitiae",
+    "Extinction Date": 1852,
+    "Range": "Bolivia",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d7c1eff02897b163f1c",
+    "Common name": "Tachira antpitta",
+    "Scientific Name": "Grallaria chthonia",
+    "Extinction Date": 1956,
+    "Range": "Venezuela",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f1d",
+    "Common name": "Amazonian smilodon",
+    "Scientific Name": "Smilodon populator",
+    "Extinction Date": "10,000",
+    "Range": "Northern South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f1e",
+    "Common name": "Antifer",
+    "Scientific Name": "Antifer crassus",
+    "Extinction Date": "11000",
+    "Range": "Argentina, Brazil and Chile",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f1f",
+    "Common name": "Arctotherium",
+    "Scientific Name": "Arctotherium sp.",
+    "Extinction Date": "11000",
+    "Range": "South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f20",
+    "Common name": "Canis nehringi",
+    "Scientific Name": "Canis nehringi",
+    "Extinction Date": "8000",
+    "Range": "South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f21",
+    "Common name": "Cuvieronius",
+    "Scientific Name": "Cuvieronius sp.",
+    "Extinction Date": "4000",
+    "Range": "South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f22",
+    "Common name": "Dire wolf",
+    "Scientific Name": "Canis dirus",
+    "Extinction Date": "11000",
+    "Range": "South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f23",
+    "Common name": "Ground sloths",
+    "Scientific Name": "Catonyx",
+    "Extinction Date": "6000",
+    "Range": "South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f24",
+    "Common name": "Glyptodontidaes",
+    "Scientific Name": "Doedicurus",
+    "Extinction Date": "11000",
+    "Range": "South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f25",
+    "Common name": "Hippidion",
+    "Scientific Name": "Hippidion",
+    "Extinction Date": "10000",
+    "Range": "South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f26",
+    "Common name": "Macrauchenia",
+    "Scientific Name": "Macrauchenia sp.",
+    "Extinction Date": "10000",
+    "Range": "South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f27",
+    "Common name": "Neochoerus",
+    "Scientific Name": "Neochoerus sp.",
+    "Extinction Date": "10000",
+    "Range": "South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f28",
+    "Common name": "Stegomastodon",
+    "Scientific Name": "Stegomastodon sp.",
+    "Extinction Date": "10000",
+    "Range": "South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f29",
+    "Common name": "Stout-legged llama",
+    "Scientific Name": "Palaeolama mirifica",
+    "Extinction Date": "10000",
+    "Range": "South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f2a",
+    "Common name": "Theriodictis",
+    "Scientific Name": "Theriodictis sp.",
+    "Extinction Date": "11000",
+    "Range": "Bolivia, Brazil and Paraguay",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f2b",
+    "Common name": "Toxodon",
+    "Scientific Name": "Toxodon sp.",
+    "Extinction Date": "16500",
+    "Range": "South America",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f2c",
+    "Common name": "Xenorhinotherium",
+    "Scientific Name": "Xenorhinotherium bahiensis",
+    "Extinction Date": "10000",
+    "Range": "Brazil and Venezuela",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f2d",
+    "Common name": "Candango mouse",
+    "Scientific Name": "Juscelinomys candango",
+    "Extinction Date": 1960,
+    "Range": "Brazil",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f2e",
+    "Common name": "Caribbean monk seal",
+    "Scientific Name": "Monachus tropicalis",
+    "Extinction Date": 1952,
+    "Range": "Caribbean Sea",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f2f",
+    "Common name": "Darwin's rice rat",
+    "cientific name": "Nesoryzomys darwini",
+    "Extinction date": 1929,
+    "Range": "Ecuador (Galapagos Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f30",
+    "Common name": "Falkland Island wolf",
+    "Scientific Name": "Dusicyon australis",
+    "Extinction Date": 1876,
+    "Range": "United Kingdom (Falkland Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f31",
+    "Common name": "Galapagos giant rat",
+    "Scientific Name": "Megaoryzomys curioi",
+    "Extinction Date": "Unknown",
+    "Range": "Ecuador (Galapagos Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f32",
+    "Common name": "Indefatigable Galapagos mouse",
+    "Scientific Name": "Nesoryzomys indefessus",
+    "Extinction Date": "1930",
+    "Range": "Ecuador (Galapagos Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f33",
+    "Common name": "Giant vampire bat",
+    "Scientific Name": "Desmodus draculae",
+    "Extinction Date": "Unknown",
+    "Range": "Bolivia, Brazil & Venezuela",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f34",
+    "Common name": "Peruvian viscacha",
+    "Scientific Name": "Lagostomus crassus",
+    "Extinction Date": 1910,
+    "Range": "Peru",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f35",
+    "Common name": "Red-bellied gracile opossum",
+    "Scientific Name": "Cryptonanus ignitus",
+    "Extinction Date": 1962,
+    "Range": "Argentina",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f36",
+    "Common name": "Vespucci's rodent",
+    "Scientific Name": "Noronhomys vespuccii",
+    "Extinction Date": 1503,
+    "Range": "Brazil",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f37",
+    "Common name": "One-striped opossum",
+    "Scientific Name": "Monodelphis unistriata",
+    "Extinction Date": 1899,
+    "Range": "Argentina & Brazil",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f38",
+    "Common name": "Pacific degu",
+    "Scientific Name": "Octodon pacificus",
+    "Extinction Date": 1994,
+    "Range": "Mocha Island, Chile",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8d8c1eff02897b163f39",
+    "Common name": "Zuniga's dark rice rat",
+    "Scientific Name": "Melanomys zunigae",
+    "Extinction Date": 1942,
+    "Range": "Peru",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f3a",
+    "Common name": "Arabian ostrich",
+    "Scientific name": "Struthio camelus syriacus",
+    "Extinction date": "1966",
+    "Range": "Middle East",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f3b",
+    "Common name": "Asiatic ostrich",
+    "Scientific name": "Struthio asiaticus",
+    "Extinction date": "10000",
+    "Range": "Middle East to Central Asia",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f3c",
+    "Common name": "Bering Cackling Goose",
+    "Scientific name": "Branta hutchinsii asiatica",
+    "Extinction date": "1929",
+    "Range": "Russsia (Komandorski and Kuril Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f3d",
+    "Common name": "Bonin grosbeak",
+    "Scientific name": "Carpodacus ferreorostris",
+    "Extinction date": "1828",
+    "Range": "Japan (Bonin Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f3e",
+    "Common name": "Bonin nankeen night heron",
+    "Scientific name": "Nycticorax caledonicus crassirostris",
+    "Extinction date": "1889",
+    "Range": "Japan (Bonin Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f3f",
+    "Common name": "Bonin thrush",
+    "Scientific name": "Zoothera terrestris",
+    "Extinction date": "1827",
+    "Range": "Japan (Bonin Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f40",
+    "Common name": "Bonin wood pigeon",
+    "Scientific name": "Columba versicolor",
+    "Extinction date": "1889",
+    "Range": "Japan (Bonin Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f41",
+    "Common name": "Cebu hanging parrot",
+    "Scientific name": "Loriculus philippensis chrysonotus",
+    "Extinction date": "Unknown",
+    "Range": "Philippines (Cebu)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f42",
+    "Common name": "Cyprus dipper",
+    "Scientific name": "Cinclus cinclus olympicus",
+    "Extinction date": "1950",
+    "Range": "Cyprus",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f43",
+    "Common name": "Mukojima white-eye",
+    "Scientific name": "Apalopteron familiare familiare",
+    "Extinction date": "1930",
+    "Range": "Japan (Bonin Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f44",
+    "Common name": "Ryukyu kingfisher",
+    "Scientific name": "Todiramphus miyakoensis",
+    "Extinction date": "1887",
+    "Range": "Japan (Ryukyu Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f45",
+    "Common name": "Ryukyu wood pigeon",
+    "Scientific name": "Columba jouyi",
+    "Extinction date": "1936",
+    "Range": "Japan (Ryukyu Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f0d1eff02897b163f46",
+    "Common name": "Spectacled cormorant",
+    "Scientific name": "Phalacrocorax perspicillatus",
+    "Extinction date": "1850",
+    "Range": "Russia",
+    "Image": "--",
+    "Description": "",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f47",
+    "Common name": "Aurochs",
+    "Scientific name": "Bos primigenius",
+    "Extinction date": "India (9000), Eurasia (1627)",
+    "Range": "Northern Asia and Indian Sontinent",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f48",
+    "Common name": "Bali tiger",
+    "Scientific name": "Panthera tigris balica",
+    "Extinction date": "1937",
+    "Range": "Indonesia (Bali)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f49",
+    "Common name": "Buhler's coryphomys",
+    "Scientific name": "Coryphomys buehleri",
+    "Extinction date": "1500",
+    "Range": "Indonesia (Timor)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f4a",
+    "Common name": "Caspian tiger",
+    "Scientific name": "Panthera tigris virgata",
+    "Extinction date": "1970",
+    "Range": "Turkey to China",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f4b",
+    "Common name": "Caucasian moose",
+    "Scientific name": "Alces alces caucasicus",
+    "Extinction date": "1850",
+    "Range": "Caucasus Mountains, Iran and Turkey",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f4c",
+    "Common name": "Caucasian wisent",
+    "Scientific name": "Bison bonasus caucasicus",
+    "Extinction date": "1925",
+    "Range": "Caucasus Mountains",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f4d",
+    "Common name": "Cebu warty pig",
+    "Scientific name": "Sus cebifrons cebifrons",
+    "Extinction date": "1951",
+    "Range": "Yemen",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f4e",
+    "Common name": "Flores cave rat",
+    "Scientific name": "Spelaeomys florensis",
+    "Extinction date": "1500s",
+    "Range": "Indonesia (Flores)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f4f",
+    "Common name": "Flores long-nosed rat",
+    "Scientific name": "Paulamys naso",
+    "Extinction date": "1500s",
+    "Range": "Indonesia (Flores)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f50",
+    "Common name": "Formosan clouded leopard",
+    "Scientific name": "Neofelis nebulosa brachyura",
+    "Extinction date": "1990s",
+    "Range": "Taiwan",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f51",
+    "Common name": "Hokkaidō wolf",
+    "Scientific name": "Canis lupus hattai",
+    "Extinction date": 1889,
+    "Range": "Japan (Hokkaidō)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f52",
+    "Common name": "Honshū wolf",
+    "Scientific name": "Canis lupus hodophilax",
+    "Extinction date": 1905,
+    "Range": "Japan (Honshū)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f53",
+    "Common name": "Ilin Island Cloudrunner",
+    "Scientific name": "Crateromys paulus",
+    "Extinction date": "April 4, 1953",
+    "Range": "Philippines",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f54",
+    "Common name": "Indian Javan rhinoceros",
+    "Scientific name": "Rhinoceros sondaicus inermis",
+    "Extinction date": "Before 1925",
+    "Range": "Bangladesh, Burma (Myanmar), and India",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f55",
+    "Common name": "Japanese river otter",
+    "Scientific name": "Lutra lutra whiteleyi",
+    "Extinction date": 1979,
+    "Range": "Japan",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f56",
+    "Common name": "Japanese sea lion",
+    "Scientific name": "Zalophus japonicus",
+    "Extinction date": 1974,
+    "Range": "Sea of Japan",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f57",
+    "Common name": "Javan tiger",
+    "Scientific name": "Panthera tigris sondaica",
+    "Extinction date": "1970s",
+    "Range": "Indonesia (Java)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f58",
+    "Common name": "Northern Sumatran rhinoceros",
+    "Scientific name": "Dicerorhinus sumatrensis lasiotis",
+    "Extinction date": "Unknown",
+    "Range": "Bangladesh, Burma (Myanmar), and India",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f59",
+    "Common name": "Queen of Sheba's gazelle",
+    "Scientific name": "Gazella bilkis",
+    "Extinction date": "1951",
+    "Range": "Yemen",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f5a",
+    "Common name": "Saudi gazelle",
+    "Scientific name": "Gazella saudiya[",
+    "Extinction date": "Unknown",
+    "Range": "Arabian Peninsula",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f5b",
+    "Common name": "Schomburgk's deer",
+    "Scientific name": "Rucervus schomburgki[",
+    "Extinction date": "1938",
+    "Range": "Thailand",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f5c",
+    "Common name": "Steller's sea cow",
+    "Scientific name": "Hydrodamalis gigas[",
+    "Extinction date": "1768",
+    "Range": "Russia (Commander Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f5d",
+    "Common name": "Sturdee's pipistrelle",
+    "Scientific name": "Pipistrellus sturdeei[",
+    "Extinction date": "Unknown",
+    "Range": "Japan (Bonin Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f5e",
+    "Common name": "Verhoeven's giant tree rat",
+    "Scientific name": "Neofelis nebulosa brachyura",
+    "Extinction date": "1500",
+    "Range": "Indonesia (Flores)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f211eff02897b163f5f",
+    "Common name": "Vietnamese Javan rhinoceros",
+    "Scientific name": "Rhinoceros sondaicus annamiticus",
+    "Extinction date": "2010",
+    "Range": "Vietnam to Malaysia",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f60",
+    "Common name": "Aurochs",
+    "Scientific name": "Bos primigenius",
+    "Extinction date": "India (9000), Eurasia (1627)",
+    "Range": "Northern Asia and Indian Sontinent",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f61",
+    "Common name": "Bali tiger",
+    "Scientific name": "Panthera tigris balica",
+    "Extinction date": "1937",
+    "Range": "Indonesia (Bali)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f62",
+    "Common name": "Buhler's coryphomys",
+    "Scientific name": "Coryphomys buehleri",
+    "Extinction date": "1500",
+    "Range": "Indonesia (Timor)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f63",
+    "Common name": "Caspian tiger",
+    "Scientific name": "Panthera tigris virgata",
+    "Extinction date": "1970",
+    "Range": "Turkey to China",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f64",
+    "Common name": "Caucasian moose",
+    "Scientific name": "Alces alces caucasicus",
+    "Extinction date": "1850",
+    "Range": "Caucasus Mountains, Iran and Turkey",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f65",
+    "Common name": "Caucasian wisent",
+    "Scientific name": "Bison bonasus caucasicus",
+    "Extinction date": "1925",
+    "Range": "Caucasus Mountains",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f66",
+    "Common name": "Cebu warty pig",
+    "Scientific name": "Sus cebifrons cebifrons",
+    "Extinction date": "1951",
+    "Ran": "Queen of Sheba's gazelle",
+    "Range": "Yemen",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f67",
+    "Common name": "Saudi gazelle",
+    "Scientific name": "Gazella saudiya[",
+    "Extinction date": "Unknown",
+    "Range": "Arabian Peninsula",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f68",
+    "Common name": "Schomburgk's deer",
+    "Scientific name": "Rucervus schomburgki[",
+    "Extinction date": "1938",
+    "Range": "Thailand",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f69",
+    "Common name": "Steller's sea cow",
+    "Scientific name": "Hydrodamalis gigas[",
+    "Extinction date": "1768",
+    "Range": "Russia (Commander Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f6a",
+    "Common name": "Sturdee's pipistrelle",
+    "Scientific name": "Pipistrellus sturdeei[",
+    "Extinction date": "Unknown",
+    "Range": "Japan (Bonin Islands)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f6b",
+    "Common name": "Verhoeven's giant tree rat",
+    "Scientific name": "Neofelis nebulosa brachyura",
+    "Extinction date": "1500",
+    "Range": "Indonesia (Flores)",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f3f1eff02897b163f6c",
+    "Common name": "Vietnamese Javan rhinoceros",
+    "Scientific name": "Rhinoceros sondaicus annamiticus",
+    "Extinction date": "2010",
+    "Range": "Vietnam to Malaysia",
+    "Image": "--",
+    "Description": "",
+    "Type": "land"
+  },
+  {
+    "_id": "57ab8f541eff02897b163f6d",
+    "Common name": "Elephant species",
+    "Order": "Proboscidea",
+    "Family": "Elephantidae",
+    "Genus": "Elephas",
+    "Species": "Elephas",
+    "Description": "",
+    "Image": "--",
+    "Type": "mammals"
+  },
+  {
+    "_id": "57ab8f541eff02897b163f6e",
+    "Common name": "Asian elephant",
+    "Order": "Proboscidea",
+    "Family": "Elephantidae",
+    "Genus": "Elephas",
+    "Species": "Elephas maximus",
+    "Description": "",
+    "Image": "--",
+    "Type": "mammals"
+  },
+  {
+    "_id": "57ab8f541eff02897b163f6f",
+    "Common name": "Stegodon",
+    "Order": "Proboscidea",
+    "Family": "Stegodontidae",
+    "Genus": "Stegodon",
+    "Species": "Stegodonluzonensis Stegodonmindanensis",
+    "Description": "",
+    "Image": "--",
+    "Type": "mammals"
+  },
+  {
+    "_id": "57ab8f541eff02897b163f70",
+    "Common name": "Palawan fossil Sirenia",
+    "Order": "Sirenia",
+    "Family": "Dugongidae",
+    "Genus": "Dugong",
+    "Species": "Dugong",
+    "Description": "",
+    "Image": "--",
+    "Type": "mammals"
+  },
+  {
+    "_id": "57ab8f541eff02897b163f71",
+    "Common name": "Palawan Cervus",
+    "Order": "Artiodactyla",
+    "Family": "Cervidae (Subfamily: Cervinae)",
+    "Genus": "Cervus",
+    "Species": "Cervus",
+    "Description": "",
+    "Image": "--",
+    "Type": "mammals"
+  },
+  {
+    "_id": "57ab8f541eff02897b163f72",
+    "Common name": "Cebu dwarf buffalo",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae (Slass: Bovinae)",
+    "Genus": "Bubalus",
+    "Species": "Bubalus cebuensis",
+    "Description": "",
+    "Image": "--",
+    "Type": "mammals"
+  },
+  {
+    "_id": "57ab8f681eff02897b163f73",
+    "Common name": "Great auk",
+    "Scientific name": "Pinguinus impennis",
+    "Extinction date": "1854",
+    "Range": "Iceland and Northern European Coast",
+    "Image": "--",
+    "Type": "air"
+  },
+  {
+    "_id": "57ab8f681eff02897b163f74",
+    "Common name": "Pied raven",
+    "Scientific name": "Corvus corax varius",
+    "Extinction date": "1950",
+    "Range": "Denmark (Faroe Islands)",
+    "Image": "--",
+    "Type": "air"
+  }
+]
