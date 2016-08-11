@@ -10,11 +10,5 @@ app.use(express.static('public'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:true}));
 
-app.get('/api', (req, res) => {
-  var req = new XMLHttpRequest();
-  req.open('GET', '');
-  req.send();
-});
-
 app.listen(PORT, _ => console.log(`Now listening on PORT ${PORT}`));
 //http://api.gbif.org/v1/species/search?isExtinct=true

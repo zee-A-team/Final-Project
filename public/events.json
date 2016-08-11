@@ -1,0 +1,12 @@
+{
+  "columns": [
+    { "name": "dead", "type": "number" },
+    { "name": "missing", "type": "number" },
+    { "name": "dead_and_missing", "type": "number" },
+    { "name": "cause_of_death", "type": "string" },
+    { "name": "CartoDB_Cause_of_death", "type": "string" },
+    { "name": "latitude", "type": "number" },
+    { "name": "longitude", "type": "number" },
+    { "name": "date", "type": "date" }
+  ]
+}
