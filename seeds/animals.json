@@ -7,7 +7,9 @@
     "Range": "Madagascar",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat": "-18.766947",
+    "lng":"46.869107",
   },
   {
     "_id": "57ab8c5b1eff02897b163ed2",
@@ -17,7 +19,9 @@
     "Range": "Seychelles",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-4.6",
+    "lng":"55.47",
   },
   {
     "_id": "57ab8c5b1eff02897b163ed3",
@@ -27,7 +31,9 @@
     "Range": "United Kingdom (Ascension)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-15.98",
+    "lng":"-5.701",
   },
   {
     "_id": "57ab8c5b1eff02897b163ed4",
@@ -37,7 +43,9 @@
     "Range": "United Kingdom (Ascension)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-15.98",
+    "lng":"-5.701",
   },
   {
     "_id": "57ab8c5b1eff02897b163ed5",
@@ -47,7 +55,9 @@
     "Range": "Mauritius",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-20.34",
+    "lng":"57.55",
   },
   {
     "_id": "57ab8c5b1eff02897b163ed6",
@@ -57,7 +67,9 @@
     "Range": "Spain (Canary Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"28.29",
+    "lng":"-16.62",
   },
   {
     "_id": "57ab8c5b1eff02897b163ed7",
@@ -67,7 +79,9 @@
     "Range": "United Kingdom (Saint Helena)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-15.98",
+    "lng":"-5.71"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed8",
@@ -77,7 +91,9 @@
     "Range": "United Kingdom (Saint Helena)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-15.98",
+    "lng":"-5.71"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed9",
@@ -87,7 +103,9 @@
     "Range": "United Kingdom (Saint Helena)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-15.98",
+    "lng":"-5.71"
   },
   {
     "_id": "57ab8c5b1eff02897b163eda",
@@ -97,7 +115,9 @@
     "Range": "United Kingdom (Saint Helena)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-15.98",
+    "lng":"-5.71"
   },
   {
     "_id": "57ab8c5b1eff02897b163edb",
@@ -107,7 +127,9 @@
     "Range": "Seychelles",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-4.6",
+    "lng":"55.47",
   },
   {
     "_id": "57ab8c5b1eff02897b163edc",
@@ -117,7 +139,9 @@
     "Range": "United Kingdom (Saint Helena)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-15.98",
+    "lng":"-5.71"
   },
   {
     "_id": "57ab8c5b1eff02897b163edd",
@@ -127,7 +151,9 @@
     "Range": "United Kingdom (Tristan da Cunha)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-37.10",
+    "lng":"-12.27",
   },
   {
     "_id": "57ab8cde1eff02897b163ede",
@@ -137,7 +163,9 @@
     "Range": "North African",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"18.18",
+    "lng":"18.28",
   },
   {
     "_id": "57ab8cde1eff02897b163edf",
@@ -147,7 +175,9 @@
     "Range": "Spain (Canary Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"28.29",
+    "lng":"-16.62",
   },
   {
     "_id": "57ab8cde1eff02897b163ee0",
@@ -157,7 +187,9 @@
     "Range": "Madagascar",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat": "-18.766947",
+    "lng":"46.869107",
   },
   {
     "_id": "57ab8cde1eff02897b163ee1",
@@ -167,7 +199,9 @@
     "Range": "Madagascar",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat": "-18.766947",
+    "lng":"46.869107",
   },
   {
     "_id": "57ab8cde1eff02897b163ee2",
@@ -177,7 +211,9 @@
     "Range": "Madagascar",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat": "-18.766947",
+    "lng":"46.869107",
   },
   {
     "_id": "57ab8cde1eff02897b163ee3",
@@ -187,7 +223,9 @@
     "Range": "Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"3.29",
+    "lng":"22.52",
   },
   {
     "_id": "57ab8cde1eff02897b163ee4",
@@ -197,7 +235,9 @@
     "Range": "Madagascar",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat": "-18.766947",
+    "lng":"46.869107",
   },
   {
     "_id": "57ab8cde1eff02897b163ee5",
@@ -207,7 +247,9 @@
     "Range": "Spain (Canary Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"28.29",
+    "lng":"-16.62",
   },
   {
     "_id": "57ab8cde1eff02897b163ee6",
@@ -217,7 +259,9 @@
     "Range": "Madagascar",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat": "-18.766947",
+    "lng":"46.869107",
   },
   {
     "_id": "57ab8cde1eff02897b163ee7",
@@ -227,7 +271,9 @@
     "Range": "Madagascar",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat": "-18.766947",
+    "lng":"46.869107",
   },
   {
     "_id": "57ab8cde1eff02897b163ee8",
@@ -237,7 +283,9 @@
     "Range": "Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"3.29",
+    "lng":"22.52",
   },
   {
     "_id": "57ab8cde1eff02897b163ee9",
@@ -247,7 +295,9 @@
     "Range": "Madagascar",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat": "-18.766947",
+    "lng":"46.869107",
   },
   {
     "_id": "57ab8cde1eff02897b163eea",
@@ -257,7 +307,9 @@
     "Range": "North Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"30.30",
+    "lng":"12.39",
   },
   {
     "_id": "57ab8cde1eff02897b163eeb",
@@ -267,7 +319,9 @@
     "Range": "Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"3.29",
+    "lng":"22.52",
   },
   {
     "_id": "57ab8cde1eff02897b163eec",
@@ -277,7 +331,9 @@
     "Range": "Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"3.29",
+    "lng":"22.52",
   },
   {
     "_id": "57ab8d111eff02897b163eed",
@@ -287,7 +343,9 @@
     "Range": "North Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"30.30",
+    "lng":"12.39",
   },
   {
     "_id": "57ab8d111eff02897b163eee",
@@ -295,7 +353,9 @@
     "Scientific name": "Bos primigenius",
     "Extinction date": "1627",
     "Range": "North Africa || Europe",
-    "Image": ""
+    "Image": "",
+    "lat":"34.1",
+    "lng":"-0.26",
   },
   {
     "_id": "57ab8d111eff02897b163eef",
@@ -305,7 +365,9 @@
     "Range": "South Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-29.82",
+    "lng":"23.55"
   },
   {
     "_id": "57ab8d111eff02897b163ef0",
@@ -315,7 +377,9 @@
     "Range": "North Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"30.30",
+    "lng":"12.39",
   },
   {
     "_id": "57ab8d111eff02897b163ef1",
@@ -325,7 +389,9 @@
     "Range": "South Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-29.82",
+    "lng":"23.55"
   },
   {
     "_id": "57ab8d111eff02897b163ef2",
@@ -335,7 +401,9 @@
     "Range": "South Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-29.82",
+    "lng":"23.55"
   },
   {
     "_id": "57ab8d111eff02897b163ef3",
@@ -345,7 +413,9 @@
     "Range": "South Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-29.82",
+    "lng":"23.55"
   },
   {
     "_id": "57ab8d111eff02897b163ef4",
@@ -355,7 +425,9 @@
     "Range": "Kenya",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"0.453",
+    "lng":"37.70",
   },
   {
     "_id": "57ab8d111eff02897b163ef5",
@@ -365,7 +437,9 @@
     "Range": "Madagascar",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat": "-18.766947",
+    "lng":"46.869107",
   },
   {
     "_id": "57ab8d111eff02897b163ef6",
@@ -375,107 +449,129 @@
     "Range": "Mauritius and France (Reunion)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-20.26",
+    "lng":"57.56",
   },
   {
     "_id": "57ab8d111eff02897b163ef7",
     "Common name": "Quagga",
-    "Scientific name": "Equus quagga quagga[",
+    "Scientific name": "Equus quagga quagga",
     "Extinction date": "August 12, 1883",
     "Range": "Namibia and South Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-21.68",
+    "lng":"17.75",
   },
   {
     "_id": "57ab8d111eff02897b163ef8",
     "Common name": "Red gazelle",
-    "Scientific name": "Eudorcas rufinaa[",
+    "Scientific name": "Eudorcas rufinaa",
     "Extinction date": "1894",
     "Range": "Algeria",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"31.80",
+    "lng": "3.208",
   },
   {
     "_id": "57ab8d111eff02897b163ef9",
     "Common name": "Robert's lechwe",
-    "Scientific name": "Kobus leche robertsi[",
+    "Scientific name": "Kobus leche robertsi",
     "Extinction date": "Unknown",
     "Range": "South Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-29.82",
+    "lng":"23.55"
   },
   {
     "_id": "57ab8d111eff02897b163efa",
     "Common name": "Western black rhinoceros",
-    "Scientific name": "Diceros bicornis longipes[",
+    "Scientific name": "Diceros bicornis longipes",
     "Extinction date": "1996",
     "Range": "Cameroon",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"4.57",
+    "lng":"12.56",
   },
   {
     "_id": "57ab8d401eff02897b163efb",
     "Common name": "Cape Verde giant skink",
-    "Scientific name": "Macroscincus coctei[",
+    "Scientific name": "Macroscincus coctei",
     "Extinction date": "1920",
     "Range": "Cape Verde",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"16.06",
+    "lng":"-22.78",
   },
   {
     "_id": "57ab8d401eff02897b163efc",
     "Common name": "Domed Mauritius giant tortoise",
-    "Scientific name": "Cylindraspis triserrata[",
+    "Scientific name": "Cylindraspis triserrata",
     "Extinction date": "Early 18th century",
     "Range": "Mauritius",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-20.34",
+    "lng":"57.55",
   },
   {
     "_id": "57ab8d401eff02897b163efd",
     "Common name": "Domed Rodrigues giant tortoise",
-    "Scientific name": "Cylindraspis peltastes[",
+    "Scientific name": "Cylindraspis peltastes",
     "Extinction date": "1800",
     "Range": "Mauritius",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-20.34",
+    "lng":"57.55",
   },
   {
     "_id": "57ab8d401eff02897b163efe",
     "Common name": "Eastwood's long-tailed seps",
-    "Scientific name": "Tetradactylus eastwoodae[",
+    "Scientific name": "Tetradactylus eastwoodae",
     "Extinction date": "1912",
     "Range": "South Africa",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-29.82",
+    "lng":"23.55"
   },
   {
     "_id": "57ab8d401eff02897b163eff",
     "Common name": "Hoffstetter's worm snake",
-    "Scientific name": "Typhlops cariei[",
+    "Scientific name": "Typhlops cariei",
     "Extinction date": "Unknown",
     "Range": "Mauritius",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-20.34",
+    "lng":"57.55",
   },
   {
     "_id": "57ab8d401eff02897b163f00",
     "Common name": "Mauritian giant skink",
-    "Scientific name": "Didosaurus maurtianus[",
+    "Scientific name": "Didosaurus maurtianus",
     "Extinction date": "1650",
     "Range": "Mauritius",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-20.34",
+    "lng":"57.55",
   },
   {
     "_id": "57ab8d401eff02897b163f01",
@@ -485,7 +581,9 @@
     "Range": "France (Reunion)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-21.14",
+    "lng":"55.65",
   },
   {
     "_id": "57ab8d401eff02897b163f02",
@@ -495,17 +593,21 @@
     "Range": "Mauritius",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-20.34",
+    "lng":"57.55",
   },
   {
     "_id": "57ab8d401eff02897b163f03",
     "Common name": "Rodrigues giant day gecko",
-    "Scientific name": "Phelsuma gigas[",
+    "Scientific name": "Phelsuma gigas",
     "Extinction date": "1842",
     "Range": "Mauritius",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-20.34",
+    "lng":"57.55",
   },
   {
     "_id": "57ab8d401eff02897b163f04",
@@ -515,37 +617,45 @@
     "Range": "Spain (Canary Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"28.29",
+    "lng":"-16.62",
   },
   {
     "_id": "57ab8d401eff02897b163f05",
     "Common name": "Round Island burrowing boa",
-    "Scientific name": "Bolyeria multocarinata[",
+    "Scientific name": "Bolyeria multocarinata",
     "Extinction date": "1975",
     "Range": "Mauritius",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-20.34",
+    "lng":"57.55",
   },
   {
     "_id": "57ab8d401eff02897b163f06",
     "Common name": "Saddle-backed Mauritius giant tortoise",
-    "Scientific name": "Cylindraspis inepta[",
+    "Scientific name": "Cylindraspis inepta",
     "Extinction date": "Early 18th century",
     "Range": "Mauritius",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-20.34",
+    "lng":"57.55",
   },
   {
     "_id": "57ab8d401eff02897b163f07",
     "Common name": "Saddle-backed Rodrigues giant tortoise",
-    "Scientific name": "Cylindraspis vosmaeri[",
+    "Scientific name": "Cylindraspis vosmaeri",
     "Extinction date": "1800",
     "Range": "Mauritius",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-20.34",
+    "lng":"57.55",
   },
   {
     "_id": "57ab8d611eff02897b163f08",
@@ -555,7 +665,9 @@
     "Range": "Colombia and Ecuador",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"2.48",
+    "lng":"-75.76",
   },
   {
     "_id": "57ab8d611eff02897b163f09",
@@ -565,7 +677,9 @@
     "Range": "Ecuador",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-1.13",
+    "lng":"-77.16",
   },
   {
     "_id": "57ab8d611eff02897b163f0a",
@@ -575,7 +689,9 @@
     "Range": "Ecuador",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-1.13",
+    "lng":"-77.16",
   },
   {
     "_id": "57ab8d611eff02897b163f0b",
@@ -585,7 +701,9 @@
     "Range": "Venezuela",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"6.63",
+    "lng":"-65.21",
   },
   {
     "_id": "57ab8d611eff02897b163f0c",
@@ -595,7 +713,9 @@
     "Range": "Brazil",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-12.54",
+    "lng":"-53.08",
   },
   {
     "_id": "57ab8d611eff02897b163f0d",
@@ -605,7 +725,9 @@
     "Range": "Chile",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-47.74",
+    "lng":"-73.12",
   },
   {
     "_id": "57ab8d611eff02897b163f0e",
@@ -615,7 +737,9 @@
     "Range": "Ecuador (Galapagos Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-0.73",
+    "lng":"-91.06",
   },
   {
     "_id": "57ab8d611eff02897b163f0f",
@@ -625,7 +749,9 @@
     "Range": "Ecuador (Galapagos Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-0.73",
+    "lng":"-91.06",
   },
   {
     "_id": "57ab8d7c1eff02897b163f10",
@@ -635,7 +761,9 @@
     "Range": "Chile",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-47.74",
+    "lng":"-73.12",
   },
   {
     "_id": "57ab8d7c1eff02897b163f11",
@@ -645,7 +773,9 @@
     "Range": "Colombia",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"2.47",
+    "lng":"-72.07",
   },
   {
     "_id": "57ab8d7c1eff02897b163f12",
@@ -655,7 +785,9 @@
     "Range": "Ecuador (Galapagos Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-0.73",
+    "lng":"-91.06",
   },
   {
     "_id": "57ab8d7c1eff02897b163f13",
@@ -665,7 +797,9 @@
     "Range": "Colombia",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"2.47",
+    "lng":"-72.07",
   },
   {
     "_id": "57ab8d7c1eff02897b163f14",
@@ -675,7 +809,9 @@
     "Range": "Ecuador (Galapagos Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-0.73",
+    "lng":"-91.06",
   },
   {
     "_id": "57ab8d7c1eff02897b163f15",
@@ -685,7 +821,9 @@
     "Range": "Peru",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-10.21",
+    "lng":"-73.56",
   },
   {
     "_id": "57ab8d7c1eff02897b163f16",
@@ -695,7 +833,9 @@
     "Range": "Colombia",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"2.47",
+    "lng":"-72.07",
   },
   {
     "_id": "57ab8d7c1eff02897b163f17",
@@ -705,7 +845,9 @@
     "Range": "Colombia",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"2.47",
+    "lng":"-72.07",
   },
   {
     "_id": "57ab8d7c1eff02897b163f18",
@@ -715,7 +857,9 @@
     "Range": "Brazil and Argentina",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-28.21",
+    "lng":"-56.33",
   },
   {
     "_id": "57ab8d7c1eff02897b163f19",
@@ -725,7 +869,9 @@
     "Range": "Argentina, Brazil, Paraguay and Uruguay",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-28.21",
+    "lng":"-56.33",
   },
   {
     "_id": "57ab8d7c1eff02897b163f1a",
@@ -735,7 +881,9 @@
     "Range": "Brazil",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-12.54",
+    "lng":"-53.08",
   },
   {
     "_id": "57ab8d7c1eff02897b163f1b",
@@ -745,7 +893,9 @@
     "Range": "Bolivia",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"-16.11",
+    "lng":"-64.77",
   },
   {
     "_id": "57ab8d7c1eff02897b163f1c",
@@ -755,7 +905,9 @@
     "Range": "Venezuela",
     "Image": "--",
     "Description": "",
-    "Type": "air"
+    "Type": "air",
+    "lat":"6.63",
+    "lng":"-65.21",
   },
   {
     "_id": "57ab8d8c1eff02897b163f1d",
@@ -765,7 +917,9 @@
     "Range": "Northern South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-3.23",
+    "lng":"-57.12",
   },
   {
     "_id": "57ab8d8c1eff02897b163f1e",
@@ -775,7 +929,9 @@
     "Range": "Argentina, Brazil and Chile",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-47.74",
+    "lng":"-73.12",
   },
   {
     "_id": "57ab8d8c1eff02897b163f1f",
@@ -785,7 +941,9 @@
     "Range": "South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.95",
+    "lng":"-57.74",
   },
   {
     "_id": "57ab8d8c1eff02897b163f20",
@@ -795,7 +953,9 @@
     "Range": "South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.95",
+    "lng":"-57.74",
   },
   {
     "_id": "57ab8d8c1eff02897b163f21",
@@ -805,7 +965,9 @@
     "Range": "South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.95",
+    "lng":"-57.74",
   },
   {
     "_id": "57ab8d8c1eff02897b163f22",
@@ -815,7 +977,9 @@
     "Range": "South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.95",
+    "lng":"-57.74",
   },
   {
     "_id": "57ab8d8c1eff02897b163f23",
@@ -825,7 +989,9 @@
     "Range": "South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.95",
+    "lng":"-57.74",
   },
   {
     "_id": "57ab8d8c1eff02897b163f24",
@@ -835,7 +1001,9 @@
     "Range": "South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.95",
+    "lng":"-57.74",
   },
   {
     "_id": "57ab8d8c1eff02897b163f25",
@@ -845,7 +1013,9 @@
     "Range": "South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.95",
+    "lng":"-57.74",
   },
   {
     "_id": "57ab8d8c1eff02897b163f26",
@@ -855,7 +1025,9 @@
     "Range": "South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.95",
+    "lng":"-57.74",
   },
   {
     "_id": "57ab8d8c1eff02897b163f27",
@@ -865,7 +1037,9 @@
     "Range": "South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.95",
+    "lng":"-57.74",
   },
   {
     "_id": "57ab8d8c1eff02897b163f28",
@@ -875,7 +1049,9 @@
     "Range": "South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.95",
+    "lng":"-57.74",
   },
   {
     "_id": "57ab8d8c1eff02897b163f29",
@@ -885,7 +1061,9 @@
     "Range": "South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.95",
+    "lng":"-57.74",
   },
   {
     "_id": "57ab8d8c1eff02897b163f2a",
@@ -895,7 +1073,9 @@
     "Range": "Bolivia, Brazil and Paraguay",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.79",
+    "lng":"-62.40",
   },
   {
     "_id": "57ab8d8c1eff02897b163f2b",
@@ -905,7 +1085,9 @@
     "Range": "South America",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-16.95",
+    "lng":"-57.74",
   },
   {
     "_id": "57ab8d8c1eff02897b163f2c",
@@ -915,7 +1097,9 @@
     "Range": "Brazil and Venezuela",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"6.63",
+    "lng":"-65.21",
   },
   {
     "_id": "57ab8d8c1eff02897b163f2d",
@@ -925,7 +1109,9 @@
     "Range": "Brazil",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-12.54",
+    "lng":"-53.08",
   },
   {
     "_id": "57ab8d8c1eff02897b163f2e",
@@ -945,7 +1131,9 @@
     "Range": "Ecuador (Galapagos Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-0.73",
+    "lng":"-91.06",
   },
   {
     "_id": "57ab8d8c1eff02897b163f30",
@@ -965,7 +1153,9 @@
     "Range": "Ecuador (Galapagos Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-0.73",
+    "lng":"-91.06",
   },
   {
     "_id": "57ab8d8c1eff02897b163f32",
@@ -975,7 +1165,9 @@
     "Range": "Ecuador (Galapagos Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-0.73",
+    "lng":"-91.06",
   },
   {
     "_id": "57ab8d8c1eff02897b163f33",
@@ -985,7 +1177,9 @@
     "Range": "Bolivia, Brazil & Venezuela",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"6.63",
+    "lng":"-65.21",
   },
   {
     "_id": "57ab8d8c1eff02897b163f34",
@@ -995,7 +1189,9 @@
     "Range": "Peru",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-10.21",
+    "lng":"-73.56",
   },
   {
     "_id": "57ab8d8c1eff02897b163f35",
@@ -1015,7 +1211,9 @@
     "Range": "Brazil",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-12.54",
+    "lng":"-53.08",
   },
   {
     "_id": "57ab8d8c1eff02897b163f37",
@@ -1035,7 +1233,9 @@
     "Range": "Mocha Island, Chile",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-47.74",
+    "lng":"-73.12",
   },
   {
     "_id": "57ab8d8c1eff02897b163f39",
@@ -1045,7 +1245,9 @@
     "Range": "Peru",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"-10.21",
+    "lng":"-73.56",
   },
   {
     "_id": "57ab8f0d1eff02897b163f3a",
@@ -1370,7 +1572,7 @@
   {
     "_id": "57ab8f211eff02897b163f5a",
     "Common name": "Saudi gazelle",
-    "Scientific name": "Gazella saudiya[",
+    "Scientific name": "Gazella saudiya",
     "Extinction date": "Unknown",
     "Range": "Arabian Peninsula",
     "Image": "--",
@@ -1380,7 +1582,7 @@
   {
     "_id": "57ab8f211eff02897b163f5b",
     "Common name": "Schomburgk's deer",
-    "Scientific name": "Rucervus schomburgki[",
+    "Scientific name": "Rucervus schomburgki",
     "Extinction date": "1938",
     "Range": "Thailand",
     "Image": "--",
@@ -1390,7 +1592,7 @@
   {
     "_id": "57ab8f211eff02897b163f5c",
     "Common name": "Steller's sea cow",
-    "Scientific name": "Hydrodamalis gigas[",
+    "Scientific name": "Hydrodamalis gigas",
     "Extinction date": "1768",
     "Range": "Russia (Commander Islands)",
     "Image": "--",
@@ -1400,7 +1602,7 @@
   {
     "_id": "57ab8f211eff02897b163f5d",
     "Common name": "Sturdee's pipistrelle",
-    "Scientific name": "Pipistrellus sturdeei[",
+    "Scientific name": "Pipistrellus sturdeei",
     "Extinction date": "Unknown",
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
@@ -1501,7 +1703,7 @@
   {
     "_id": "57ab8f3f1eff02897b163f67",
     "Common name": "Saudi gazelle",
-    "Scientific name": "Gazella saudiya[",
+    "Scientific name": "Gazella saudiya",
     "Extinction date": "Unknown",
     "Range": "Arabian Peninsula",
     "Image": "--",
@@ -1511,7 +1713,7 @@
   {
     "_id": "57ab8f3f1eff02897b163f68",
     "Common name": "Schomburgk's deer",
-    "Scientific name": "Rucervus schomburgki[",
+    "Scientific name": "Rucervus schomburgki",
     "Extinction date": "1938",
     "Range": "Thailand",
     "Image": "--",
@@ -1521,7 +1723,7 @@
   {
     "_id": "57ab8f3f1eff02897b163f69",
     "Common name": "Steller's sea cow",
-    "Scientific name": "Hydrodamalis gigas[",
+    "Scientific name": "Hydrodamalis gigas",
     "Extinction date": "1768",
     "Range": "Russia (Commander Islands)",
     "Image": "--",
@@ -1531,7 +1733,7 @@
   {
     "_id": "57ab8f3f1eff02897b163f6a",
     "Common name": "Sturdee's pipistrelle",
-    "Scientific name": "Pipistrellus sturdeei[",
+    "Scientific name": "Pipistrellus sturdeei",
     "Extinction date": "Unknown",
     "Range": "Japan (Bonin Islands)",
     "Image": "--",

@@ -1,5 +1,7 @@
 // This is a Chiasm component that implements a bubble map.
 // Based on chiasm-leaflet.
+//
+
 function BubbleMap() {
 
   // TODO move these to config.
@@ -80,27 +82,29 @@ function BubbleMap() {
       var lng = d[longitudeColumn];
 
       var markerCenter = L.latLng(lat, lng);
-      // var circleMarker = L.circleMarker(markerCenter, {
-
-      //   // TODO move this to config.
-      //   color: "#FF4136",
-      //   weight: 1,
-      //   clickable: true,
-      // });
-      //
-      //
-      // icon
-      var circleMarker = L.icon({
+      var circleMarker = L.circleMarker(markerCenter, {
 
         // TODO move this to config.
-        iconUrl: 'http://findicons.com/files/icons/1995/web_application/48/smiley.png',
-        iconSize: [10,10],
+        color: "#FF4136",
+        weight: 1,
         clickable: true,
       });
 
-      // circleMarker.setRadius(r(d));
+      //
+      // icon
+      // var circleMarker = L.icon({
+
+      //   // TODO move this to config.
+      //   iconUrl: 'http://findicons.com/files/icons/1995/web_application/48/smiley.png',
+      //   iconSize: [10,10],
+      //   clickable: true,
+      // });
+
       // circleMarker.bindPopup("I am a fucking circle");
-      L.marker(markerCenter,{icon:circleMarker}).addTo(my.map).bindPopup(`I am a circle @ ${markerCenter}`);
+      // L.marker(markerCenter,{icon:circleMarker}).addTo(my.map);
+      circleMarker.setRadius(r(d));
+
+      circleMarker.addTo(my.map);
 
       return circleMarker;
     });
