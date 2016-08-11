@@ -9,7 +9,7 @@
     "Description": "",
     "Type": "air",
     "lat": "-18.766947",
-    "lng":"46.869107",
+    "lng":"46.869107"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed2",
@@ -21,7 +21,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-4.6",
-    "lng":"55.47",
+    "lng":"55.47"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed3",
@@ -33,7 +33,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-15.98",
-    "lng":"-5.701",
+    "lng":"-5.701"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed4",
@@ -45,7 +45,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-15.98",
-    "lng":"-5.701",
+    "lng":"-5.701"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed5",
@@ -57,7 +57,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-20.34",
-    "lng":"57.55",
+    "lng":"57.55"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed6",
@@ -69,7 +69,7 @@
     "Description": "",
     "Type": "air",
     "lat":"28.29",
-    "lng":"-16.62",
+    "lng":"-16.62"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed7",
@@ -129,8 +129,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-4.6",
-    "lng":"55.47",
-  },
+    "lng":"55.47"  },
   {
     "_id": "57ab8c5b1eff02897b163edc",
     "Common name": "Small Saint Helena petrel",
@@ -153,8 +152,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-37.10",
-    "lng":"-12.27",
-  },
+    "lng":"-12.27"  },
   {
     "_id": "57ab8cde1eff02897b163ede",
     "Common name": "Atlas wild ass",
@@ -165,8 +163,7 @@
     "Description": "",
     "Type": "land",
     "lat":"18.18",
-    "lng":"18.28",
-  },
+    "lng":"18.28"  },
   {
     "_id": "57ab8cde1eff02897b163edf",
     "Common name": "Canary Islands giant rats",
@@ -177,8 +174,7 @@
     "Description": "",
     "Type": "land",
     "lat":"28.29",
-    "lng":"-16.62",
-  },
+    "lng":"-16.62"  },
   {
     "_id": "57ab8cde1eff02897b163ee0",
     "Common name": "Giant aye-aye",
@@ -189,8 +185,7 @@
     "Description": "",
     "Type": "land",
     "lat": "-18.766947",
-    "lng":"46.869107",
-  },
+    "lng":"46.869107"  },
   {
     "_id": "57ab8cde1eff02897b163ee1",
     "Common name": "Giant fossa",
@@ -201,8 +196,7 @@
     "Description": "",
     "Type": "land",
     "lat": "-18.766947",
-    "lng":"46.869107",
-  },
+    "lng":"46.869107"  },
   {
     "_id": "57ab8cde1eff02897b163ee2",
     "Common name": "Hipposideros besaoka",
@@ -213,8 +207,7 @@
     "Description": "",
     "Type": "land",
     "lat": "-18.766947",
-    "lng":"46.869107",
-  },
+    "lng":"46.869107"  },
   {
     "_id": "57ab8cde1eff02897b163ee3",
     "Common name": "Homotherium",
@@ -225,8 +218,7 @@
     "Description": "",
     "Type": "land",
     "lat":"3.29",
-    "lng":"22.52",
-  },
+    "lng":"22.52"  },
   {
     "_id": "57ab8cde1eff02897b163ee4",
     "Common name": "Koala lemur",
@@ -237,8 +229,7 @@
     "Description": "",
     "Type": "land",
     "lat": "-18.766947",
-    "lng":"46.869107",
-  },
+    "lng":"46.869107"  },
   {
     "_id": "57ab8cde1eff02897b163ee5",
     "Common name": "Lava mouse",
@@ -249,8 +240,7 @@
     "Description": "",
     "Type": "land",
     "lat":"28.29",
-    "lng":"-16.62",
-  },
+    "lng":"-16.62"  },
   {
     "_id": "57ab8cde1eff02897b163ee6",
     "Common name": "Malagasy aardvark",
@@ -261,8 +251,7 @@
     "Description": "",
     "Type": "land",
     "lat": "-18.766947",
-    "lng":"46.869107",
-  },
+    "lng":"46.869107"  },
   {
     "_id": "57ab8cde1eff02897b163ee7",
     "Common name": "Malagasy hippopotamus",
@@ -273,8 +262,7 @@
     "Description": "",
     "Type": "land",
     "lat": "-18.766947",
-    "lng":"46.869107",
-  },
+    "lng":"46.869107"  },
   {
     "_id": "57ab8cde1eff02897b163ee8",
     "Common name": "Megalotragus",
@@ -285,8 +273,7 @@
     "Description": "",
     "Type": "land",
     "lat":"3.29",
-    "lng":"22.52",
-  },
+    "lng":"22.52"  },
   {
     "_id": "57ab8cde1eff02897b163ee9",
     "Common name": "Microgale macpheei",
@@ -297,8 +284,7 @@
     "Description": "",
     "Type": "land",
     "lat": "-18.766947",
-    "lng":"46.869107",
-  },
+    "lng":"46.869107"  },
   {
     "_id": "57ab8cde1eff02897b163eea",
     "Common name": "North African elephant",
@@ -309,8 +295,7 @@
     "Description": "",
     "Type": "land",
     "lat":"30.30",
-    "lng":"12.39",
-  },
+    "lng":"12.39"  },
   {
     "_id": "57ab8cde1eff02897b163eeb",
     "Common name": "Pelorovis",
@@ -321,8 +306,7 @@
     "Description": "",
     "Type": "land",
     "lat":"3.29",
-    "lng":"22.52",
-  },
+    "lng":"22.52"  },
   {
     "_id": "57ab8cde1eff02897b163eec",
     "Common name": "Sivatherium",
@@ -333,8 +317,7 @@
     "Description": "",
     "Type": "land",
     "lat":"3.29",
-    "lng":"22.52",
-  },
+    "lng":"22.52"  },
   {
     "_id": "57ab8d111eff02897b163eed",
     "Common name": "Atlas bear",
@@ -345,8 +328,7 @@
     "Description": "",
     "Type": "land",
     "lat":"30.30",
-    "lng":"12.39",
-  },
+    "lng":"12.39"  },
   {
     "_id": "57ab8d111eff02897b163eee",
     "Common name": "Aurochs",
@@ -355,8 +337,7 @@
     "Range": "North Africa || Europe",
     "Image": "",
     "lat":"34.1",
-    "lng":"-0.26",
-  },
+    "lng":"-0.26"  },
   {
     "_id": "57ab8d111eff02897b163eef",
     "Common name": "Bluebuck",
@@ -379,8 +360,7 @@
     "Description": "",
     "Type": "land",
     "lat":"30.30",
-    "lng":"12.39",
-  },
+    "lng":"12.39"  },
   {
     "_id": "57ab8d111eff02897b163ef1",
     "Common name": "Cape lion",
@@ -427,8 +407,7 @@
     "Description": "",
     "Type": "land",
     "lat":"0.453",
-    "lng":"37.70",
-  },
+    "lng":"37.70"  },
   {
     "_id": "57ab8d111eff02897b163ef5",
     "Common name": "Large sloth lemur",
@@ -439,8 +418,7 @@
     "Description": "",
     "Type": "land",
     "lat": "-18.766947",
-    "lng":"46.869107",
-  },
+    "lng":"46.869107"  },
   {
     "_id": "57ab8d111eff02897b163ef6",
     "Common name": "Lesser Mascarene flying fox",
@@ -451,8 +429,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-20.26",
-    "lng":"57.56",
-  },
+    "lng":"57.56"  },
   {
     "_id": "57ab8d111eff02897b163ef7",
     "Common name": "Quagga",
@@ -463,8 +440,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-21.68",
-    "lng":"17.75",
-  },
+    "lng":"17.75"  },
   {
     "_id": "57ab8d111eff02897b163ef8",
     "Common name": "Red gazelle",
@@ -475,8 +451,7 @@
     "Description": "",
     "Type": "land",
     "lat":"31.80",
-    "lng": "3.208",
-  },
+    "lng": "3.208"  },
   {
     "_id": "57ab8d111eff02897b163ef9",
     "Common name": "Robert's lechwe",
@@ -499,8 +474,7 @@
     "Description": "",
     "Type": "land",
     "lat":"4.57",
-    "lng":"12.56",
-  },
+    "lng":"12.56"  },
   {
     "_id": "57ab8d401eff02897b163efb",
     "Common name": "Cape Verde giant skink",
@@ -511,8 +485,7 @@
     "Description": "",
     "Type": "land",
     "lat":"16.06",
-    "lng":"-22.78",
-  },
+    "lng":"-22.78"  },
   {
     "_id": "57ab8d401eff02897b163efc",
     "Common name": "Domed Mauritius giant tortoise",
@@ -523,8 +496,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-20.34",
-    "lng":"57.55",
-  },
+    "lng":"57.55"  },
   {
     "_id": "57ab8d401eff02897b163efd",
     "Common name": "Domed Rodrigues giant tortoise",
@@ -535,8 +507,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-20.34",
-    "lng":"57.55",
-  },
+    "lng":"57.55"  },
   {
     "_id": "57ab8d401eff02897b163efe",
     "Common name": "Eastwood's long-tailed seps",
@@ -559,8 +530,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-20.34",
-    "lng":"57.55",
-  },
+    "lng":"57.55"  },
   {
     "_id": "57ab8d401eff02897b163f00",
     "Common name": "Mauritian giant skink",
@@ -571,8 +541,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-20.34",
-    "lng":"57.55",
-  },
+    "lng":"57.55"  },
   {
     "_id": "57ab8d401eff02897b163f01",
     "Common name": "Mozambique centipede-eater",
@@ -583,8 +552,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-21.14",
-    "lng":"55.65",
-  },
+    "lng":"55.65"  },
   {
     "_id": "57ab8d401eff02897b163f02",
     "Common name": "Rodrigues day gecko",
@@ -595,8 +563,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-20.34",
-    "lng":"57.55",
-  },
+    "lng":"57.55"  },
   {
     "_id": "57ab8d401eff02897b163f03",
     "Common name": "Rodrigues giant day gecko",
@@ -607,8 +574,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-20.34",
-    "lng":"57.55",
-  },
+    "lng":"57.55"  },
   {
     "_id": "57ab8d401eff02897b163f04",
     "Common name": "Roque Chico de Salmor giant lizard",
@@ -619,8 +585,7 @@
     "Description": "",
     "Type": "land",
     "lat":"28.29",
-    "lng":"-16.62",
-  },
+    "lng":"-16.62"  },
   {
     "_id": "57ab8d401eff02897b163f05",
     "Common name": "Round Island burrowing boa",
@@ -631,8 +596,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-20.34",
-    "lng":"57.55",
-  },
+    "lng":"57.55"  },
   {
     "_id": "57ab8d401eff02897b163f06",
     "Common name": "Saddle-backed Mauritius giant tortoise",
@@ -643,8 +607,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-20.34",
-    "lng":"57.55",
-  },
+    "lng":"57.55"  },
   {
     "_id": "57ab8d401eff02897b163f07",
     "Common name": "Saddle-backed Rodrigues giant tortoise",
@@ -655,8 +618,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-20.34",
-    "lng":"57.55",
-  },
+    "lng":"57.55"  },
   {
     "_id": "57ab8d611eff02897b163f08",
     "Common name": "Turquoise-throated puffleg",
@@ -667,7 +629,7 @@
     "Description": "",
     "Type": "land",
     "lat":"2.48",
-    "lng":"-75.76",
+    "lng":"-75.76"
   },
   {
     "_id": "57ab8d611eff02897b163f09",
@@ -679,8 +641,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-1.13",
-    "lng":"-77.16",
-  },
+    "lng":"-77.16"  },
   {
     "_id": "57ab8d611eff02897b163f0a",
     "Common name": "Atelopus longirostris",
@@ -691,8 +652,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-1.13",
-    "lng":"-77.16",
-  },
+    "lng":"-77.16"  },
   {
     "_id": "57ab8d611eff02897b163f0b",
     "Common name": "Atelopus vogli",
@@ -703,7 +663,7 @@
     "Description": "",
     "Type": "land",
     "lat":"6.63",
-    "lng":"-65.21",
+    "lng":"-65.21"
   },
   {
     "_id": "57ab8d611eff02897b163f0c",
@@ -715,8 +675,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-12.54",
-    "lng":"-53.08",
-  },
+    "lng":"-53.08"  },
   {
     "_id": "57ab8d611eff02897b163f0d",
     "Common name": "Chile Darwin's frog",
@@ -727,8 +686,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-47.74",
-    "lng":"-73.12",
-  },
+    "lng":"-73.12"  },
   {
     "_id": "57ab8d611eff02897b163f0e",
     "Common name": "Charles Island tortoise",
@@ -739,8 +697,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-0.73",
-    "lng":"-91.06",
-  },
+    "lng":"-91.06"  },
   {
     "_id": "57ab8d611eff02897b163f0f",
     "Common name": "Pinta Island tortoise",
@@ -751,8 +708,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-0.73",
-    "lng":"-91.06",
-  },
+    "lng":"-91.06"  },
   {
     "_id": "57ab8d7c1eff02897b163f10",
     "Common name": "Alejandro Selkirk Island Firecrown",
@@ -763,8 +719,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-47.74",
-    "lng":"-73.12",
-  },
+    "lng":"-73.12"  },
   {
     "_id": "57ab8d7c1eff02897b163f11",
     "Common name": "Colombian grebe",
@@ -775,7 +730,7 @@
     "Description": "",
     "Type": "air",
     "lat":"2.47",
-    "lng":"-72.07",
+    "lng":"-72.07"
   },
   {
     "_id": "57ab8d7c1eff02897b163f12",
@@ -787,8 +742,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-0.73",
-    "lng":"-91.06",
-  },
+    "lng":"-91.06"  },
   {
     "_id": "57ab8d7c1eff02897b163f13",
     "Common name": "Niceforo's pintail",
@@ -799,7 +753,7 @@
     "Description": "",
     "Type": "air",
     "lat":"2.47",
-    "lng":"-72.07",
+    "lng":"-72.07"
   },
   {
     "_id": "57ab8d7c1eff02897b163f14",
@@ -811,7 +765,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-0.73",
-    "lng":"-91.06",
+    "lng":"-91.06"
   },
   {
     "_id": "57ab8d7c1eff02897b163f15",
@@ -823,7 +777,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-10.21",
-    "lng":"-73.56",
+    "lng":"-73.56"
   },
   {
     "_id": "57ab8d7c1eff02897b163f16",
@@ -835,7 +789,7 @@
     "Description": "",
     "Type": "air",
     "lat":"2.47",
-    "lng":"-72.07",
+    "lng":"-72.07"
   },
   {
     "_id": "57ab8d7c1eff02897b163f17",
@@ -847,7 +801,7 @@
     "Description": "",
     "Type": "air",
     "lat":"2.47",
-    "lng":"-72.07",
+    "lng":"-72.07"
   },
   {
     "_id": "57ab8d7c1eff02897b163f18",
@@ -859,7 +813,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-28.21",
-    "lng":"-56.33",
+    "lng":"-56.33"
   },
   {
     "_id": "57ab8d7c1eff02897b163f19",
@@ -871,8 +825,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-28.21",
-    "lng":"-56.33",
-  },
+    "lng":"-56.33"  },
   {
     "_id": "57ab8d7c1eff02897b163f1a",
     "Common name": "Hooded seedeater",
@@ -883,8 +836,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-12.54",
-    "lng":"-53.08",
-  },
+    "lng":"-53.08"  },
   {
     "_id": "57ab8d7c1eff02897b163f1b",
     "Common name": "Letitia's thorntail",
@@ -895,8 +847,7 @@
     "Description": "",
     "Type": "air",
     "lat":"-16.11",
-    "lng":"-64.77",
-  },
+    "lng":"-64.77"  },
   {
     "_id": "57ab8d7c1eff02897b163f1c",
     "Common name": "Tachira antpitta",
@@ -907,7 +858,7 @@
     "Description": "",
     "Type": "air",
     "lat":"6.63",
-    "lng":"-65.21",
+    "lng":"-65.21"
   },
   {
     "_id": "57ab8d8c1eff02897b163f1d",
@@ -919,8 +870,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-3.23",
-    "lng":"-57.12",
-  },
+    "lng":"-57.12"  },
   {
     "_id": "57ab8d8c1eff02897b163f1e",
     "Common name": "Antifer",
@@ -931,8 +881,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-47.74",
-    "lng":"-73.12",
-  },
+    "lng":"-73.12"  },
   {
     "_id": "57ab8d8c1eff02897b163f1f",
     "Common name": "Arctotherium",
@@ -943,8 +892,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.95",
-    "lng":"-57.74",
-  },
+    "lng":"-57.74"  },
   {
     "_id": "57ab8d8c1eff02897b163f20",
     "Common name": "Canis nehringi",
@@ -955,8 +903,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.95",
-    "lng":"-57.74",
-  },
+    "lng":"-57.74"  },
   {
     "_id": "57ab8d8c1eff02897b163f21",
     "Common name": "Cuvieronius",
@@ -967,8 +914,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.95",
-    "lng":"-57.74",
-  },
+    "lng":"-57.74"  },
   {
     "_id": "57ab8d8c1eff02897b163f22",
     "Common name": "Dire wolf",
@@ -979,8 +925,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.95",
-    "lng":"-57.74",
-  },
+    "lng":"-57.74"  },
   {
     "_id": "57ab8d8c1eff02897b163f23",
     "Common name": "Ground sloths",
@@ -991,8 +936,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.95",
-    "lng":"-57.74",
-  },
+    "lng":"-57.74"  },
   {
     "_id": "57ab8d8c1eff02897b163f24",
     "Common name": "Glyptodontidaes",
@@ -1003,8 +947,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.95",
-    "lng":"-57.74",
-  },
+    "lng":"-57.74"  },
   {
     "_id": "57ab8d8c1eff02897b163f25",
     "Common name": "Hippidion",
@@ -1015,8 +958,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.95",
-    "lng":"-57.74",
-  },
+    "lng":"-57.74"  },
   {
     "_id": "57ab8d8c1eff02897b163f26",
     "Common name": "Macrauchenia",
@@ -1027,8 +969,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.95",
-    "lng":"-57.74",
-  },
+    "lng":"-57.74"  },
   {
     "_id": "57ab8d8c1eff02897b163f27",
     "Common name": "Neochoerus",
@@ -1039,8 +980,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.95",
-    "lng":"-57.74",
-  },
+    "lng":"-57.74"  },
   {
     "_id": "57ab8d8c1eff02897b163f28",
     "Common name": "Stegomastodon",
@@ -1051,8 +991,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.95",
-    "lng":"-57.74",
-  },
+    "lng":"-57.74"  },
   {
     "_id": "57ab8d8c1eff02897b163f29",
     "Common name": "Stout-legged llama",
@@ -1063,8 +1002,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.95",
-    "lng":"-57.74",
-  },
+    "lng":"-57.74"  },
   {
     "_id": "57ab8d8c1eff02897b163f2a",
     "Common name": "Theriodictis",
@@ -1075,8 +1013,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.79",
-    "lng":"-62.40",
-  },
+    "lng":"-62.40"  },
   {
     "_id": "57ab8d8c1eff02897b163f2b",
     "Common name": "Toxodon",
@@ -1087,8 +1024,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-16.95",
-    "lng":"-57.74",
-  },
+    "lng":"-57.74"  },
   {
     "_id": "57ab8d8c1eff02897b163f2c",
     "Common name": "Xenorhinotherium",
@@ -1099,7 +1035,7 @@
     "Description": "",
     "Type": "land",
     "lat":"6.63",
-    "lng":"-65.21",
+    "lng":"-65.21"
   },
   {
     "_id": "57ab8d8c1eff02897b163f2d",
@@ -1111,8 +1047,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-12.54",
-    "lng":"-53.08",
-  },
+    "lng":"-53.08"  },
   {
     "_id": "57ab8d8c1eff02897b163f2e",
     "Common name": "Caribbean monk seal",
@@ -1133,8 +1068,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-0.73",
-    "lng":"-91.06",
-  },
+    "lng":"-91.06"  },
   {
     "_id": "57ab8d8c1eff02897b163f30",
     "Common name": "Falkland Island wolf",
@@ -1155,8 +1089,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-0.73",
-    "lng":"-91.06",
-  },
+    "lng":"-91.06"  },
   {
     "_id": "57ab8d8c1eff02897b163f32",
     "Common name": "Indefatigable Galapagos mouse",
@@ -1167,8 +1100,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-0.73",
-    "lng":"-91.06",
-  },
+    "lng":"-91.06"  },
   {
     "_id": "57ab8d8c1eff02897b163f33",
     "Common name": "Giant vampire bat",
@@ -1179,7 +1111,7 @@
     "Description": "",
     "Type": "land",
     "lat":"6.63",
-    "lng":"-65.21",
+    "lng":"-65.21"
   },
   {
     "_id": "57ab8d8c1eff02897b163f34",
@@ -1191,8 +1123,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-10.21",
-    "lng":"-73.56",
-  },
+    "lng":"-73.56"  },
   {
     "_id": "57ab8d8c1eff02897b163f35",
     "Common name": "Red-bellied gracile opossum",
@@ -1201,8 +1132,9 @@
     "Range": "Argentina",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"-36.79",
+    "lng":"-66.45"  },
   {
     "_id": "57ab8d8c1eff02897b163f36",
     "Common name": "Vespucci's rodent",
@@ -1213,8 +1145,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-12.54",
-    "lng":"-53.08",
-  },
+    "lng":"-53.08"  },
   {
     "_id": "57ab8d8c1eff02897b163f37",
     "Common name": "One-striped opossum",
@@ -1223,8 +1154,9 @@
     "Range": "Argentina & Brazil",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"-36.79",
+    "lng":"-66.45"  },
   {
     "_id": "57ab8d8c1eff02897b163f38",
     "Common name": "Pacific degu",
@@ -1235,8 +1167,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-47.74",
-    "lng":"-73.12",
-  },
+    "lng":"-73.12"  },
   {
     "_id": "57ab8d8c1eff02897b163f39",
     "Common name": "Zuniga's dark rice rat",
@@ -1247,8 +1178,7 @@
     "Description": "",
     "Type": "land",
     "lat":"-10.21",
-    "lng":"-73.56",
-  },
+    "lng":"-73.56"  },
   {
     "_id": "57ab8f0d1eff02897b163f3a",
     "Common name": "Arabian ostrich",
@@ -1257,8 +1187,9 @@
     "Range": "Middle East",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"29.16",
+    "lng":"42.02"  },
   {
     "_id": "57ab8f0d1eff02897b163f3b",
     "Common name": "Asiatic ostrich",
@@ -1267,18 +1198,20 @@
     "Range": "Middle East to Central Asia",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"29.16",
+    "lng":"42.02"  },
   {
     "_id": "57ab8f0d1eff02897b163f3c",
     "Common name": "Bering Cackling Goose",
     "Scientific name": "Branta hutchinsii asiatica",
     "Extinction date": "1929",
-    "Range": "Russsia (Komandorski and Kuril Islands)",
+    "Range": "Russia (Komandorski and Kuril Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"62.73",
+    "lng":"98.44"  },
   {
     "_id": "57ab8f0d1eff02897b163f3d",
     "Common name": "Bonin grosbeak",
@@ -1287,8 +1220,9 @@
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"27.03",
+    "lng":"142.20"  },
   {
     "_id": "57ab8f0d1eff02897b163f3e",
     "Common name": "Bonin nankeen night heron",
@@ -1297,8 +1231,9 @@
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"27.03",
+    "lng":"142.20"  },
   {
     "_id": "57ab8f0d1eff02897b163f3f",
     "Common name": "Bonin thrush",
@@ -1307,8 +1242,9 @@
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"27.03",
+    "lng":"142.20"  },
   {
     "_id": "57ab8f0d1eff02897b163f40",
     "Common name": "Bonin wood pigeon",
@@ -1317,8 +1253,9 @@
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"27.03",
+    "lng":"142.20"  },
   {
     "_id": "57ab8f0d1eff02897b163f41",
     "Common name": "Cebu hanging parrot",
@@ -1327,8 +1264,9 @@
     "Range": "Philippines (Cebu)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"10.40",
+    "lng":"123.80"  },
   {
     "_id": "57ab8f0d1eff02897b163f42",
     "Common name": "Cyprus dipper",
@@ -1337,8 +1275,9 @@
     "Range": "Cyprus",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"34.93",
+    "lng":"33.14"  },
   {
     "_id": "57ab8f0d1eff02897b163f43",
     "Common name": "Mukojima white-eye",
@@ -1347,8 +1286,9 @@
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"27.03",
+    "lng":"142.20"  },
   {
     "_id": "57ab8f0d1eff02897b163f44",
     "Common name": "Ryukyu kingfisher",
@@ -1357,8 +1297,9 @@
     "Range": "Japan (Ryukyu Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"26.49",
+    "lng":"127.99"  },
   {
     "_id": "57ab8f0d1eff02897b163f45",
     "Common name": "Ryukyu wood pigeon",
@@ -1367,8 +1308,9 @@
     "Range": "Japan (Ryukyu Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"26.49",
+    "lng":"127.99"  },
   {
     "_id": "57ab8f0d1eff02897b163f46",
     "Common name": "Spectacled cormorant",
@@ -1377,8 +1319,9 @@
     "Range": "Russia",
     "Image": "--",
     "Description": "",
-    "Type": "air"
-  },
+    "Type": "air",
+    "lat":"62.73",
+    "lng":"98.44"  },
   {
     "_id": "57ab8f211eff02897b163f47",
     "Common name": "Aurochs",
@@ -1387,8 +1330,9 @@
     "Range": "Northern Asia and Indian Sontinent",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"49.10",
+    "lng":"108.78"  },
   {
     "_id": "57ab8f211eff02897b163f48",
     "Common name": "Bali tiger",
@@ -1397,8 +1341,9 @@
     "Range": "Indonesia (Bali)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"-8.34",
+    "lng":"115.08"  },
   {
     "_id": "57ab8f211eff02897b163f49",
     "Common name": "Buhler's coryphomys",
@@ -1407,8 +1352,9 @@
     "Range": "Indonesia (Timor)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"-9.88",
+    "lng":"124.33"  },
   {
     "_id": "57ab8f211eff02897b163f4a",
     "Common name": "Caspian tiger",
@@ -1417,8 +1363,9 @@
     "Range": "Turkey to China",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"36.65",
+    "lng":"64.03"  },
   {
     "_id": "57ab8f211eff02897b163f4b",
     "Common name": "Caucasian moose",
@@ -1427,8 +1374,9 @@
     "Range": "Caucasus Mountains, Iran and Turkey",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"38.51",
+    "lng":"44.35"  },
   {
     "_id": "57ab8f211eff02897b163f4c",
     "Common name": "Caucasian wisent",
@@ -1437,8 +1385,9 @@
     "Range": "Caucasus Mountains",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"38.51",
+    "lng":"44.35"  },
   {
     "_id": "57ab8f211eff02897b163f4d",
     "Common name": "Cebu warty pig",
@@ -1447,8 +1396,9 @@
     "Range": "Yemen",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"15.29",
+    "lng":"46.73"  },
   {
     "_id": "57ab8f211eff02897b163f4e",
     "Common name": "Flores cave rat",
@@ -1457,8 +1407,9 @@
     "Range": "Indonesia (Flores)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"-8.77",
+    "lng":"121.06"  },
   {
     "_id": "57ab8f211eff02897b163f4f",
     "Common name": "Flores long-nosed rat",
@@ -1467,8 +1418,9 @@
     "Range": "Indonesia (Flores)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"-8.77",
+    "lng":"121.06"  },
   {
     "_id": "57ab8f211eff02897b163f50",
     "Common name": "Formosan clouded leopard",
@@ -1477,8 +1429,9 @@
     "Range": "Taiwan",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"23.69",
+    "lng":"121.01"  },
   {
     "_id": "57ab8f211eff02897b163f51",
     "Common name": "Hokkaidō wolf",
@@ -1487,8 +1440,9 @@
     "Range": "Japan (Hokkaidō)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"43.25",
+    "lng":"142.66"  },
   {
     "_id": "57ab8f211eff02897b163f52",
     "Common name": "Honshū wolf",
@@ -1497,8 +1451,9 @@
     "Range": "Japan (Honshū)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"35.97",
+    "lng":"138.23"  },
   {
     "_id": "57ab8f211eff02897b163f53",
     "Common name": "Ilin Island Cloudrunner",
@@ -1507,8 +1462,9 @@
     "Range": "Philippines",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"11.46",
+    "lng":"123.32"  },
   {
     "_id": "57ab8f211eff02897b163f54",
     "Common name": "Indian Javan rhinoceros",
@@ -1517,8 +1473,9 @@
     "Range": "Bangladesh, Burma (Myanmar), and India",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"23.21",
+    "lng":"92.89"  },
   {
     "_id": "57ab8f211eff02897b163f55",
     "Common name": "Japanese river otter",
@@ -1527,8 +1484,9 @@
     "Range": "Japan",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"35.82",
+    "lng":"138.76"  },
   {
     "_id": "57ab8f211eff02897b163f56",
     "Common name": "Japanese sea lion",
@@ -1537,8 +1495,9 @@
     "Range": "Sea of Japan",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"35.82",
+    "lng":"138.76"  },
   {
     "_id": "57ab8f211eff02897b163f57",
     "Common name": "Javan tiger",
@@ -1547,8 +1506,9 @@
     "Range": "Indonesia (Java)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"-7.24",
+    "lng":"110.57"  },
   {
     "_id": "57ab8f211eff02897b163f58",
     "Common name": "Northern Sumatran rhinoceros",
@@ -1557,8 +1517,9 @@
     "Range": "Bangladesh, Burma (Myanmar), and India",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"23.21",
+    "lng":"92.89"  },
   {
     "_id": "57ab8f211eff02897b163f59",
     "Common name": "Queen of Sheba's gazelle",
@@ -1567,8 +1528,9 @@
     "Range": "Yemen",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"15.29",
+    "lng":"46.73"  },
   {
     "_id": "57ab8f211eff02897b163f5a",
     "Common name": "Saudi gazelle",
@@ -1577,8 +1539,9 @@
     "Range": "Arabian Peninsula",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"18.88",
+    "lng":"47.51"  },
   {
     "_id": "57ab8f211eff02897b163f5b",
     "Common name": "Schomburgk's deer",
@@ -1587,8 +1550,9 @@
     "Range": "Thailand",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"16.62",
+    "lng":"100.34"  },
   {
     "_id": "57ab8f211eff02897b163f5c",
     "Common name": "Steller's sea cow",
@@ -1597,8 +1561,9 @@
     "Range": "Russia (Commander Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"62.73",
+    "lng":"98.44"  },
   {
     "_id": "57ab8f211eff02897b163f5d",
     "Common name": "Sturdee's pipistrelle",
@@ -1607,8 +1572,9 @@
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"27.03",
+    "lng":"142.20"  },
   {
     "_id": "57ab8f211eff02897b163f5e",
     "Common name": "Verhoeven's giant tree rat",
@@ -1617,8 +1583,9 @@
     "Range": "Indonesia (Flores)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"-8.77",
+    "lng":"121.06"  },
   {
     "_id": "57ab8f211eff02897b163f5f",
     "Common name": "Vietnamese Javan rhinoceros",
@@ -1627,7 +1594,9 @@
     "Range": "Vietnam to Malaysia",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"4.57",
+    "lng":"103.15"
   },
   {
     "_id": "57ab8f3f1eff02897b163f60",
@@ -1637,8 +1606,9 @@
     "Range": "Northern Asia and Indian Sontinent",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"49.10",
+    "lng":"108.78"  },
   {
     "_id": "57ab8f3f1eff02897b163f61",
     "Common name": "Bali tiger",
@@ -1647,8 +1617,9 @@
     "Range": "Indonesia (Bali)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"-8.34",
+    "lng":"115.08"  },
   {
     "_id": "57ab8f3f1eff02897b163f62",
     "Common name": "Buhler's coryphomys",
@@ -1657,8 +1628,9 @@
     "Range": "Indonesia (Timor)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"-9.88",
+    "lng":"124.33"  },
   {
     "_id": "57ab8f3f1eff02897b163f63",
     "Common name": "Caspian tiger",
@@ -1667,8 +1639,9 @@
     "Range": "Turkey to China",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"38.7",
+    "lng":"66.46"  },
   {
     "_id": "57ab8f3f1eff02897b163f64",
     "Common name": "Caucasian moose",
@@ -1677,8 +1650,9 @@
     "Range": "Caucasus Mountains, Iran and Turkey",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"42.56",
+    "lng":"44.03"  },
   {
     "_id": "57ab8f3f1eff02897b163f65",
     "Common name": "Caucasian wisent",
@@ -1687,8 +1661,9 @@
     "Range": "Caucasus Mountains",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"42.56",
+    "lng":"44.03"  },
   {
     "_id": "57ab8f3f1eff02897b163f66",
     "Common name": "Cebu warty pig",
@@ -1698,8 +1673,9 @@
     "Range": "Yemen",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"15.29",
+    "lng":"46.73"  },
   {
     "_id": "57ab8f3f1eff02897b163f67",
     "Common name": "Saudi gazelle",
@@ -1708,7 +1684,9 @@
     "Range": "Arabian Peninsula",
     "Image": "--",
     "Description": "",
-    "Type": "land"
+    "Type": "land",
+    "lat":"18.88",
+    "lng":"47.51"
   },
   {
     "_id": "57ab8f3f1eff02897b163f68",
@@ -1718,8 +1696,9 @@
     "Range": "Thailand",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"16.62",
+    "lng":"100.34"  },
   {
     "_id": "57ab8f3f1eff02897b163f69",
     "Common name": "Steller's sea cow",
@@ -1728,8 +1707,9 @@
     "Range": "Russia (Commander Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"62.73",
+    "lng":"98.44"  },
   {
     "_id": "57ab8f3f1eff02897b163f6a",
     "Common name": "Sturdee's pipistrelle",
@@ -1738,8 +1718,9 @@
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"27.03",
+    "lng":"142.20"  },
   {
     "_id": "57ab8f3f1eff02897b163f6b",
     "Common name": "Verhoeven's giant tree rat",
@@ -1748,8 +1729,9 @@
     "Range": "Indonesia (Flores)",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
+    "Type": "land",
+    "lat":"-8.77",
+    "lng":"121.06"  },
   {
     "_id": "57ab8f3f1eff02897b163f6c",
     "Common name": "Vietnamese Javan rhinoceros",
@@ -1758,73 +1740,9 @@
     "Range": "Vietnam to Malaysia",
     "Image": "--",
     "Description": "",
-    "Type": "land"
-  },
-  {
-    "_id": "57ab8f541eff02897b163f6d",
-    "Common name": "Elephant species",
-    "Order": "Proboscidea",
-    "Family": "Elephantidae",
-    "Genus": "Elephas",
-    "Species": "Elephas",
-    "Description": "",
-    "Image": "--",
-    "Type": "mammals"
-  },
-  {
-    "_id": "57ab8f541eff02897b163f6e",
-    "Common name": "Asian elephant",
-    "Order": "Proboscidea",
-    "Family": "Elephantidae",
-    "Genus": "Elephas",
-    "Species": "Elephas maximus",
-    "Description": "",
-    "Image": "--",
-    "Type": "mammals"
-  },
-  {
-    "_id": "57ab8f541eff02897b163f6f",
-    "Common name": "Stegodon",
-    "Order": "Proboscidea",
-    "Family": "Stegodontidae",
-    "Genus": "Stegodon",
-    "Species": "Stegodonluzonensis Stegodonmindanensis",
-    "Description": "",
-    "Image": "--",
-    "Type": "mammals"
-  },
-  {
-    "_id": "57ab8f541eff02897b163f70",
-    "Common name": "Palawan fossil Sirenia",
-    "Order": "Sirenia",
-    "Family": "Dugongidae",
-    "Genus": "Dugong",
-    "Species": "Dugong",
-    "Description": "",
-    "Image": "--",
-    "Type": "mammals"
-  },
-  {
-    "_id": "57ab8f541eff02897b163f71",
-    "Common name": "Palawan Cervus",
-    "Order": "Artiodactyla",
-    "Family": "Cervidae (Subfamily: Cervinae)",
-    "Genus": "Cervus",
-    "Species": "Cervus",
-    "Description": "",
-    "Image": "--",
-    "Type": "mammals"
-  },
-  {
-    "_id": "57ab8f541eff02897b163f72",
-    "Common name": "Cebu dwarf buffalo",
-    "Order": "Artiodactyla",
-    "Family": "Bovidae (Slass: Bovinae)",
-    "Genus": "Bubalus",
-    "Species": "Bubalus cebuensis",
-    "Description": "",
-    "Image": "--",
-    "Type": "mammals"
+    "Type": "land",
+    "lat":"4.57",
+    "lng":"103.15"
   },
   {
     "_id": "57ab8f681eff02897b163f73",
@@ -1833,7 +1751,9 @@
     "Extinction date": "1854",
     "Range": "Iceland and Northern European Coast",
     "Image": "--",
-    "Type": "air"
+    "Type": "air",
+    "lat":"64.87",
+    "lng":"-18.81"
   },
   {
     "_id": "57ab8f681eff02897b163f74",
@@ -1842,6 +1762,8 @@
     "Extinction date": "1950",
     "Range": "Denmark (Faroe Islands)",
     "Image": "--",
-    "Type": "air"
+    "Type": "air",
+    "lat":"62.20",
+    "lng":"-7.08"
   }
 ]

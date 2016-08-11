@@ -7,7 +7,7 @@ function ChiasmLeaflet() {
   });
 
   // This line of code lets you see what the center value is when you pan in the map.
-  //my.when("center", console.log, console);
+  // my.when("center", console.log, console);
 
   // Expose a div element that will be added to the Chiasm container.
   // This is a special property that Chiasm looks for after components are constructed.
@@ -31,7 +31,7 @@ function ChiasmLeaflet() {
   // Found by browsing http://leaflet-extras.github.io/leaflet-providers/preview/
   // TODO move this to configuration.
   L.tileLayer("http://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png").addTo(my.map);
-  // L.tileLayer("http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png").addTo(my.map);
+  // L.tileLayer("http://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png").addTo(my.map);
 
   // Returns the current Leaflet map center
   // in a format that D3 understands: [longitude, latitude]
