@@ -1,6 +1,8 @@
 // This is an example Chaism plugin that uses Leaflet.js.
 function ChiasmLeaflet() {
 
+
+
   var my = ChiasmComponent({
     center: [0, 0],
     zoom: 2
@@ -23,6 +25,7 @@ function ChiasmLeaflet() {
 
     // Turn off the "Leaflet" link in the lower right corner.
     // Leaflet is properly attributed in the README.
+    loadingControl: true,
     attributionControl: false
 
   }).setView(my.center, my.zoom);
@@ -30,7 +33,12 @@ function ChiasmLeaflet() {
   // Add the black & white style map layer.
   // Found by browsing http://leaflet-extras.github.io/leaflet-providers/preview/
   // TODO move this to configuration.
-  L.tileLayer("http://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png").addTo(my.map);
+  var layerInstance = L.tileLayer("http://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png").addTo(my.map);
+  layerInstance.on('loading', function(event) {
+    console.log(event, 'event');
+    // var load_screen = document.getElementById("load_screen");
+    // document.body.removeChild(load_screen);
+  })
   // L.tileLayer("http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png").addTo(my.map);
 
   // Returns the current Leaflet map center

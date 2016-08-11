@@ -36,6 +36,24 @@
     <!-- Make the Chiasm container fill the page and have a 20px black border. -->
     <style>
 
+    /* ========== LOADING SCREEN ========== */
+      div#load_screen{
+        background: #000;
+        opacity: 1;
+        position: fixed;
+          z-index:10;
+        top: 0px;
+        width: 100%;
+        height: 1600px;
+      }
+      div#load_screen > div#loading{
+        color:#FFF;
+        width:120px;
+        height:24px;
+        margin: 300px auto;
+      }
+    /* ======== LOADING SCREEN END ======== */
+
       #chiasm-container {
         position: fixed;
         left: 0px;
@@ -70,8 +88,25 @@
       }
 
     </style>
+
+    <!-- ========== LOADING SCREEN ========== -->
+    <script>
+      // var event = new CustomEvent('loaded', { 'detail': my.map._loaded });
+
+      window.addEventListener("load", function(){
+        // console.log(e, 'e');
+        var load_screen = document.getElementById("load_screen");
+        document.body.removeChild(load_screen);
+      });
+    </script>
+    <!-- ======== LOADING SCREEN END ======== -->
+
   </head>
   <body>
+    <!-- LOADING SCREEN -->
+    <div id="load_screen"><div id="loading">loading document</div></div>
+
+
 
     <!-- Chiasm component DOM elements will be injected into this div. -->
     <div id="chiasm-container"></div>
