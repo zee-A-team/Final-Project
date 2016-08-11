@@ -5,7 +5,6 @@ const bodyParser = require('body-parser');
 const Animal = require('./models/Animal');
 const PORT = process.env.PORT || 3000;
 
-
 /*----------  MONGOOSE ORM SETUP   ----------*/
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/et');
