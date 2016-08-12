@@ -5,8 +5,8 @@
 function BubbleMap() {
 
   // TODO move these to config.
-  var latitudeColumn = "lat";
-  var longitudeColumn = "lng";
+  var latitudeColumn = "latitude";
+  var longitudeColumn = "longitude";
 
 
   // Extend chiasm-leaflet using composition (not inheritence).
@@ -18,7 +18,7 @@ function BubbleMap() {
       var lat = d[latitudeColumn];
       var lng = d[longitudeColumn];
       if(isNaN(+lat) || isNaN(+lng)){
-        console.log("Bad data - lat = " + lat + " lng = " + lng);
+        console.log(`lat:${lat} + lng:${lng} Invalid.`);
         return false;
       }
       return true;
@@ -37,6 +37,7 @@ function BubbleMap() {
     rMin: 0,
     rMax: 10,
   });
+  var rScale = d3.scale.sqrt();
 
 
   // Add a semi-transparent white layer to fade the
@@ -51,37 +52,49 @@ function BubbleMap() {
 
   // Generate a function or constant for circle radius,
   // depending on whether or not rColumn is defined.
-  var rScale = d3.scale.sqrt();
 
   my.when(["datasetForScaleDomain", "rColumn", "rDefault", "rMin", "rMax"],
       function (dataset, rColumn, rDefault, rMin, rMax){
+
     var data = dataset.data;
 
     if(rColumn === Model.None){
       my.r = function (){ return rDefault; };
     } else {
-      // rScale
-      //   .domain(d3.extent(data, function (d){ return d[rColumn]; }))
-      //   .range([rMin, rMax]);
-      // my.r = function (d){ return rScale(d[rColumn]); };
-      my.r = function (){ return rDefault; };
+      rScale
+        .domain(d3.extent(data, function (d){ return d[rColumn]; }))
+        .range([rMin, rMax]);
+      my.r = function (d){ return rScale(d[rColumn]); };
+
+      // This line added to demonstrate working example
+      // my.r = function (){ return rDefault; };
     }
   });
 
   var oldMarkers = [];
+  var locationRandomizer = [];
+  var randomizer = function(object){
+    if(!locationRandomizer.includes(object)){
+      object.latitude = object.latitude + Math.random(0,500);
+      object.longitude = object.longitude + Math.random(0,500);
+      locationRandomizer.push(object);
+    }
+  };
   my.when(["cleanData", "r"], _.throttle(function (data, r){
-
     // TODO make this more efficient.
     // Use D3 data joins?
+    oldMarkers.forEach(function (marker){
+      my.map.removeLayer(marker);
+    });
 
-    // oldMarkers.forEach(function (marker){
-    //   my.map.removeLayer(marker);
-    // });
-
+    // Delete
     oldMarkers = data.map(function (d){
+      randomizer(d);
 
-      var lat = d[latitudeColumn];
-      var lng = d[longitudeColumn];
+      var lat = locationRandomizer[locationRandomizer.indexOf(d)].latitude;
+      var lng = locationRandomizer[locationRandomizer.indexOf(d)].longitude;
+      // var lat = d[latitudeColumn];
+      // var lng = d[longitudeColumn];
       var markerCenter = L.latLng(lat, lng);
       var circleMarker = L.circleMarker(markerCenter, {
 
@@ -103,7 +116,7 @@ function BubbleMap() {
 
       // circleMarker.bindPopup("I am a fucking circle");
       // L.marker(markerCenter,{icon:circleMarker}).addTo(my.map);
-      circleMarker.setRadius(10);
+      circleMarker.setRadius(r(d));
 
       circleMarker.addTo(my.map);
 

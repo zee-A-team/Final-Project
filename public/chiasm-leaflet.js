@@ -20,19 +20,26 @@ function ChiasmLeaflet() {
   // Instantiate the Leaflet map, see docs at
   // http://leafletjs.com/reference.html#map-constructor
   my.map = L.map(my.el, {
+    zoom: 1,
+    // minZoom: 4,
+    // maxZoom: 5,
+    // scrollWheelZoom: false,
+    center: [40.7127837, -74.0059413],
+    // Turn off the "Leaflet" link in the lower right corner.
+    // Leaflet is properly attributed in the README.
+    attributionControl: false
 
-    // Turn off the "Leaflet" link in the lower right corner.
-    // Leaflet is properly attributed in the README.
-    attributionControl: false
+  }).setView(my.center, my.zoom);
 
-  }).setView(my.center, my.zoom);
-
-  // Add the black & white style map layer.
-  // Found by browsing http://leaflet-extras.github.io/leaflet-providers/preview/
-  // TODO move this to configuration.
-  L.tileLayer("http://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png").addTo(my.map);
-  // L.tileLayer("http://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png").addTo(my.map);
-
+  // Add the black & white style map layer.
+  // Found by browsing http://leaflet-extras.github.io/leaflet-providers/preview/
+  // TODO move this to configuration.
+  L.tileLayer("http://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png",
+    {
+        noWrap: true,
+        continuousWorld : false,
+        reuseTiles : true
+    }).addTo(my.map);
   // Returns the current Leaflet map center
   // in a format that D3 understands: [longitude, latitude]
   function getCenter(){
