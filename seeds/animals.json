@@ -5,11 +5,12 @@
     "Scientific name": "Tachybaptus rufolavatus",
     "Extinction date": "1985",
     "Range": "Madagascar",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat": "-18.766947",
-    "lng":"46.869107",
+    "lat" :  "-18.766947",
+    "lng" : "46.869107",
+    "latlong" :  "-18.76, 46.869107"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed2",
@@ -17,11 +18,12 @@
     "Scientific name": "Nesillas aldabrana",
     "Extinction date": "1983",
     "Range": "Seychelles",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-4.6",
-    "lng":"55.47",
+    "lat" : "-4.65",
+    "lng" : "55.47",
+    "latlong" : "-4.65,55.47"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed3",
@@ -29,11 +31,12 @@
     "Scientific name": "Mundia elpenor",
     "Extinction date": "1656",
     "Range": "United Kingdom (Ascension)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-15.98",
-    "lng":"-5.701",
+    "lat" : "-15.98",
+    "lng" : "-5.701",
+    "latlong" : "-15.9,-5.701"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed4",
@@ -41,11 +44,12 @@
     "Scientific name": "Nycticorax olsoni",
     "Extinction date": "1600",
     "Range": "United Kingdom (Ascension)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-15.98",
-    "lng":"-5.701",
+    "lat" : "-15.98",
+    "lng" : "-5.701",
+    "latlong" : "-15.9,-5.701"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed5",
@@ -53,11 +57,12 @@
     "Scientific name": "Lophopsittacus mauritianus",
     "Extinction date": "1680",
     "Range": "Mauritius",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-20.34",
-    "lng":"57.55",
+    "lat" : "-20.34",
+    "lng" : "57.55",
+    "latlong" : "-20.3,57.55"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed6",
@@ -65,11 +70,12 @@
     "Scientific name": "Haematopus meadewaldoi",
     "Extinction date": "1940",
     "Range": "Spain (Canary Islands)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"28.29",
-    "lng":"-16.62",
+    "lat" : "28.29",
+    "lng" : "-16.62",
+    "latlong" : "28.29,-16.62"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed7",
@@ -77,11 +83,12 @@
     "Scientific name": "Coturnix gomerae",
     "Extinction date": "Unknown",
     "Range": "United Kingdom (Saint Helena)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-15.98",
-    "lng":"-5.71"
+    "lat" : "-15.98",
+    "lng" : "-5.71",
+    "latlong" : "-15.9,-5.71"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed8",
@@ -89,11 +96,12 @@
     "Scientific name": "Dysmoropelia dekarchiskos",
     "Extinction date": "After 1502",
     "Range": "United Kingdom (Saint Helena)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-15.98",
-    "lng":"-5.71"
+    "lat" : "-15.98",
+    "lng" : "-5.71",
+    "latlong" : "-15.9,-5.71"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed9",
@@ -101,11 +109,12 @@
     "Scientific name": "Upupa antaios",
     "Extinction date": "Early 16th century",
     "Range": "United Kingdom (Saint Helena)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-15.98",
-    "lng":"-5.71"
+    "lat" : "-15.98",
+    "lng" : "-5.71",
+    "latlong" : "-15.9,-5.71"
   },
   {
     "_id": "57ab8c5b1eff02897b163eda",
@@ -113,11 +122,12 @@
     "Scientific name": "Porzana astrictocarpus",
     "Extinction date": "After 1502",
     "Range": "United Kingdom (Saint Helena)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-15.98",
-    "lng":"-5.71"
+    "lat" : "-15.98",
+    "lng" : "-5.71",
+    "latlong" : "-15.9,-5.71"
   },
   {
     "_id": "57ab8c5b1eff02897b163edb",
@@ -125,11 +135,12 @@
     "Scientific name": "Psittacula wardis",
     "Extinction date": "1886",
     "Range": "Seychelles",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-4.6",
-    "lng":"55.47",
+    "lat" : "-4.6",
+    "lng" : "55.47",
+    "latlong":" -4.6, 55.47",
   },
   {
     "_id": "57ab8c5b1eff02897b163edc",
@@ -137,11 +148,12 @@
     "Scientific name": "Bulweria bifax",
     "Extinction date": "After 1502",
     "Range": "United Kingdom (Saint Helena)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-15.98",
-    "lng":"-5.71"
+    "lat" : "-15.98",
+    "lng" : "-5.71",
+    "latlong" : "-15.9,-5.71"
   },
   {
     "_id": "57ab8c5b1eff02897b163edd",
@@ -149,11 +161,12 @@
     "Scientific name": "Gallinula nesiotis",
     "Extinction date": "late 19th century",
     "Range": "United Kingdom (Tristan da Cunha)",
-    "Image": "--",
-    "Description": "",
+    "Image" : "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-37.10",
-    "lng":"-12.27",
+    "lat" : "-37.10",
+    "lng" : "-12.27",
+    "latlong" : "-37.1,-12.27"
   },
   {
     "_id": "57ab8cde1eff02897b163ede",
@@ -161,11 +174,12 @@
     "Scientific name": "Equus africanus atlanticus",
     "Extinction date": "300",
     "Range": "North African",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"18.18",
-    "lng":"18.28",
+    "lat" : "18.18",
+    "lng" : "18.28",
+    "latlong" : "18.18,18.28"
   },
   {
     "_id": "57ab8cde1eff02897b163edf",
@@ -173,11 +187,12 @@
     "Scientific name": "Canariomys bravoi and Canariomys tamarani",
     "Extinction date": "1500",
     "Range": "Spain (Canary Islands)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"28.29",
-    "lng":"-16.62",
+    "lat" : "28.29",
+    "lng" : "-16.62",
+    "latlong" : "28.29,-16.62"
   },
   {
     "_id": "57ab8cde1eff02897b163ee0",
@@ -185,11 +200,12 @@
     "Scientific name": "Daubentonia robusta",
     "Extinction date": "1000",
     "Range": "Madagascar",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat": "-18.766947",
-    "lng":"46.869107",
+    "lat" :  "-18.766947",
+    "lng" : "46.869107",
+    "latlong" :  "-18.76, 46.869107"
   },
   {
     "_id": "57ab8cde1eff02897b163ee1",
@@ -197,11 +213,12 @@
     "Scientific name": "Cryptoprocta spelea",
     "Extinction date": "Unknown",
     "Range": "Madagascar",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat": "-18.766947",
-    "lng":"46.869107",
+    "lat" :  "-18.766947",
+    "lng" : "46.869107",
+    "latlong" :  "-18.76, 46.869107"
   },
   {
     "_id": "57ab8cde1eff02897b163ee2",
@@ -209,11 +226,12 @@
     "Scientific name": "Hipposideros besaoka",
     "Extinction date": "10000",
     "Range": "Madagascar",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat": "-18.766947",
-    "lng":"46.869107",
+    "lat" :  "-18.766947",
+    "lng" : "46.869107",
+    "latlong" :  "-18.76, 46.869107"
   },
   {
     "_id": "57ab8cde1eff02897b163ee3",
@@ -221,11 +239,12 @@
     "Scientific name": "Homotherium",
     "Extinction date": "10,000",
     "Range": "Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"3.29",
-    "lng":"22.52",
+    "lat" : "3.29",
+    "lng" : "22.52",
+    "latlong":"3.29,22.52",
   },
   {
     "_id": "57ab8cde1eff02897b163ee4",
@@ -233,11 +252,12 @@
     "Scientific name": "Megaladapis",
     "Extinction date": "1420",
     "Range": "Madagascar",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat": "-18.766947",
-    "lng":"46.869107",
+    "lat" :  "-18.766947",
+    "lng" : "46.869107",
+    "latlong" :  "-18.76, 46.869107"
   },
   {
     "_id": "57ab8cde1eff02897b163ee5",
@@ -245,11 +265,12 @@
     "Scientific name": "Malpaisomys insularis",
     "Extinction date": "1500",
     "Range": "Spain (Canary Islands)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"28.29",
-    "lng":"-16.62",
+    "lat" : "28.29",
+    "lng" : "-16.62",
+    "latlong" : "28.29,-16.62"
   },
   {
     "_id": "57ab8cde1eff02897b163ee6",
@@ -257,11 +278,12 @@
     "Scientific name": "Plesiorycteropus",
     "Extinction date": "200",
     "Range": "Madagascar",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat": "-18.766947",
-    "lng":"46.869107",
+    "lat" :  "-18.766947",
+    "lng" : "46.869107",
+    "latlong" :  "-18.76, 46.869107"
   },
   {
     "_id": "57ab8cde1eff02897b163ee7",
@@ -269,11 +291,12 @@
     "Scientific name": "Hippopotamus",
     "Extinction date": "1000",
     "Range": "Madagascar",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat": "-18.766947",
-    "lng":"46.869107",
+    "lat" :  "-18.766947",
+    "lng" : "46.869107",
+    "latlong" :  "-18.76, 46.869107"
   },
   {
     "_id": "57ab8cde1eff02897b163ee8",
@@ -281,11 +304,12 @@
     "Scientific name": "Megalotragus",
     "Extinction date": "10,000",
     "Range": "Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"3.29",
-    "lng":"22.52",
+    "lat" : "3.29",
+    "lng" : "22.52",
+    "latlong":"3.29,22.52",
   },
   {
     "_id": "57ab8cde1eff02897b163ee9",
@@ -293,11 +317,12 @@
     "Scientific name": "Microgale macpheei",
     "Extinction date": "100",
     "Range": "Madagascar",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat": "-18.766947",
-    "lng":"46.869107",
+    "lat" :  "-18.766947",
+    "lng" : "46.869107",
+    "latlong" :  "-18.76, 46.869107"
   },
   {
     "_id": "57ab8cde1eff02897b163eea",
@@ -305,11 +330,12 @@
     "Scientific name": "Loxodonta africana pharaoensis",
     "Extinction date": "300",
     "Range": "North Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"30.30",
-    "lng":"12.39",
+    "lat" : "30.30",
+    "lng" : "12.39",
+    "latlong" : "30.30,12.39"
   },
   {
     "_id": "57ab8cde1eff02897b163eeb",
@@ -317,11 +343,12 @@
     "Scientific name": "Pelorovis",
     "Extinction date": "2000",
     "Range": "Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"3.29",
-    "lng":"22.52",
+    "lat" : "3.29",
+    "lng" : "22.52",
+    "latlong":"3.29,22.52",
   },
   {
     "_id": "57ab8cde1eff02897b163eec",
@@ -329,11 +356,12 @@
     "Scientific name": "Sivatherium",
     "Extinction date": "6000",
     "Range": "Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"3.29",
-    "lng":"22.52",
+    "lat" : "3.29",
+    "lng" : "22.52",
+    "latlong":"3.29,22.52",
   },
   {
     "_id": "57ab8d111eff02897b163eed",
@@ -341,11 +369,12 @@
     "Scientific name": "Ursus arctos crowtheri",
     "Extinction date": "1870",
     "Range": "North Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"30.30",
-    "lng":"12.39",
+    "lat" : "30.30",
+    "lng" : "12.39",
+    "latlong" : "30.30,12.39"
   },
   {
     "_id": "57ab8d111eff02897b163eee",
@@ -353,9 +382,10 @@
     "Scientific name": "Bos primigenius",
     "Extinction date": "1627",
     "Range": "North Africa || Europe",
-    "Image": "",
+    "Image,": ,
     "lat":"34.1",
-    "lng":"-0.26",
+    "lng" : "-0.26",
+    "latlong":"34.1,-0.26",
   },
   {
     "_id": "57ab8d111eff02897b163eef",
@@ -363,11 +393,12 @@
     "Scientific name": "Hippotragus leucophaeus",
     "Extinction date": "1799",
     "Range": "South Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-29.82",
-    "lng":"23.55"
+    "lat" : "-29.82",
+    "lng" : "23.55",
+    "latlong" : "-29.8,23.55"
   },
   {
     "_id": "57ab8d111eff02897b163ef0",
@@ -375,11 +406,12 @@
     "Scientific name": "Alcelaphus buselaphus buselaphus",
     "Extinction date": "1923",
     "Range": "North Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"30.30",
-    "lng":"12.39",
+    "lat" : "30.30",
+    "lng" : "12.39",
+    "latlong" : "30.30,12.39"
   },
   {
     "_id": "57ab8d111eff02897b163ef1",
@@ -387,11 +419,12 @@
     "Scientific name": "Panthera leo melanochaitus",
     "Extinction date": "1860",
     "Range": "South Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-29.82",
-    "lng":"23.55"
+    "lat" : "-29.82",
+    "lng" : "23.55",
+    "latlong" : "-29.8,23.55"
   },
   {
     "_id": "57ab8d111eff02897b163ef2",
@@ -399,11 +432,12 @@
     "Scientific name": "Leptailurus serval serval",
     "Extinction date": "Unknown",
     "Range": "South Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-29.82",
-    "lng":"23.55"
+    "lat" : "-29.82",
+    "lng" : "23.55",
+    "latlong" : "-29.8,23.55"
   },
   {
     "_id": "57ab8d111eff02897b163ef3",
@@ -411,11 +445,12 @@
     "Scientific name": "Phacochoerus aethiopicus aethiopicus",
     "Extinction date": "1900",
     "Range": "South Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-29.82",
-    "lng":"23.55"
+    "lat" : "-29.82",
+    "lng" : "23.55",
+    "latlong" : "-29.8,23.55"
   },
   {
     "_id": "57ab8d111eff02897b163ef4",
@@ -423,11 +458,12 @@
     "Scientific name": "Ourebia ourebi kenyae",
     "Extinction date": "Unknown",
     "Range": "Kenya",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"0.453",
-    "lng":"37.70",
+    "lat" : "0.453",
+    "lng" : "37.70",
+    "latlong" : "0.453,37.70"
   },
   {
     "_id": "57ab8d111eff02897b163ef5",
@@ -435,11 +471,12 @@
     "Scientific name": "Palaeopropithecus",
     "Extinction date": "1500",
     "Range": "Madagascar",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat": "-18.766947",
-    "lng":"46.869107",
+    "lat" :  "-18.766947",
+    "lng" : "46.869107",
+    "latlong" :  "-18.76, 46.869107"
   },
   {
     "_id": "57ab8d111eff02897b163ef6",
@@ -447,11 +484,12 @@
     "Scientific name": "Pteropus subniger",
     "Extinction date": "Early 19th century",
     "Range": "Mauritius and France (Reunion)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-20.26",
-    "lng":"57.56",
+    "lat" : "-20.26",
+    "lng" : "57.56",
+    "latlong" : "-20.2,57.56"
   },
   {
     "_id": "57ab8d111eff02897b163ef7",
@@ -459,11 +497,12 @@
     "Scientific name": "Equus quagga quagga",
     "Extinction date": "August 12, 1883",
     "Range": "Namibia and South Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-21.68",
-    "lng":"17.75",
+    "lat" : "-21.68",
+    "lng" : "17.75",
+    "latlong" : "-21.6,17.75"
   },
   {
     "_id": "57ab8d111eff02897b163ef8",
@@ -471,11 +510,12 @@
     "Scientific name": "Eudorcas rufinaa",
     "Extinction date": "1894",
     "Range": "Algeria",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"31.80",
-    "lng": "3.208",
+    "lat" : "31.80",
+    "lng" :  "3.208",
+    "latlong" : "31.80, 3.208"
   },
   {
     "_id": "57ab8d111eff02897b163ef9",
@@ -483,11 +523,12 @@
     "Scientific name": "Kobus leche robertsi",
     "Extinction date": "Unknown",
     "Range": "South Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-29.82",
-    "lng":"23.55"
+    "lat" : "-29.82",
+    "lng" : "23.55",
+    "latlong" : "-29.8,23.55"
   },
   {
     "_id": "57ab8d111eff02897b163efa",
@@ -495,11 +536,12 @@
     "Scientific name": "Diceros bicornis longipes",
     "Extinction date": "1996",
     "Range": "Cameroon",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"4.57",
-    "lng":"12.56",
+    "lat" : "4.57",
+    "lng" : "12.56",
+    "latlong": "4.57,12.56",
   },
   {
     "_id": "57ab8d401eff02897b163efb",
@@ -507,11 +549,12 @@
     "Scientific name": "Macroscincus coctei",
     "Extinction date": "1920",
     "Range": "Cape Verde",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"16.06",
-    "lng":"-22.78",
+    "lat" : "16.06",
+    "lng" : "-22.78",
+    "latlong" : "16.06,-22.78"
   },
   {
     "_id": "57ab8d401eff02897b163efc",
@@ -519,11 +562,12 @@
     "Scientific name": "Cylindraspis triserrata",
     "Extinction date": "Early 18th century",
     "Range": "Mauritius",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-20.34",
-    "lng":"57.55",
+    "lat" : "-20.34",
+    "lng" : "57.55",
+    "latlong" : "-20.3,57.55"
   },
   {
     "_id": "57ab8d401eff02897b163efd",
@@ -531,11 +575,12 @@
     "Scientific name": "Cylindraspis peltastes",
     "Extinction date": "1800",
     "Range": "Mauritius",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-20.34",
-    "lng":"57.55",
+    "lat" : "-20.34",
+    "lng" : "57.55",
+    "latlong" : "-20.3,57.55"
   },
   {
     "_id": "57ab8d401eff02897b163efe",
@@ -543,11 +588,12 @@
     "Scientific name": "Tetradactylus eastwoodae",
     "Extinction date": "1912",
     "Range": "South Africa",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-29.82",
-    "lng":"23.55"
+    "lat" : "-29.82",
+    "lng" : "23.55",
+    "latlong" : "-29.8,23.55"
   },
   {
     "_id": "57ab8d401eff02897b163eff",
@@ -555,11 +601,12 @@
     "Scientific name": "Typhlops cariei",
     "Extinction date": "Unknown",
     "Range": "Mauritius",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-20.34",
-    "lng":"57.55",
+    "lat" : "-20.34",
+    "lng" : "57.55",
+    "latlong" : "-20.3,57.55"
   },
   {
     "_id": "57ab8d401eff02897b163f00",
@@ -567,11 +614,12 @@
     "Scientific name": "Didosaurus maurtianus",
     "Extinction date": "1650",
     "Range": "Mauritius",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-20.34",
-    "lng":"57.55",
+    "lat" : "-20.34",
+    "lng" : "57.55",
+    "latlong" : "-20.3,57.55"
   },
   {
     "_id": "57ab8d401eff02897b163f01",
@@ -579,11 +627,12 @@
     "Scientific name": "Aparallactus nigriceps",
     "Extinction date": "1840",
     "Range": "France (Reunion)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-21.14",
-    "lng":"55.65",
+    "lat" : "-21.14",
+    "lng" : "55.65",
+    "latlong" : "-21.1,55.65"
   },
   {
     "_id": "57ab8d401eff02897b163f02",
@@ -591,11 +640,12 @@
     "Scientific name": "Phelsuma edwardnewtoni",
     "Extinction date": "1917",
     "Range": "Mauritius",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-20.34",
-    "lng":"57.55",
+    "lat" : "-20.34",
+    "lng" : "57.55",
+    "latlong" : "-20.3,57.55"
   },
   {
     "_id": "57ab8d401eff02897b163f03",
@@ -603,11 +653,12 @@
     "Scientific name": "Phelsuma gigas",
     "Extinction date": "1842",
     "Range": "Mauritius",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-20.34",
-    "lng":"57.55",
+    "lat" : "-20.34",
+    "lng" : "57.55",
+    "latlong" : "-20.3,57.55"
   },
   {
     "_id": "57ab8d401eff02897b163f04",
@@ -615,11 +666,12 @@
     "Scientific name": "Gallotia simonyi simonyi",
     "Extinction date": "1930",
     "Range": "Spain (Canary Islands)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"28.29",
-    "lng":"-16.62",
+    "lat" : "28.29",
+    "lng" : "-16.62",
+    "latlong" : "28.29,-16.62"
   },
   {
     "_id": "57ab8d401eff02897b163f05",
@@ -627,11 +679,12 @@
     "Scientific name": "Bolyeria multocarinata",
     "Extinction date": "1975",
     "Range": "Mauritius",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-20.34",
-    "lng":"57.55",
+    "lat" : "-20.34",
+    "lng" : "57.55",
+    "latlong" : "-20.3,57.55"
   },
   {
     "_id": "57ab8d401eff02897b163f06",
@@ -639,11 +692,12 @@
     "Scientific name": "Cylindraspis inepta",
     "Extinction date": "Early 18th century",
     "Range": "Mauritius",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-20.34",
-    "lng":"57.55",
+    "lat" : "-20.34",
+    "lng" : "57.55",
+    "latlong" : "-20.3,57.55"
   },
   {
     "_id": "57ab8d401eff02897b163f07",
@@ -651,11 +705,12 @@
     "Scientific name": "Cylindraspis vosmaeri",
     "Extinction date": "1800",
     "Range": "Mauritius",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-20.34",
-    "lng":"57.55",
+    "lat" : "-20.34",
+    "lng" : "57.55",
+    "latlong" : "-20.3,57.55"
   },
   {
     "_id": "57ab8d611eff02897b163f08",
@@ -663,11 +718,12 @@
     "Scientific Name": "Eriocnemis godini",
     "Extinction Date": 1850,
     "Range": "Colombia and Ecuador",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"2.48",
-    "lng":"-75.76",
+    "lat" : "2.48",
+    "lng" : "-75.76",
+    "latlong" : "2.48, 75.76"
   },
   {
     "_id": "57ab8d611eff02897b163f09",
@@ -675,11 +731,12 @@
     "Scientific Name": "Atelopus ignescens",
     "Extinction Date": "Unknown",
     "Range": "Ecuador",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-1.13",
-    "lng":"-77.16",
+    "lat" : "-1.13",
+    "lng" : "-77.16",
+    "latlong" : "-1.13,-77.16"
   },
   {
     "_id": "57ab8d611eff02897b163f0a",
@@ -687,11 +744,12 @@
     "Scientific Name": "Atelopus longirostris",
     "Extinction Date": 1989,
     "Range": "Ecuador",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-1.13",
-    "lng":"-77.16",
+    "lat" : "-1.13",
+    "lng" : "-77.16",
+    "latlong" : "-1.13,-77.16"
   },
   {
     "_id": "57ab8d611eff02897b163f0b",
@@ -699,11 +757,12 @@
     "Scientific Name": "Atelopus vogli",
     "Extinction Date": 1933,
     "Range": "Venezuela",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"6.63",
-    "lng":"-65.21",
+    "lat" : "6.63",
+    "lng" : "-65.21",
+    "latlong" : "6.63,-65.21",
   },
   {
     "_id": "57ab8d611eff02897b163f0c",
@@ -711,11 +770,12 @@
     "Scientific Name": "Phrynomedusa fimbriata",
     "Extinction Date": "1920",
     "Range": "Brazil",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-12.54",
-    "lng":"-53.08",
+    "lat" : "-12.54",
+    "lng" : "-53.08",
+    "latlong" : "-12.5,-53.08"
   },
   {
     "_id": "57ab8d611eff02897b163f0d",
@@ -723,11 +783,12 @@
     "Scientific Name": "Rhinoderma rufum",
     "Extinction Date": 1980,
     "Range": "Chile",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-47.74",
-    "lng":"-73.12",
+    "lat" : "-47.74",
+    "lng" : "-73.12",
+    "latlong" : "-47.7,-73.12"
   },
   {
     "_id": "57ab8d611eff02897b163f0e",
@@ -735,11 +796,12 @@
     "Scientific Name": "Chelonoidis nigra nigra",
     "Extinction Date": 1850,
     "Range": "Ecuador (Galapagos Islands)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-0.73",
-    "lng":"-91.06",
+    "lat" : "-0.73",
+    "lng" : "-91.06",
+    "latlong" : "-0.73,-91.06"
   },
   {
     "_id": "57ab8d611eff02897b163f0f",
@@ -747,11 +809,12 @@
     "Scientific Name": "Chelonoidis nigra abingdonii",
     "Extinction Date": 2012,
     "Range": "Ecuador (Galapagos Islands)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-0.73",
-    "lng":"-91.06",
+    "lat" : "-0.73",
+    "lng" : "-91.06",
+    "latlong" : "-0.73,-91.06"
   },
   {
     "_id": "57ab8d7c1eff02897b163f10",
@@ -759,11 +822,12 @@
     "Scientific Name": "Sephanoides fernandensis leyboldi",
     "Extinction Date": 1908,
     "Range": "Chile",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-47.74",
-    "lng":"-73.12",
+    "lat" : "-47.74",
+    "lng" : "-73.12",
+    "latlong" : "-47.7,-73.12"
   },
   {
     "_id": "57ab8d7c1eff02897b163f11",
@@ -771,11 +835,12 @@
     "Scientific Name": "Podiceps andinus",
     "Extinction Date": 1970,
     "Range": "Colombia",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"2.47",
-    "lng":"-72.07",
+    "lat" : "2.47",
+    "lng" : "-72.07",
+    "latlong" : "2.47, -72.07"
   },
   {
     "_id": "57ab8d7c1eff02897b163f12",
@@ -783,11 +848,12 @@
     "Scientific Name": "Geospiza magnirostris magnirostris",
     "Extinction Date": 1957,
     "Range": "Ecuador (Galapagos Islands)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-0.73",
-    "lng":"-91.06",
+    "lat" : "-0.73",
+    "lng" : "-91.06",
+    "latlong" : "-0.73,-91.06"
   },
   {
     "_id": "57ab8d7c1eff02897b163f13",
@@ -795,11 +861,12 @@
     "Scientific Name": "Anas georgica niceforoi",
     "Extinction Date": 1952,
     "Range": "Colombia",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"2.47",
-    "lng":"-72.07",
+    "lat" : "2.47",
+    "lng" : "-72.07",
+    "latlong" : "2.47,-72.07"
   },
   {
     "_id": "57ab8d7c1eff02897b163f14",
@@ -807,11 +874,12 @@
     "Scientific Name": "Pyrocephalus rubinus dubius",
     "Extinction Date": "1980",
     "Range": "Ecuador (Galapagos Islands)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-0.73",
-    "lng":"-91.06",
+    "lat" : "-0.73",
+    "lng" : "-91.06",
+    "latlong" : "-0.73,-91.06"
   },
   {
     "_id": "57ab8d7c1eff02897b163f15",
@@ -819,11 +887,12 @@
     "Scientific Name": "Aramides gutturalis",
     "Extinction Date": 1843,
     "Range": "Peru",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-10.21",
-    "lng":"-73.56",
+    "lat" : "-10.21",
+    "lng" : "-73.56",
+    "latlong" : "-10.2,-73.56"
   },
   {
     "_id": "57ab8d7c1eff02897b163f16",
@@ -831,11 +900,12 @@
     "Scientific Name": "Heliangelus zusii",
     "Extinction Date": "1971",
     "Range": "Colombia",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"2.47",
-    "lng":"-72.07",
+    "lat" : "2.47",
+    "lng" : "-72.07",
+    "latlong" : "2.47,-72.07"
   },
   {
     "_id": "57ab8d7c1eff02897b163f17",
@@ -843,11 +913,12 @@
     "Scientific Name": "Heliangelus zusii",
     "Extinction Date": "1907",
     "Range": "Colombia",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"2.47",
-    "lng":"-72.07",
+    "lat" : "2.47",
+    "lng" : "-72.07",
+    "latlong": "2.47,7.07",
   },
   {
     "_id": "57ab8d7c1eff02897b163f18",
@@ -855,11 +926,12 @@
     "Scientific Name": "Numenius borealis",
     "Extinction Date": "1939",
     "Range": "Brazil and Argentina",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-28.21",
-    "lng":"-56.33",
+    "lat" : "-28.21",
+    "lng" : "-56.33",
+    "latlong" : "-28.2,-56.33"
   },
   {
     "_id": "57ab8d7c1eff02897b163f19",
@@ -867,11 +939,12 @@
     "Scientific Name": "Anodorhynchus glaucus",
     "Extinction Date": "1960",
     "Range": "Argentina, Brazil, Paraguay and Uruguay",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-28.21",
-    "lng":"-56.33",
+    "lat" : "-28.21",
+    "lng" : "-56.33",
+    "latlong" : "-28.2,-56.33"
   },
   {
     "_id": "57ab8d7c1eff02897b163f1a",
@@ -879,11 +952,12 @@
     "Scientific Name": "Sporophila melanops",
     "Extinction Date": 1823,
     "Range": "Brazil",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-12.54",
-    "lng":"-53.08",
+    "lat" : "-12.54",
+    "lng" : "-53.08",
+    "latlong" : "-12.5,-53.08"
   },
   {
     "_id": "57ab8d7c1eff02897b163f1b",
@@ -891,11 +965,12 @@
     "Scientific Name": "Discosura letitiae",
     "Extinction Date": 1852,
     "Range": "Bolivia",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"-16.11",
-    "lng":"-64.77",
+    "lat" : "-16.11",
+    "lng" : "-64.77",
+    "latlong" : "-16.1,-64.77"
   },
   {
     "_id": "57ab8d7c1eff02897b163f1c",
@@ -903,23 +978,25 @@
     "Scientific Name": "Grallaria chthonia",
     "Extinction Date": 1956,
     "Range": "Venezuela",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "air",
-    "lat":"6.63",
-    "lng":"-65.21",
+    "lat" : "6.63",
+    "lng" : "-65.21",
+    "latlong" : "6.63,-65.21"
   },
   {
     "_id": "57ab8d8c1eff02897b163f1d",
     "Common name": "Amazonian smilodon",
     "Scientific Name": "Smilodon populator",
     "Extinction Date": "10,000",
-    "Range": "Northern South America",
-    "Image": "--",
-    "Description": "",
+    "Range": "Northern South Ameica",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-3.23",
-    "lng":"-57.12",
+    "lat" : "-3.23",
+    "lng" : "-57.12",
+    "latlong" : "-3.23,-57.12"
   },
   {
     "_id": "57ab8d8c1eff02897b163f1e",
@@ -927,11 +1004,12 @@
     "Scientific Name": "Antifer crassus",
     "Extinction Date": "11000",
     "Range": "Argentina, Brazil and Chile",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-47.74",
-    "lng":"-73.12",
+    "lat" : "-47.74",
+    "lng" : "-73.12",
+    "latlong" : "-47.7,-73.12"
   },
   {
     "_id": "57ab8d8c1eff02897b163f1f",
@@ -939,11 +1017,12 @@
     "Scientific Name": "Arctotherium sp.",
     "Extinction Date": "11000",
     "Range": "South America",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.95",
-    "lng":"-57.74",
+    "lat" : "-16.95",
+    "lng" : "-57.74",
+    "latlong" : "-16.9,-57.74"
   },
   {
     "_id": "57ab8d8c1eff02897b163f20",
@@ -951,11 +1030,12 @@
     "Scientific Name": "Canis nehringi",
     "Extinction Date": "8000",
     "Range": "South America",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.95",
-    "lng":"-57.74",
+    "lat" : "-16.95",
+    "lng" : "-57.74",
+    "latlong" : "-16.9,-57.74"
   },
   {
     "_id": "57ab8d8c1eff02897b163f21",
@@ -963,11 +1043,12 @@
     "Scientific Name": "Cuvieronius sp.",
     "Extinction Date": "4000",
     "Range": "South America",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.95",
-    "lng":"-57.74",
+    "lat" : "-16.95",
+    "lng" : "-57.74",
+    "latlong" : "-16.9,-57.74"
   },
   {
     "_id": "57ab8d8c1eff02897b163f22",
@@ -975,11 +1056,12 @@
     "Scientific Name": "Canis dirus",
     "Extinction Date": "11000",
     "Range": "South America",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.95",
-    "lng":"-57.74",
+    "lat" : "-16.95",
+    "lng" : "-57.74",
+    "latlong" : "-16.9,-57.74"
   },
   {
     "_id": "57ab8d8c1eff02897b163f23",
@@ -987,11 +1069,12 @@
     "Scientific Name": "Catonyx",
     "Extinction Date": "6000",
     "Range": "South America",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.95",
-    "lng":"-57.74",
+    "lat" : "-16.95",
+    "lng" : "-57.74",
+    "latlong" : "-16.9,-57.74"
   },
   {
     "_id": "57ab8d8c1eff02897b163f24",
@@ -999,11 +1082,12 @@
     "Scientific Name": "Doedicurus",
     "Extinction Date": "11000",
     "Range": "South America",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.95",
-    "lng":"-57.74",
+    "lat" : "-16.95",
+    "lng" : "-57.74",
+    "latlong" : "-16.9,-57.74"
   },
   {
     "_id": "57ab8d8c1eff02897b163f25",
@@ -1011,11 +1095,12 @@
     "Scientific Name": "Hippidion",
     "Extinction Date": "10000",
     "Range": "South America",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.95",
-    "lng":"-57.74",
+    "lat" : "-16.95",
+    "lng" : "-57.74",
+    "latlong" : "-16.9,-57.74"
   },
   {
     "_id": "57ab8d8c1eff02897b163f26",
@@ -1023,11 +1108,12 @@
     "Scientific Name": "Macrauchenia sp.",
     "Extinction Date": "10000",
     "Range": "South America",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.95",
-    "lng":"-57.74",
+    "lat" : "-16.95",
+    "lng" : "-57.74",
+    "latlong" : "-16.9,-57.74"
   },
   {
     "_id": "57ab8d8c1eff02897b163f27",
@@ -1035,11 +1121,12 @@
     "Scientific Name": "Neochoerus sp.",
     "Extinction Date": "10000",
     "Range": "South America",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.95",
-    "lng":"-57.74",
+    "lat" : "-16.95",
+    "lng" : "-57.74",
+    "latlong" : "-16.9,-57.74"
   },
   {
     "_id": "57ab8d8c1eff02897b163f28",
@@ -1047,11 +1134,12 @@
     "Scientific Name": "Stegomastodon sp.",
     "Extinction Date": "10000",
     "Range": "South America",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.95",
-    "lng":"-57.74",
+    "lat" : "-16.95",
+    "lng" : "-57.74",
+    "latlong" : "-16.9,-57.74"
   },
   {
     "_id": "57ab8d8c1eff02897b163f29",
@@ -1059,11 +1147,12 @@
     "Scientific Name": "Palaeolama mirifica",
     "Extinction Date": "10000",
     "Range": "South America",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.95",
-    "lng":"-57.74",
+    "lat" : "-16.95",
+    "lng" : "-57.74",
+    "latlong" : "-16.9,-57.74"
   },
   {
     "_id": "57ab8d8c1eff02897b163f2a",
@@ -1071,11 +1160,12 @@
     "Scientific Name": "Theriodictis sp.",
     "Extinction Date": "11000",
     "Range": "Bolivia, Brazil and Paraguay",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.79",
-    "lng":"-62.40",
+    "lat" : "-16.79",
+    "lng" : "-62.40",
+    "latlong" : "-16.7,-62.40"
   },
   {
     "_id": "57ab8d8c1eff02897b163f2b",
@@ -1083,11 +1173,12 @@
     "Scientific Name": "Toxodon sp.",
     "Extinction Date": "16500",
     "Range": "South America",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-16.95",
-    "lng":"-57.74",
+    "lat" : "-16.95",
+    "lng" : "-57.74",
+    "latlong" : "-16.9,-57.74"
   },
   {
     "_id": "57ab8d8c1eff02897b163f2c",
@@ -1095,11 +1186,12 @@
     "Scientific Name": "Xenorhinotherium bahiensis",
     "Extinction Date": "10000",
     "Range": "Brazil and Venezuela",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"6.63",
-    "lng":"-65.21",
+    "lat" : "6.63",
+    "lng" : "-65.21",
+    "latlong" : "6.63, -65.21",
   },
   {
     "_id": "57ab8d8c1eff02897b163f2d",
@@ -1107,11 +1199,12 @@
     "Scientific Name": "Juscelinomys candango",
     "Extinction Date": 1960,
     "Range": "Brazil",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-12.54",
-    "lng":"-53.08",
+    "lat" : "-12.54",
+    "lng" : "-53.08",
+    "latlong" : "-12.5,-53.08"
   },
   {
     "_id": "57ab8d8c1eff02897b163f2e",
@@ -1119,8 +1212,8 @@
     "Scientific Name": "Monachus tropicalis",
     "Extinction Date": 1952,
     "Range": "Caribbean Sea",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land"
   },
   {
@@ -1129,11 +1222,12 @@
     "cientific name": "Nesoryzomys darwini",
     "Extinction date": 1929,
     "Range": "Ecuador (Galapagos Islands)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-0.73",
-    "lng":"-91.06",
+    "lat" : "-0.73",
+    "lng" : "-91.06",
+    "latlong" : "-0.73,-91.06"
   },
   {
     "_id": "57ab8d8c1eff02897b163f30",
@@ -1141,8 +1235,8 @@
     "Scientific Name": "Dusicyon australis",
     "Extinction Date": 1876,
     "Range": "United Kingdom (Falkland Islands)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land"
   },
   {
@@ -1151,11 +1245,12 @@
     "Scientific Name": "Megaoryzomys curioi",
     "Extinction Date": "Unknown",
     "Range": "Ecuador (Galapagos Islands)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-0.73",
-    "lng":"-91.06",
+    "lat" : "-0.73",
+    "lng" : "-91.06",
+    "latlong" : "-0.73,-91.06"
   },
   {
     "_id": "57ab8d8c1eff02897b163f32",
@@ -1163,11 +1258,12 @@
     "Scientific Name": "Nesoryzomys indefessus",
     "Extinction Date": "1930",
     "Range": "Ecuador (Galapagos Islands)",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-0.73",
-    "lng":"-91.06",
+    "lat" : "-0.73",
+    "lng" : "-91.06",
+    "latlong" : "-0.73,-91.06"
   },
   {
     "_id": "57ab8d8c1eff02897b163f33",
@@ -1175,11 +1271,12 @@
     "Scientific Name": "Desmodus draculae",
     "Extinction Date": "Unknown",
     "Range": "Bolivia, Brazil & Venezuela",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"6.63",
-    "lng":"-65.21",
+    "lat" : "6.63",
+    "lng" : "-65.21",
+    "latlong" : "6.63, 6.21",
   },
   {
     "_id": "57ab8d8c1eff02897b163f34",
@@ -1187,11 +1284,12 @@
     "Scientific Name": "Lagostomus crassus",
     "Extinction Date": 1910,
     "Range": "Peru",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-10.21",
-    "lng":"-73.56",
+    "lat" : "-10.21",
+    "lng" : "-73.56",
+    "latlong" : "-10.2,-73.56"
   },
   {
     "_id": "57ab8d8c1eff02897b163f35",
@@ -1199,8 +1297,8 @@
     "Scientific Name": "Cryptonanus ignitus",
     "Extinction Date": 1962,
     "Range": "Argentina",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land"
   },
   {
@@ -1209,11 +1307,12 @@
     "Scientific Name": "Noronhomys vespuccii",
     "Extinction Date": 1503,
     "Range": "Brazil",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-12.54",
-    "lng":"-53.08",
+    "lat" : "-12.54",
+    "lng" : "-53.08",
+    "latlong" : "-12.5,-53.08"
   },
   {
     "_id": "57ab8d8c1eff02897b163f37",
@@ -1221,8 +1320,8 @@
     "Scientific Name": "Monodelphis unistriata",
     "Extinction Date": 1899,
     "Range": "Argentina & Brazil",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land"
   },
   {
@@ -1231,11 +1330,12 @@
     "Scientific Name": "Octodon pacificus",
     "Extinction Date": 1994,
     "Range": "Mocha Island, Chile",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-47.74",
-    "lng":"-73.12",
+    "lat" : "-47.74",
+    "lng" : "-73.12",
+    "latlong" : "-47.7,-73.12"
   },
   {
     "_id": "57ab8d8c1eff02897b163f39",
@@ -1243,21 +1343,25 @@
     "Scientific Name": "Melanomys zunigae",
     "Extinction Date": 1942,
     "Range": "Peru",
-    "Image": "--",
-    "Description": "",
+    "Image" :  "--",
+    "Description": "--",
     "Type": "land",
-    "lat":"-10.21",
-    "lng":"-73.56",
+    "lat" : "-10.21",
+    "lng" : "-73.56",
+    "latlong" : "-10.2,-73.56"
   },
-  {
+ {
     "_id": "57ab8f0d1eff02897b163f3a",
     "Common name": "Arabian ostrich",
     "Scientific name": "Struthio camelus syriacus",
     "Extinction date": "1966",
     "Range": "Middle East",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"29.16",
+    "lng":"42.02",
+    "latlong":"29.16,42.02"
   },
   {
     "_id": "57ab8f0d1eff02897b163f3b",
@@ -1266,18 +1370,24 @@
     "Extinction date": "10000",
     "Range": "Middle East to Central Asia",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"29.16",
+    "lng":"42.02",
+    "latlong":"29.16,42.02"
   },
   {
     "_id": "57ab8f0d1eff02897b163f3c",
     "Common name": "Bering Cackling Goose",
     "Scientific name": "Branta hutchinsii asiatica",
     "Extinction date": "1929",
-    "Range": "Russsia (Komandorski and Kuril Islands)",
+    "Range": "Russia (Komandorski and Kuril Islands)",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"62.73",
+    "lng":"98.44",
+    "latlong":"62.73,98.44"
   },
   {
     "_id": "57ab8f0d1eff02897b163f3d",
@@ -1286,8 +1396,11 @@
     "Extinction date": "1828",
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"27.03",
+    "lng":"142.20",
+    "latlong":"27.03,142.20"
   },
   {
     "_id": "57ab8f0d1eff02897b163f3e",
@@ -1296,8 +1409,11 @@
     "Extinction date": "1889",
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"27.03",
+    "lng":"142.20",
+    "latlong":"27.03,142.20"
   },
   {
     "_id": "57ab8f0d1eff02897b163f3f",
@@ -1306,8 +1422,11 @@
     "Extinction date": "1827",
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"27.03",
+    "lng":"142.20",
+    "latlong":"27.03,142.20"
   },
   {
     "_id": "57ab8f0d1eff02897b163f40",
@@ -1316,8 +1435,11 @@
     "Extinction date": "1889",
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"27.03",
+    "lng":"142.20",
+    "latlong":"27.03,142.20"
   },
   {
     "_id": "57ab8f0d1eff02897b163f41",
@@ -1326,8 +1448,11 @@
     "Extinction date": "Unknown",
     "Range": "Philippines (Cebu)",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"10.40",
+    "lng":"123.80",
+    "latlong":"10.40,123.80"
   },
   {
     "_id": "57ab8f0d1eff02897b163f42",
@@ -1336,8 +1461,11 @@
     "Extinction date": "1950",
     "Range": "Cyprus",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"34.93",
+    "lng":"33.14",
+    "latlong":"34.93,33.14"
   },
   {
     "_id": "57ab8f0d1eff02897b163f43",
@@ -1346,8 +1474,11 @@
     "Extinction date": "1930",
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"27.03",
+    "lng":"142.20",
+    "latlong":"27.03,142.20"
   },
   {
     "_id": "57ab8f0d1eff02897b163f44",
@@ -1356,8 +1487,11 @@
     "Extinction date": "1887",
     "Range": "Japan (Ryukyu Islands)",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"26.49",
+    "lng":"127.99",
+    "latlong":"26.49,127.99"
   },
   {
     "_id": "57ab8f0d1eff02897b163f45",
@@ -1366,8 +1500,11 @@
     "Extinction date": "1936",
     "Range": "Japan (Ryukyu Islands)",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"26.49",
+    "lng":"127.99",
+    "latlong":"26.49,127.99"
   },
   {
     "_id": "57ab8f0d1eff02897b163f46",
@@ -1376,8 +1513,11 @@
     "Extinction date": "1850",
     "Range": "Russia",
     "Image": "--",
-    "Description": "",
-    "Type": "air"
+    "Description": "--",
+    "Type": "air",
+    "lat":"62.73",
+    "lng":"98.44",
+    "latlong":"62.73,98.44"
   },
   {
     "_id": "57ab8f211eff02897b163f47",
@@ -1386,8 +1526,11 @@
     "Extinction date": "India (9000), Eurasia (1627)",
     "Range": "Northern Asia and Indian Sontinent",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"49.10",
+    "lng":"108.78",
+    "latlong":"49.10,108.78"
   },
   {
     "_id": "57ab8f211eff02897b163f48",
@@ -1396,8 +1539,11 @@
     "Extinction date": "1937",
     "Range": "Indonesia (Bali)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"-8.34",
+    "lng":"115.08",
+    "latlong":"-8.34,115.08"
   },
   {
     "_id": "57ab8f211eff02897b163f49",
@@ -1406,8 +1552,11 @@
     "Extinction date": "1500",
     "Range": "Indonesia (Timor)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"-9.88",
+    "lng":"124.33",
+    "latlong":"-9.88,124.33"
   },
   {
     "_id": "57ab8f211eff02897b163f4a",
@@ -1416,8 +1565,11 @@
     "Extinction date": "1970",
     "Range": "Turkey to China",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"36.65",
+    "lng":"64.03",
+    "latlong":"36.65,64.03"
   },
   {
     "_id": "57ab8f211eff02897b163f4b",
@@ -1426,8 +1578,11 @@
     "Extinction date": "1850",
     "Range": "Caucasus Mountains, Iran and Turkey",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"38.51",
+    "lng":"44.35",
+    "latlong":"38.51,44.35"
   },
   {
     "_id": "57ab8f211eff02897b163f4c",
@@ -1436,8 +1591,11 @@
     "Extinction date": "1925",
     "Range": "Caucasus Mountains",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"38.51",
+    "lng":"44.35",
+    "latlong":"38.51,44.35"
   },
   {
     "_id": "57ab8f211eff02897b163f4d",
@@ -1446,8 +1604,11 @@
     "Extinction date": "1951",
     "Range": "Yemen",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"15.29",
+    "lng":"46.73",
+    "latlong":"15.29,46.73"
   },
   {
     "_id": "57ab8f211eff02897b163f4e",
@@ -1456,8 +1617,11 @@
     "Extinction date": "1500s",
     "Range": "Indonesia (Flores)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"-8.77",
+    "lng":"121.06",
+    "latlong":"-8.77,121.06"
   },
   {
     "_id": "57ab8f211eff02897b163f4f",
@@ -1466,8 +1630,11 @@
     "Extinction date": "1500s",
     "Range": "Indonesia (Flores)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"-8.77",
+    "lng":"121.06",
+    "latlong":"-8.77,121.06"
   },
   {
     "_id": "57ab8f211eff02897b163f50",
@@ -1476,8 +1643,11 @@
     "Extinction date": "1990s",
     "Range": "Taiwan",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"23.69",
+    "lng":"121.01",
+    "latlong":"23.69,121.01"
   },
   {
     "_id": "57ab8f211eff02897b163f51",
@@ -1486,8 +1656,11 @@
     "Extinction date": 1889,
     "Range": "Japan (Hokkaidō)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"43.25",
+    "lng":"142.66",
+    "latlong":"43.25,142.66"
   },
   {
     "_id": "57ab8f211eff02897b163f52",
@@ -1496,8 +1669,11 @@
     "Extinction date": 1905,
     "Range": "Japan (Honshū)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"35.97",
+    "lng":"138.23",
+    "latlong":"35.97,138.23"
   },
   {
     "_id": "57ab8f211eff02897b163f53",
@@ -1506,8 +1682,11 @@
     "Extinction date": "April 4, 1953",
     "Range": "Philippines",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"11.46",
+    "lng":"123.32",
+    "latlong":"11.46,123.32"
   },
   {
     "_id": "57ab8f211eff02897b163f54",
@@ -1516,8 +1695,11 @@
     "Extinction date": "Before 1925",
     "Range": "Bangladesh, Burma (Myanmar), and India",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"23.21",
+    "lng":"92.89",
+    "latlong":"23.21,92.89"
   },
   {
     "_id": "57ab8f211eff02897b163f55",
@@ -1526,8 +1708,11 @@
     "Extinction date": 1979,
     "Range": "Japan",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"35.82",
+    "lng":"138.76",
+    "latlong":"35.82,138.76"
   },
   {
     "_id": "57ab8f211eff02897b163f56",
@@ -1536,8 +1721,11 @@
     "Extinction date": 1974,
     "Range": "Sea of Japan",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"35.82",
+    "lng":"138.76",
+    "latlong":"35.82,138.76"
   },
   {
     "_id": "57ab8f211eff02897b163f57",
@@ -1546,8 +1734,11 @@
     "Extinction date": "1970s",
     "Range": "Indonesia (Java)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"-7.24",
+    "lng":"110.57",
+    "latlong":"-7.24,110.57"
   },
   {
     "_id": "57ab8f211eff02897b163f58",
@@ -1556,8 +1747,11 @@
     "Extinction date": "Unknown",
     "Range": "Bangladesh, Burma (Myanmar), and India",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"23.21",
+    "lng":"92.89",
+    "latlong":"23.21,92.89"
   },
   {
     "_id": "57ab8f211eff02897b163f59",
@@ -1566,8 +1760,11 @@
     "Extinction date": "1951",
     "Range": "Yemen",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"15.29",
+    "lng":"46.73",
+    "latlong":"15.29,46.73"
   },
   {
     "_id": "57ab8f211eff02897b163f5a",
@@ -1576,8 +1773,11 @@
     "Extinction date": "Unknown",
     "Range": "Arabian Peninsula",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"18.88",
+    "lng":"47.51",
+    "latlong":"18.88,47.51"
   },
   {
     "_id": "57ab8f211eff02897b163f5b",
@@ -1586,8 +1786,11 @@
     "Extinction date": "1938",
     "Range": "Thailand",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"16.62",
+    "lng":"100.34",
+    "latlong":"16.62,100.34"
   },
   {
     "_id": "57ab8f211eff02897b163f5c",
@@ -1596,8 +1799,11 @@
     "Extinction date": "1768",
     "Range": "Russia (Commander Islands)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"62.73",
+    "lng":"98.44",
+    "latlong":"62.73,98.44"
   },
   {
     "_id": "57ab8f211eff02897b163f5d",
@@ -1606,8 +1812,11 @@
     "Extinction date": "Unknown",
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"27.03",
+    "lng":"142.20",
+    "latlong":"27.03,142.20"
   },
   {
     "_id": "57ab8f211eff02897b163f5e",
@@ -1616,8 +1825,11 @@
     "Extinction date": "1500",
     "Range": "Indonesia (Flores)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"-8.77",
+    "lng":"121.06",
+    "latlong":"-8.77,121.06"
   },
   {
     "_id": "57ab8f211eff02897b163f5f",
@@ -1626,8 +1838,11 @@
     "Extinction date": "2010",
     "Range": "Vietnam to Malaysia",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"4.57",
+    "lng":"103.15",
+    "latlong":"4.57,103.15"
   },
   {
     "_id": "57ab8f3f1eff02897b163f60",
@@ -1636,8 +1851,11 @@
     "Extinction date": "India (9000), Eurasia (1627)",
     "Range": "Northern Asia and Indian Sontinent",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"49.10",
+    "lng":"108.78",
+    "latlong":"49.10,108.78"
   },
   {
     "_id": "57ab8f3f1eff02897b163f61",
@@ -1646,8 +1864,11 @@
     "Extinction date": "1937",
     "Range": "Indonesia (Bali)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"-8.34",
+    "lng":"115.08",
+    "latlong":"-8.34,115.08"
   },
   {
     "_id": "57ab8f3f1eff02897b163f62",
@@ -1656,8 +1877,11 @@
     "Extinction date": "1500",
     "Range": "Indonesia (Timor)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"-9.88",
+    "lng":"124.33",
+    "latlong":"-9.88,124.33"
   },
   {
     "_id": "57ab8f3f1eff02897b163f63",
@@ -1666,8 +1890,11 @@
     "Extinction date": "1970",
     "Range": "Turkey to China",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"38.7",
+    "lng":"66.46",
+    "latlong":"38.7,66.46"
   },
   {
     "_id": "57ab8f3f1eff02897b163f64",
@@ -1676,8 +1903,11 @@
     "Extinction date": "1850",
     "Range": "Caucasus Mountains, Iran and Turkey",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"42.56",
+    "lng":"44.03",
+    "latlong":"42.56,44.03"
   },
   {
     "_id": "57ab8f3f1eff02897b163f65",
@@ -1686,8 +1916,11 @@
     "Extinction date": "1925",
     "Range": "Caucasus Mountains",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"42.56",
+    "lng":"44.03",
+    "latlong":"42.56,44.03"
   },
   {
     "_id": "57ab8f3f1eff02897b163f66",
@@ -1697,8 +1930,11 @@
     "Ran": "Queen of Sheba's gazelle",
     "Range": "Yemen",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"15.29",
+    "lng":"46.73",
+    "latlong":"15.29,46.73"
   },
   {
     "_id": "57ab8f3f1eff02897b163f67",
@@ -1707,8 +1943,10 @@
     "Extinction date": "Unknown",
     "Range": "Arabian Peninsula",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"18.88",
+    "lng":"47.51"
   },
   {
     "_id": "57ab8f3f1eff02897b163f68",
@@ -1717,8 +1955,11 @@
     "Extinction date": "1938",
     "Range": "Thailand",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"16.62",
+    "lng":"100.34",
+    "latlong":"16.62,100.34"
   },
   {
     "_id": "57ab8f3f1eff02897b163f69",
@@ -1727,8 +1968,11 @@
     "Extinction date": "1768",
     "Range": "Russia (Commander Islands)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"62.73",
+    "lng":"98.44",
+    "latlong":"62.73,98.44"
   },
   {
     "_id": "57ab8f3f1eff02897b163f6a",
@@ -1737,8 +1981,11 @@
     "Extinction date": "Unknown",
     "Range": "Japan (Bonin Islands)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"27.03",
+    "lng":"142.20",
+    "latlong":"27.03,142.20"
   },
   {
     "_id": "57ab8f3f1eff02897b163f6b",
@@ -1747,8 +1994,11 @@
     "Extinction date": "1500",
     "Range": "Indonesia (Flores)",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
+    "Description": "--",
+    "Type": "land",
+    "lat":"-8.77",
+    "lng":"121.06",
+    "latlong":"-8.77,121.06"
   },
   {
     "_id": "57ab8f3f1eff02897b163f6c",
@@ -1757,74 +2007,11 @@
     "Extinction date": "2010",
     "Range": "Vietnam to Malaysia",
     "Image": "--",
-    "Description": "",
-    "Type": "land"
-  },
-  {
-    "_id": "57ab8f541eff02897b163f6d",
-    "Common name": "Elephant species",
-    "Order": "Proboscidea",
-    "Family": "Elephantidae",
-    "Genus": "Elephas",
-    "Species": "Elephas",
-    "Description": "",
-    "Image": "--",
-    "Type": "mammals"
-  },
-  {
-    "_id": "57ab8f541eff02897b163f6e",
-    "Common name": "Asian elephant",
-    "Order": "Proboscidea",
-    "Family": "Elephantidae",
-    "Genus": "Elephas",
-    "Species": "Elephas maximus",
-    "Description": "",
-    "Image": "--",
-    "Type": "mammals"
-  },
-  {
-    "_id": "57ab8f541eff02897b163f6f",
-    "Common name": "Stegodon",
-    "Order": "Proboscidea",
-    "Family": "Stegodontidae",
-    "Genus": "Stegodon",
-    "Species": "Stegodonluzonensis Stegodonmindanensis",
-    "Description": "",
-    "Image": "--",
-    "Type": "mammals"
-  },
-  {
-    "_id": "57ab8f541eff02897b163f70",
-    "Common name": "Palawan fossil Sirenia",
-    "Order": "Sirenia",
-    "Family": "Dugongidae",
-    "Genus": "Dugong",
-    "Species": "Dugong",
-    "Description": "",
-    "Image": "--",
-    "Type": "mammals"
-  },
-  {
-    "_id": "57ab8f541eff02897b163f71",
-    "Common name": "Palawan Cervus",
-    "Order": "Artiodactyla",
-    "Family": "Cervidae (Subfamily: Cervinae)",
-    "Genus": "Cervus",
-    "Species": "Cervus",
-    "Description": "",
-    "Image": "--",
-    "Type": "mammals"
-  },
-  {
-    "_id": "57ab8f541eff02897b163f72",
-    "Common name": "Cebu dwarf buffalo",
-    "Order": "Artiodactyla",
-    "Family": "Bovidae (Slass: Bovinae)",
-    "Genus": "Bubalus",
-    "Species": "Bubalus cebuensis",
-    "Description": "",
-    "Image": "--",
-    "Type": "mammals"
+    "Description": "--",
+    "Type": "land",
+    "lat":"4.57",
+    "lng":"103.15",
+    "latlong":"4.57,103.15"
   },
   {
     "_id": "57ab8f681eff02897b163f73",
@@ -1833,7 +2020,10 @@
     "Extinction date": "1854",
     "Range": "Iceland and Northern European Coast",
     "Image": "--",
-    "Type": "air"
+    "Type": "air",
+    "lat":"64.87",
+    "lng":"-18.81",
+    "latlong" : "64.87,-18.81"
   },
   {
     "_id": "57ab8f681eff02897b163f74",
@@ -1842,6 +2032,9 @@
     "Extinction date": "1950",
     "Range": "Denmark (Faroe Islands)",
     "Image": "--",
-    "Type": "air"
+    "Type": "air",
+    "lat":"62.20",
+    "lng":"-7.08",
+    "latlong":"62.20,-7.08"
   }
 ]
