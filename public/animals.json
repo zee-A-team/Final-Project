@@ -3,7 +3,7 @@
     { "name": "_id", "type": "number" },
     { "name": "Common Name", "type": "string" },
     { "name": "Scientific name", "type": "string" },
-    { "name": "Extinction date", "type": "date" },
+    { "name": "date", "type": "date" },
     { "name": "location", "type": "string" },
     { "name": "Image", "type": "string"},
     { "name": "Description", "type": "string"},

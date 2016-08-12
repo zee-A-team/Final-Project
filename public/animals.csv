@@ -1,4 +1,4 @@
-_id,Common name,Scientific name,Extinction date,location,Image,Description,Type,latitude,longitude,latlong,Scientific Name,Extinction Date,cientific name,Ran
+_id,Common name,Scientific name,date,location,Image,Description,Type,latitude,longitude,latlong,Scientific Name,date,cientific name,Ran
 57ab8c5b1eff02897b163ed1,Alaotra grebe,Tachybaptus rufolavatus,1985,Madagascar,--,--,air,-18.766947,46.869107,"-18.76, 46.869107",,,,
 57ab8c5b1eff02897b163ed2,Aldabra brush-warbler,Nesillas aldabrana,1983,Seychelles,--,--,air,-4.65,55.47,"-4.65,55.47",,,,
 57ab8c5b1eff02897b163ed3,Ascension flightless crake,Mundia elpenor,1656,United Kingdom (Ascension),--,--,air,-15.98,-5.701,"-15.9,-5.701",,,,

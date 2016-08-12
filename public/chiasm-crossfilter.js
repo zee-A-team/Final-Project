@@ -55,7 +55,7 @@ function ChiasmCrossfilter() {
         };
         updateFunctions.push(updateMyGroup);
         updateMyGroup();
-        return my.when(dimension + "Filter", function (extent){
+        return my.when(dimension + "Filter", function (extent) {
           if(extent !== Model.None){
             cfDimension.filterRange(extent);
           } else {

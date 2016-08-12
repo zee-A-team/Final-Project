@@ -8,8 +8,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" :  "-18.766947",
-    "lng" : "46.869107",
+    "latitude" :  "-18.766947",
+    "longitude" : "46.869107",
     "latlong" :  "-18.76, 46.869107"
   },
   {
@@ -21,8 +21,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-4.65",
-    "lng" : "55.47",
+    "latitude" : "-4.65",
+    "longitude" : "55.47",
     "latlong" : "-4.65,55.47"
   },
   {
@@ -34,8 +34,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-15.98",
-    "lng" : "-5.701",
+    "latitude" : "-15.98",
+    "longitude" : "-5.701",
     "latlong" : "-15.9,-5.701"
   },
   {
@@ -47,8 +47,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-15.98",
-    "lng" : "-5.701",
+    "latitude" : "-15.98",
+    "longitude" : "-5.701",
     "latlong" : "-15.9,-5.701"
   },
   {
@@ -60,8 +60,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-20.34",
-    "lng" : "57.55",
+    "latitude" : "-20.34",
+    "longitude" : "57.55",
     "latlong" : "-20.3,57.55"
   },
   {
@@ -73,8 +73,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "28.29",
-    "lng" : "-16.62",
+    "latitude" : "28.29",
+    "longitude" : "-16.62",
     "latlong" : "28.29,-16.62"
   },
   {
@@ -86,8 +86,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-15.98",
-    "lng" : "-5.71",
+    "latitude" : "-15.98",
+    "longitude" : "-5.71",
     "latlong" : "-15.9,-5.71"
   },
   {
@@ -99,8 +99,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-15.98",
-    "lng" : "-5.71",
+    "latitude" : "-15.98",
+    "longitude" : "-5.71",
     "latlong" : "-15.9,-5.71"
   },
   {
@@ -112,8 +112,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-15.98",
-    "lng" : "-5.71",
+    "latitude" : "-15.98",
+    "longitude" : "-5.71",
     "latlong" : "-15.9,-5.71"
   },
   {
@@ -125,8 +125,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-15.98",
-    "lng" : "-5.71",
+    "latitude" : "-15.98",
+    "longitude" : "-5.71",
     "latlong" : "-15.9,-5.71"
   },
   {
@@ -138,8 +138,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-4.6",
-    "lng" : "55.47",
+    "latitude" : "-4.6",
+    "longitude" : "55.47",
     "latlong":" -4.6, 55.47"
   },
   {
@@ -151,8 +151,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-15.98",
-    "lng" : "-5.71",
+    "latitude" : "-15.98",
+    "longitude" : "-5.71",
     "latlong" : "-15.9,-5.71"
   },
   {
@@ -164,8 +164,8 @@
     "Image" : "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-37.10",
-    "lng" : "-12.27",
+    "latitude" : "-37.10",
+    "longitude" : "-12.27",
     "latlong" : "-37.1,-12.27"
   },
   {
@@ -177,8 +177,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "18.18",
-    "lng" : "18.28",
+    "latitude" : "18.18",
+    "longitude" : "18.28",
     "latlong" : "18.18,18.28"
   },
   {
@@ -190,8 +190,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "28.29",
-    "lng" : "-16.62",
+    "latitude" : "28.29",
+    "longitude" : "-16.62",
     "latlong" : "28.29,-16.62"
   },
   {
@@ -203,8 +203,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" :  "-18.766947",
-    "lng" : "46.869107",
+    "latitude" :  "-18.766947",
+    "longitude" : "46.869107",
     "latlong" :  "-18.76, 46.869107"
   },
   {
@@ -216,8 +216,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" :  "-18.766947",
-    "lng" : "46.869107",
+    "latitude" :  "-18.766947",
+    "longitude" : "46.869107",
     "latlong" :  "-18.76, 46.869107"
   },
   {
@@ -229,8 +229,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" :  "-18.766947",
-    "lng" : "46.869107",
+    "latitude" :  "-18.766947",
+    "longitude" : "46.869107",
     "latlong" :  "-18.76, 46.869107"
   },
   {
@@ -242,8 +242,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "3.29",
-    "lng" : "22.52",
+    "latitude" : "3.29",
+    "longitude" : "22.52",
     "latlong":"3.29,22.52"
   },
   {
@@ -255,8 +255,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" :  "-18.766947",
-    "lng" : "46.869107",
+    "latitude" :  "-18.766947",
+    "longitude" : "46.869107",
     "latlong" :  "-18.76, 46.869107"
   },
   {
@@ -268,8 +268,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "28.29",
-    "lng" : "-16.62",
+    "latitude" : "28.29",
+    "longitude" : "-16.62",
     "latlong" : "28.29,-16.62"
   },
   {
@@ -281,8 +281,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" :  "-18.766947",
-    "lng" : "46.869107",
+    "latitude" :  "-18.766947",
+    "longitude" : "46.869107",
     "latlong" :  "-18.76, 46.869107"
   },
   {
@@ -294,8 +294,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" :  "-18.766947",
-    "lng" : "46.869107",
+    "latitude" :  "-18.766947",
+    "longitude" : "46.869107",
     "latlong" :  "-18.76, 46.869107"
   },
   {
@@ -307,8 +307,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "3.29",
-    "lng" : "22.52",
+    "latitude" : "3.29",
+    "longitude" : "22.52",
     "latlong":"3.29,22.52"
   },
   {
@@ -320,8 +320,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" :  "-18.766947",
-    "lng" : "46.869107",
+    "latitude" :  "-18.766947",
+    "longitude" : "46.869107",
     "latlong" :  "-18.76, 46.869107"
   },
   {
@@ -333,8 +333,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "30.30",
-    "lng" : "12.39",
+    "latitude" : "30.30",
+    "longitude" : "12.39",
     "latlong" : "30.30,12.39"
   },
   {
@@ -346,8 +346,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "3.29",
-    "lng" : "22.52",
+    "latitude" : "3.29",
+    "longitude" : "22.52",
     "latlong":"3.29,22.52"
   },
   {
@@ -359,8 +359,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "3.29",
-    "lng" : "22.52",
+    "latitude" : "3.29",
+    "longitude" : "22.52",
     "latlong":"3.29,22.52"
   },
   {
@@ -372,8 +372,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "30.30",
-    "lng" : "12.39",
+    "latitude" : "30.30",
+    "longitude" : "12.39",
     "latlong" : "30.30,12.39"
   },
   {
@@ -383,8 +383,8 @@
     "Extinction date": "1627",
     "Range": "North Africa || Europe",
     "Image": "--",
-    "lat":"34.1",
-    "lng" : "-0.26",
+    "latitude":"34.1",
+    "longitude" : "-0.26",
     "latlong":"34.1,-0.26"
   },
   {
@@ -396,8 +396,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-29.82",
-    "lng" : "23.55",
+    "latitude" : "-29.82",
+    "longitude" : "23.55",
     "latlong" : "-29.8,23.55"
   },
   {
@@ -409,8 +409,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "30.30",
-    "lng" : "12.39",
+    "latitude" : "30.30",
+    "longitude" : "12.39",
     "latlong" : "30.30,12.39"
   },
   {
@@ -422,8 +422,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-29.82",
-    "lng" : "23.55",
+    "latitude" : "-29.82",
+    "longitude" : "23.55",
     "latlong" : "-29.8,23.55"
   },
   {
@@ -435,8 +435,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-29.82",
-    "lng" : "23.55",
+    "latitude" : "-29.82",
+    "longitude" : "23.55",
     "latlong" : "-29.8,23.55"
   },
   {
@@ -448,8 +448,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-29.82",
-    "lng" : "23.55",
+    "latitude" : "-29.82",
+    "longitude" : "23.55",
     "latlong" : "-29.8,23.55"
   },
   {
@@ -461,8 +461,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "0.453",
-    "lng" : "37.70",
+    "latitude" : "0.453",
+    "longitude" : "37.70",
     "latlong" : "0.453,37.70"
   },
   {
@@ -474,8 +474,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" :  "-18.766947",
-    "lng" : "46.869107",
+    "latitude" :  "-18.766947",
+    "longitude" : "46.869107",
     "latlong" :  "-18.76, 46.869107"
   },
   {
@@ -487,8 +487,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-20.26",
-    "lng" : "57.56",
+    "latitude" : "-20.26",
+    "longitude" : "57.56",
     "latlong" : "-20.2,57.56"
   },
   {
@@ -500,8 +500,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-21.68",
-    "lng" : "17.75",
+    "latitude" : "-21.68",
+    "longitude" : "17.75",
     "latlong" : "-21.6,17.75"
   },
   {
@@ -513,8 +513,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "31.80",
-    "lng" :  "3.208",
+    "latitude" : "31.80",
+    "longitude" :  "3.208",
     "latlong" : "31.80, 3.208"
   },
   {
@@ -526,8 +526,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-29.82",
-    "lng" : "23.55",
+    "latitude" : "-29.82",
+    "longitude" : "23.55",
     "latlong" : "-29.8,23.55"
   },
   {
@@ -539,8 +539,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "4.57",
-    "lng" : "12.56",
+    "latitude" : "4.57",
+    "longitude" : "12.56",
     "latlong": "4.57,12.56"
   },
   {
@@ -552,8 +552,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "16.06",
-    "lng" : "-22.78",
+    "latitude" : "16.06",
+    "longitude" : "-22.78",
     "latlong" : "16.06,-22.78"
   },
   {
@@ -565,8 +565,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-20.34",
-    "lng" : "57.55",
+    "latitude" : "-20.34",
+    "longitude" : "57.55",
     "latlong" : "-20.3,57.55"
   },
   {
@@ -578,8 +578,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-20.34",
-    "lng" : "57.55",
+    "latitude" : "-20.34",
+    "longitude" : "57.55",
     "latlong" : "-20.3,57.55"
   },
   {
@@ -591,8 +591,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-29.82",
-    "lng" : "23.55",
+    "latitude" : "-29.82",
+    "longitude" : "23.55",
     "latlong" : "-29.8,23.55"
   },
   {
@@ -604,8 +604,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-20.34",
-    "lng" : "57.55",
+    "latitude" : "-20.34",
+    "longitude" : "57.55",
     "latlong" : "-20.3,57.55"
   },
   {
@@ -617,8 +617,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-20.34",
-    "lng" : "57.55",
+    "latitude" : "-20.34",
+    "longitude" : "57.55",
     "latlong" : "-20.3,57.55"
   },
   {
@@ -630,8 +630,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-21.14",
-    "lng" : "55.65",
+    "latitude" : "-21.14",
+    "longitude" : "55.65",
     "latlong" : "-21.1,55.65"
   },
   {
@@ -643,8 +643,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-20.34",
-    "lng" : "57.55",
+    "latitude" : "-20.34",
+    "longitude" : "57.55",
     "latlong" : "-20.3,57.55"
   },
   {
@@ -656,8 +656,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-20.34",
-    "lng" : "57.55",
+    "latitude" : "-20.34",
+    "longitude" : "57.55",
     "latlong" : "-20.3,57.55"
   },
   {
@@ -669,8 +669,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "28.29",
-    "lng" : "-16.62",
+    "latitude" : "28.29",
+    "longitude" : "-16.62",
     "latlong" : "28.29,-16.62"
   },
   {
@@ -682,8 +682,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-20.34",
-    "lng" : "57.55",
+    "latitude" : "-20.34",
+    "longitude" : "57.55",
     "latlong" : "-20.3,57.55"
   },
   {
@@ -695,8 +695,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-20.34",
-    "lng" : "57.55",
+    "latitude" : "-20.34",
+    "longitude" : "57.55",
     "latlong" : "-20.3,57.55"
   },
   {
@@ -708,8 +708,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-20.34",
-    "lng" : "57.55",
+    "latitude" : "-20.34",
+    "longitude" : "57.55",
     "latlong" : "-20.3,57.55"
   },
   {
@@ -721,8 +721,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "2.48",
-    "lng" : "-75.76",
+    "latitude" : "2.48",
+    "longitude" : "-75.76",
     "latlong" : "2.48, 75.76"
   },
   {
@@ -734,8 +734,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-1.13",
-    "lng" : "-77.16",
+    "latitude" : "-1.13",
+    "longitude" : "-77.16",
     "latlong" : "-1.13,-77.16"
   },
   {
@@ -747,8 +747,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-1.13",
-    "lng" : "-77.16",
+    "latitude" : "-1.13",
+    "longitude" : "-77.16",
     "latlong" : "-1.13,-77.16"
   },
   {
@@ -760,8 +760,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "6.63",
-    "lng" : "-65.21",
+    "latitude" : "6.63",
+    "longitude" : "-65.21",
     "latlong" : "6.63,-65.21"
   },
   {
@@ -773,8 +773,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-12.54",
-    "lng" : "-53.08",
+    "latitude" : "-12.54",
+    "longitude" : "-53.08",
     "latlong" : "-12.5,-53.08"
   },
   {
@@ -786,8 +786,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-47.74",
-    "lng" : "-73.12",
+    "latitude" : "-47.74",
+    "longitude" : "-73.12",
     "latlong" : "-47.7,-73.12"
   },
   {
@@ -799,8 +799,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-0.73",
-    "lng" : "-91.06",
+    "latitude" : "-0.73",
+    "longitude" : "-91.06",
     "latlong" : "-0.73,-91.06"
   },
   {
@@ -812,8 +812,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-0.73",
-    "lng" : "-91.06",
+    "latitude" : "-0.73",
+    "longitude" : "-91.06",
     "latlong" : "-0.73,-91.06"
   },
   {
@@ -825,8 +825,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-47.74",
-    "lng" : "-73.12",
+    "latitude" : "-47.74",
+    "longitude" : "-73.12",
     "latlong" : "-47.7,-73.12"
   },
   {
@@ -838,8 +838,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "2.47",
-    "lng" : "-72.07",
+    "latitude" : "2.47",
+    "longitude" : "-72.07",
     "latlong" : "2.47, -72.07"
   },
   {
@@ -851,8 +851,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-0.73",
-    "lng" : "-91.06",
+    "latitude" : "-0.73",
+    "longitude" : "-91.06",
     "latlong" : "-0.73,-91.06"
   },
   {
@@ -864,8 +864,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "2.47",
-    "lng" : "-72.07",
+    "latitude" : "2.47",
+    "longitude" : "-72.07",
     "latlong" : "2.47,-72.07"
   },
   {
@@ -877,8 +877,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-0.73",
-    "lng" : "-91.06",
+    "latitude" : "-0.73",
+    "longitude" : "-91.06",
     "latlong" : "-0.73,-91.06"
   },
   {
@@ -890,8 +890,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-10.21",
-    "lng" : "-73.56",
+    "latitude" : "-10.21",
+    "longitude" : "-73.56",
     "latlong" : "-10.2,-73.56"
   },
   {
@@ -903,8 +903,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "2.47",
-    "lng" : "-72.07",
+    "latitude" : "2.47",
+    "longitude" : "-72.07",
     "latlong" : "2.47,-72.07"
   },
   {
@@ -916,8 +916,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "2.47",
-    "lng" : "-72.07",
+    "latitude" : "2.47",
+    "longitude" : "-72.07",
     "latlong": "2.47,7.07"
   },
   {
@@ -929,8 +929,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-28.21",
-    "lng" : "-56.33",
+    "latitude" : "-28.21",
+    "longitude" : "-56.33",
     "latlong" : "-28.2,-56.33"
   },
   {
@@ -942,8 +942,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-28.21",
-    "lng" : "-56.33",
+    "latitude" : "-28.21",
+    "longitude" : "-56.33",
     "latlong" : "-28.2,-56.33"
   },
   {
@@ -955,8 +955,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-12.54",
-    "lng" : "-53.08",
+    "latitude" : "-12.54",
+    "longitude" : "-53.08",
     "latlong" : "-12.5,-53.08"
   },
   {
@@ -968,8 +968,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "-16.11",
-    "lng" : "-64.77",
+    "latitude" : "-16.11",
+    "longitude" : "-64.77",
     "latlong" : "-16.1,-64.77"
   },
   {
@@ -981,8 +981,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "air",
-    "lat" : "6.63",
-    "lng" : "-65.21",
+    "latitude" : "6.63",
+    "longitude" : "-65.21",
     "latlong" : "6.63,-65.21"
   },
   {
@@ -994,8 +994,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-3.23",
-    "lng" : "-57.12",
+    "latitude" : "-3.23",
+    "longitude" : "-57.12",
     "latlong" : "-3.23,-57.12"
   },
   {
@@ -1007,8 +1007,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-47.74",
-    "lng" : "-73.12",
+    "latitude" : "-47.74",
+    "longitude" : "-73.12",
     "latlong" : "-47.7,-73.12"
   },
   {
@@ -1020,8 +1020,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.95",
-    "lng" : "-57.74",
+    "latitude" : "-16.95",
+    "longitude" : "-57.74",
     "latlong" : "-16.9,-57.74"
   },
   {
@@ -1033,8 +1033,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.95",
-    "lng" : "-57.74",
+    "latitude" : "-16.95",
+    "longitude" : "-57.74",
     "latlong" : "-16.9,-57.74"
   },
   {
@@ -1046,8 +1046,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.95",
-    "lng" : "-57.74",
+    "latitude" : "-16.95",
+    "longitude" : "-57.74",
     "latlong" : "-16.9,-57.74"
   },
   {
@@ -1059,8 +1059,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.95",
-    "lng" : "-57.74",
+    "latitude" : "-16.95",
+    "longitude" : "-57.74",
     "latlong" : "-16.9,-57.74"
   },
   {
@@ -1072,8 +1072,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.95",
-    "lng" : "-57.74",
+    "latitude" : "-16.95",
+    "longitude" : "-57.74",
     "latlong" : "-16.9,-57.74"
   },
   {
@@ -1085,8 +1085,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.95",
-    "lng" : "-57.74",
+    "latitude" : "-16.95",
+    "longitude" : "-57.74",
     "latlong" : "-16.9,-57.74"
   },
   {
@@ -1098,8 +1098,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.95",
-    "lng" : "-57.74",
+    "latitude" : "-16.95",
+    "longitude" : "-57.74",
     "latlong" : "-16.9,-57.74"
   },
   {
@@ -1111,8 +1111,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.95",
-    "lng" : "-57.74",
+    "latitude" : "-16.95",
+    "longitude" : "-57.74",
     "latlong" : "-16.9,-57.74"
   },
   {
@@ -1124,8 +1124,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.95",
-    "lng" : "-57.74",
+    "latitude" : "-16.95",
+    "longitude" : "-57.74",
     "latlong" : "-16.9,-57.74"
   },
   {
@@ -1137,8 +1137,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.95",
-    "lng" : "-57.74",
+    "latitude" : "-16.95",
+    "longitude" : "-57.74",
     "latlong" : "-16.9,-57.74"
   },
   {
@@ -1150,8 +1150,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.95",
-    "lng" : "-57.74",
+    "latitude" : "-16.95",
+    "longitude" : "-57.74",
     "latlong" : "-16.9,-57.74"
   },
   {
@@ -1163,8 +1163,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.79",
-    "lng" : "-62.40",
+    "latitude" : "-16.79",
+    "longitude" : "-62.40",
     "latlong" : "-16.7,-62.40"
   },
   {
@@ -1176,8 +1176,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-16.95",
-    "lng" : "-57.74",
+    "latitude" : "-16.95",
+    "longitude" : "-57.74",
     "latlong" : "-16.9,-57.74"
   },
   {
@@ -1189,8 +1189,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "6.63",
-    "lng" : "-65.21",
+    "latitude" : "6.63",
+    "longitude" : "-65.21",
     "latlong" : "6.63, -65.21"
   },
   {
@@ -1202,8 +1202,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-12.54",
-    "lng" : "-53.08",
+    "latitude" : "-12.54",
+    "longitude" : "-53.08",
     "latlong" : "-12.5,-53.08"
   },
   {
@@ -1215,8 +1215,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-0.73",
-    "lng" : "-91.06",
+    "latitude" : "-0.73",
+    "longitude" : "-91.06",
     "latlong" : "-0.73,-91.06"
   },
   {
@@ -1228,8 +1228,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-0.73",
-    "lng" : "-91.06",
+    "latitude" : "-0.73",
+    "longitude" : "-91.06",
     "latlong" : "-0.73,-91.06"
   },
   {
@@ -1241,8 +1241,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-0.73",
-    "lng" : "-91.06",
+    "latitude" : "-0.73",
+    "longitude" : "-91.06",
     "latlong" : "-0.73,-91.06"
   },
   {
@@ -1254,8 +1254,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "6.63",
-    "lng" : "-65.21",
+    "latitude" : "6.63",
+    "longitude" : "-65.21",
     "latlong" : "6.63, 6.21"
   },
   {
@@ -1267,8 +1267,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-10.21",
-    "lng" : "-73.56",
+    "latitude" : "-10.21",
+    "longitude" : "-73.56",
     "latlong" : "-10.2,-73.56"
   },
   {
@@ -1280,8 +1280,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-12.54",
-    "lng" : "-53.08",
+    "latitude" : "-12.54",
+    "longitude" : "-53.08",
     "latlong" : "-12.5,-53.08"
   },
   {
@@ -1293,8 +1293,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-47.74",
-    "lng" : "-73.12",
+    "latitude" : "-47.74",
+    "longitude" : "-73.12",
     "latlong" : "-47.7,-73.12"
   },
   {
@@ -1306,8 +1306,8 @@
     "Image" :  "--",
     "Description": "--",
     "Type": "land",
-    "lat" : "-10.21",
-    "lng" : "-73.56",
+    "latitude" : "-10.21",
+    "longitude" : "-73.56",
     "latlong" : "-10.2,-73.56"
   },
  {
@@ -1319,8 +1319,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"29.16",
-    "lng":"42.02",
+    "latitude":"29.16",
+    "longitude":"42.02",
     "latlong":"29.16,42.02"
   },
   {
@@ -1332,8 +1332,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"29.16",
-    "lng":"42.02",
+    "latitude":"29.16",
+    "longitude":"42.02",
     "latlong":"29.16,42.02"
   },
   {
@@ -1345,8 +1345,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"62.73",
-    "lng":"98.44",
+    "latitude":"62.73",
+    "longitude":"98.44",
     "latlong":"62.73,98.44"
   },
   {
@@ -1358,8 +1358,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"27.03",
-    "lng":"142.20",
+    "latitude":"27.03",
+    "longitude":"142.20",
     "latlong":"27.03,142.20"
   },
   {
@@ -1371,8 +1371,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"27.03",
-    "lng":"142.20",
+    "latitude":"27.03",
+    "longitude":"142.20",
     "latlong":"27.03,142.20"
   },
   {
@@ -1384,8 +1384,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"27.03",
-    "lng":"142.20",
+    "latitude":"27.03",
+    "longitude":"142.20",
     "latlong":"27.03,142.20"
   },
   {
@@ -1397,8 +1397,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"27.03",
-    "lng":"142.20",
+    "latitude":"27.03",
+    "longitude":"142.20",
     "latlong":"27.03,142.20"
   },
   {
@@ -1410,8 +1410,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"10.40",
-    "lng":"123.80",
+    "latitude":"10.40",
+    "longitude":"123.80",
     "latlong":"10.40,123.80"
   },
   {
@@ -1423,8 +1423,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"34.93",
-    "lng":"33.14",
+    "latitude":"34.93",
+    "longitude":"33.14",
     "latlong":"34.93,33.14"
   },
   {
@@ -1436,8 +1436,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"27.03",
-    "lng":"142.20",
+    "latitude":"27.03",
+    "longitude":"142.20",
     "latlong":"27.03,142.20"
   },
   {
@@ -1449,8 +1449,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"26.49",
-    "lng":"127.99",
+    "latitude":"26.49",
+    "longitude":"127.99",
     "latlong":"26.49,127.99"
   },
   {
@@ -1462,8 +1462,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"26.49",
-    "lng":"127.99",
+    "latitude":"26.49",
+    "longitude":"127.99",
     "latlong":"26.49,127.99"
   },
   {
@@ -1475,8 +1475,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "air",
-    "lat":"62.73",
-    "lng":"98.44",
+    "latitude":"62.73",
+    "longitude":"98.44",
     "latlong":"62.73,98.44"
   },
   {
@@ -1488,8 +1488,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"49.10",
-    "lng":"108.78",
+    "latitude":"49.10",
+    "longitude":"108.78",
     "latlong":"49.10,108.78"
   },
   {
@@ -1501,8 +1501,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"-8.34",
-    "lng":"115.08",
+    "latitude":"-8.34",
+    "longitude":"115.08",
     "latlong":"-8.34,115.08"
   },
   {
@@ -1514,8 +1514,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"-9.88",
-    "lng":"124.33",
+    "latitude":"-9.88",
+    "longitude":"124.33",
     "latlong":"-9.88,124.33"
   },
   {
@@ -1527,8 +1527,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"36.65",
-    "lng":"64.03",
+    "latitude":"36.65",
+    "longitude":"64.03",
     "latlong":"36.65,64.03"
   },
   {
@@ -1540,8 +1540,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"38.51",
-    "lng":"44.35",
+    "latitude":"38.51",
+    "longitude":"44.35",
     "latlong":"38.51,44.35"
   },
   {
@@ -1553,8 +1553,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"38.51",
-    "lng":"44.35",
+    "latitude":"38.51",
+    "longitude":"44.35",
     "latlong":"38.51,44.35"
   },
   {
@@ -1566,8 +1566,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"15.29",
-    "lng":"46.73",
+    "latitude":"15.29",
+    "longitude":"46.73",
     "latlong":"15.29,46.73"
   },
   {
@@ -1579,8 +1579,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"-8.77",
-    "lng":"121.06",
+    "latitude":"-8.77",
+    "longitude":"121.06",
     "latlong":"-8.77,121.06"
   },
   {
@@ -1592,8 +1592,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"-8.77",
-    "lng":"121.06",
+    "latitude":"-8.77",
+    "longitude":"121.06",
     "latlong":"-8.77,121.06"
   },
   {
@@ -1605,8 +1605,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"23.69",
-    "lng":"121.01",
+    "latitude":"23.69",
+    "longitude":"121.01",
     "latlong":"23.69,121.01"
   },
   {
@@ -1618,8 +1618,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"43.25",
-    "lng":"142.66",
+    "latitude":"43.25",
+    "longitude":"142.66",
     "latlong":"43.25,142.66"
   },
   {
@@ -1631,8 +1631,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"35.97",
-    "lng":"138.23",
+    "latitude":"35.97",
+    "longitude":"138.23",
     "latlong":"35.97,138.23"
   },
   {
@@ -1644,8 +1644,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"11.46",
-    "lng":"123.32",
+    "latitude":"11.46",
+    "longitude":"123.32",
     "latlong":"11.46,123.32"
   },
   {
@@ -1657,8 +1657,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"23.21",
-    "lng":"92.89",
+    "latitude":"23.21",
+    "longitude":"92.89",
     "latlong":"23.21,92.89"
   },
   {
@@ -1670,8 +1670,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"35.82",
-    "lng":"138.76",
+    "latitude":"35.82",
+    "longitude":"138.76",
     "latlong":"35.82,138.76"
   },
   {
@@ -1683,8 +1683,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"35.82",
-    "lng":"138.76",
+    "latitude":"35.82",
+    "longitude":"138.76",
     "latlong":"35.82,138.76"
   },
   {
@@ -1696,8 +1696,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"-7.24",
-    "lng":"110.57",
+    "latitude":"-7.24",
+    "longitude":"110.57",
     "latlong":"-7.24,110.57"
   },
   {
@@ -1709,8 +1709,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"23.21",
-    "lng":"92.89",
+    "latitude":"23.21",
+    "longitude":"92.89",
     "latlong":"23.21,92.89"
   },
   {
@@ -1722,8 +1722,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"15.29",
-    "lng":"46.73",
+    "latitude":"15.29",
+    "longitude":"46.73",
     "latlong":"15.29,46.73"
   },
   {
@@ -1735,8 +1735,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"18.88",
-    "lng":"47.51",
+    "latitude":"18.88",
+    "longitude":"47.51",
     "latlong":"18.88,47.51"
   },
   {
@@ -1748,8 +1748,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"16.62",
-    "lng":"100.34",
+    "latitude":"16.62",
+    "longitude":"100.34",
     "latlong":"16.62,100.34"
   },
   {
@@ -1761,8 +1761,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"62.73",
-    "lng":"98.44",
+    "latitude":"62.73",
+    "longitude":"98.44",
     "latlong":"62.73,98.44"
   },
   {
@@ -1774,8 +1774,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"27.03",
-    "lng":"142.20",
+    "latitude":"27.03",
+    "longitude":"142.20",
     "latlong":"27.03,142.20"
   },
   {
@@ -1787,8 +1787,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"-8.77",
-    "lng":"121.06",
+    "latitude":"-8.77",
+    "longitude":"121.06",
     "latlong":"-8.77,121.06"
   },
   {
@@ -1800,8 +1800,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"4.57",
-    "lng":"103.15",
+    "latitude":"4.57",
+    "longitude":"103.15",
     "latlong":"4.57,103.15"
   },
   {
@@ -1813,8 +1813,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"49.10",
-    "lng":"108.78",
+    "latitude":"49.10",
+    "longitude":"108.78",
     "latlong":"49.10,108.78"
   },
   {
@@ -1826,8 +1826,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"-8.34",
-    "lng":"115.08",
+    "latitude":"-8.34",
+    "longitude":"115.08",
     "latlong":"-8.34,115.08"
   },
   {
@@ -1839,8 +1839,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"-9.88",
-    "lng":"124.33",
+    "latitude":"-9.88",
+    "longitude":"124.33",
     "latlong":"-9.88,124.33"
   },
   {
@@ -1852,8 +1852,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"38.7",
-    "lng":"66.46",
+    "latitude":"38.7",
+    "longitude":"66.46",
     "latlong":"38.7,66.46"
   },
   {
@@ -1865,8 +1865,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"42.56",
-    "lng":"44.03",
+    "latitude":"42.56",
+    "longitude":"44.03",
     "latlong":"42.56,44.03"
   },
   {
@@ -1878,8 +1878,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"42.56",
-    "lng":"44.03",
+    "latitude":"42.56",
+    "longitude":"44.03",
     "latlong":"42.56,44.03"
   },
   {
@@ -1892,8 +1892,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"15.29",
-    "lng":"46.73",
+    "latitude":"15.29",
+    "longitude":"46.73",
     "latlong":"15.29,46.73"
   },
   {
@@ -1905,8 +1905,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"18.88",
-    "lng":"47.51",
+    "latitude":"18.88",
+    "longitude":"47.51",
     "latlong":"18.88,47.51"
   },
   {
@@ -1918,8 +1918,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"16.62",
-    "lng":"100.34",
+    "latitude":"16.62",
+    "longitude":"100.34",
     "latlong":"16.62,100.34"
   },
   {
@@ -1931,8 +1931,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"62.73",
-    "lng":"98.44",
+    "latitude":"62.73",
+    "longitude":"98.44",
     "latlong":"62.73,98.44"
   },
   {
@@ -1944,8 +1944,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"27.03",
-    "lng":"142.20",
+    "latitude":"27.03",
+    "longitude":"142.20",
     "latlong":"27.03,142.20"
   },
   {
@@ -1957,8 +1957,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"-8.77",
-    "lng":"121.06",
+    "latitude":"-8.77",
+    "longitude":"121.06",
     "latlong":"-8.77,121.06"
   },
   {
@@ -1970,8 +1970,8 @@
     "Image": "--",
     "Description": "--",
     "Type": "land",
-    "lat":"4.57",
-    "lng":"103.15",
+    "latitude":"4.57",
+    "longitude":"103.15",
     "latlong":"4.57,103.15"
   },
   {
@@ -1982,8 +1982,8 @@
     "Range": "Iceland and Northern European Coast",
     "Image": "--",
     "Type": "air",
-    "lat":"64.87",
-    "lng":"-18.81",
+    "latitude":"64.87",
+    "longitude":"-18.81",
     "latlong" : "64.87,-18.81"
   },
   {
@@ -1994,8 +1994,8 @@
     "Range": "Denmark (Faroe Islands)",
     "Image": "--",
     "Type": "air",
-    "lat":"62.20",
-    "lng":"-7.08",
+    "latitude":"62.20",
+    "longitude":"-7.08",
     "latlong":"62.20,-7.08"
   }
 ]
