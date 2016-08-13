@@ -96,7 +96,6 @@ function BarChart() {
       .range([0, innerBox.width]);
 
     var numIntervals = interval.range(xScale.domain()[0], xScale.domain()[1]).length;
-
     my.x = function(d) { return xScale(xAccessor(d)); };
 
     // Add 1 so the bars run together.
