@@ -1,8 +1,9 @@
 // This function defines a Chiasm component that exposes a Crossfilter instance
 // to visualizations via the Chaism configuration.
 var play = true;
-var eventListener = false;
-var eventListener2 = false;
+var eL = false;
+
+
 function ChiasmCrossfilter() {
   var my = new ChiasmComponent({
     groups: Model.None
@@ -59,17 +60,17 @@ function ChiasmCrossfilter() {
         updateMyGroup();
         return my.when(dimension + "Filter", function (extent) {
           if(extent !== Model.None){
-            if(!eventListener){
-              eventListener = true;
+            move(extent, cfDimension);
+            if(!eL) {
               document.body.addEventListener('keydown', (e) => {
-                if(e.keyCode === 32){
+                if(e.keyCode === 32) {
                   play = !play;
-                  move(extent);
                 }
               });
             }
-            cfDimension.filterRange(extent);
-          } else {
+                        // cfDimension.filterRange(extent);
+          }
+          else {
             cfDimension.filterAll();
           }
           updateFunctions.forEach(function (updateFunction){
@@ -84,17 +85,29 @@ function ChiasmCrossfilter() {
   return my;
 }
 
-var t = d3.timer(function (e) {
-  console.log(e);
-});
+var t = d3.interval(function (e) {}, 5000);
 
-function move(extent) {
+function move(extent, dr) {
   if(play) {
-    t.restart((e) => {});
-    console.log('GOGOGO');
+    t.restart((e) => {
+      if(typeof extent[0] === 'object') {
+        var d = new Date(extent[0]).getYear();
+        var d2 = new Date(extent[1]).getYear();
+        extent[0].setFullYear((d + 1970) + 1);
+        extent[1].setFullYear((d2 + 1970) + 1);
+
+        var rect = d3.select('.extent');
+        rect.attr('x', Number(rect.attr('x')) + 1);
+        console.log(rect.attr('x') + 1);
+
+        dr.filterRange(extent);
+      } else {
+        dr.filterRange(extent);
+      }
+    }, 500);
   }
   else {
-    console.log('STOP STOP STOP')
     t.stop();
+    dr.filterRange(extent);
   }
 }
