@@ -14,17 +14,16 @@ function BubbleMap() {
   // my.map is the Leaflet instance.
 
   my.when("data", function (data){
-    my.cleanData = data.filter(function (d){
+    my.cleanData = data.filter(function (d) {
       var lat = d[latitudeColumn];
       var lng = d[longitudeColumn];
       if(isNaN(+lat) || isNaN(+lng)){
-        console.log("Bad data - lat = " + lat + " lng = " + lng);
+        console.log(`lat:${lat} + lng:${lng} Invalid.`);
         return false;
       }
       return true;
     });
   });
-
   my.addPublicProperties({
 
     // This is the data column that maps to bubble size.
@@ -38,8 +37,8 @@ function BubbleMap() {
     rMin: 0,
     rMax: 10,
   });
-
   var rScale = d3.scale.sqrt();
+
 
   // Add a semi-transparent white layer to fade the
   // black & white base map to the background.
@@ -53,33 +52,47 @@ function BubbleMap() {
 
   // Generate a function or constant for circle radius,
   // depending on whether or not rColumn is defined.
+
   my.when(["datasetForScaleDomain", "rColumn", "rDefault", "rMin", "rMax"],
       function (dataset, rColumn, rDefault, rMin, rMax){
+
     var data = dataset.data;
 
     if(rColumn === Model.None){
-      my.r = function (){ return rDefault};
+      my.r = function (){ return rDefault; };
     } else {
       rScale
         .domain(d3.extent(data, function (d){ return d[rColumn]; }))
         .range([rMin, rMax]);
       my.r = function (d){ return rScale(d[rColumn]); };
+
+      // This line added to demonstrate working example
+      // my.r = function (){ return rDefault; };
     }
   });
 
   var oldMarkers = [];
+  var locationRandomizer = [];
+  var randomizer = function(object){
+    if(!locationRandomizer.includes(object)){
+      object.latitude = object.latitude + Math.random(0,500);
+      object.longitude = object.longitude + Math.random(0,500);
+      locationRandomizer.push(object);
+    }
+  };
   my.when(["cleanData", "r"], _.throttle(function (data, r){
-
     // TODO make this more efficient.
     // Use D3 data joins?
     oldMarkers.forEach(function (marker){
       my.map.removeLayer(marker);
     });
 
+    // Delete
     oldMarkers = data.map(function (d){
+      randomizer(d);
 
-      var lat = d[latitudeColumn];
-      var lng = d[longitudeColumn];
+      var lat = locationRandomizer[locationRandomizer.indexOf(d)].latitude;
+      var lng = locationRandomizer[locationRandomizer.indexOf(d)].longitude;
 
       var markerCenter = L.latLng(lat, lng);
       var circleMarker = L.circleMarker(markerCenter, {
@@ -95,8 +108,8 @@ function BubbleMap() {
       // var circleMarker = L.icon({
 
       //   // TODO move this to config.
-      //   iconUrl: 'http://findicons.com/files/icons/1995/web_application/48/smiley.png',
-      //   iconSize: [10,10],
+      //   iconUrl: 'lion_small-compressor.png',
+      //   iconSize: [30,30],
       //   clickable: true,
       // });
 

@@ -112,9 +112,8 @@
         "map": {
           "plugin": "bubbleMap",
           "state": {
-            "center": [15, 33],
+            "center": [5, 50], //change this to user's location?
             "zoom": 4,
-            "rColumn": "dead_and_missing",
             "rMax": 30
           }
         },
@@ -130,7 +129,7 @@
         "data-loader": {
           "plugin": "datasetLoader",
           "state": {
-            "path": "events"
+            "path": "animals"
           }
         },
         "crossfilter": {
@@ -139,7 +138,7 @@
             "groups": {
               "dates": {
                 "dimension": "date",
-                "aggregation": "month"
+                "aggregation": "year"
               },
               "locations": {
                 "dimension": "latlong",

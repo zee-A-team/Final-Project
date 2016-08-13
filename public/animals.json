@@ -1,0 +1,14 @@
+{
+  "columns": [
+    { "name": "_id", "type": "number" },
+    { "name": "Common Name", "type": "string" },
+    { "name": "Scientific name", "type": "string" },
+    { "name": "date", "type": "date" },
+    { "name": "location", "type": "string" },
+    { "name": "Image", "type": "string"},
+    { "name": "Description", "type": "string"},
+    { "name": "Type", "type": "string"},
+    { "name": "latitude", "type": "number" },
+    { "name": "longitude", "type": "number" }
+  ]
+}
