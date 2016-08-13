@@ -142,7 +142,7 @@ function BarChart() {
 
     if(brushIntervalX !== Model.None){
 
-      //brush.extent(parseDates(brushIntervalX));
+      // brush.extent(parseDates(brushIntervalX));
 
       // Uncomment this to see what the brush interval is as you drag.
       // console.log(brushIntervalX.map(function (date){

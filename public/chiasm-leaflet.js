@@ -21,8 +21,8 @@ function ChiasmLeaflet() {
   // http://leafletjs.com/reference.html#map-constructor
   my.map = L.map(my.el, {
     zoom: 1,
-    // minZoom: 4,
-    // maxZoom: 5,
+    minZoom: 2,
+    maxZoom: 5,
     // scrollWheelZoom: false,
     center: [40.7127837, -74.0059413],
     // Turn off the "Leaflet" link in the lower right corner.

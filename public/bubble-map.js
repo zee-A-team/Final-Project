@@ -93,8 +93,7 @@ function BubbleMap() {
 
       var lat = locationRandomizer[locationRandomizer.indexOf(d)].latitude;
       var lng = locationRandomizer[locationRandomizer.indexOf(d)].longitude;
-      // var lat = d[latitudeColumn];
-      // var lng = d[longitudeColumn];
+
       var markerCenter = L.latLng(lat, lng);
       var circleMarker = L.circleMarker(markerCenter, {
 

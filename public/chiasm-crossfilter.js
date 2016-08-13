@@ -19,7 +19,7 @@ function ChiasmCrossfilter() {
       listeners = Object.keys(groups).map(function (groupName){
         var group = groups[groupName];
         var dimension = group.dimension;
-        var cfDimension = cf.dimension(function (d){ return d[dimension]; });
+        var cfDimension = cf.dimension(function (d){ return d[dimension]; }); //invalid date error here
 
         // Generate an aggregate function by parsing the "aggregation" config option.
         var aggregate;
@@ -42,7 +42,7 @@ function ChiasmCrossfilter() {
           aggregate = function (d){ return d; };
         }
 
-        var cfGroup = cfDimension.group(aggregate); //breaks on this line
+        var cfGroup = cfDimension.group(aggregate);
 
 
         var updateMyGroup = function () {
