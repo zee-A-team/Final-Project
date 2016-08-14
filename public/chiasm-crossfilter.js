@@ -1,8 +1,7 @@
 // This function defines a Chiasm component that exposes a Crossfilter instance
 // to visualizations via the Chaism configuration.
-var play = true;
+var play = false;
 var eL = false;
-
 
 function ChiasmCrossfilter() {
   var my = new ChiasmComponent({
@@ -61,7 +60,9 @@ function ChiasmCrossfilter() {
         return my.when(dimension + "Filter", function (extent) {
           if(extent !== Model.None){
             move(extent, cfDimension);
-            if(!eL) {
+            if(eL === false) {
+              eL = true;
+
               document.body.addEventListener('keydown', (e) => {
                 if(e.keyCode === 32) {
                   play = !play;
@@ -85,7 +86,7 @@ function ChiasmCrossfilter() {
   return my;
 }
 
-var t = d3.interval(function (e) {}, 5000);
+var t = d3.timer(function (e) {});
 
 function move(extent, dr) {
   if(play) {
@@ -97,17 +98,22 @@ function move(extent, dr) {
         extent[1].setFullYear((d2 + 1970) + 1);
 
         var rect = d3.select('.extent');
-        rect.attr('x', Number(rect.attr('x')) + 1);
-        console.log(rect.attr('x') + 1);
+        rect.attr('x', parseFloat(rect.attr('x')) + 1);
+
+        my.onMove();
+
 
         dr.filterRange(extent);
       } else {
         dr.filterRange(extent);
+        t.stop();
       }
-    }, 500);
+    });
   }
   else {
     t.stop();
-    dr.filterRange(extent);
+    console.log('HI');
+
+
   }
 }

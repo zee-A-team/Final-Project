@@ -55,6 +55,8 @@ function BarChart() {
     my.brushIntervalX = brush.empty() ? Model.None : brush.extent();
   }
 
+  my.onBrush = brush.extent;
+
   my.when("title", titleText.text, titleText);
 
   my.when("titleSize", function (titleSize){
@@ -194,3 +196,4 @@ function xAxis(my, g){
 
   return axisG;
 }
+
