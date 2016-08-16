@@ -1,5 +1,6 @@
 // This is an example Chaism plugin that uses D3 to make a bar chart.
 // Draws from this Bar Chart example http://bl.ocks.org/mbostock/3885304
+var brush;
 function BarChart() {
 
   var my = ChiasmComponent({
@@ -38,7 +39,7 @@ function BarChart() {
   // This scale is for the brush to use.
   var xScale = d3.time.scale();
 
-  var brush = d3.svg.brush()
+  brush = d3.svg.brush()
     .x(xScale)
     .on("brush", onBrush);
 
@@ -52,7 +53,11 @@ function BarChart() {
   xAxis(my, g);
 
   function onBrush() {
-    my.brushIntervalX = brush.empty() ? Model.None : brush.extent();
+    if(brush.empty()) {
+      my.brushIntervalX = Model.None;
+    } else {
+      my.brushIntervalX = brush.extent();
+    }
   }
 
   my.when("title", titleText.text, titleText);
@@ -84,7 +89,7 @@ function BarChart() {
   my.when(["data", "xColumn", "innerBox", "barPadding", "barOuterPadding"],
       function (data, xColumn, innerBox, barPadding, barOuterPadding) {
     var xAccessor = function (d){ return d[xColumn]; };
-    // var interval = d3.time.month;
+
     var interval = d3.time.year;
 
     var xExtent = d3.extent(data, xAccessor);

@@ -80,7 +80,7 @@ function BubbleMap() {
       locationRandomizer.push(object);
     }
   };
-  my.when(["cleanData", "r"], _.throttle(function (data, r){
+  my.when(["cleanData", "r"], _.throttle(function (data, r) {
     // TODO make this more efficient.
     // Use D3 data joins?
     oldMarkers.forEach(function (marker){
