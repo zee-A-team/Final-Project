@@ -33,12 +33,8 @@ function ChiasmLeaflet() {
   // Add the black & white style map layer.
   // Found by browsing http://leaflet-extras.github.io/leaflet-providers/preview/
   // TODO move this to configuration.
-  var layerInstance = L.tileLayer("http://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png").addTo(my.map);
-  layerInstance.on('loading', function(event) {
-    console.log(event, 'event');
-    // var load_screen = document.getElementById("load_screen");
-    // document.body.removeChild(load_screen);
-  })
+  L.tileLayer("http://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png").addTo(my.map);
+
   // L.tileLayer("http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png").addTo(my.map);
 
   // Returns the current Leaflet map center

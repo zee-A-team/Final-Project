@@ -19,3 +19,7 @@ body {
   fill: none;
   stroke: rgb(44,155,155);
 }
+
+.chiasm-component-date-chart:hover {
+  background-color: red;
+}
