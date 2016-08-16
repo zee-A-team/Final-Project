@@ -1,7 +1,8 @@
 // This is an example Chaism plugin that uses Leaflet.js.
+var my;
 function ChiasmLeaflet() {
 
-  var my = ChiasmComponent({
+  my = ChiasmComponent({
     center: [0, 0],
     zoom: 2
   });
@@ -47,7 +48,8 @@ function ChiasmLeaflet() {
     return [center.lng, center.lat];
   }
 
-  var onMove = _.throttle(function (){
+  var onMove = (function (){
+    console.log('test');
     my.center = getCenter();
     my.zoom = my.map.getZoom();
 
@@ -55,7 +57,9 @@ function ChiasmLeaflet() {
     my.longitudeInterval = [bounds.getWest(), bounds.getEast()];
     my.latitudeInterval = [bounds.getSouth(), bounds.getNorth()];
 
-  }, 1000);
+  });
+
+  my.onMove = onMove;
 
   // Sets the Leaflet map center to be the given center.
   // Note that Leaflet will immediately trigger a "move"
@@ -67,7 +71,11 @@ function ChiasmLeaflet() {
     });
     my.map.on("move", onMove);
   }
-
+  var rect = d3.select('.extent');
+  console.log(rect);
+  // rect[0].addEventListener('onClick', function() {
+  //   onMove();
+  // });
   my.map.on("move", onMove);
 
   // If the center was set externally, pan the map to that center.

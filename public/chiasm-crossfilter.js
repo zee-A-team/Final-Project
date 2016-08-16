@@ -1,16 +1,7 @@
 // This function defines a Chiasm component that exposes a Crossfilter instance
 // to visualizations via the Chaism configuration.
 
-var play = false;
-var cfDimension;
-
 function ChiasmCrossfilter() {
-
-  document.addEventListener('keypress', (e) => {
-    if(e.keyCode === 32) {
-      play = !play;
-    }
-  });
 
   var my = new ChiasmComponent({
     groups: Model.None
@@ -29,7 +20,7 @@ function ChiasmCrossfilter() {
       listeners = Object.keys(groups).map(function (groupName){
         var group = groups[groupName];
         var dimension = group.dimension;
-        cfDimension = cf.dimension(function (d){ return d[dimension]; }); //invalid date error here
+        var cfDimension = cf.dimension(function (d){ return d[dimension]; }); //invalid date error here
 
         // Generate an aggregate function by parsing the "aggregation" config option.
         var aggregate;
@@ -86,29 +77,3 @@ function ChiasmCrossfilter() {
   });
   return my;
 }
-// var t = d3.timer(function(e){});
-
-
-// function move(extent) {
-//   t.restart((e) => {
-//     var copyExtent = extent.slice();
-//     copyExtent[0] = new Date(copyExtent[0]);
-//     copyExtent[1] = new Date(copyExtent[1]);
-
-//     copyExtent[0].setDate(copyExtent[0].getDate() + 1);
-//     copyExtent[1].setDate(copyExtent[1].getDate() + 1);
-
-//     copyExtent[0] = new Date(copyExtent[0]).getTime();
-//     copyExtent[1] = new Date(copyExtent[1]).getTime();
-
-//     // console.log(xScale(new Date()));
-//     // console.log((copyExtent[0]).getTime());
-//     brush.x(copyExtent[0]);
-//     brush.extent(copyExtent);
-
-//     var rect = d3.select('.extent');
-//     rect.attr('x', parseFloat(rect.attr('x')) + 1);
-//     cfDimension.filterRange(copyExtent);
-//   });
-// }
-
