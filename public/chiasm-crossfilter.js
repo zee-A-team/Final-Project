@@ -65,13 +65,13 @@ function ChiasmCrossfilter() {
         updateFunctions.push(updateMyGroup);
         updateMyGroup();
         return my.when(dimension + "Filter", function (extent) {
-          if( extent !== Model.None) {
-            if(dimension === 'date' && play) {
-              move(extent);
-            } else {
-              t.stop();
+          if (extent !== Model.None) {
+            // if (dimension === 'date' && play) {
+            //   move(extent);
+            // } else {
+            // t.stop();
               cfDimension.filterRange(extent);
-            }
+            // }
           } else {
             cfDimension.filterAll();
           }
@@ -86,22 +86,29 @@ function ChiasmCrossfilter() {
   });
   return my;
 }
-var t = d3.timer(function(e){});
+// var t = d3.timer(function(e){});
 
-function move(extent) {
-  t.restart((e) => {
-    var copyExtent = extent.slice();
-    copyExtent[0] = new Date(copyExtent[0]);
-    copyExtent[1] = new Date(copyExtent[1]);
 
-    copyExtent[0].setDate(copyExtent[0].getDate() + 1);
-    copyExtent[1].setDate(copyExtent[1].getDate() + 1);
+// function move(extent) {
+//   t.restart((e) => {
+//     var copyExtent = extent.slice();
+//     copyExtent[0] = new Date(copyExtent[0]);
+//     copyExtent[1] = new Date(copyExtent[1]);
 
-    brush.extent(copyExtent);
+//     copyExtent[0].setDate(copyExtent[0].getDate() + 1);
+//     copyExtent[1].setDate(copyExtent[1].getDate() + 1);
 
-    var rect = d3.select('.extent');
-    rect.attr('x', parseFloat(rect.attr('x')) + 1);
-    cfDimension.filterRange(copyExtent);
-  });
-}
+//     copyExtent[0] = new Date(copyExtent[0]).getTime();
+//     copyExtent[1] = new Date(copyExtent[1]).getTime();
+
+//     // console.log(xScale(new Date()));
+//     // console.log((copyExtent[0]).getTime());
+//     brush.x(copyExtent[0]);
+//     brush.extent(copyExtent);
+
+//     var rect = d3.select('.extent');
+//     rect.attr('x', parseFloat(rect.attr('x')) + 1);
+//     cfDimension.filterRange(copyExtent);
+//   });
+// }
 
