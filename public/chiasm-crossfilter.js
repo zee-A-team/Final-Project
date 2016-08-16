@@ -1,5 +1,6 @@
 // This function defines a Chiasm component that exposes a Crossfilter instance
 // to visualizations via the Chaism configuration.
+
 function ChiasmCrossfilter() {
 
   var my = new ChiasmComponent({
@@ -17,10 +18,9 @@ function ChiasmCrossfilter() {
       listeners.forEach(my.cancel);
 
       listeners = Object.keys(groups).map(function (groupName){
-
         var group = groups[groupName];
         var dimension = group.dimension;
-        var cfDimension = cf.dimension(function (d){ return d[dimension]; });
+        var cfDimension = cf.dimension(function (d){ return d[dimension]; }); //invalid date error here
 
         // Generate an aggregate function by parsing the "aggregation" config option.
         var aggregate;
@@ -31,6 +31,8 @@ function ChiasmCrossfilter() {
             aggregate = d3.time.week;
           } else if(group.aggregation === "month"){
             aggregate = d3.time.month;
+          } else if(group.aggregation === "year") {
+            aggregate = d3.time.year;
           } else if(group.aggregation.indexOf("floor") === 0){
             var interval = parseInt(group.aggregation.substr(6));
             aggregate = function(d) {
@@ -43,8 +45,7 @@ function ChiasmCrossfilter() {
 
         var cfGroup = cfDimension.group(aggregate);
 
-        var updateMyGroup = function (){
-
+        var updateMyGroup = function () {
           // This contains the aggregated values.
           my[groupName] = cfGroup.all();
 
@@ -54,15 +55,19 @@ function ChiasmCrossfilter() {
         };
         updateFunctions.push(updateMyGroup);
         updateMyGroup();
-
-        return my.when(dimension + "Filter", function (extent){
-          if(extent !== Model.None){
-            cfDimension.filterRange(extent);
+        return my.when(dimension + "Filter", function (extent) {
+          if (extent !== Model.None) {
+            // if (dimension === 'date' && play) {
+            //   move(extent);
+            // } else {
+            // t.stop();
+              cfDimension.filterRange(extent);
+            // }
           } else {
             cfDimension.filterAll();
           }
           updateFunctions.forEach(function (updateFunction){
-            if(updateFunction !== updateMyGroup){
+            if (updateFunction !== updateMyGroup){
               updateFunction();
             }
           });

@@ -9,10 +9,8 @@ const PORT = process.env.PORT || 3000;
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/et');
 const db = mongoose.connection;
-db.on('error', console.error.bind(console, "connect error:"));
-db.once('open', () => {
-  console.log("Mongo reporting for duty!");
-});
+db.on('error', console.error.bind(console, "connection error"));
+db.once('open', _ => console.log("Mongo reporting for duty!"));
 
 app.use(express.static('public'));
 app.use(bodyParser.json());
@@ -21,7 +19,7 @@ app.use(bodyParser.urlencoded({extended:true}));
 app.get( '/test', ( req, res ) => {
     Animal.find( ( err, animals ) => {
       if (err) res.send(err);
-      res.json(animals);
+      return res.json(animals);
     });
   });
 
@@ -30,7 +28,7 @@ app.post( '/test', ( req, res ) => {
     animal.commonName = req.body.commonName;
     animal.save( ( err ) => {
       if (err) return res.send(err);
-      res.send(animal);
+      return res.send(animal);
     });
   });
 

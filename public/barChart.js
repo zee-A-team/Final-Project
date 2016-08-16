@@ -52,8 +52,14 @@ function BarChart() {
   xAxis(my, g);
 
   function onBrush() {
-    my.brushIntervalX = brush.empty() ? Model.None : brush.extent();
+    if(brush.empty()) {
+      my.brushIntervalX = Model.None;
+    } else {
+      my.brushIntervalX = brush.extent();
+    }
   }
+
+  my.onBrush = brush.extent;
 
   my.when("title", titleText.text, titleText);
 
@@ -82,11 +88,10 @@ function BarChart() {
   });
 
   my.when(["data", "xColumn", "innerBox", "barPadding", "barOuterPadding"],
-      function (data, xColumn, innerBox, barPadding, barOuterPadding){
-
+      function (data, xColumn, innerBox, barPadding, barOuterPadding) {
     var xAccessor = function (d){ return d[xColumn]; };
 
-    var interval = d3.time.month;
+    var interval = d3.time.year;
 
     var xExtent = d3.extent(data, xAccessor);
 
@@ -97,8 +102,7 @@ function BarChart() {
       .range([0, innerBox.width]);
 
     var numIntervals = interval.range(xScale.domain()[0], xScale.domain()[1]).length;
-
-    my.x = function(d) { return xScale(xAccessor(d)); }
+    my.x = function(d) { return xScale(xAccessor(d)); };
 
     // Add 1 so the bars run together.
     my.width = innerBox.width / numIntervals + 1;
@@ -143,12 +147,12 @@ function BarChart() {
 
     if(brushIntervalX !== Model.None){
 
-      //brush.extent(parseDates(brushIntervalX));
+      // brush.extent(parseDates(brushIntervalX));
 
       // Uncomment this to see what the brush interval is as you drag.
-      //console.log(brushIntervalX.map(function (date){
+      // console.log(brushIntervalX.map(function (date){
       //  return date.toUTCString();
-      //}));
+      // }));
     }
 
     brushG.call(brush);
@@ -170,7 +174,7 @@ function xAxis(my, g){
 
   my.when(["xScale", "xAxisTickDensity", "xAxisTickAngle", "innerBox"], function (xScale, xAxisTickDensity, xAxisTickAngle, innerBox){
     var width = innerBox.width;
-    axis.scale(xScale).ticks(width / xAxisTickDensity)
+    axis.scale(xScale).ticks(width / xAxisTickDensity);
     axisG.call(axis);
 
     var text = axisG.selectAll("text")
@@ -184,7 +188,7 @@ function xAxis(my, g){
         .style("text-anchor", "end");
     } else {
       text
-        .attr("dx", "0em")
+        .attr("dx", "0em");
         //.attr("dy", "0em")
         //.style("text-anchor", "middle");
     }
@@ -196,3 +200,4 @@ function xAxis(my, g){
 
   return axisG;
 }
+
