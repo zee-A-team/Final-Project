@@ -26,21 +26,23 @@ function ChiasmLeaflet() {
     maxZoom: 5,
     // scrollWheelZoom: false,
     center: [40.7127837, -74.0059413],
-    // Turn off the "Leaflet" link in the lower right corner.
-    // Leaflet is properly attributed in the README.
-    attributionControl: false
-
+    zoomControl: true,
+    attributionControl: false,
   }).setView(my.center, my.zoom);
 
-  // Add the black & white style map layer.
   // Found by browsing http://leaflet-extras.github.io/leaflet-providers/preview/
-  // TODO move this to configuration.
-  L.tileLayer("http://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png",
-    {
+  L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.png', {
         noWrap: true,
         continuousWorld : false,
         reuseTiles : true
     }).addTo(my.map);
+
+  var overlays = {
+      "wat": {},
+    };
+
+  L.control.layers({},overlays).addTo(my.map);
+
   // Returns the current Leaflet map center
   // in a format that D3 understands: [longitude, latitude]
   function getCenter(){
@@ -49,7 +51,6 @@ function ChiasmLeaflet() {
   }
 
   var onMove = (function (){
-    console.log('test');
     my.center = getCenter();
     my.zoom = my.map.getZoom();
 
@@ -58,8 +59,6 @@ function ChiasmLeaflet() {
     my.latitudeInterval = [bounds.getSouth(), bounds.getNorth()];
 
   });
-
-  my.onMove = onMove;
 
   // Sets the Leaflet map center to be the given center.
   // Note that Leaflet will immediately trigger a "move"
@@ -72,10 +71,6 @@ function ChiasmLeaflet() {
     my.map.on("move", onMove);
   }
   var rect = d3.select('.extent');
-  console.log(rect);
-  // rect[0].addEventListener('onClick', function() {
-  //   onMove();
-  // });
   my.map.on("move", onMove);
 
   // If the center was set externally, pan the map to that center.

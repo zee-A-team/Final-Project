@@ -67,7 +67,7 @@ function ChiasmCrossfilter() {
             cfDimension.filterAll();
           }
           updateFunctions.forEach(function (updateFunction){
-            if(updateFunction !== updateMyGroup){
+            if (updateFunction !== updateMyGroup){
               updateFunction();
             }
           });
