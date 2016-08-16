@@ -1,6 +1,6 @@
 // This function defines a Chiasm component that exposes a Crossfilter instance
 // to visualizations via the Chaism configuration.
-var play = false;
+var play = true;
 var eL = false;
 
 function ChiasmCrossfilter() {
@@ -13,6 +13,11 @@ function ChiasmCrossfilter() {
   my.when(["dataset", "groups"], function (dataset, groups){
     var data = dataset.data;
     if(groups !== Model.None) {
+      // const w = data.map((e) => {
+      //   const obj = Object.assign(e);
+      //   obj.date = Date.now(new Date(obj.date));
+      //   return obj;
+      // });
       var cf = crossfilter(data);
       var updateFunctions = [];
 
@@ -21,8 +26,9 @@ function ChiasmCrossfilter() {
       listeners = Object.keys(groups).map(function (groupName){
         var group = groups[groupName];
         var dimension = group.dimension;
-        var cfDimension = cf.dimension(function (d){ return d[dimension]; }); //invalid date error here
-
+        var cfDimension = cf.dimension(function (d){
+          return d[dimension];
+        });
         // Generate an aggregate function by parsing the "aggregation" config option.
         var aggregate;
         if(group.aggregation){
@@ -58,7 +64,7 @@ function ChiasmCrossfilter() {
         updateFunctions.push(updateMyGroup);
         updateMyGroup();
         return my.when(dimension + "Filter", function (extent) {
-          if(extent !== Model.None){
+          if(extent !== Model.None) {
             move(extent, cfDimension);
             if(eL === false) {
               eL = true;
@@ -69,7 +75,6 @@ function ChiasmCrossfilter() {
                 }
               });
             }
-                        // cfDimension.filterRange(extent);
           }
           else {
             cfDimension.filterAll();
@@ -92,28 +97,21 @@ function move(extent, dr) {
   if(play) {
     t.restart((e) => {
       if(typeof extent[0] === 'object') {
-        var d = new Date(extent[0]).getYear();
-        var d2 = new Date(extent[1]).getYear();
-        extent[0].setFullYear((d + 1970) + 1);
-        extent[1].setFullYear((d2 + 1970) + 1);
+        var brush0 = new Date(brush.extent()[0].setDate(extent[0].getDate() + 1));
+        var brush1 = new Date(brush.extent()[1].setDate(extent[1].getDate() + 1));
+        // brushExtent = [brush0, brush1];
 
-        var rect = d3.select('.extent');
-        rect.attr('x', parseFloat(rect.attr('x')) + 1);
+        // var rect = d3.select('.extent');
+        // rect.attr('x', parseFloat(rect.attr('x')) + 1);
 
-        my.onMove();
-
-
-        dr.filterRange(extent);
+        dr.filterRange(brush.extent());
       } else {
-        dr.filterRange(extent);
+        dr.filterRange(brush.extent());
         t.stop();
       }
     });
   }
   else {
     t.stop();
-    console.log('HI');
-
-
   }
 }

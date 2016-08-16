@@ -1,8 +1,25 @@
 // This is an example Chaism plugin that uses D3 to make a bar chart.
 // Draws from this Bar Chart example http://bl.ocks.org/mbostock/3885304
+var brush;
+var my;
+
+// function theGlue(a){
+//   // var ourExtent = a.map(function(el){
+//   //   return new Date(el.setDate(el.getDate() + 1));
+//   // });
+//   // console.log(ourExtent, 'BEFORE')
+//   // return ourExtent;
+//   var brush0 = new Date(a[0].setDate(extent[0].getDate() + 1));
+//   var brush1 = new Date(a[1].setDate(extent[1].getDate() + 1));
+//   var ourExtent= [brush0, brush1];
+
+//   brush.extent(ourExtent);
+//   return ourExtent;
+
+// }
 function BarChart() {
 
-  var my = ChiasmComponent({
+  my = ChiasmComponent({
 
     margin: {
       left:   20,
@@ -38,7 +55,7 @@ function BarChart() {
   // This scale is for the brush to use.
   var xScale = d3.time.scale();
 
-  var brush = d3.svg.brush()
+  brush = d3.svg.brush()
     .x(xScale)
     .on("brush", onBrush);
 
@@ -54,7 +71,6 @@ function BarChart() {
   function onBrush() {
     my.brushIntervalX = brush.empty() ? Model.None : brush.extent();
   }
-
   my.onBrush = brush.extent;
 
   my.when("title", titleText.text, titleText);
@@ -86,7 +102,7 @@ function BarChart() {
   my.when(["data", "xColumn", "innerBox", "barPadding", "barOuterPadding"],
       function (data, xColumn, innerBox, barPadding, barOuterPadding) {
     var xAccessor = function (d){ return d[xColumn]; };
-    // var interval = d3.time.month;
+
     var interval = d3.time.year;
 
     var xExtent = d3.extent(data, xAccessor);
