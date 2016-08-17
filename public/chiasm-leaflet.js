@@ -1,4 +1,6 @@
 // This is an example Chaism plugin that uses Leaflet.js.
+var ChiasmComponent = require('chiasm-component');
+var d3 = require('d3');
 function ChiasmLeaflet() {
 
   var my = ChiasmComponent({

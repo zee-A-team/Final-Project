@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/Viltaria/Final-Project#readme",
   "dependencies": {
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.5",
     "body-parser": "^1.15.2",
     "chiasm": "^0.3.0",
     "chiasm-component": "^0.2.3",
@@ -42,7 +44,8 @@
     "style-loader": "^0.13.1",
     "topojson": "^1.6.26",
     "webpack": "^1.13.1",
-    "webpack-dev-middleware": "^1.6.1"
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-hot-middleware": "^2.12.2"
   },
   "devDependencies": {
     "webpack": "^1.13.1"

@@ -1,6 +1,7 @@
 // This is a Chiasm component that implements a bubble map.
 // Based on chiasm-leaflet.
 //
+var ChiasmLeaflet = require('leaflet');
 
 function BubbleMap() {
 
