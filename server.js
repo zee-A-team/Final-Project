@@ -12,7 +12,7 @@ const db = mongoose.connection;
 db.on('error', console.error.bind(console, "connection error"));
 db.once('open', _ => console.log("Mongo reporting for duty!"));
 
-app.use(express.static('public'));
+app.use(express.static(__dirname));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:true}));
 

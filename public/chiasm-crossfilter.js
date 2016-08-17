@@ -1,6 +1,6 @@
 // This function defines a Chiasm component that exposes a Crossfilter instance
 // to visualizations via the Chaism configuration.
-
+var ChiasmComponent = require('chiasm-component');
 function ChiasmCrossfilter() {
 
   var my = new ChiasmComponent({
@@ -57,12 +57,7 @@ function ChiasmCrossfilter() {
         updateMyGroup();
         return my.when(dimension + "Filter", function (extent) {
           if (extent !== Model.None) {
-            // if (dimension === 'date' && play) {
-            //   move(extent);
-            // } else {
-            // t.stop();
               cfDimension.filterRange(extent);
-            // }
           } else {
             cfDimension.filterAll();
           }
@@ -77,3 +72,4 @@ function ChiasmCrossfilter() {
   });
   return my;
 }
+module.exports = ChiasmCrossfilter;

@@ -98,14 +98,6 @@ function BubbleMap() {
         clickable: true,
       });
 
-      // icon
-      // var circleMarker = L.icon({
-      //   iconUrl: 'lion_small-compressor.png',
-      //   iconSize: [30,30],
-      //   clickable: true,
-      // });
-      // L.marker(markerCenter,{icon:circleMarker}).addTo(my.map);
-
       circleMarker.addEventListener('mouseover', () => {
         console.log('ayylmao');
       });
@@ -118,3 +110,4 @@ function BubbleMap() {
 
   return my;
 }
+module.exports = BubbleMap;

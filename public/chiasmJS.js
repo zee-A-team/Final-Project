@@ -1,3 +1,12 @@
+var Chiasm = require('chiasm');
+var ChiasmComponent = require('chiasm-component');
+var ChiasmCrossfilter = require('chiasm-crossfilter');
+var ChiasmLayout = require('chiasm-layout');
+var ChiasmLinks = require('chiasm-links');
+var ChiasmDatasetLoader = require('chiasm-dataset-loader');
+var BarChart = require('./barChart');
+var BubbleMap = require('./bubble-map');
+
 // Create a new Chiasm instance.
 var chiasm = new Chiasm();
 

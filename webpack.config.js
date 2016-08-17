@@ -2,21 +2,18 @@ var webpack = require('webpack');
 
 module.exports = {
   entry: {
-    app: [__dirname + "/public/entry.js"],
-    vendor: ['chiasm', 'model-js', 'd3', 'd3-timer', 'chiasm-component', 'chiasm-crossfilter', 'chiasm-layout', 'chiasm-links', 'chiasm-dataset-loader', 'leaflet', 'lodash'],
+    app: _dirname + "/public/entry.js",
   },
   output: {
-      path: __dirname + '/public',
+      path: __dirname,
       filename: "bundle.js"
   },
   module: {
       loaders: [
           {
-            test: /\.css$/, loader: "style!css"
+            test: /\.css$/, loader: "style!css",
+            exclude: /node_modules/,
           }
       ],
   },
-  plugins: [
-    new webpack.optimize.CommonsChunkPlugin(/* filename= */"vendor.bundle.js")
-  ]
 };
