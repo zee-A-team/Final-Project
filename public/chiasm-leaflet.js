@@ -1,8 +1,7 @@
 // This is an example Chaism plugin that uses Leaflet.js.
-var my;
 function ChiasmLeaflet() {
 
-  my = ChiasmComponent({
+  var my = ChiasmComponent({
     center: [0, 0],
     zoom: 2
   });
@@ -32,9 +31,8 @@ function ChiasmLeaflet() {
 
   // Found by browsing http://leaflet-extras.github.io/leaflet-providers/preview/
   L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.png', {
-        noWrap: true,
-        continuousWorld : false,
-        reuseTiles : true
+       noWrap: true,
+       continuousWorld : false,
     }).addTo(my.map);
 
   var overlays = {

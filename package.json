@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "bundle": "webpack"
   },
   "repository": {
     "type": "git",
@@ -20,11 +21,30 @@
   "homepage": "https://github.com/Viltaria/Final-Project#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
+    "chiasm": "^0.3.0",
+    "chiasm-component": "^0.2.3",
+    "chiasm-crossfilter": "^0.1.1",
+    "chiasm-dataset-loader": "^0.3.1",
+    "chiasm-layout": "^0.3.0",
+    "chiasm-links": "^0.2.3",
+    "css-loader": "^0.23.1",
+    "d3": "^4.2.2",
     "d3-timer": "^1.0.2",
     "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "leaflet": "^0.7.7",
+    "lodash": "^4.15.0",
+    "model-js": "^0.2.5",
     "mongodb": "^2.2.5",
     "mongoose": "^4.5.8",
     "node-mongo-seeds": "^2.3.0",
-    "topojson": "^1.6.26"
+    "style-loader": "^0.13.1",
+    "topojson": "^1.6.26",
+    "webpack": "^1.13.1",
+    "webpack-dev-middleware": "^1.6.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
   }
 }
