@@ -98,4 +98,3 @@ chiasm.setConfig({
     }
   }
 });
-// module.exports = chiasm;

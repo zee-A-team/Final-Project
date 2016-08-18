@@ -111,4 +111,3 @@ function BubbleMap() {
 
   return my;
 }
-module.exports = BubbleMap;

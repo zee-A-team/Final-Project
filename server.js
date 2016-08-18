@@ -12,6 +12,7 @@ const webpackHotMiddleware = require('webpack-hot-middleware');
 
 const config = require('./webpack.config');
 const compiler = webpack(config);
+
 /*----------  MONGOOSE ORM SETUP   ----------*/
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/et');
