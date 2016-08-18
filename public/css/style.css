@@ -24,12 +24,12 @@ body {
   margin-left: 10%;
   margin-right: 10%;
   margin-top: 10%;
-  max-height: 65%;
-  min-height: 65%;
+  max-height: 40%;
+  min-height: 40%;
 }
 
 #additional-info{
-  padding-top: 50%;
+  padding-top: 40%;
 }
 
 .chiasm-component-date-chart{
@@ -39,4 +39,8 @@ body {
 #main-container{
   position: absolute;
   width: 100%;
+}
+
+#left-additional-info{
+  max-width: 50%;
 }

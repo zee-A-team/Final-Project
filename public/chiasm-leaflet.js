@@ -33,7 +33,7 @@ function ChiasmLeaflet() {
   // Found by browsing http://leaflet-extras.github.io/leaflet-providers/preview/
   L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.png', {
         noWrap: true,
-        continuousWorld : false,
+        continuousWorld : true,
         reuseTiles : true
     }).addTo(my.map);
 
