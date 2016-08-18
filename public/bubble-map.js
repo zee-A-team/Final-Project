@@ -97,6 +97,7 @@ function BubbleMap() {
         weight: 1,
         clickable: true,
       });
+      circleMarker.commonName = d['Common name'];
 
       // icon
       // var circleMarker = L.icon({
@@ -106,10 +107,7 @@ function BubbleMap() {
       // });
       // L.marker(markerCenter,{icon:circleMarker}).addTo(my.map);
 
-      circleMarker.addEventListener('mouseover', () => {
-        console.log('ayylmao');
-      });
-
+      circleMarker.bindPopup(circleMarker.commonName);
       circleMarker.setRadius(r(d));
       circleMarker.addTo(my.map);
       return circleMarker;
