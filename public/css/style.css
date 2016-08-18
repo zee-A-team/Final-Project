@@ -19,3 +19,24 @@ body {
   fill: none;
   stroke: rgb(44,155,155);
 }
+
+#chiasm-container{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+  max-height: 65%;
+  min-height: 65%;
+}
+
+#additional-info{
+  padding-top: 750px;
+}
+
+.chiasm-component-date-chart{
+  position: static;
+}
+
+#main-container{
+  position: absolute;
+  width: 100%;
+}
