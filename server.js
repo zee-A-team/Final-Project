@@ -40,7 +40,7 @@ app.get( '/test', ( req, res ) => {
       if (err) res.send(err);
       return res.json(animals);
     });
-  });
+  });//test
 
 app.post( '/test', ( req, res ) => {
     var animal = new Animal();
