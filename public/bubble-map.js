@@ -1,13 +1,15 @@
 // This is a Chiasm component that implements a bubble map.
 // Based on chiasm-leaflet.
 //
+var ChiasmLeaflet = require('./chiasm-leaflet');
+var Model = require('model-js');
+var L = require('leaflet');
 
 function BubbleMap() {
 
   // TODO move these to config.
   var latitudeColumn = "latitude";
   var longitudeColumn = "longitude";
-
 
   // Extend chiasm-leaflet using composition (not inheritence).
   var my = ChiasmLeaflet();
@@ -98,15 +100,6 @@ function BubbleMap() {
         clickable: true,
       });
       circleMarker.commonName = d['Common name'];
-
-      // icon
-      // var circleMarker = L.icon({
-      //   iconUrl: 'lion_small-compressor.png',
-      //   iconSize: [30,30],
-      //   clickable: true,
-      // });
-      // L.marker(markerCenter,{icon:circleMarker}).addTo(my.map);
-
       circleMarker.bindPopup(circleMarker.commonName);
       circleMarker.setRadius(r(d));
       circleMarker.addTo(my.map);
@@ -116,3 +109,4 @@ function BubbleMap() {
 
   return my;
 }
+module.exports = BubbleMap;

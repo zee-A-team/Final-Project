@@ -1,3 +1,6 @@
+var ChiasmComponent = require('chiasm-component');
+var d3 = require('d3');
+var Model = require('model-js');
 // This is an example Chaism plugin that uses D3 to make a bar chart.
 // Draws from this Bar Chart example http://bl.ocks.org/mbostock/3885304
 function BarChart() {
@@ -181,7 +184,6 @@ function xAxis(my, g){
       .attr("transform", "rotate(-" + xAxisTickAngle + ")" );
 
     if(xAxisTickAngle > 45){
-      // TODO try to find a way to have this non-hard-coded
       text
         .attr("dx", "-0.9em")
         .attr("dy", "-0.6em")
@@ -200,4 +202,4 @@ function xAxis(my, g){
 
   return axisG;
 }
-
+module.exports = BarChart;

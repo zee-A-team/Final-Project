@@ -1,4 +1,5 @@
 /*----------  PIE CHART COMPARING EXTINCTIONS BY HEMISPHERE  ----------*/
+var c3 = require('c3');
 var data = d3.json("../animalData.json", function(data){
  var north = 0;
  var south = 0;
@@ -29,3 +30,4 @@ var data = d3.json("../animalData.json", function(data){
     }
   });
 });
+
