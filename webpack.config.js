@@ -2,7 +2,7 @@
 var path = require('path');
 var webpack = require('webpack');
 
-var config = {
+module.exports = {
   entry: [
     './entry.js',
   ],
@@ -10,13 +10,13 @@ var config = {
     new webpack.HotModuleReplacementPlugin(),
   ],
   output: {
-    path: __dirname,
+    path: __dirname + 'public',
     filename: 'bundle.js'
   },
   module: {
     loaders: [
       {
-        test: /.jsx?$/,
+        test: /.js?$/,
         loader: 'babel-loader',
         exclude: /node_modules/,
       },
@@ -30,5 +30,3 @@ var config = {
     ],
   },
 };
-
-module.exports = config;

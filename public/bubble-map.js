@@ -1,14 +1,15 @@
 // This is a Chiasm component that implements a bubble map.
 // Based on chiasm-leaflet.
 //
-var ChiasmLeaflet = require('leaflet');
+var ChiasmLeaflet = require('./chiasm-leaflet');
+var Model = require('model-js');
+var L = require('leaflet');
 
 function BubbleMap() {
 
   // TODO move these to config.
   var latitudeColumn = "latitude";
   var longitudeColumn = "longitude";
-
 
   // Extend chiasm-leaflet using composition (not inheritence).
   var my = ChiasmLeaflet();

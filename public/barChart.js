@@ -1,9 +1,8 @@
-
 var ChiasmComponent = require('chiasm-component');
 var d3 = require('d3');
+var Model = require('model-js');
 // This is an example Chaism plugin that uses D3 to make a bar chart.
 // Draws from this Bar Chart example http://bl.ocks.org/mbostock/3885304
-
 function BarChart() {
 
   var my = ChiasmComponent({

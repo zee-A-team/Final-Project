@@ -16,19 +16,24 @@ const compiler = webpack(config);
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/et');
 const db = mongoose.connection;
+const path = require('path');
 
 db.on('error', console.error.bind(console, "connection error"));
 db.once('open', _ => console.log("Mongo reporting for duty!"));
 
-app.use(express.static(__dirname));
+app.use(express.static('public'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:true}));
-app.use(webpackDevMiddleware(compiler, {
-  publicPath: config.output.publicPath,
-    stats: {
-    colors: true,
-  }
-}));
+// app.use(webpackDevMiddleware(compiler, {
+//   publicPath: config.output.publicPath,
+//     stats: {
+//     colors: true,
+//   }
+// }));
+
+app.get('/', (req, res) => {
+  return res.sendFile('public/index.html');
+});
 
 app.get( '/test', ( req, res ) => {
     Animal.find( ( err, animals ) => {
