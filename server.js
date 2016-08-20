@@ -24,12 +24,12 @@ db.once('open', _ => console.log("Mongo reporting for duty!"));
 app.use(express.static('public'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:true}));
-// app.use(webpackDevMiddleware(compiler, {
-//   publicPath: config.output.publicPath,
-//     stats: {
-//     colors: true,
-//   }
-// }));
+app.use(webpackDevMiddleware(compiler, {
+  publicPath: config.output.publicPath,
+    stats: {
+    colors: true,
+  }
+}));
 
 app.get('/', (req, res) => {
   return res.sendFile('public/index.html');
