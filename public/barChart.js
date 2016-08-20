@@ -202,3 +202,4 @@ function xAxis(my, g){
 
   return axisG;
 }
+module.exports = BarChart;

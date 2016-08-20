@@ -74,3 +74,4 @@ function ChiasmCrossfilter() {
   });
   return my;
 }
+module.exports = ChiasmCrossfilter;
