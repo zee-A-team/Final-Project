@@ -23,6 +23,8 @@
   "dependencies": {
     "babel-core": "^6.13.2",
     "babel-loader": "^6.2.5",
+    "@risingstack/graffiti": "^3.1.1",
+    "@risingstack/graffiti-mongoose": "^5.2.1",
     "body-parser": "^1.15.2",
     "browserify": "^13.1.0",
     "chiasm": "^0.3.0",
@@ -47,6 +49,8 @@
     "leaflet": "^0.7.7",
     "lodash": "^4.15.0",
     "model-js": "^0.2.5",
+    "graphiql": "^0.7.4",
+    "graphql": "^0.6.2",
     "mongodb": "^2.2.5",
     "mongoose": "^4.5.8",
     "node-mongo-seeds": "^2.3.0",

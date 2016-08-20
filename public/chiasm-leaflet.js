@@ -7,7 +7,7 @@ function ChiasmLeaflet() {
 
   var my = ChiasmComponent({
     center: [0, 0],
-    zoom: 2
+    zoom: 5
   });
 
   // This line of code lets you see what the center value is when you pan in the map.
@@ -24,7 +24,7 @@ function ChiasmLeaflet() {
   // Instantiate the Leaflet map, see docs at
   // http://leafletjs.com/reference.html#map-constructor
   my.map = L.map(my.el, {
-    zoom: 1,
+    zoom: 5,
     minZoom: 2,
     maxZoom: 5,
     // scrollWheelZoom: false,
@@ -35,8 +35,9 @@ function ChiasmLeaflet() {
 
   // Found by browsing http://leaflet-extras.github.io/leaflet-providers/preview/
   L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.png', {
-       noWrap: true,
-       continuousWorld : false,
+        noWrap: true,
+        continuousWorld : true,
+        reuseTiles : true
     }).addTo(my.map);
 
   var overlays = {

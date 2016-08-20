@@ -99,11 +99,8 @@ function BubbleMap() {
         weight: 1,
         clickable: true,
       });
-
-      circleMarker.addEventListener('mouseover', () => {
-        console.log('ayylmao');
-      });
-
+      circleMarker.commonName = d['Common name'];
+      circleMarker.bindPopup(circleMarker.commonName);
       circleMarker.setRadius(r(d));
       circleMarker.addTo(my.map);
       return circleMarker;

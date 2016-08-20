@@ -30,3 +30,28 @@
   text-anchor: middle;
   font-size: 1.1em;
 }
+
+#chiasm-container{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+  max-height: 40%;
+  min-height: 40%;
+}
+
+#additional-info{
+  padding-top: 40%;
+}
+
+.chiasm-component-date-chart{
+  position: static;
+}
+
+#main-container{
+  position: absolute;
+  width: 100%;
+}
+
+#left-additional-info{
+  max-width: 50%;
+}
