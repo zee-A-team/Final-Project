@@ -7,9 +7,6 @@ const PORT = process.env.PORT || 3001;
 const graffiti = require('@risingstack/graffiti');
 const schema = require('./models/schema.js');
 
-
-
-
 const webpack = require('webpack');
 const webpackDevMiddleware = require('webpack-dev-middleware');
 const webpackHotMiddleware = require('webpack-hot-middleware');
@@ -52,7 +49,7 @@ app.get( '/test', ( req, res ) => {
       if (err) res.send(err);
       return res.json(animals);
     });
-  });//test
+  });
 
 app.post( '/test', ( req, res ) => {
     var animal = new Animal();
