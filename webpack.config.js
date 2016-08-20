@@ -1,6 +1,6 @@
-"use strict";
 var path = require('path');
 var webpack = require('webpack');
+var autoprefixer = require('autoprefixer');
 
 module.exports = {
   entry: [
@@ -14,8 +14,7 @@ module.exports = {
     filename: 'bundle.js'
   },
   module: {
-    loaders: [
-      {
+    loaders: [{
         test: /.js?$/,
         loader: 'babel-loader',
         exclude: /node_modules/,
@@ -25,8 +24,12 @@ module.exports = {
         loaders: [
           'style',
           'css',
-        ],
-      },
+          'sass'
+        ]
+      }
     ],
+    postcss: [
+      require('autoprefixer')
+    ]
   },
 };

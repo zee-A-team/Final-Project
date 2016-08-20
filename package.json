@@ -23,6 +23,7 @@
   "dependencies": {
     "@risingstack/graffiti": "^3.1.1",
     "@risingstack/graffiti-mongoose": "^5.2.1",
+    "autoprefixer": "^6.4.0",
     "babel-core": "^6.13.2",
     "babel-loader": "^6.2.5",
     "body-parser": "^1.15.2",
@@ -55,6 +56,8 @@
     "mongodb": "^2.2.5",
     "mongoose": "^4.5.8",
     "node-mongo-seeds": "^2.3.0",
+    "node-sass": "^3.8.0",
+    "sass": "^0.5.0",
     "stats-webpack-plugin": "^0.4.2",
     "style-loader": "^0.13.1",
     "topojson": "^1.6.26",
@@ -66,6 +69,8 @@
   },
   "devDependencies": {
     "gulp": "^3.9.1",
-    "webpack": "^1.13.1"
+    "node-sass": "^3.8.0",
+    "sass-loader": "^4.0.0",
+    "webpack": "^1.13.2"
   }
 }
