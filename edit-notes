@@ -1,0 +1,48 @@
+/*
+  max-height: 80%;
+  min-height: 80%;
+}
+
+#header-div{
+  background-color: red;
+  height: 20%;
+}
+
+#chiasm-dummy {
+  background-color: black;
+  height: 600px;
+}
+
+#additional-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: strech;
+  background-color: blue;
+  height: 300px;
+  opacity: 0.5;
+}
+
+#info-1 {
+  background-color: red;
+  width: 33%;
+}
+
+#info-2 {
+  background-color: green;
+  width: 33%;
+}
+
+#info-3 {
+  background-color: yellow;
+  width: 33%;
+=======
+  margin-top: 10%;
+  max-height: 40%;
+  min-height: 40%;
+}
+
+#additional-info{
+  padding-top: 40%;
+>>>>>>> e9af8d3622a8aaaeb221ebffa575ca8a352a2fd8
+}*/

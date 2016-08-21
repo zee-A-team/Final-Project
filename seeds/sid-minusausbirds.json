@@ -1,0 +1,2485 @@
+ [
+   {
+    "Common name":"Desert rat-kangaroo",
+    "Scientific name":"Caloprymnus campestris",
+    "Range":"Queensland, South Australia, Northern Territories",
+    "date" : "1935-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-20.90",
+    "longitude" :"142.70",
+    "latlong" : "-20.90,142.70",
+    "type" : "land"
+  },
+   {
+    "Common name":"Pig-footed bandicoot",
+    "Scientific name":"Chaeropus ecaudatus",
+    "Range":"New South Wales, Northern Territories South Australia, Victoria, Western Australia",
+    "date" : "1950-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-25.61",
+    "longitude" :"132.95",
+    "latlong" : "-25.61,132.95",
+    "type" : "land"
+  },
+   {
+    "Common name":"White-footed rabbit-rat",
+    "Scientific name":"Conilurus albipes",
+    "Range":"New South Wales, Queensland, South Australia, Victoria",
+    "date" : "1857-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-32.90",
+    "longitude" :"140.70",
+    "latlong" : "-32.90,140.70",
+    "type" : "land"
+  },
+   {
+    "Common name":"Central hare-wallaby",
+    "Scientific name":"Lagorchestes asomatus",
+    "Range":"Northern Territories",
+    "date" : "1935-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-21.09",
+    "longitude" :"133.65",
+    "latlong" : "-20.90,142.70",
+    "type" : "land"
+  },
+   {
+    "Common name":"Eastern hare-wallaby",
+    "Scientific name":"Lagorchestes leporides",
+    "Range":"New South Wales, Queensland, South Australia, Victoria",
+    "date" : "1890-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-20.90",
+    "longitude" :"142.70",
+    "latlong" : "-20.90,142.70",
+    "type" : "land"
+  },
+   {
+    "Common name":"Toolache wallaby",
+    "Scientific name":"Macropus grey",
+    "Range":"South Australia, Victoria",
+    "date" : "1932-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-35.54",
+    "longitude" :"140.86",
+    "latlong" : "-35.54,140.86",
+    "type" : "land"
+  },
+   {
+    "Common name":"Lesser bilby",
+    "Scientific name":"Macrotis leucura",
+    "Range":"Northern Territories Queensland, Southern Australia",
+    "date" : "1931-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-26.90",
+    "longitude" :"139.63",
+    "latlong" : "-26.90,139.63",
+    "type" : "land"
+  },
+   {
+    "Common name":"Toolache wallaby",
+    "Scientific name":"Macropus greyi",
+    "Range":"South Australia, Victoria",
+    "date" : "1932-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-35.54",
+    "longitude" :"140.86",
+    "latlong" : "-35.54,140.86",
+    "type" : "land"
+  },
+   {
+    "Common name":"Toolache wallaby",
+    "Scientific name":"Macropus greyi",
+    "Range":"South Australia, Victoria",
+    "date" : "1932-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-35.54",
+    "longitude" :"140.86",
+    "latlong" : "-35.54,140.86",
+    "type" : "land"
+  },
+   {
+    "Common name":"Bramble Cay melomys",
+    "Scientific name":"Melomys rubicola",
+    "Range":"Bramble Cay, Queensland",
+    "date" : "1896-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-9.14",
+    "longitude" :"143.87",
+    "latlong" : "-9.14,,143.87",
+    "type" : "land"
+  },
+   {
+    "Common name":"Long-tailed hopping-mouse",
+    "Scientific name":"Notomys longicaudatus",
+    "Range":"Northern Territories South Australia, Western Australia",
+    "date" : "1901-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-20.90",
+    "longitude" :"142.70",
+    "latlong" : "-20.90,142.70",
+    "type" : "land"
+  },
+   {
+    "Common name":"Big-eared hopping-mouse",
+    "Scientific name":"Notomys macrotis",
+    "Range":"Western Australia",
+    "date" : "1843-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-25.59",
+    "longitude" :"121.86",
+    "latlong" : "-20.90,142.70",
+    "type" : "land"
+  },
+   {
+    "Common name":"Darling Downs hopping-mouse",
+    "Scientific name":"Notomys mordax",
+    "Range":"New South Wales, Queensland",
+    "date" : "1846-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-28.95",
+    "longitude" :"144.27",
+    "latlong" : "-28.95,144.27",
+    "type" : "land"
+  },
+   {
+    "Common name":"Crescent nail-tail wallaby",
+    "Scientific name":"Onychogalea lunata",
+    "Range":"South Australia, Western Australia",
+    "date" : "1956-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-28.64",
+    "longitude" :"128.62",
+    "latlong" : "-28.64,128.62",
+    "type" : "land"
+  },
+   {
+    "Common name":"Desert bandicoot",
+    "Scientific name":"Perameles eremiana",
+    "Range":"Northern Territories South Australia, Western Australia",
+    "date" : "1960-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-25.75",
+    "longitude" :"129.08",
+    "latlong" : "-25.75,129.08",
+    "type" : "land"
+  },
+   {
+    "Common name":"Broad-faced potoroo",
+    "Scientific name":"Potorous platyops",
+    "Range":"Western Australia",
+    "date" : "1865-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-26.78",
+    "longitude" :"122.39",
+    "latlong" : "-26.78,122.39",
+    "type" : "land"
+  },
+   {
+    "Common name":"Blue-grey mouse",
+    "Scientific name":"Pseudomys glaucus6",
+    "Range":"New South Wales, Queensland",
+    "date" : "1956-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-28.95",
+    "longitude" :"144.27",
+    "latlong" : "-28.95,144.27",
+    "type" : "land"
+  },
+   {
+    "Common name":"Gould's mouse",
+    "Scientific name":"Pseudomys gouldii",
+    "Range":"New South Wales, Queensland, South Australia, Victoria, Western Australia",
+    "date" : "1857-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-25.99",
+    "longitude" :"139.22",
+    "latlong" : "-25.99,139.22",
+    "type" : "land"
+  },
+   {
+    "Common name":"Dusky flying fox",
+    "Scientific name":"Pteropus brunneus",
+    "Range":"Queensland",
+    "date":  "1800-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-23.63",
+    "longitude" :"143.56",
+    "latlong" : "-23.63,143.56",
+    "type" : "land"
+  },
+   {
+    "Common name":"Maclear's rat",
+    "Scientific name":"Rattus macleari",
+    "Range":"Christmas Island",
+    "date" : "1908-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "--",
+    "latitude" : "-10.48",
+    "longitude" :" 105.64",
+    "latlong" : "-10.48,105.64",
+    "type" : "land"
+  },
+  {
+    "Scientific name":"Thylacinus cynocephalus1",
+    "Common name":"Thylacine, Tasmanian tiger",
+    "Range":"Tasmania",
+    "date" : "1936-01-01T00:00:00Z",
+    "Image": "--",
+    "Description" : "There have been 1-4 sightings a year but none have been confirmed",
+    "latitude" : "-42.41",
+    "longitude" :"146.86",
+    "latlong" : "-42.41,146.86",
+    "type" : "land"
+  },
+  {
+    "Common name": "Gastric-brooding frog",
+    "Scientific name" : "Rheobatrachus silus",
+    "date": "1981-01-01T00:00:00Z",
+    "Range": "Queensland",
+    "Image": "--",
+    "Description": "",
+    "latitude" : "-20.90",
+    "longitude" :"142.70",
+    "latlong" : "-20.90,142.70",
+    "type" : "land"
+  },
+  {
+    "Common name": "Eungella gastric-brooding frog",
+    "Scientific name" : "Rheobatrachus vitellinus",
+    "date": "1985-01-01T00:00:00Z",
+    "Range": "Queensland",
+    "Image": "--",
+    "Description": "",
+    "latitude" : "-20.90",
+    "longitude" :"142.70",
+    "latlong" : "-20.90,142.70",
+    "type" : "land"
+  },
+  {
+    "Common name": "Sharp-snouted day frog",
+    "Scientific name" : "Taudactylus acutirostris",
+    "date": "1997-01-01T00:00:00Z",
+    "Range": "Queensland",
+    "Image": "--",
+    "Description": "",
+    "latitude" : "-20.90",
+    "longitude" :"142.70",
+    "latlong" : "-20.90,142.70",
+    "type" : "land"
+  },
+  {
+    "Common name": "Southern day frog",
+    "Scientific name" : "Taudactylus diurnus",
+    "date": "1979-01-01T00:00:00Z",
+    "Range": "Queensland",
+    "Image": "--",
+    "Description": "",
+    "latitude" : "-20.90",
+    "longitude" :"142.70",
+    "latlong" : "-20.90,142.70",
+    "type" : "land"
+  },
+  {
+    "Common name": "Christmas Island fores skink",
+    "Scientific name" : "Emoia nativitatis",
+    "date": "2014-01-01T00:00:00Z",
+    "Range": "Christmas Island",
+    "Image": "--",
+    "Description": "",
+    "latitude" : "-10.90",
+    "longitude" :"105.70",
+    "latlong" : "-10.90,105.70",
+    "type" : "land"
+  },
+   {
+     "Common name" : "ʻĀmaui",
+     "Scientific name" : "Myadestes woahensis",
+     "date": "1850-01-01T00:00:00Z",
+     "Range": "Oahu",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "21.90",
+     "longitude" : "-158.70",
+     "latlong" : "21.90, -158.70"
+   },
+   {
+     "Common name" : "Bishop's ʻōʻō",
+     "Scientific name" : "Moho bishopi",
+     "date": "1904-01-01T00:00:00Z",
+     "Range": "Molokai and Maui",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "21.14",
+     "longitude" : "-157.00",
+     "latlong" : "21.14, -157.00"
+   },
+   {
+     "Common name" : "Black mamo",
+     "Scientific name" : "Drepanis funerea",
+     "date": "1907-01-01T00:00:00Z",
+     "Range": "Molokai and Maui",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "21.14",
+     "longitude" : "-157.00",
+     "latlong" : "21.14, -157.00"
+   },
+   {
+     "Common name" : "Greater ʻamakihi",
+     "Scientific name" : "Hemignathus sagittirostris",
+     "date": "1901-01-01T00:00:00Z",
+     "Range": "Hawaii/Big Island",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "19.66",
+     "longitude" : "-155.51",
+     "latlong" : "19.66, -155.51"
+   },
+   {
+     "Common name" : "Greater koa finch",
+     "Scientific name" : "Rhodacanthis palmeri",
+     "date": "1896-01-01T00:00:00Z",
+     "Range": "Hawaii/Big Island",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "19.66",
+     "longitude" : "-155.51",
+     "latlong" : "19.66, -155.51"
+   },
+   {
+     "Common name" : "Hawaiʻi ʻakialoa",
+     "Scientific name" : "Hemignathus obscurus",
+     "date": "1940-01-01T00:00:00Z",
+     "Range": "Hawaii/Big Island",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "19.66",
+     "longitude" : "-155.51",
+     "latlong" : "19.66, -155.51"
+   },
+   {
+     "Common name" : "Hawai'i mamo",
+     "Scientific name" : "Drepanis pacifica",
+     "date": "1988-01-T00:00:00Z",
+     "Range": "Hawaiian Islands",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air"
+   },
+   {
+     "Common name" : "Hawaiʻi ʻōʻō",
+     "Scientific name" : "Moho nobilis",
+     "date": "1934-01-01T00:00:00Z",
+     "Range": "Hawaii/Big Island",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "19.66",
+     "longitude" : "-155.51",
+     "latlong" : "19.66, -155.51"
+   },
+   {
+     "Common name" : "Hawaiian rail",
+     "Scientific name" : "Porzana sandwichensis",
+     "date": "1883-01-01T00:00:00Z",
+     "Range": "Hawaii/Big Island",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "19.66",
+     "longitude" : "-155.51",
+     "latlong" : "19.66, -155.51"
+   },
+   {
+     "Common name" : "Kāmaʻo",
+     "Scientific name" : "Myadestes myadestinus",
+     "date": "1989-01-01T00:00:00Z",
+     "Range": "Kauaʻi",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "22.09",
+     "longitude" : "-159.52",
+     "latlong" : "22.09, -159.52"
+   },
+   {
+     "Common name" : "Kauaʻi ʻakialoa",
+     "Scientific name" : "Hemignathus ellisianus stejnegeri",
+     "date": "1965-01-01T00:00:00Z",
+     "Range": "Kauaʻi",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "22.09",
+     "longitude" : "-159.52",
+     "latlong" : "22.09, -159.52"
+   },
+   {
+     "Common name" : "Kauaʻi ʻōʻō",
+     "Scientific name" : "Moho braccatus",
+     "date": "1987-01-01T00:00:00Z",
+     "Range": "Kauaʻi",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "22.09",
+     "longitude" : "-159.52",
+     "latlong" : "22.09, -159.52"
+
+   },
+   {
+     "Common name" :  "Kioea",
+     "Scientific name" : "Chaetoptila angustipluma",
+     "date": "1859-01-01T00:00:00Z",
+     "Range": "Hawaii/Big Island",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "19.66",
+     "longitude" : "-155.51",
+     "latlong" : "19.66, -155.51"
+   },
+   {
+     "Common name" : "Lana'i 'akialoa",
+     "Scientific name" : "Hemignathus ellisianus lanaiensis",
+     "date": "1890-01-01T00:00:00Z",
+     "Range": "Lana'i",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "20.82",
+     "longitude" : "156.92",
+     "latlong" : "20.82, 156.92"
+   },
+   {
+     "Common name" : "Kona grosbeak",
+     "Scientific name" : "Chloridops kona",
+     "date": "1894-01-01T00:00:00Z",
+     "Range": "Hawaii/Big Island",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "19.66",
+     "longitude" : "-155.51",
+     "latlong" : "19.66, -155.51"
+   },
+   {
+     "Common name" : "Lanai hookbill",
+     "Scientific name" : "Dysmorodrepanis munroi",
+     "date": "1918-01-01T00:00:00Z",
+     "Range": "Lanai",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "20.82",
+     "longitude" : "156.92",
+     "latlong" : "20.82, 156.92"
+   },
+   {
+     "Common name" : "Laysan rail",
+     "Scientific name" : "Porzana palmeri",
+     "date": "1944-01-01T00:00:00Z",
+     "Range": "Laysan",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "25.76",
+     "longitude" : "-71.73",
+     "latlong" : "25.76, -71.73"
+   },
+   {
+     "Common name" : "Laysan honeycreeper",
+     "Scientific name" : "Himatione fraithii",
+     "date": "1923-01-01T00:00:00Z",
+     "Range": "Laysan",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "25.76",
+     "longitude" : "-71.73",
+     "latlong" : "25.76, -71.73"
+   },
+   {
+     "Common name" : "Laysan millerbird",
+     "Scientific name" : "Acrocephalus familiaris familiaris",
+     "date": "1910-01-01T00:00:00Z",
+     "Range": "Laysan",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "25.76",
+     "longitude" : "-71.73",
+     "latlong" : "25.76, -71.73"
+   },
+   {
+     "Common name" : "Lesser koa finch",
+     "Scientific name" : "Rhodacanthis flaviceps",
+     "date": "1891-01-01T00:00:00Z",
+     "Range": "Hawaii/Big Island",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "19.66",
+     "longitude" : "-155.51",
+     "latlong" : "19.66, -155.51"
+   },
+   {
+     "Common name" : "Maui ʻakepa",
+     "Scientific name" : "Loxops coccineus ochraceus",
+     "date": "1988-01-01T00:00:00Z",
+     "Range": "Maui",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "21.14",
+     "longitude" : "-157.00",
+     "latlong" : "21.14, -157.00"
+   },
+   {
+     "Common name" : "Molokaʻi creeper",
+     "Scientific name" : "Paroreomyza flammea",
+     "date": "1963-01-01T00:00:00Z",
+     "Range": "Molokaʻi",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "21.14",
+     "longitude" : "-157.00",
+     "latlong" : "21.14, -157.00"
+   },
+   {
+     "Common name" : "Oʻahu ʻōʻō",
+     "Scientific name" : "Moho apicalis",
+     "date": "1837-01-01T00:00:00Z",
+     "Range": "Oahu",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "21.90",
+     "longitude" : "-158.70",
+     "latlong" : "21.90, -158.70"
+   },
+   {
+     "Common name" : "Oahu 'akialoa",
+     "Scientific name" : "Hemignathus ellisianus ellisanus",
+     "date": "1940-01-01T00:00:00Z",
+     "Range": "Oahu",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "21.90",
+     "longitude" : "-158.70",
+     "latlong" : "21.90, -158.70"
+   },
+   {
+     "Common name" : "Oʻahu ʻakepa",
+     "Scientific name" : "Loxops coccineus wolstenholmei",
+     "date": "1990-01-01T00:00:00Z",
+     "Range": "Oahu",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "21.90",
+     "longitude" : "-158.70",
+     "latlong" : "21.90, -158.70"
+   },
+   {
+     "Common name" : "Oʻahu nukupuʻu",
+     "Scientific name" : "Hemignathus lucidus lucidus",
+     "date": "1837-01-01T00:00:00Z",
+     "Range": "Oahu",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "21.90",
+     "longitude" : "-158.70",
+     "latlong" : "21.90, -158.70"
+   },
+   {
+     "Common name" : "Ula-'ai-hawane",
+     "Scientific name" : "Ciridops anna",
+     "date": "1892-01-01T00:00:00Z",
+     "Range": "Hawaii/Big Island",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "air",
+     "latitude" : "19.66",
+     "longitude" : "-155.51",
+     "latlong" : "19.66, -155.51"
+   },
+   {
+     "Common name" :  "Emperor rat",
+     "Scientific name" : "Uromys imperator",
+     "date": "1960-01-01T00:00:00Z",
+     "Range": "Solomon Islands",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "land",
+     "latlong" : "-9.64, 160.156",
+     "latitude" : "-9.64",
+     "longitude" : "160.156"
+   },
+   {
+     "Common name" :  "Guadalcanal rat",
+     "Scientific name" : "Uromys porculus",
+     "date": "1888-01-01T00:00:00Z",
+     "Range": "Solomon Islands",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "land",
+     "latlong" : "-9.64, 160.156",
+     "latitude" : "-9.64",
+     "longitude" : "160.156"
+   },
+   {
+     "Common name" :  "Guam flying fox",
+     "Scientific name" : "Pteropus tokudae",
+     "date": "1967-01-01T00:00:00Z",
+     "Range": "Guam",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "land",
+     "latlong" : "13.44, 144.79",
+     "latitude" : "13.44",
+     "longitude" : "144.79"
+   },
+   {
+     "Common name" :  "Large Palau flying fox",
+     "Scientific name" : "Pteropus pilosus",
+     "date": "1874-01-01T00:00:00Z",
+     "Range": "Palau",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "land",
+     "latlong" : "7.51, 134.58",
+     "latitude" : "7.51",
+     "longitude" : "34.58"
+   },
+   {
+     "Common name" :  "Nendo tube-nosed fruit bat",
+     "Scientific name" : "Nyctimene sanctacrucis",
+     "date": "1907-01-01T00:00:00Z",
+     "Range": "Solomon Islands",
+     "Image": "--",
+     "Description": "--",
+     "Type" : "land",
+     "latlong" : "13.44, 144.79",
+     "latitude" : "13.44",
+     "longitude" : "144.79"
+   },
+  {
+    "Common name" : "Mekosuchus",
+    "Scientific name" : "Mekosuchus",
+    "date": "-1000-01-01T00:00:00Z",
+    "Range": "New Caledonia and Vanuatu",
+    "Image": "--",
+    "Description": "--",
+    "latlong" : "-21.33, 165.42",
+    "latitude" : "-21.33",
+    "longitude" : "165.42",
+    "type" : "land"
+  },
+  {
+    "Common name" : "Tonga grou skink",
+    "Scientific name" : "Tachygia microlepis",
+    "date": "1800-01-01T00:00:00Z",
+    "Range": "Tonga",
+    "Image": "--",
+    "Description": "--",
+    "latlong" : "-21.19, -175.18",
+    "latitude" : "-21.19",
+    "longitude" : "175.18",
+    "type" : "land"
+  },
+  {
+    "Common name" : "Volia",
+    "Scientific name" : "Volia athollandersoni",
+    "date": "-5000-01-01T00:00:00Z",
+    "Range": "Fiji",
+    "Image": "--",
+    "Description": "--",
+    "latlong" : "-17.85, 177.98",
+    "latitude" : "-17.85",
+    "longitude" : "177.98",
+    "type" : "land"
+  },
+  {
+   "Common name" : "Bar-winged rail",
+   "Scientific name" : "Nesoclopeus poecilopterus",
+   "date": "1973-01-01T00:00:00Z",
+   "Range": "Fiji",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-17.85, 177.98",
+   "latitude" : "-17.85",
+   "" : "177.98",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Bay thrush",
+   "Scientific name" : "Aplonis ulietensis",
+   "date": "1850-01-01T00:00:00Z",
+   "Range": "Raiatea",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-16.81, -151.46",
+   "latitude" : "-16.81",
+   "" : "-151.46",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Black-fronted parakeet",
+   "Scientific name" : "Cyanoramphus zealandicus",
+   "date": "1850-01-01T00:00:00Z",
+   "Range": "Tahiti",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-17.67, -149.40",
+   "latitude" : "-17.67",
+   "" : "149.90",
+   "type" : "air"
+  },
+  {
+  "Common name" : "Christmas sandpiper",
+  "Scientific name" : "Prosobonia cancellata",
+  "date": "1850-01-01T00:00:00Z",
+  "Range": "Kiribati",
+  "Image": "--",
+  "Description": "--",
+  "latlong" : "1.87, -157.36",
+  "latitude" : "1.87",
+  "" : "-157.36",
+  "type" : "air"
+  },
+  {
+   "Common name" : "Choiseul pigeon",
+   "Scientific name" : "Microgoura meeki",
+   "date": "1904-01-01T00:00:00Z",
+   "Range": "Solomon Islands",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-9.64, 160.156",
+   "latitude" : "-9.64",
+   "" : "160.156",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Guam flycatcher",
+   "Scientific name" : "Myiagra freycineti",
+   "date": "1983-01-01T00:00:00Z",
+   "Range": "Guam",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "13.44, 144.79",
+   "latitude" : "13.44",
+   "" : "144.79",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Kosrae crake",
+   "Scientific name" : "Porzana monasa",
+   "date": "1827-01-01T00:00:00Z",
+   "Range": "Kosrae, Micronesia",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "5.31, 162.98",
+   "latitude" : "5.31",
+   "" : "162.98",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Kosrae starling",
+   "Scientific name" : "Aplonis corvina",
+   "date": "1827-01-01T00:00:00Z",
+   "Range": "Kosrae, Micronesia",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "5.31, 162.98",
+   "latitude" : "5.31",
+   "" : "162.98",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Liverpool pigeon",
+   "Scientific name" : "Caloenas maculata",
+   "date": "1851-01-01T00:00:00Z",
+   "Range": "Tahiti",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-17.67, -149.40",
+   "latitude" : "-17.67",
+   "" : "149.90",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Makira woodhen",
+   "Scientific name" : "Gallinula silvestris",
+   "date": "1953-01-01T00:00:00Z",
+   "Range": "Solomon Islands",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-9.64, 160.156",
+   "latitude" : "-9.64",
+   "" : "160.156",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Mariana mallard",
+   "Scientific name" : "Anas oustaleti",
+   "date": "1974-01-01T00:00:00Z",
+   "Range": "Northern Mariana Islands",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "15.04, 145.63",
+   "latitude" : "15.04",
+   "" : "145.63",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Marquesas swamphe",
+   "Scientific name" : "Porphyrio paepae",
+   "date": "1900-01-01T00:00:00Z",
+   "Range": "Marquesas Islands",
+   "Image": "--",
+   "Description":  "--",
+   "latlong" : "-9.75, -139.02",
+   "latitude" : "9.75",
+   "" : "-139.02",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Maupiti monarch",
+   "Scientific name" : "Pomarea pomarea",
+   "date": "1823-01-01T00:00:00Z",
+   "Range": "Maupiti",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-16.44, -152.26",
+   "latitude" : "-16.44",
+   "" : "-152.26",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Miller's rail",
+   "Scientific name" : "Porzana nigra",
+   "date": "1784-01-01T00:00:00Z",
+   "Range": "Tahiti",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-17.67, -149.40",
+   "latitude" : "-17.67",
+   "" : "149.90",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Mysterious starlin",
+   "Scientific name" : "Aplonis mavornata",
+   "date": "1774-01-01T00:00:00Z",
+   "Range": "Cook Islands",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-21.23, -159.78",
+   "latitude" : "-21.23",
+   "" : "159.78",
+   "type" : "air"
+  },
+  {
+   "Common name" : "New Caledonian gallile",
+   "Scientific name" : "Porphyrio kukwiedei",
+   "date": "'--'-01-01T00:00:00Z",
+   "Range": "New Caledonia",
+   "Image": "--",
+   "Description":  "--",
+   "latlong" : "-21.33, 165.42",
+   "latitude" : "-21.33",
+   "" : "165.42",
+   "type" : "air"
+  },
+  {
+   "Common name" : "New Caledonian giant scrubfowl",
+   "Scientific name" : "Sylviornis neocaledoniae",
+   "date": "-1500-01-01T00:00:00Z",
+   "Range": "Fiji",
+   "Image": "--",
+   "Description":  "-1500",
+   "latlong" : "-17.85, 177.98",
+   "latitude" : "-17.85",
+   "" : "177.98",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Nuku Hiva monarch",
+   "Scientific name" : "Pomarea nukuhivae",
+   "date": "1930-01-01T00:00:00Z",
+   "Range": "Nuku Hiva",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-8.86, -140.14",
+   "latitude" : "-8.86",
+   "" : "-140.14",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Oceanic eclectus parrot",
+   "Scientific name" : "Eclectus infectus",
+   "date": "1793-01-01T00:00:00Z",
+   "Range": "Tonga and Vanuatu",
+   "Image": "--",
+   "Description":  "--",
+   "latlong" : "-17.85, 177.98",
+   "latitude" : "-17.85",
+   "" : "177.98",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Red-moustached fruit dove",
+   "Scientific name" : "Ptilinopus mercierii",
+   "date": "1922-01-01T00:00:00Z",
+   "Range": "Marquesas Islands",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-9.75, -139.02",
+   "latitude" : "9.75",
+   "" : "-139.02",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Society parakeet",
+   "Scientific name" : "Cyanoramphus ulietanus",
+   "date": "1777-01-01T00:00:00Z",
+   "Range": "Raiatea",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-16.81, -151.46",
+   "latitude" : "-16.81",
+   "" : "-151.46",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Tahitian red-billed rat",
+   "Scientific name" : "Gallirallus pacificus",
+   "date": "1880-01-01T00:00:00Z",
+   "Range": "Tahiti",
+   "Image": "--",
+   "Description":  "--",
+   "latlong" : "-17.67, -149.40",
+   "latitude" : "-17.67",
+   "" : "149.90",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Tahiti sandpiper",
+   "Scientific name" : "Prosobonia leucoptera",
+   "date": "1922-01-01T00:00:00Z",
+   "Range": "Tahiti",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-17.67, -149.40",
+   "latitude" : "-17.67",
+   "" : "149.90",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Moorea sandpiper",
+   "Scientific name" : "Prosobonia ellisi",
+   "date": "1850-01-01T00:00:00Z",
+   "Range": "Moorea",
+   "Image": "--",
+   "Description":  "19th century",
+   "latlong" : "-17.53, 149.82",
+   "latitude" : "-17.53",
+   "" : "149.82",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Kiritimati sandpiper",
+   "Scientific name" : "Prosobonia cancellata",
+   "date": "1850-01-01T00:00:00Z",
+   "Range": "Kiritimati",
+   "Image": "--",
+   "Description":  "19th century",
+   "latlong" : "1.87, -157.36",
+   "latitude" : "1.87",
+   "" : "-157.36",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Tanna ground dove",
+   "Scientific name" : "Gallicolumba ferruginea",
+   "date": "1774-01-01T00:00:00Z",
+   "Range": "Vanuatu",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-15.37, 166.95",
+   "latitude" : "-15.37",
+   "" : "166.95",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Thick-billed ground dove",
+   "Scientific name" : "Gallicolumba salamonis",
+   "date": "1927-01-01T00:00:00Z",
+   "Range": "Solomon Islands",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-9.64, 160.156",
+   "latitude" : "-9.64",
+   "" : "160.156",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Tongatapu rail",
+   "Scientific name" : "Gallirallus hypoleucus",
+   "date": "1777-01-01T00:00:00Z",
+   "Range": "Tonga",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-17.85, 177.98",
+   "latitude" : "-17.85",
+   "" : "177.98",
+   "type" : "air"
+  },
+  {
+   "Common name" : "Wake Island rail",
+   "Scientific name" : "Gallirallus wakensis",
+   "date": "1945-01-01T00:00:00Z",
+   "Range": "Wake Island",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-19.28, 166.64",
+   "latitude" : "-19.28",
+   "" : "166.64",
+   "type" : "air"
+  },
+  {
+   "Common name" : "White-winged sandpiper",
+   "Scientific name" : "Prosobonia ellisi",
+   "date": "1777-01-01T00:00:00Z",
+   "Range": "Moorea",
+   "Image": "--",
+   "Description": "--",
+   "latlong" : "-17.53, 149.82",
+   "latitude" : "-17.53",
+   "" : "149.82",
+   "type" : "air"
+  },
+
+  Conversation opened. 2 messages. All messages read.
+
+  Skip to content
+  Using Gmail with screen readers
+  Search
+
+
+
+  Gmail
+  COMPOSE
+  Labels
+  Inbox (250)
+  Important
+  Sent Mail
+  Drafts
+  Spam (51)
+  Circles
+  Notes
+  Orders
+  More
+
+
+
+    More
+  18 of 1,255
+
+  Collapse all Print all In new window
+  many files that are named js but actually json
+  Inbox
+  x
+
+  S.Dodson <siddodson@gmail.com>
+  AttachmentsAug 17 (3 days ago)
+
+  to me
+  please mind you may need to do some cleaning.
+  7 Attachments
+
+
+  S.Dodson <siddodson@gmail.com>
+  AttachmentsAug 17 (3 days ago)
+
+  to me
+  THE REAL BABIES!!!!
+
+  8 Attachments
+
+
+  Click here to Reply or Forward
+  3.7 GB (0%) of 1,039 GB used
+  Manage
+  Terms - Privacy
+  Last account activity: 11 hours ago
+  Details
+  S.Dodson
+  Add to circles
+
+  Show details
+
+
+  /**
+  *
+  * reptiles
+  *
+  */
+  [
+  {
+  "Common name" : "Ainsworth's salamander,",
+  "Scientific name": "Plethodon ainsworthi",
+  "date": "1964-01-01T00:00:00Z",
+  "Range": "USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Craugastor escoces,",
+  "Scientific name": "Craugastor escoces",
+  "date": "1986-01-01T00:00:00Z",
+  "Range": "Costa Rica",
+  "Image": "--",
+  "latlong" : "9.74, -83.75",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Golden toad,",
+  "Scientific name": "Bufo periglenes",
+  "date": "1989-01-01T00:00:00Z",
+  "Range": "Costa Rica",
+  "Image": "--",
+  "latlong" : "9.74, -83.75",
+  "type" : "land"
+  }
+  ]
+  /**
+  *
+  * bird
+  *
+  */
+
+  [
+  {
+  "Common name" : "Aiolornis incredibilis",
+  "Scientific name": "",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "air"
+  },
+  {
+  "Common name" : "Antillean cave rail",
+  "Scientific name": "Nesotrochis debooyi",
+  "date": "-20000-01-01T00:00:00Z",
+  "Range": "Virgin Islands",
+  "Image": "--",
+  "latlong" : "18.41, -64.61",
+  "type" : "air"
+  },
+
+
+  {
+  "Common name" : "Antillean cave rail",
+  "Scientific name": "Nesotrochis debooyi",
+  "date": "-20000-01-01T00:00:00Z",
+  "Range": "Puerto Rico",
+  "Image": "--",
+  "latlong" : "18.22, -66.59",
+  "type" : "air"
+  },
+  {
+  "Common name" : "Californian turkey",
+  "Scientific name": "Meleagris californica",
+  "date": "-10000-01-01T00:00:00Z",
+  "Range": "USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "air"
+
+  },
+  {
+  "Common name" : "Cathartornis gracilis",
+  "Scientific name": "Cathartornis gracilis",
+  "date": "-10000-01-01T00:00:00Z",
+  "Range": "USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "air"
+
+  },
+  {
+  "Common name" : "Chendytes lawi",
+  "Scientific name": "Chendytes lawi",
+  "date": "-1800-01-01T00:00:00Z",
+  "Range": "Western USA Coast",
+  "Image": "--",
+  "latlong" : "40.86, -120.93",
+  "type" : "air"
+  },
+  {
+  "Common name" : "Cuban condor",
+  "Scientific name": "Gymnogyps varonai",
+  "date": "-9700-01-01T00:00:00Z",
+  "Range": "Cuba",
+  "Image": "--",
+  "latlong" : "21.52, -77.78",
+  "type" : "air"
+
+  },
+  {
+  "Common name" : "Daggett's eagle",
+  "Scientific name": "Buteogallus daggetti",
+  "date": "-13000-01-01T00:00:00Z",
+  "Range": "California",
+  "Image": "--",
+  "latlong" : "25.59, -99.99",
+  "type" : "air"
+  },
+  {
+  "Common name" : "Daggett's eagle",
+  "Scientific name": "Buteogallus daggetti",
+  "date": "-13000-01-01T00:00:00Z",
+  "Range": "Nuevo Lean, Mexico",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "air"
+  },
+  {
+  "Common name" : "La Brea stork",
+  "Scientific name": "Ciconia maltha",
+  "date": "-10000-T00:00:00Z",
+  "Range": "Western, Southern USA",
+  "Image": "--",
+  "latlong" : "36.25, -115.49",
+  "type" : "air"
+
+  },
+  {
+  "Common name" : "La Brea stork",
+  "Scientific name": "Ciconia maltha",
+  "date": "-10000-T00:00:00Z",
+  "Range": "Cuba",
+  "Image": "--",
+  "latlong" : "21.52, -77.78",
+  "type" : "air"
+
+  },
+  {
+  "Common name" : "Teratorns",
+  "Scientific name": "Teratornis merriami & Teratornis woodburnensis",
+  "date": "-8000-T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "air"
+  },
+  {
+  "Common name" : "Woodward's eagle",
+  "Scientific name": "Amplibuteo woodwardi",
+  "date": "-20000-T00:00:00Z",
+  "Range": "Caribbean",
+  "Image": "--",
+  "latlong" : "24.59, -78.02",
+  "type" : "air"
+  },
+  {
+  "Common name" : "Alberca silverside",
+  "Scientific name": "Chirostoma bartoni",
+  "date": "2006-T00:00:00Z",
+  "Range": "Lerma River Basin, Mexico",
+  "Image": "--",
+  "latlong" : "19.86, -101.13",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Alvord cutthroat trout",
+  "Scientific name": "Oncorhynchus clarki alvordensis",
+  "date": "1920-T00:00:00Z",
+  "Range": "Alvord Dry Lake, Oregon",
+  "Image": "--",
+  "latlong" : "42.38, -118.61",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Amistad gambusia",
+  "Scientific name": "Gambusia amistadensis",
+  "date": "1987-T00:00:00Z",
+  "Range": "Goodenough Spring, Texas",
+  "Image": "--",
+  "latlong" : "29.54, -101.25",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Ash Meadows killifish",
+  "Scientific name": "Empetrichthys merriami",
+  "date": "1948-T00:00:00Z",
+  "Range": "Ash Meadows, Nevada",
+  "Image": "--",
+  "latlong" : "37.83, -94.36",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Banff longnose dace",
+  "Scientific name": "Rhinichthys cataractae smithi",
+  "date": "1987-T00:00:00Z",
+  "Range": "Banff, Alberta",
+  "Image": "--",
+  "latlong" : "51.17, -115.57",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Blackfin cisco",
+  "Scientific name": "Coregonus nigripinnis",
+  "date": "1969-T00:00:00Z",
+  "Range": "Great Lakes, Canada and USA",
+  "Image": "--",
+  "latlong" : "46.02, -87.71",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Blue walleye",
+  "Scientific name": "Sander vitreus glaucus",
+  "date": "1983-T00:00:00Z",
+  "Range": "Great Lakes, Canada and USA",
+  "Image": "--",
+  "latlong" : "46.02, -87.71",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Clear Lake splittail",
+  "Scientific name": "Pogonichthys ciscoides'",
+  "date": "1970-T00:00:00Z",
+  "Range": "Clear Lake, California",
+  "Image": "--",
+  "latlong" : "50.65, -99.96",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Deepwater cisco",
+  "Scientific name": "Coregonus johannae",
+  "date": "1952-T00:00:00Z",
+  "Range": "Great Lakes, Canada and USA",
+  "Image": "--",
+  "latlong" : "46.02, -87.71",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Grass Valley speckled dace",
+  "Scientific name": "Rhinichthys osculus reliquus",
+  "date": "1938-T00:00:00Z",
+  "Range": "Lander County, Nevada",
+  "Image": "--",
+  "latlong" : "40.05, -116.98",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Harelip sucker",
+  "Scientific name": "Moxostoma lacerum",
+  "date": "1893-T00:00:00Z",
+  "Range": "Southeastern USA",
+  "Image": "--",
+  "latlong" : "33.83, -85.08",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Independence Valley tui chub",
+  "Scientific name": "Gila bicolor isolata",
+  "date": "1970-T00:00:00Z",
+  "Range": "Independence Valley, Nevada",
+  "Image": "--",
+  "latlong" : "41.35, -116.10",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Las Vegas dace",
+  "Scientific name": "Rhinichthys deaconi",
+  "date": "1986-T00:00:00Z",
+  "Range": "Las Vegas Valley, USA",
+  "Image": "--",
+  "latlong" : "36.11, -115.17",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Longjaw cisco",
+  "Scientific name": "Coregonus alpenae",
+  "date": "1975-T00:00:00Z",
+  "Range": "Great Lakes, Canada and USA",
+  "Image": "--",
+  "latlong" : "46.02, -87.71",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Maryland darter",
+  "Scientific name": "Etheostoma sellare",
+  "date": "1988-T00:00:00Z",
+  "Range": "Deer Creek, Maryland",
+  "Image": "--",
+  "latlong" : "39.04, -76.45",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Pahranagat spinedace",
+  "Scientific name": "Lepidomeda altivelis",
+  "date": "1938-T00:00:00Z",
+  "Range": "Pahranagat Valley, Nevada",
+  "Image": "--",
+  "latlong" : "37.19, -115.04",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Phantom shiner",
+  "Scientific name": "Notropis orca",
+  "date": "1975-T00:00:00Z",
+  "Range": "Rio Grande Basin, Mexico and USA",
+  "Image": "--",
+  "latlong" : "28.27, -99.49",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "San Marcos gambusia",
+  "Scientific name": "Gambusia georgei",
+  "date": "1983-T00:00:00Z",
+  "Range": "San Marcos Spring, Texas",
+  "Image": "--",
+  "latlong" : "38.80, -116.42",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Scioto madtom",
+  "Scientific name": "Noturus trautmani",
+  "date": "1957-T00:00:00Z",
+  "Range": "Big Darby Creek, Ohio",
+  "Image": "--",
+  "latlong" : "39.77, -83.10",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Shortnose cisco",
+  "Scientific name": "Coregonus reighardi",
+  "date": "1985-T00:00:00Z",
+  "Range": "Great Lakes, Canada and USA",
+  "Image": "--",
+  "latlong" : "46.02, -87.71",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Silver trout",
+  "Scientific name": "Salvelinus agassizi",
+  "date": "1930-T00:00:00Z",
+  "Range": "Dublin Pond, New Hampshire",
+  "Image": "--",
+  "latlong" : "42.90, -72.08",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Tecopa pupfish",
+  "Scientific name": "Cyprinodon nevadensis calidae",
+  "date": "1979-T00:00:00Z",
+  "Range": "Majavo Desert Springs, California",
+  "Image": "--",
+  "latlong" : "33.92, -116.51",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Thicktail chub",
+  "Scientific name": "Gila crassicauda",
+  "date": "1950-T00:00:00Z",
+  "Range": "Central Valley of California",
+  "Image": "--",
+  "latlong" : "40.21, -111.80",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Utah Lake sculpin",
+  "Scientific name": "Cottus echinatus",
+  "date": "1928-T00:00:00Z",
+  "Range": "Utah Lake, Utah",
+  "Image": "--",
+  "latlong" : "40.21, -111.80",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Yellowfin cutthroat trout",
+  "Scientific name": "Oncorhynchus clarki macdonald",
+  "date": "1903-T00:00:00Z",
+  "Range": "Twin Lakes, Colorado",
+  "Image": "--",
+  "latlong" : "39.08, -106.38",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "Saber-toothed salmon",
+  "Scientific name": "Oncorhynchus rastrosus",
+  "date": "-20000-T00:00:00Z",
+  "Range": "Western Coast of Canada and USA",
+  "Image": "--",
+  "latlong" : "48.24, -122.87",
+  "type" : "marine"
+  },
+  {
+  "Common name" : "American cheetahs",
+  "Scientific name": "Miracinonyx trumani* & *Miracinonyx inexpectatus",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "American lion",
+  "Scientific name": "Panthera leo atrox",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "USA, Canada and Mexico",
+  "Image": "--",
+  "latlong" : "46.21, -101.95",
+  "type" : "land"
+  },
+  {
+  "Common name" : "American mastodon",
+  "Scientific name": "Mammut americanum",
+  "date": "-8500-01-01T00:00:00Z",
+  "Range": "USA and Canada",
+  "Image": "--",
+  "latlong" : "46.21, -101.95",
+  "type" : "land"
+  },
+  {
+  "Common name" : "American mountain deer",
+  "Scientific name": "Odocoileus lucasi",
+  "date": "-10000-01-01T00:00:00Z",
+  "Range": "USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+
+  },
+  {
+  "Common name" : "Aztlanolagus agilis",
+  "Scientific name": "Aztlanolagus agilis",
+  "date": "-10000-01-01T00:00:00Z",
+  "Range": "Southeastern Arizona to Central America",
+  "Image": "--",
+  "latlong" : "13.95, -85.43",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Beautiful armadillo",
+  "Scientific name": "Dasypus bellus",
+  "date": "-8000-01-01T00:00:00Z",
+  "Range": "USA to South America",
+  "Image": "--",
+  "latlong" : "32.13, -102.83",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Bison antiquus",
+  "Scientific name":  "Bison antiquus",
+  "date": "-10000-01-01T00:00:00Z",
+  "Range": "USA and Canada",
+  "Image": "--",
+  "latlong" : "32.13, -102.83",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Bison occidentalis",
+  "Scientific name": "Bison occidentalis",
+  "date": "-5000-01-01T00:00:00Z",
+  "Range": "Alaska to Minnesota",
+  "Image": "--",
+  "latlong" : "50.86, -105.12",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Blunt-toothed giant hutia",
+  "Scientific name": "Amblyrhiza inundata",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "Northern Lesser Antilles",
+  "Image": "--",
+  "latlong" : "16.30, -61.68",
+  "type" : "land"
+  },
+  {
+  "Common name" : "California tapir",
+  "Scientific name": "Tapirus californicus",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Camelops",
+  "Scientific name": "Camelops spp.",
+  "date": "-8000-01-01T00:00:00Z",
+  "Range": "USA and Mexico",
+  "Image": "--",
+  "latlong" : "31.51, -106.26",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Capromeryx",
+  "Scientific name": "Capromeryx minor",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "USA and Mexico",
+  "Image": "--",
+  "latlong" : "31.51, -106.26",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Caribbean ground sloths",
+  "Scientific name": "Caribbean ground sloths",
+  "date": "-5000-01-01T00:00:00Z",
+  "Range": "Caribbean Islands",
+  "Image": "--",
+  "latlong" : "21.60, -71.89",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Columbian mammoth",
+  "Scientific name": "Mammuthus columbi",
+  "date": "-5800-01-01T00:00:00Z",
+  "Range": "USA and Mexico",
+  "Image": "--",
+  "latlong" : "31.51, -106.26",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Cope's tapir",
+  "Scientific name": "Tapirus copei",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Dhole",
+  "Scientific name": "Cuon alpinus",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Dire wolf",
+  "Scientific name": "Canis dirus",
+  "date": "-8000-01-01T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Eurasian cave lion",
+  "Scientific name": "Panthera leo spelaea",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "Canada and Alaska",
+  "Image": "--"
+  },
+  {
+  "Common name" : "Florida spectacled bear",
+  "Scientific name": "Tremarctos floridanus",
+  "date": "-8000-01-01T00:00:00Z",
+  "Range": "USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Giant beaver",
+  "Scientific name": "Castoroides leiseyorum* & *Castoroides ohioensis",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "Canada and USA",
+  "Image": "--",
+  "latlong": "56.1304, 106.3468"
+  },
+  {
+  "Common name" : "Glyptodon",
+  "Scientific name": "Glyptodon",
+  "date": "-10000-01-01T00:00:00Z",
+  "Range": "Central America",
+  "Image": "--",
+  "latlong": "12.7690, 85.6024"
+  },
+  {
+  "Common name" : "Harlan's muskox",
+  "Scientific name": "Bootherium bombifrons",
+  "date": "-9000-01-01T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Harrington's mountain goat",
+  "Scientific name": "Oreamnos harringtoni",
+  "date": "-12000-01-01T00:00:00Z",
+  "Range": "USA and Mexico",
+  "Image": "--",
+  "latlong" : "31.51, -106.26",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Holmesina septentrionalis",
+  "Scientific name": "Holmesina septentrionalis",
+  "date": "-8000-01-01T00:00:00Z",
+  "Range": "USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+
+  },
+  {
+  "Common name" : "Jefferson's ground sloth",
+  "Scientific name": "Megalonyx spp.",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "USA and Canada",
+  "Image": "--"
+  },
+  {
+  "Common name" : "Mexican horse",
+  "Scientific name": "Equus conversidens",
+  "date": "11000-01-01T00:00:00Z",
+  "Range": "USA and Mexico",
+  "Image": "--",
+  "latlong" : "31.51, -106.26",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Mylohyus",
+  "Scientific name": "M. elmorei*, *M. floridanus*, *M. fossilis*, *M. gidleyi* & *M. nasutus",
+  "date": "9000-01-01T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Neochoerus",
+  "Scientific name": "Neochoerus aesopi* & *Neochoerus pinckneyi",
+  "date": "11000-01-01T00:00:00Z",
+  "Range": "Southeast USA to Panama",
+  "Image": "--",
+  "latlong" : "8.91, -82.42",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Osborn's key mouse",
+  "Scientific name": "Clidomys osborni",
+  "date": "11000-01-01T00:00:00Z",
+  "Range": "Jamaica",
+  "Image": "--",
+  "latlong" : "18.10, -77.29",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Pleistocene North American jaguar",
+  "Scientific name": "Panthera onca augusta",
+  "date": "10000-01-01T00:00:00Z",
+  "Range": "Panama to USA",
+  "Image": "--",
+  "latlong" : "8.91, -82.42",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Panamerican ground sloth",
+  "Scientific name": "Eremotherium laurillardi",
+  "date": "11000-01-01T00:00:00Z",
+  "Range": "USA to Panama",
+  "Image": "--",
+  "latlong" : "8.91, -82.42",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Paramylodon harlani",
+  "Scientific name":  "Paramylodon harlani",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Plate-toothed giant hutia",
+  "Scientific name": "Elasmodontomys obliquus",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "Puerto Rico",
+  "Image": "--",
+  "latlong" : "18.22, -66.59",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Platygonus",
+  "Scientific name": "Oregonensis bicalcaratus compressus intermedius",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Pygmy mammoth",
+  "Scientific name": "Mammuthus exilis",
+  "date": "-11300-01-01T00:00:00Z",
+  "Range": "Channel Islands of California, USA",
+  "Image": "--",
+  "latlong" : "34.01, -119.78",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Saber-tooth cat",
+  "Scientific name": "Smilodon",
+  "date": "8000-01-01T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Saiga antelope",
+  "Scientific name": "Saiga tatarica",
+  "date": "10000-01-01T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Scimitar cats",
+  "Scientific name": "Homotherium",
+  "date": "10000-01-01T00:00:00Z",
+  "Range": "USA, Canada, Mexico",
+  "Image": "--",
+  "latlong" : "41.11, -94.83",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Shasta ground sloth",
+  "Scientific name": "Nothrotheriops shastensis",
+  "date": "11000-01-01T00:00:00Z",
+  "Range": "USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+
+  },
+  {
+  "Common name" : "Scott's horse",
+  "Scientific name": "Equus scotti",
+  "date": "11000-01-01T00:00:00Z",
+  "Range": "USA and Mexico",
+  "Image": "--",
+  "latlong" : "31.20, -105.40",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Short-faced bear",
+  "Scientific name": "Arctodus simus",
+  "date": "8000-01-01T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Shrub-ox",
+  "Scientific name": "Euceratherium collinum",
+  "date": "9500-01-01T00:00:00Z",
+  "Range": "North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Stag-moose",
+  "Scientific name": "Cervalces scotti",
+  "date": "12000-01-01T00:00:00Z",
+  "Range": "USA and Canada",
+  "Image": "--",
+  "latlong" : "48.98, -97.91",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Steppe wisent",
+  "Scientific name": "Bison priscus*â€™",
+  "date": "11000-01-01T00:00:00Z",
+  "Range": "Alaska and Yukon",
+  "Image": "--",
+  "latlong" : "65.52, -143.86",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Stilt-legged llama",
+  "Scientific name": "Hemiauchenia",
+  "date": "11000-01-01T00:00:00Z",
+  "Range": "USA and Mexico",
+  "Image": "--",
+  "latlong" : "31.20, -105.40",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Stockoceros",
+  "Scientific name": "Stockoceros onusrosagris",
+  "date": "11000-01-01T00:00:00Z",
+  "Range": "Southwestern North America",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Stout-legged llama",
+  "Scientific name": "Palaeolama ",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Tapirus merriami",
+  "Scientific name":   "Tapirus merriami",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Twisted-toothed mouse",
+  "Scientific name": "Quemisia gravis",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "Hispaniola",
+  "Image": "--",
+  "latlong" : "19.022, -71.11",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Ursus maritimus tyrannus",
+  "Scientific name":  "Ursus maritimus tyrannus",
+  "date": "-11000-01-01T00:00:00Z",
+  "Range": "Arctic",
+  "Image": "--",
+  "latlong" : "70.67, -107.06",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Western horse",
+  "Scientific name": "Equus occidentalis",
+  "date": "-10000-01-01T00:00:00Z",
+  "Range": "USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land",
+  },
+  {
+  "Common name" : "Woolly mammoth",
+  "Scientific name": "Mammuthus primigenius",
+  "date": "2000-01-01T00:00:00Z",
+  "Range": "Northern USA",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Yukon horse",
+  "Scientific name": "Equus lambei",
+  "date": "11000-01-01T00:00:00Z",
+  "Range": "USA and Canada",
+  "Image": "--",
+  "latlong" : "63.17, -132.89",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Antillean giant rice rat",
+  "Scientific name" : "Megalomys desmarestii",
+  "date": "1902-01-01T00:00:00Z",
+  "Range": "France (Martinique)",
+  "Image": "--",
+  "latlong" : "14.71, -61.06",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Banks Island wolf",
+  "Scientific name": "Canis lupus bernard",
+  "date": "1920,-01-01T00:00:00Z",
+  "Range": "Canada",
+  "Image": "--",
+  "latlong" : "73.06, -120.73",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Barbados raccoon",
+  "Scientific name" : "Procyon lotor gloverallen",
+  "date": "1964,-01-01T00:00:00Z",
+  "Range": "Barbados",
+  "Image": "--",
+  "latlong" : "13.16, -59.55",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Bunker's woodrat",
+  "Scientific name" : "Neotoma bunkeri",
+  "date": "1932,-01-01T00:00:00Z",
+  "Range": "Mexico (Coronados Islands)",
+  "Image": "--",
+  "latlong" : "26.11, -111.55",
+  "type" : "land"
+  },
+  {
+  "Common name" : "California golden bear",
+  "Scientific name" : "Ursus arctos californicu",
+  "date": "1922,-01-01T00:00:00Z",
+  "Range": "California",
+  "Image": "--",
+  "latlong" : "40.22, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Caribbean monk seal",
+  "Scientific name" : "Monachus tropicalis",
+  "date": "1952,-01-01T00:00:00Z",
+  "Range": "Caribbean Sea",
+  "Image": "--",
+  "latlong" : "24.58, -101.25",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Cascade mountain wolf",
+  "Scientific name" : "Canis lupus fuscu",
+  "date": "1940,-01-01T00:00:00Z",
+  "Range": "Canada and USA",
+  "Image": "--",
+  "latlong" : "46.21, -101.95",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Cuban coney",
+  "Scientific name" : "Geocapromys columbianus",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Cuba",
+  "Image": "--",
+  "latlong" : "21.52, -77.78",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Eastern cougar",
+  "Scientific name" : "Puma concolor cougua",
+  "date": "2011,-01-01T00:00:00Z",
+  "Range": "Eastern Canada and USA",
+  "Image": "--",
+  "latlong" : "45.46, -70.58",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Eastern elk",
+  "Scientific name" : "Cervus canadensis canadiensi",
+  "date": "1887,-01-01T00:00:00Z",
+  "Range": "Eastern Canada and USA",
+  "Image": "--",
+  "latlong" : "45.46, -70.58",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Goff's pocket gopher",
+  "Scientific name" : "Geomys pinetis goff",
+  "date": "1955,-01-01T00:00:00Z",
+  "Range": "Florida",
+  "Image": "--",
+  "latlong" : "28.70, -81.65",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Gull Island vole",
+  "Scientific name" : "Microtus pennsylvanicus nesophilu",
+  "date": "1897,-01-01T00:00:00Z",
+  "Range": "Gull Island, New York",
+  "Image": "--",
+  "latlong" : "42.53, -82.68",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Hispaniolan edible rat",
+  "Scientific name" : "Heteropsomys insulans* [",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Hispaniola",
+  "Image": "--",
+  "latlong" : "19.022, -71.11",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Insular cave rat",
+  "Scientific name" : "Heteropsomys insulans",
+  "date": "1600,-01-01T00:00:00Z",
+  "Range": "Puerto Rico",
+  "Image": "--",
+  "latlong" : "18.22, -66.59",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Imposter hutia",
+  "Scientific name" : "Hexolobodon phenax",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Hispaniola",
+  "Image": "--",
+  "latlong" : "19.022, -71.11",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Jamaican monkey",
+  "Scientific name" : "Xenothrix mcgregori1",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Jamaica",
+  "Image": "--",
+  "latlong" : "18.10, -77.29",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Jamaican rice rat",
+  "Scientific name" : "Oryzomys antillarum1",
+  "date": "1870,-01-01T00:00:00Z",
+  "Range": "Jamaica",
+  "Image": "--",
+  "latlong" : "18.10, -77.29",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Little Swan Island hutia",
+  "Scientific name" : "Geocapromys thoracatus1",
+  "date": "1955,-01-01T00:00:00Z",
+  "Range": "Swan Islands, Honduras",
+  "Image": "--",
+  "latlong" : "17.41, -83.92",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Marcano's solenodon",
+  "Scientific name" : "Solenodon marcanoi1",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Hispaniola",
+  "Image": "--",
+  "latlong" : "19.022, -71.11",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Merriam's elk",
+  "Scientific name" : "Cervus canadensis merriam",
+  "date": "1906,-01-01T00:00:00Z",
+  "Range": "Southwestern USA",
+  "Image": "--",
+  "latlong" : "34.97, -107.93",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Mexican grizzly bear",
+  "Scientific name" : "Ursus arctos nelson",
+  "date": "1964,-01-01T00:00:00Z",
+  "Range": "Mexico and Southwestern USA",
+  "Image": "--",
+  "latlong" : "31.97, -109.93",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Montane hutia",
+  "Scientific name" : "Isolobodon montanus1",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Hispaniola",
+  "Image": "--",
+  "latlong" : "19.022, -71.11",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Nelson's rice rat",
+  "Scientific name" : "Oryzomys nelsoni1",
+  "date": "1897,-01-01T00:00:00Z",
+  "Range": "Maraa Madre Island, Mexico",
+  "Image": "--",
+  "latlong" : "21.63, -106.57",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Nevis rice rat",
+  "Scientific name" : "Pennatomys nivalis1",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Netherlands (Sint Eustatius) & Saint Kitts and Nevis",
+  "Image": "--",
+  "latlong" : "17.14, -65.57",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Newfoundland wolf",
+  "Scientific name" : "Canis lupus beothuc",
+  "date": "1911,-01-01T00:00:00Z",
+  "Range": "Newfoundland",
+  "Image": "--",
+  "latlong" : "48.61, -55.70",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Oriente cave rat",
+  "Scientific name" : "Boromys offella1",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Cuba",
+  "Image": "--",
+  "latlong" : "21.52, -77.78",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Pallid beach mouse",
+  "Scientific name" : "Peromyscus polionotus decoloratu",
+  "date": "1959,-01-01T00:00:00Z",
+  "Range": "Florida",
+  "Image": "--",
+  "latlong" : "29.21, -81.89",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Puerto Rican hutia",
+  "Scientific name" : "Isolobodon portoricensis1",
+  "date": "1600,-01-01T00:00:00Z",
+  "Range": "Hispaniola",
+  "Image": "--",
+  "latlong" : "19.022, -71.11",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Puerto Rican hutia",
+  "Scientific name" : "Isolobodon portoricensis1",
+  "date": "1600,-01-01T00:00:00Z",
+  "Range": "Puerto Rico",
+  "Image": "--",
+  "latlong" : "18.22, -66.59",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Puerto Rican long-nosed bat",
+  "Scientific name" : "Monophyllus frate",
+  "date": "1600,-01-01T00:00:00Z",
+  "Range": "Puerto Rico",
+  "Image": "--",
+  "latlong" : "18.22, -66.59",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Santa Lucian giant ri ce rat",
+  "Scientific name" : "Megalomys luciae1",
+  "date": "1852,-01-01T00:00:00Z",
+  "Range": "St. Lucia",
+  "Image": "--",
+  "latlong" : "13.91, -60.97",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Saint Vincent pygmy rice  rat",
+  "Scientific name" : "Oligoryzomys victus2",
+  "date": "1898,-01-01T00:00:00Z",
+  "Range": "St. Vincent",
+  "Image": "--",
+  "latlong" : "13.91, -60.97",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Samana hutia",
+  "Scientific name" : "Plagiodontia ipnaeum2",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Hispaniola",
+  "Image": "--",
+  "latlong" : "19.022, -71.11",
+  "type" : "land"
+  },
+  {
+  "Common name" : "San MartÃ­n Island woodra t",
+  "Scientific name" : "Neotoma martinensis2",
+  "date": "1950,-01-01T00:00:00Z",
+  "Range": "San Martan Island, Mexico",
+  "Image": "--",
+  "latlong" : "30.49, -116.11",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Sea mink",
+  "Scientific name" : "Neovison macrodon2",
+  "date": "1860,-01-01T00:00:00Z",
+  "Range": "Atlantic Canada and New England",
+  "Image": "--",
+  "latlong" : "47.27, -68.45",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Smith Island cottontail",
+  "Scientific name" : "Sylvilagus floridanus hitchens",
+  "date": "1987,-01-01T00:00:00Z",
+  "Range": "Smith Island, Virginia",
+  "Image": "--",
+  "latlong" : "37.98, -76-03",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Southern California kit fox",
+  "Scientific name" : "Vulpes macrotis macroti",
+  "date": "1903,-01-01T00:00:00Z",
+  "Range": "Southern California, USA",
+  "Image": "--",
+  "latlong" : "35.46, -118.21",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Southern Rocky Mountains wolf",
+  "Scientific name" : "Canis lupus young",
+  "date": "1935,-01-01T00:00:00Z",
+  "Range": "Southern Rocky Mountains, USA",
+  "Image": "--",
+  "latlong" : "36.14, -106.70",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Steller's sea cow",
+  "Scientific name" : "Hydrodamalis gigas2",
+  "date": "1768,-01-01T00:00:00Z",
+  "Range": "Commander Islands",
+  "Image": "--",
+  "latlong" : "54.98, 166.32",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Tacoma pocket gopher",
+  "Scientific name" : "Thomomys mazama tacomensi",
+  "date": "1970,-01-01T00:00:00Z",
+  "Range": "Washington",
+  "Image": "--",
+  "latlong" : "47.56, -119.99",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Torre's cave rat",
+  "Scientific name" : "Boromys torrei2",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Cuba",
+  "Image": "--",
+  "latlong" : "21.52, -77.78",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Tule shrew",
+  "Scientific name" : "Sorex ornatus juncensi",
+  "date": "1905,-01-01T00:00:00Z",
+  "Range": "Baja California, Mexico",
+  "Image": "--",
+  "latlong" : "28.93, -113.9",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Nesphontes",
+  "Scientific name" : "Nesphontes",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Cuba",
+  "Image": "--",
+  "latlong" : "21.52, -77.78",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Nesphontes",
+  "Scientific name" : "Nesphontes",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Hispaniola",
+  "Image": "--",
+  "latlong" : "19.022, -71.11",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Nesphontes",
+  "Scientific name" : "Nesphontes",
+  "date": "1500,-01-01T00:00:00Z",
+  "Range": "Puerto Rico",
+  "Image": "--",
+  "latlong" : "18.22, -66.59",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Guadeloupe ameiva",
+  "Scientific name" : "Ameiva cineracea",
+  "date": "1928-01-01T00:00:00Z",
+  "Range": "France (Guadeloupe)",
+  "Image": "--",
+  "latlong" : "16.20, -61.67",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Jamaica giant galliwasp",
+  "Scientific name" : "Celestus occiduus",
+  "date": "1840-01-01T00:00:00Z",
+  "Range": "Jamaica",
+  "Image": "--",
+  "latlong" : "18.10, -77.29",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Martinique curly-tailed lizard",
+  "Scientific name" : "Leiocephalus herminieri",
+  "date": "1830-01-01T00:00:00Z",
+  "Range": "France (Martinique)",
+  "Image": "--",
+  "latlong" : "14.71, -61.06",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Navassa curly-tailed lizard",
+  "Scientific name" : "Leiocephalus eremitus",
+  "date": "1917-01-01T00:00:00Z",
+  "Range": "Navassa Island, USA",
+  "Image": "--",
+  "latlong" : "18.40, -75.01",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Navassa Island dwarf boa",
+  "Scientific name" : "Tropidophis bucculentus",
+  "date": "1870-01-01T00:00:00Z",
+  "Range": "Navassa Island, USA",
+  "Image": "--",
+  "latlong" : "18.40, -75.01",
+  "type" : "land"
+  },
+  {
+  "Common name" : "Navassa Island iguana",
+  "Scientific name" : "Cyclura cornuta onchiopsis",
+  "date": "1880-01-01T00:00:00Z",
+  "Range": "Navassa Island, USA",
+  "Image": "--",
+  "latlong" : "18.40, -75.01",
+  "type" : "land"
+  }
+]

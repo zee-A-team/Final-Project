@@ -4,6 +4,7 @@ const app = express();
 const bodyParser = require('body-parser');
 const Animal = require('./models/Animal');
 const PORT = process.env.PORT || 3000;
+const dataUpdater = require('./data-updater');
 
 /*----------  MONGOOSE ORM SETUP   ----------*/
 const mongoose = require('mongoose');
@@ -15,6 +16,8 @@ db.once('open', _ => console.log("Mongo reporting for duty!"));
 app.use(express.static('public'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:true}));
+
+// dataUpdater();
 
 app.get( '/test', ( req, res ) => {
     Animal.find( ( err, animals ) => {
@@ -33,4 +36,3 @@ app.post( '/test', ( req, res ) => {
   });
 
 app.listen(PORT, _ => console.log(`Now listening on PORT ${PORT}`));
-//http://api.gbif.org/v1/species/search?isExtinct=true

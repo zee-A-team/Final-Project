@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "57b7c81fa63e484229d311b6",
+    "Common name": "Norfolk ground dove",
+    "Scientific name": "Gallicolumba norfolciensis",
+    "date": "1850-01-01T00:00:00Z",
+    "Range": "Norfolk Island",
+    "Description": "--",
+    "latitude": "-29.04",
+    "longitude": "167.95",
+    "latlong": "-29.04, 167.95",
+    "type": "air"
+  },
+  {
+    "_id": "57b7c81fa63e484229d311b7",
+    "Common name": "Lord Howe fantail",
+    "Scientific name": "Rhipidura cervina",
+    "date": "1924-01-01T00:00:00Z",
+    "Range": "Lord Howe Island",
+    "Description": "Believed to be a result of the introduction of \nblack rats following the grounding of SS *Makamboin June 1918.",
+    "latitude": "-31.55",
+    "longitude": "159.07",
+    "latlong": "-31.55,  159.07",
+    "type": "air"
+  },
+  {
+    "_id": "57b7c81fa63e484229d311b8",
+    "Common name": "Lord Howe Island thrush",
+    "Scientific name": "Turdus poliocephalus vinitinctus",
+    "date": "1924-01-01T00:00:00Z",
+    "Range": "Lord Howe Island",
+    "Description": "Believed to be a result of the introduction of \nblack rats following the grounding of SS *Makamboin June 1918.",
+    "latitude": "-31.55",
+    "longitude": "159.07",
+    "latlong": "-31.55,  159.07",
+    "type": "air"
+  },
+  {
+    "_id": "57b7c81fa63e484229d311b9",
+    "Common name": "Robust white-eye",
+    "Scientific name": "Zosterops strenuus",
+    "date": "1923-01-01T00:00:00Z",
+    "Range": "Lord Howe Island",
+    "Description": "Believed to be a result of the introduction of \nblack rats following the grounding of SS *Makamboin June 1918.",
+    "latitude": "-31.55",
+    "longitude": "159.07",
+    "latlong": "-31.55, 159.07",
+    "type": "air"
+  }
+]

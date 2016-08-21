@@ -19,12 +19,19 @@
   },
   "homepage": "https://github.com/Viltaria/Final-Project#readme",
   "dependencies": {
+    "bluebird": "^3.4.1",
     "body-parser": "^1.15.2",
+    "d3": "^4.2.2",
     "d3-timer": "^1.0.2",
     "express": "^4.14.0",
+    "fs": "0.0.2",
     "mongodb": "^2.2.5",
     "mongoose": "^4.5.8",
+    "node-fetch": "^1.6.0",
     "node-mongo-seeds": "^2.3.0",
-    "topojson": "^1.6.26"
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1",
+    "topojson": "^1.6.26",
+    "xmlhttprequest": "^1.8.0"
   }
 }

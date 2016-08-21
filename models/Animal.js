@@ -1,15 +1,19 @@
-
 'use strict';
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const animalSchema = new Schema({
-  commonName: String,
-  scientificName: String,
-  extinctionDate: Number,
-  range: String,
-  description: String,
-  animalType: String
+  "_id": String,
+  "Common name": String,
+  "Scientific name": String,
+  "date": String,
+  "Range": String,
+  "Type": String,
+  "latitude": String,
+  "longitude": String,
+  "latlong": String,
+  "country": String,
+  "continent": String,
 });
 
 module.exports = mongoose.model('animals', animalSchema);
