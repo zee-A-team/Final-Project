@@ -2,6 +2,8 @@
   {
     "_id": "57ab8c5b1eff02897b163ed1",
     "Scientific name": "Tachybaptus rufolavatus",
+    "common_name": "Alaotra grebe",
+    "scientific_name": "Tachybaptus rufolavatus",
     "date": "1985-01-01T00:00:00Z",
     "Range": "Madagascar",
     "Description": "--",
@@ -15,6 +17,8 @@
   {
     "_id": "57ab8c5b1eff02897b163ed2",
     "Scientific name": "Nesillas aldabrana",
+    "common_name": "Aldabra brush-warbler",
+    "scientific_name": "Nesillas aldabrana",
     "date": "1983-01-01T00:00:00Z",
     "Range": "Seychelles",
     "Description": "--",
@@ -28,6 +32,8 @@
   {
     "_id": "57ab8c5b1eff02897b163ed3",
     "Scientific name": "Mundia elpenor",
+    "common_name": "Ascension flightless crake",
+    "scientific_name": "Mundia elpenor",
     "date": "1656-01-01T00:00:00Z",
     "Range": "United Kingdom (Ascension)",
     "Description": "--",
@@ -41,6 +47,8 @@
   {
     "_id": "57ab8c5b1eff02897b163ed4",
     "Scientific name": "Nycticorax olsoni",
+    "common_name": "Ascension night heron",
+    "scientific_name": "Nycticorax olsoni",
     "date": "1600-01-01T00:00:00Z",
     "Range": "United Kingdom (Ascension)",
     "Description": "--",
@@ -54,6 +62,8 @@
   {
     "_id": "57ab8c5b1eff02897b163ed5",
     "Scientific name": "Lophopsittacus mauritianus",
+    "common_name": "Broad-billed parrot",
+    "scientific_name": "Lophopsittacus mauritianus",
     "date": "1680-01-01T00:00:00Z",
     "Range": "Mauritius",
     "Description": "--",
@@ -67,6 +77,8 @@
   {
     "_id": "57ab8c5b1eff02897b163ed6",
     "Scientific name": "Haematopus meadewaldoi",
+    "common_name": "Canary Islands oystercatcher",
+    "scientific_name": "Haematopus meadewaldoi",
     "date": "1940-01-01T00:00:00Z",
     "Range": "Spain (Canary Islands)",
     "Description": "--",
@@ -80,6 +92,8 @@
   {
     "_id": "57ab8c5b1eff02897b163ed7",
     "Scientific name": "Coturnix gomerae",
+    "common_name": "Canary Islands quail",
+    "scientific_name": "Coturnix gomerae",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "United Kingdom (Saint Helena)",
     "Description": "--",
@@ -93,6 +107,8 @@
   {
     "_id": "57ab8c5b1eff02897b163ed8",
     "Scientific name": "Dysmoropelia dekarchiskos",
+    "common_name": "Saint Helena dove",
+    "scientific_name": "Dysmoropelia dekarchiskos",
     "date": "Afte-01-01T00:00:00Zr 1502",
     "Range": "United Kingdom (Saint Helena)",
     "Description": "--",
@@ -106,6 +122,8 @@
   {
     "_id": "57ab8c5b1eff02897b163ed9",
     "Scientific name": "Upupa antaios",
+    "common_name": "Saint Helena hoopoe",
+    "scientific_name": "Upupa antaios",
     "date": "Earl-01-01T00:00:00Zy 16th century",
     "Range": "United Kingdom (Saint Helena)",
     "Description": "--",
@@ -119,6 +137,8 @@
   {
     "_id": "57ab8c5b1eff02897b163eda",
     "Scientific name": "Porzana astrictocarpus",
+    "common_name": "Saint Helena rail",
+    "scientific_name": "Porzana astrictocarpus",
     "date": "Afte-01-01T00:00:00Zr 1502",
     "Range": "United Kingdom (Saint Helena)",
     "Description": "--",
@@ -132,6 +152,8 @@
   {
     "_id": "57ab8c5b1eff02897b163edb",
     "Scientific name": "Psittacula wardis",
+    "common_name": "Seychelles parakeet",
+    "scientific_name": "Psittacula wardis",
     "date": "1886-01-01T00:00:00Z",
     "Range": "Seychelles",
     "Description": "--",
@@ -145,6 +167,8 @@
   {
     "_id": "57ab8c5b1eff02897b163edc",
     "Scientific name": "Bulweria bifax",
+    "common_name": "Small Saint Helena petrel",
+    "scientific_name": "Bulweria bifax",
     "date": "Afte-01-01T00:00:00Zr 1502",
     "Range": "United Kingdom (Saint Helena)",
     "Description": "--",
@@ -158,6 +182,8 @@
   {
     "_id": "57ab8c5b1eff02897b163edd",
     "Scientific name": "Gallinula nesiotis",
+    "common_name": "Tristan moorhen",
+    "scientific_name": "Gallinula nesiotis",
     "date": "late-01-01T00:00:00Z 19th century",
     "Range": "United Kingdom (Tristan da Cunha)",
     "Description": "--",
@@ -171,6 +197,8 @@
   {
     "_id": "57ab8cde1eff02897b163ede",
     "Scientific name": "Equus africanus atlanticus",
+    "common_name": "Atlas wild ass",
+    "scientific_name": "Equus africanus atlanticus",
     "date": "300-01-01T00:00:00Z",
     "Range": "North African",
     "Description": "--",
@@ -184,6 +212,8 @@
   {
     "_id": "57ab8cde1eff02897b163edf",
     "Scientific name": "Canariomys bravoi and Canariomys tamarani",
+    "common_name": "Canary Islands giant rats",
+    "scientific_name": "Canariomys bravoi and Canariomys tamarani",
     "date": "1500-01-01T00:00:00Z",
     "Range": "Spain (Canary Islands)",
     "Description": "--",
@@ -197,6 +227,8 @@
   {
     "_id": "57ab8cde1eff02897b163ee0",
     "Scientific name": "Daubentonia robusta",
+    "common_name": "Giant aye-aye",
+    "scientific_name": "Daubentonia robusta",
     "date": "1000-01-01T00:00:00Z",
     "Range": "Madagascar",
     "Description": "--",
@@ -210,6 +242,8 @@
   {
     "_id": "57ab8cde1eff02897b163ee1",
     "Scientific name": "Cryptoprocta spelea",
+    "common_name": "Giant fossa",
+    "scientific_name": "Cryptoprocta spelea",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "Madagascar",
     "Description": "--",
@@ -223,6 +257,8 @@
   {
     "_id": "57ab8cde1eff02897b163ee2",
     "Scientific name": "Hipposideros besaoka",
+    "common_name": "Hipposideros besaoka",
+    "scientific_name": "Hipposideros besaoka",
     "date": "1000-01-01T00:00:00Z0",
     "Range": "Madagascar",
     "Description": "--",
@@ -236,6 +272,8 @@
   {
     "_id": "57ab8cde1eff02897b163ee3",
     "Scientific name": "Homotherium",
+    "common_name": "Homotherium",
+    "scientific_name": "Homotherium",
     "date": "10,0-01-01T00:00:00Z00",
     "Range": "Africa",
     "Description": "--",
@@ -249,6 +287,8 @@
   {
     "_id": "57ab8cde1eff02897b163ee4",
     "Scientific name": "Megaladapis",
+    "common_name": "Koala lemur",
+    "scientific_name": "Megaladapis",
     "date": "1420-01-01T00:00:00Z",
     "Range": "Madagascar",
     "Description": "--",
@@ -262,6 +302,8 @@
   {
     "_id": "57ab8cde1eff02897b163ee5",
     "Scientific name": "Malpaisomys insularis",
+    "common_name": "Lava mouse",
+    "scientific_name": "Malpaisomys insularis",
     "date": "1500-01-01T00:00:00Z",
     "Range": "Spain (Canary Islands)",
     "Description": "--",
@@ -275,6 +317,8 @@
   {
     "_id": "57ab8cde1eff02897b163ee6",
     "Scientific name": "Plesiorycteropus",
+    "common_name": "Malagasy aardvark",
+    "scientific_name": "Plesiorycteropus",
     "date": "200-01-01T00:00:00Z",
     "Range": "Madagascar",
     "Description": "--",
@@ -288,6 +332,8 @@
   {
     "_id": "57ab8cde1eff02897b163ee7",
     "Scientific name": "Hippopotamus",
+    "common_name": "Malagasy hippopotamus",
+    "scientific_name": "Hippopotamus",
     "date": "1000-01-01T00:00:00Z",
     "Range": "Madagascar",
     "Description": "--",
@@ -301,6 +347,8 @@
   {
     "_id": "57ab8cde1eff02897b163ee8",
     "Scientific name": "Megalotragus",
+    "common_name": "Megalotragus",
+    "scientific_name": "Megalotragus",
     "date": "10,0-01-01T00:00:00Z00",
     "Range": "Africa",
     "Description": "--",
@@ -314,6 +362,8 @@
   {
     "_id": "57ab8cde1eff02897b163ee9",
     "Scientific name": "Microgale macpheei",
+    "common_name": "Microgale macpheei",
+    "scientific_name": "Microgale macpheei",
     "date": "100-01-01T00:00:00Z",
     "Range": "Madagascar",
     "Description": "--",
@@ -327,6 +377,8 @@
   {
     "_id": "57ab8cde1eff02897b163eea",
     "Scientific name": "Loxodonta africana pharaoensis",
+    "common_name": "North African elephant",
+    "scientific_name": "Loxodonta africana pharaoensis",
     "date": "300-01-01T00:00:00Z",
     "Range": "North Africa",
     "Description": "--",
@@ -340,6 +392,8 @@
   {
     "_id": "57ab8cde1eff02897b163eeb",
     "Scientific name": "Pelorovis",
+    "common_name": "Pelorovis",
+    "scientific_name": "Pelorovis",
     "date": "2000-01-01T00:00:00Z",
     "Range": "Africa",
     "Description": "--",
@@ -353,6 +407,8 @@
   {
     "_id": "57ab8cde1eff02897b163eec",
     "Scientific name": "Sivatherium",
+    "common_name": "Sivatherium",
+    "scientific_name": "Sivatherium",
     "date": "6000-01-01T00:00:00Z",
     "Range": "Africa",
     "Description": "--",
@@ -366,6 +422,8 @@
   {
     "_id": "57ab8d111eff02897b163eed",
     "Scientific name": "Ursus arctos crowtheri",
+    "common_name": "Atlas bear",
+    "scientific_name": "Ursus arctos crowtheri",
     "date": "1870-01-01T00:00:00Z",
     "Range": "North Africa",
     "Description": "--",
@@ -379,6 +437,8 @@
   {
     "_id": "57ab8d111eff02897b163eee",
     "Scientific name": "Bos primigenius",
+    "common_name": "Aurochs",
+    "scientific_name": "Bos primigenius",
     "date": "1627-01-01T00:00:00Z",
     "Range": "North Africa || Europe",
     "latitude": "34.1",
@@ -390,6 +450,8 @@
   {
     "_id": "57ab8d111eff02897b163eef",
     "Scientific name": "Hippotragus leucophaeus",
+    "common_name": "Bluebuck",
+    "scientific_name": "Hippotragus leucophaeus",
     "date": "1799-01-01T00:00:00Z",
     "Range": "South Africa",
     "Description": "--",
@@ -403,6 +465,8 @@
   {
     "_id": "57ab8d111eff02897b163ef0",
     "Scientific name": "Alcelaphus buselaphus buselaphus",
+    "common_name": "Bubal hartebeest",
+    "scientific_name": "Alcelaphus buselaphus buselaphus",
     "date": "1923-01-01T00:00:00Z",
     "Range": "North Africa",
     "Description": "--",
@@ -416,6 +480,8 @@
   {
     "_id": "57ab8d111eff02897b163ef1",
     "Scientific name": "Panthera leo melanochaitus",
+    "common_name": "Cape lion",
+    "scientific_name": "Panthera leo melanochaitus",
     "date": "1860-01-01T00:00:00Z",
     "Range": "South Africa",
     "Description": "--",
@@ -429,6 +495,8 @@
   {
     "_id": "57ab8d111eff02897b163ef2",
     "Scientific name": "Leptailurus serval serval",
+    "common_name": "Cape serval",
+    "scientific_name": "Leptailurus serval serval",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "South Africa",
     "Description": "--",
@@ -442,6 +510,8 @@
   {
     "_id": "57ab8d111eff02897b163ef3",
     "Scientific name": "Phacochoerus aethiopicus aethiopicus",
+    "common_name": "Cape warthog",
+    "scientific_name": "Phacochoerus aethiopicus aethiopicus",
     "date": "1900-01-01T00:00:00Z",
     "Range": "South Africa",
     "Description": "--",
@@ -455,6 +525,8 @@
   {
     "_id": "57ab8d111eff02897b163ef4",
     "Scientific name": "Ourebia ourebi kenyae",
+    "common_name": "Kenya oribi",
+    "scientific_name": "Ourebia ourebi kenyae",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "Kenya",
     "Description": "--",
@@ -468,6 +540,8 @@
   {
     "_id": "57ab8d111eff02897b163ef5",
     "Scientific name": "Palaeopropithecus",
+    "common_name": "Large sloth lemur",
+    "scientific_name": "Palaeopropithecus",
     "date": "1500-01-01T00:00:00Z",
     "Range": "Madagascar",
     "Description": "--",
@@ -481,6 +555,8 @@
   {
     "_id": "57ab8d111eff02897b163ef6",
     "Scientific name": "Pteropus subniger",
+    "common_name": "Lesser Mascarene flying fox",
+    "scientific_name": "Pteropus subniger",
     "date": "Earl-01-01T00:00:00Zy 19th century",
     "Range": "Mauritius and France (Reunion)",
     "Description": "--",
@@ -494,6 +570,8 @@
   {
     "_id": "57ab8d111eff02897b163ef7",
     "Scientific name": "Equus quagga quagga",
+    "common_name": "Quagga",
+    "scientific_name": "Equus quagga quagga",
     "date": "Augu-01-01T00:00:00Zst 12, 1883",
     "Range": "Namibia and South Africa",
     "Description": "--",
@@ -507,6 +585,8 @@
   {
     "_id": "57ab8d111eff02897b163ef8",
     "Scientific name": "Eudorcas rufinaa",
+    "common_name": "Red gazelle",
+    "scientific_name": "Eudorcas rufinaa",
     "date": "1894-01-01T00:00:00Z",
     "Range": "Algeria",
     "Description": "--",
@@ -520,6 +600,8 @@
   {
     "_id": "57ab8d111eff02897b163ef9",
     "Scientific name": "Kobus leche robertsi",
+    "common_name": "Robert's lechwe",
+    "scientific_name": "Kobus leche robertsi",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "South Africa",
     "Description": "--",
@@ -533,6 +615,8 @@
   {
     "_id": "57ab8d111eff02897b163efa",
     "Scientific name": "Diceros bicornis longipes",
+    "common_name": "Western black rhinoceros",
+    "scientific_name": "Diceros bicornis longipes",
     "date": "1996-01-01T00:00:00Z",
     "Range": "Cameroon",
     "Description": "--",
@@ -546,6 +630,8 @@
   {
     "_id": "57ab8d401eff02897b163efb",
     "Scientific name": "Macroscincus coctei",
+    "common_name": "Cape Verde giant skink",
+    "scientific_name": "Macroscincus coctei",
     "date": "1920-01-01T00:00:00Z",
     "Range": "Cape Verde",
     "Description": "--",
@@ -559,6 +645,8 @@
   {
     "_id": "57ab8d401eff02897b163efc",
     "Scientific name": "Cylindraspis triserrata",
+    "common_name": "Domed Mauritius giant tortoise",
+    "scientific_name": "Cylindraspis triserrata",
     "date": "Earl-01-01T00:00:00Zy 18th century",
     "Range": "Mauritius",
     "Description": "--",
@@ -572,6 +660,8 @@
   {
     "_id": "57ab8d401eff02897b163efd",
     "Scientific name": "Cylindraspis peltastes",
+    "common_name": "Domed Rodrigues giant tortoise",
+    "scientific_name": "Cylindraspis peltastes",
     "date": "1800-01-01T00:00:00Z",
     "Range": "Mauritius",
     "Description": "--",
@@ -585,6 +675,8 @@
   {
     "_id": "57ab8d401eff02897b163efe",
     "Scientific name": "Tetradactylus eastwoodae",
+    "common_name": "Eastwood's long-tailed seps",
+    "scientific_name": "Tetradactylus eastwoodae",
     "date": "1912-01-01T00:00:00Z",
     "Range": "South Africa",
     "Description": "--",
@@ -598,6 +690,8 @@
   {
     "_id": "57ab8d401eff02897b163eff",
     "Scientific name": "Typhlops cariei",
+    "common_name": "Hoffstetter's worm snake",
+    "scientific_name": "Typhlops cariei",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "Mauritius",
     "Description": "--",
@@ -611,6 +705,8 @@
   {
     "_id": "57ab8d401eff02897b163f00",
     "Scientific name": "Didosaurus maurtianus",
+    "common_name": "Mauritian giant skink",
+    "scientific_name": "Didosaurus maurtianus",
     "date": "1650-01-01T00:00:00Z",
     "Range": "Mauritius",
     "Description": "--",
@@ -624,6 +720,8 @@
   {
     "_id": "57ab8d401eff02897b163f01",
     "Scientific name": "Aparallactus nigriceps",
+    "common_name": "Mozambique centipede-eater",
+    "scientific_name": "Aparallactus nigriceps",
     "date": "1840-01-01T00:00:00Z",
     "Range": "France (Reunion)",
     "Description": "--",
@@ -637,6 +735,8 @@
   {
     "_id": "57ab8d401eff02897b163f02",
     "Scientific name": "Phelsuma edwardnewtoni",
+    "common_name": "Rodrigues day gecko",
+    "scientific_name": "Phelsuma edwardnewtoni",
     "date": "1917-01-01T00:00:00Z",
     "Range": "Mauritius",
     "Description": "--",
@@ -650,6 +750,8 @@
   {
     "_id": "57ab8d401eff02897b163f03",
     "Scientific name": "Phelsuma gigas",
+    "common_name": "Rodrigues giant day gecko",
+    "scientific_name": "Phelsuma gigas",
     "date": "1842-01-01T00:00:00Z",
     "Range": "Mauritius",
     "Description": "--",
@@ -663,6 +765,8 @@
   {
     "_id": "57ab8d401eff02897b163f04",
     "Scientific name": "Gallotia simonyi simonyi",
+    "common_name": "Roque Chico de Salmor giant lizard",
+    "scientific_name": "Gallotia simonyi simonyi",
     "date": "1930-01-01T00:00:00Z",
     "Range": "Spain (Canary Islands)",
     "Description": "--",
@@ -676,6 +780,8 @@
   {
     "_id": "57ab8d401eff02897b163f05",
     "Scientific name": "Bolyeria multocarinata",
+    "common_name": "Round Island burrowing boa",
+    "scientific_name": "Bolyeria multocarinata",
     "date": "1975-01-01T00:00:00Z",
     "Range": "Mauritius",
     "Description": "--",
@@ -689,6 +795,8 @@
   {
     "_id": "57ab8d401eff02897b163f06",
     "Scientific name": "Cylindraspis inepta",
+    "common_name": "Saddle-backed Mauritius giant tortoise",
+    "scientific_name": "Cylindraspis inepta",
     "date": "Earl-01-01T00:00:00Zy 18th century",
     "Range": "Mauritius",
     "Description": "--",
@@ -702,6 +810,8 @@
   {
     "_id": "57ab8d401eff02897b163f07",
     "Scientific name": "Cylindraspis vosmaeri",
+    "common_name": "Saddle-backed Rodrigues giant tortoise",
+    "scientific_name": "Cylindraspis vosmaeri",
     "date": "1800-01-01T00:00:00Z",
     "Range": "Mauritius",
     "Description": "--",
@@ -715,6 +825,8 @@
   {
     "_id": "57ab8d611eff02897b163f08",
     "Scientific Name": "Eriocnemis godini",
+    "common_name": "Turquoise-throated puffleg",
+    "scientific_name": "Eriocnemis godini",
     "date": "1850-01-01T00:00:00Z",
     "Range": "Colombia and Ecuador",
     "Description": "--",
@@ -728,6 +840,8 @@
   {
     "_id": "57ab8d611eff02897b163f09",
     "Scientific Name": "Atelopus ignescens",
+    "common_name": "Atelopus ignescens",
+    "scientific_name": "Atelopus ignescens",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "Ecuador",
     "Description": "--",
@@ -741,6 +855,8 @@
   {
     "_id": "57ab8d611eff02897b163f0a",
     "Scientific Name": "Atelopus longirostris",
+    "common_name": "Atelopus longirostris",
+    "scientific_name": "Atelopus longirostris",
     "date": "1989-01-01T00:00:00Z",
     "Range": "Ecuador",
     "Description": "--",
@@ -754,6 +870,8 @@
   {
     "_id": "57ab8d611eff02897b163f0b",
     "Scientific Name": "Atelopus vogli",
+    "common_name": "Atelopus vogli",
+    "scientific_name": "Atelopus vogli",
     "date": "1933-01-01T00:00:00Z",
     "Range": "Venezuela",
     "Description": "--",
@@ -767,6 +885,8 @@
   {
     "_id": "57ab8d611eff02897b163f0c",
     "Scientific Name": "Phrynomedusa fimbriata",
+    "common_name": "Spiny-knee leaf frog",
+    "scientific_name": "Phrynomedusa fimbriata",
     "date": "1920-01-01T00:00:00Z",
     "Range": "Brazil",
     "Description": "--",
@@ -780,6 +900,8 @@
   {
     "_id": "57ab8d611eff02897b163f0d",
     "Scientific Name": "Rhinoderma rufum",
+    "common_name": "Chile Darwin's frog",
+    "scientific_name": "Rhinoderma rufum",
     "date": "1980-01-01T00:00:00Z",
     "Range": "Chile",
     "Description": "--",
@@ -793,6 +915,8 @@
   {
     "_id": "57ab8d611eff02897b163f0e",
     "Scientific Name": "Chelonoidis nigra nigra",
+    "common_name": "Charles Island tortoise",
+    "scientific_name": "Chelonoidis nigra nigra",
     "date": "1850-01-01T00:00:00Z",
     "Range": "Ecuador (Galapagos Islands)",
     "Description": "--",
@@ -806,6 +930,8 @@
   {
     "_id": "57ab8d611eff02897b163f0f",
     "Scientific Name": "Chelonoidis nigra abingdonii",
+    "common_name": "Pinta Island tortoise",
+    "scientific_name": "Chelonoidis nigra abingdonii",
     "date": "2012-01-01T00:00:00Z",
     "Range": "Ecuador (Galapagos Islands)",
     "Description": "--",
@@ -819,6 +945,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f10",
     "Scientific Name": "Sephanoides fernandensis leyboldi",
+    "common_name": "Alejandro Selkirk Island Firecrown",
+    "scientific_name": "Sephanoides fernandensis leyboldi",
     "date": "1908-01-01T00:00:00Z",
     "Range": "Chile",
     "Description": "--",
@@ -832,6 +960,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f11",
     "Scientific Name": "Podiceps andinus",
+    "common_name": "Colombian grebe",
+    "scientific_name": "Podiceps andinus",
     "date": "1970-01-01T00:00:00Z",
     "Range": "Colombia",
     "Description": "--",
@@ -845,6 +975,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f12",
     "Scientific Name": "Geospiza magnirostris magnirostris",
+    "common_name": "Darwin's ground finch",
+    "scientific_name": "Geospiza magnirostris magnirostris",
     "date": "1957-01-01T00:00:00Z",
     "Range": "Ecuador (Galapagos Islands)",
     "Description": "--",
@@ -858,6 +990,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f13",
     "Scientific Name": "Anas georgica niceforoi",
+    "common_name": "Niceforo's pintail",
+    "scientific_name": "Anas georgica niceforoi",
     "date": "1952-01-01T00:00:00Z",
     "Range": "Colombia",
     "Description": "--",
@@ -871,6 +1005,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f14",
     "Scientific Name": "Pyrocephalus rubinus dubius",
+    "common_name": "San Cristabal vermilion flycatcher",
+    "scientific_name": "Pyrocephalus rubinus dubius",
     "date": "1980-01-01T00:00:00Z",
     "Range": "Ecuador (Galapagos Islands)",
     "Description": "--",
@@ -884,6 +1020,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f15",
     "Scientific Name": "Aramides gutturalis",
+    "common_name": "Red-throated wood-rail",
+    "scientific_name": "Aramides gutturalis",
     "date": "1843-01-01T00:00:00Z",
     "Range": "Peru",
     "Description": "--",
@@ -897,6 +1035,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f16",
     "Scientific Name": "Heliangelus zusii",
+    "common_name": "Antioquia brush finch",
+    "scientific_name": "Heliangelus zusii",
     "date": "1971-01-01T00:00:00Z",
     "Range": "Colombia",
     "Description": "--",
@@ -910,6 +1050,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f17",
     "Scientific Name": "Heliangelus zusii",
+    "common_name": "Bogota SunAngel",
+    "scientific_name": "Heliangelus zusii",
     "date": "1907-01-01T00:00:00Z",
     "Range": "Colombia",
     "Description": "--",
@@ -923,6 +1065,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f18",
     "Scientific Name": "Numenius borealis",
+    "common_name": "Eskimo Curlew",
+    "scientific_name": "Numenius borealis",
     "date": "1939-01-01T00:00:00Z",
     "Range": "Brazil and Argentina",
     "Description": "--",
@@ -936,6 +1080,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f19",
     "Scientific Name": "Anodorhynchus glaucus",
+    "common_name": "Glaucous macaw",
+    "scientific_name": "Anodorhynchus glaucus",
     "date": "1960-01-01T00:00:00Z",
     "Range": "Argentina, Brazil, Paraguay and Uruguay",
     "Description": "--",
@@ -949,6 +1095,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f1a",
     "Scientific Name": "Sporophila melanops",
+    "common_name": "Hooded seedeater",
+    "scientific_name": "Sporophila melanops",
     "date": "1823-01-01T00:00:00Z",
     "Range": "Brazil",
     "Description": "--",
@@ -962,6 +1110,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f1b",
     "Scientific Name": "Discosura letitiae",
+    "common_name": "Letitia's thorntail",
+    "scientific_name": "Discosura letitiae",
     "date": "1852-01-01T00:00:00Z",
     "Range": "Bolivia",
     "Description": "--",
@@ -975,6 +1125,8 @@
   {
     "_id": "57ab8d7c1eff02897b163f1c",
     "Scientific Name": "Grallaria chthonia",
+    "common_name": "Tachira antpitta",
+    "scientific_name": "Grallaria chthonia",
     "date": "1956-01-01T00:00:00Z",
     "Range": "Venezuela",
     "Description": "--",
@@ -988,6 +1140,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f1d",
     "Scientific Name": "Smilodon populator",
+    "common_name": "Amazonian smilodon",
+    "scientific_name": "Smilodon populator",
     "date": "10,0-01-01T00:00:00Z00",
     "Range": "Northern South Ameica",
     "Description": "--",
@@ -1001,6 +1155,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f1e",
     "Scientific Name": "Antifer crassus",
+    "common_name": "Antifer",
+    "scientific_name": "Antifer crassus",
     "date": "1100-01-01T00:00:00Z0",
     "Range": "Argentina, Brazil and Chile",
     "Description": "--",
@@ -1014,6 +1170,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f1f",
     "Scientific Name": "Arctotherium sp.",
+    "common_name": "Arctotherium",
+    "scientific_name": "Arctotherium sp.",
     "date": "1100-01-01T00:00:00Z0",
     "Range": "South America",
     "Description": "--",
@@ -1027,6 +1185,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f20",
     "Scientific Name": "Canis nehringi",
+    "common_name": "Canis nehringi",
+    "scientific_name": "Canis nehringi",
     "date": "8000-01-01T00:00:00Z",
     "Range": "South America",
     "Description": "--",
@@ -1040,6 +1200,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f21",
     "Scientific Name": "Cuvieronius sp.",
+    "common_name": "Cuvieronius",
+    "scientific_name": "Cuvieronius sp.",
     "date": "4000-01-01T00:00:00Z",
     "Range": "South America",
     "Description": "--",
@@ -1053,6 +1215,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f22",
     "Scientific Name": "Canis dirus",
+    "common_name": "Dire wolf",
+    "scientific_name": "Canis dirus",
     "date": "1100-01-01T00:00:00Z0",
     "Range": "South America",
     "Description": "--",
@@ -1066,6 +1230,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f23",
     "Scientific Name": "Catonyx",
+    "common_name": "Ground sloths",
+    "scientific_name": "Catonyx",
     "date": "6000-01-01T00:00:00Z",
     "Range": "South America",
     "Description": "--",
@@ -1079,6 +1245,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f24",
     "Scientific Name": "Doedicurus",
+    "common_name": "Glyptodontidaes",
+    "scientific_name": "Doedicurus",
     "date": "1100-01-01T00:00:00Z0",
     "Range": "South America",
     "Description": "--",
@@ -1092,6 +1260,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f25",
     "Scientific Name": "Hippidion",
+    "common_name": "Hippidion",
+    "scientific_name": "Hippidion",
     "date": "1000-01-01T00:00:00Z0",
     "Range": "South America",
     "Description": "--",
@@ -1105,6 +1275,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f26",
     "Scientific Name": "Macrauchenia sp.",
+    "common_name": "Macrauchenia",
+    "scientific_name": "Macrauchenia sp.",
     "date": "1000-01-01T00:00:00Z0",
     "Range": "South America",
     "Description": "--",
@@ -1118,6 +1290,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f27",
     "Scientific Name": "Neochoerus sp.",
+    "common_name": "Neochoerus",
+    "scientific_name": "Neochoerus sp.",
     "date": "1000-01-01T00:00:00Z0",
     "Range": "South America",
     "Description": "--",
@@ -1131,6 +1305,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f28",
     "Scientific Name": "Stegomastodon sp.",
+    "common_name": "Stegomastodon",
+    "scientific_name": "Stegomastodon sp.",
     "date": "1000-01-01T00:00:00Z0",
     "Range": "South America",
     "Description": "--",
@@ -1144,6 +1320,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f29",
     "Scientific Name": "Palaeolama mirifica",
+    "common_name": "Stout-legged llama",
+    "scientific_name": "Palaeolama mirifica",
     "date": "1000-01-01T00:00:00Z0",
     "Range": "South America",
     "Description": "--",
@@ -1157,6 +1335,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f2a",
     "Scientific Name": "Theriodictis sp.",
+    "common_name": "Theriodictis",
+    "scientific_name": "Theriodictis sp.",
     "date": "1100-01-01T00:00:00Z0",
     "Range": "Bolivia, Brazil and Paraguay",
     "Description": "--",
@@ -1170,6 +1350,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f2b",
     "Scientific Name": "Toxodon sp.",
+    "common_name": "Toxodon",
+    "scientific_name": "Toxodon sp.",
     "date": "1650-01-01T00:00:00Z0",
     "Range": "South America",
     "Description": "--",
@@ -1183,6 +1365,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f2c",
     "Scientific Name": "Xenorhinotherium bahiensis",
+    "common_name": "Xenorhinotherium",
+    "scientific_name": "Xenorhinotherium bahiensis",
     "date": "1000-01-01T00:00:00Z0",
     "Range": "Brazil and Venezuela",
     "Description": "--",
@@ -1196,6 +1380,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f2d",
     "Scientific Name": "Juscelinomys candango",
+    "common_name": "Candango mouse",
+    "scientific_name": "Juscelinomys candango",
     "date": "1960-01-01T00:00:00Z",
     "Range": "Brazil",
     "Description": "--",
@@ -1208,6 +1394,7 @@
   },
   {
     "_id": "57ab8d8c1eff02897b163f2f",
+    "common_name": "Darwin's rice rat",
     "cientific name": "Nesoryzomys darwini",
     "date": "1929-01-01T00:00:00Z",
     "Range": "Ecuador (Galapagos Islands)",
@@ -1222,6 +1409,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f31",
     "Scientific Name": "Megaoryzomys curioi",
+    "common_name": "Galapagos giant rat",
+    "scientific_name": "Megaoryzomys curioi",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "Ecuador (Galapagos Islands)",
     "Description": "--",
@@ -1235,6 +1424,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f32",
     "Scientific Name": "Nesoryzomys indefessus",
+    "common_name": "Indefatigable Galapagos mouse",
+    "scientific_name": "Nesoryzomys indefessus",
     "date": "1930-01-01T00:00:00Z",
     "Range": "Ecuador (Galapagos Islands)",
     "Description": "--",
@@ -1248,6 +1439,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f33",
     "Scientific Name": "Desmodus draculae",
+    "common_name": "Giant vampire bat",
+    "scientific_name": "Desmodus draculae",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "Bolivia, Brazil & Venezuela",
     "Description": "--",
@@ -1261,6 +1454,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f34",
     "Scientific Name": "Lagostomus crassus",
+    "common_name": "Peruvian viscacha",
+    "scientific_name": "Lagostomus crassus",
     "date": "1910-01-01T00:00:00Z",
     "Range": "Peru",
     "Description": "--",
@@ -1274,6 +1469,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f36",
     "Scientific Name": "Noronhomys vespuccii",
+    "common_name": "Vespucci's rodent",
+    "scientific_name": "Noronhomys vespuccii",
     "date": "1503-01-01T00:00:00Z",
     "Range": "Brazil",
     "Description": "--",
@@ -1287,6 +1484,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f38",
     "Scientific Name": "Octodon pacificus",
+    "common_name": "Pacific degu",
+    "scientific_name": "Octodon pacificus",
     "date": "1994-01-01T00:00:00Z",
     "Range": "Mocha Island, Chile",
     "Description": "--",
@@ -1300,6 +1499,8 @@
   {
     "_id": "57ab8d8c1eff02897b163f39",
     "Scientific Name": "Melanomys zunigae",
+    "common_name": "Zuniga's dark rice rat",
+    "scientific_name": "Melanomys zunigae",
     "date": "1942-01-01T00:00:00Z",
     "Range": "Peru",
     "Description": "--",
@@ -1313,6 +1514,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f3a",
     "Scientific name": "Struthio camelus syriacus",
+    "common_name": "Arabian ostrich",
+    "scientific_name": "Struthio camelus syriacus",
     "date": "1966-01-01T00:00:00Z",
     "Range": "Middle East",
     "Description": "--",
@@ -1326,6 +1529,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f3b",
     "Scientific name": "Struthio asiaticus",
+    "common_name": "Asiatic ostrich",
+    "scientific_name": "Struthio asiaticus",
     "date": "1000-01-01T00:00:00Z0",
     "Range": "Middle East to Central Asia",
     "Description": "--",
@@ -1339,6 +1544,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f3c",
     "Scientific name": "Branta hutchinsii asiatica",
+    "common_name": "Bering Cackling Goose",
+    "scientific_name": "Branta hutchinsii asiatica",
     "date": "1929-01-01T00:00:00Z",
     "Range": "Russia (Komandorski and Kuril Islands)",
     "Description": "--",
@@ -1352,6 +1559,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f3d",
     "Scientific name": "Carpodacus ferreorostris",
+    "common_name": "Bonin grosbeak",
+    "scientific_name": "Carpodacus ferreorostris",
     "date": "1828-01-01T00:00:00Z",
     "Range": "Japan (Bonin Islands)",
     "Description": "--",
@@ -1365,6 +1574,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f3e",
     "Scientific name": "Nycticorax caledonicus crassirostris",
+    "common_name": "Bonin nankeen night heron",
+    "scientific_name": "Nycticorax caledonicus crassirostris",
     "date": "1889-01-01T00:00:00Z",
     "Range": "Japan (Bonin Islands)",
     "Description": "--",
@@ -1378,6 +1589,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f3f",
     "Scientific name": "Zoothera terrestris",
+    "common_name": "Bonin thrush",
+    "scientific_name": "Zoothera terrestris",
     "date": "1827-01-01T00:00:00Z",
     "Range": "Japan (Bonin Islands)",
     "Description": "--",
@@ -1391,6 +1604,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f40",
     "Scientific name": "Columba versicolor",
+    "common_name": "Bonin wood pigeon",
+    "scientific_name": "Columba versicolor",
     "date": "1889-01-01T00:00:00Z",
     "Range": "Japan (Bonin Islands)",
     "Description": "--",
@@ -1404,6 +1619,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f41",
     "Scientific name": "Loriculus philippensis chrysonotus",
+    "common_name": "Cebu hanging parrot",
+    "scientific_name": "Loriculus philippensis chrysonotus",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "Philippines (Cebu)",
     "Description": "--",
@@ -1417,6 +1634,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f42",
     "Scientific name": "Cinclus cinclus olympicus",
+    "common_name": "Cyprus dipper",
+    "scientific_name": "Cinclus cinclus olympicus",
     "date": "1950-01-01T00:00:00Z",
     "Range": "Cyprus",
     "Description": "--",
@@ -1430,6 +1649,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f43",
     "Scientific name": "Apalopteron familiare familiare",
+    "common_name": "Mukojima white-eye",
+    "scientific_name": "Apalopteron familiare familiare",
     "date": "1930-01-01T00:00:00Z",
     "Range": "Japan (Bonin Islands)",
     "Description": "--",
@@ -1443,6 +1664,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f44",
     "Scientific name": "Todiramphus miyakoensis",
+    "common_name": "Ryukyu kingfisher",
+    "scientific_name": "Todiramphus miyakoensis",
     "date": "1887-01-01T00:00:00Z",
     "Range": "Japan (Ryukyu Islands)",
     "Description": "--",
@@ -1456,6 +1679,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f45",
     "Scientific name": "Columba jouyi",
+    "common_name": "Ryukyu wood pigeon",
+    "scientific_name": "Columba jouyi",
     "date": "1936-01-01T00:00:00Z",
     "Range": "Japan (Ryukyu Islands)",
     "Description": "--",
@@ -1469,6 +1694,8 @@
   {
     "_id": "57ab8f0d1eff02897b163f46",
     "Scientific name": "Phalacrocorax perspicillatus",
+    "common_name": "Spectacled cormorant",
+    "scientific_name": "Phalacrocorax perspicillatus",
     "date": "1850-01-01T00:00:00Z",
     "Range": "Russia",
     "Description": "--",
@@ -1482,6 +1709,8 @@
   {
     "_id": "57ab8f211eff02897b163f47",
     "Scientific name": "Bos primigenius",
+    "common_name": "Aurochs",
+    "scientific_name": "Bos primigenius",
     "date": "Indi-01-01T00:00:00Za (9000), Eurasia (1627)",
     "Range": "Northern Asia and Indian Sontinent",
     "Description": "--",
@@ -1495,6 +1724,8 @@
   {
     "_id": "57ab8f211eff02897b163f48",
     "Scientific name": "Panthera tigris balica",
+    "common_name": "Bali tiger",
+    "scientific_name": "Panthera tigris balica",
     "date": "1937-01-01T00:00:00Z",
     "Range": "Indonesia (Bali)",
     "Description": "--",
@@ -1508,6 +1739,8 @@
   {
     "_id": "57ab8f211eff02897b163f49",
     "Scientific name": "Coryphomys buehleri",
+    "common_name": "Buhler's coryphomys",
+    "scientific_name": "Coryphomys buehleri",
     "date": "1500-01-01T00:00:00Z",
     "Range": "Indonesia (Timor)",
     "Description": "--",
@@ -1521,6 +1754,8 @@
   {
     "_id": "57ab8f211eff02897b163f4a",
     "Scientific name": "Panthera tigris virgata",
+    "common_name": "Caspian tiger",
+    "scientific_name": "Panthera tigris virgata",
     "date": "1970-01-01T00:00:00Z",
     "Range": "Turkey to China",
     "Description": "--",
@@ -1534,6 +1769,8 @@
   {
     "_id": "57ab8f211eff02897b163f4b",
     "Scientific name": "Alces alces caucasicus",
+    "common_name": "Caucasian moose",
+    "scientific_name": "Alces alces caucasicus",
     "date": "1850-01-01T00:00:00Z",
     "Range": "Caucasus Mountains, Iran and Turkey",
     "Description": "--",
@@ -1547,6 +1784,8 @@
   {
     "_id": "57ab8f211eff02897b163f4c",
     "Scientific name": "Bison bonasus caucasicus",
+    "common_name": "Caucasian wisent",
+    "scientific_name": "Bison bonasus caucasicus",
     "date": "1925-01-01T00:00:00Z",
     "Range": "Caucasus Mountains",
     "Description": "--",
@@ -1560,6 +1799,8 @@
   {
     "_id": "57ab8f211eff02897b163f4d",
     "Scientific name": "Sus cebifrons cebifrons",
+    "common_name": "Cebu warty pig",
+    "scientific_name": "Sus cebifrons cebifrons",
     "date": "1951-01-01T00:00:00Z",
     "Range": "Yemen",
     "Description": "--",
@@ -1573,6 +1814,8 @@
   {
     "_id": "57ab8f211eff02897b163f4e",
     "Scientific name": "Spelaeomys florensis",
+    "common_name": "Flores cave rat",
+    "scientific_name": "Spelaeomys florensis",
     "date": "1500-01-01T00:00:00Zs",
     "Range": "Indonesia (Flores)",
     "Description": "--",
@@ -1586,6 +1829,8 @@
   {
     "_id": "57ab8f211eff02897b163f4f",
     "Scientific name": "Paulamys naso",
+    "common_name": "Flores long-nosed rat",
+    "scientific_name": "Paulamys naso",
     "date": "1500-01-01T00:00:00Zs",
     "Range": "Indonesia (Flores)",
     "Description": "--",
@@ -1599,6 +1844,8 @@
   {
     "_id": "57ab8f211eff02897b163f50",
     "Scientific name": "Neofelis nebulosa brachyura",
+    "common_name": "Formosan clouded leopard",
+    "scientific_name": "Neofelis nebulosa brachyura",
     "date": "1990-01-01T00:00:00Zs",
     "Range": "Taiwan",
     "Description": "--",
@@ -1612,6 +1859,8 @@
   {
     "_id": "57ab8f211eff02897b163f51",
     "Scientific name": "Canis lupus hattai",
+    "common_name": "Hokkaidō wolf",
+    "scientific_name": "Canis lupus hattai",
     "date": "1889-01-01T00:00:00Z",
     "Range": "Japan (Hokkaidō)",
     "Description": "--",
@@ -1625,6 +1874,8 @@
   {
     "_id": "57ab8f211eff02897b163f52",
     "Scientific name": "Canis lupus hodophilax",
+    "common_name": "Honshū wolf",
+    "scientific_name": "Canis lupus hodophilax",
     "date": "1905-01-01T00:00:00Z",
     "Range": "Japan (Honshū)",
     "Description": "--",
@@ -1638,6 +1889,8 @@
   {
     "_id": "57ab8f211eff02897b163f53",
     "Scientific name": "Crateromys paulus",
+    "common_name": "Ilin Island Cloudrunner",
+    "scientific_name": "Crateromys paulus",
     "date": "Apri-01-01T00:00:00Zl 4, 1953",
     "Range": "Philippines",
     "Description": "--",
@@ -1651,6 +1904,8 @@
   {
     "_id": "57ab8f211eff02897b163f54",
     "Scientific name": "Rhinoceros sondaicus inermis",
+    "common_name": "Indian Javan rhinoceros",
+    "scientific_name": "Rhinoceros sondaicus inermis",
     "date": "Befo-01-01T00:00:00Zre 1925",
     "Range": "Bangladesh, Burma (Myanmar), and India",
     "Description": "--",
@@ -1664,6 +1919,8 @@
   {
     "_id": "57ab8f211eff02897b163f55",
     "Scientific name": "Lutra lutra whiteleyi",
+    "common_name": "Japanese river otter",
+    "scientific_name": "Lutra lutra whiteleyi",
     "date": "1979-01-01T00:00:00Z",
     "Range": "Japan",
     "Description": "--",
@@ -1677,6 +1934,8 @@
   {
     "_id": "57ab8f211eff02897b163f56",
     "Scientific name": "Zalophus japonicus",
+    "common_name": "Japanese sea lion",
+    "scientific_name": "Zalophus japonicus",
     "date": "1974-01-01T00:00:00Z",
     "Range": "Sea of Japan",
     "Description": "--",
@@ -1690,6 +1949,8 @@
   {
     "_id": "57ab8f211eff02897b163f57",
     "Scientific name": "Panthera tigris sondaica",
+    "common_name": "Javan tiger",
+    "scientific_name": "Panthera tigris sondaica",
     "date": "1970-01-01T00:00:00Zs",
     "Range": "Indonesia (Java)",
     "Description": "--",
@@ -1703,6 +1964,8 @@
   {
     "_id": "57ab8f211eff02897b163f58",
     "Scientific name": "Dicerorhinus sumatrensis lasiotis",
+    "common_name": "Northern Sumatran rhinoceros",
+    "scientific_name": "Dicerorhinus sumatrensis lasiotis",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "Bangladesh, Burma (Myanmar), and India",
     "Description": "--",
@@ -1716,6 +1979,8 @@
   {
     "_id": "57ab8f211eff02897b163f59",
     "Scientific name": "Gazella bilkis",
+    "common_name": "Queen of Sheba's gazelle",
+    "scientific_name": "Gazella bilkis",
     "date": "1951-01-01T00:00:00Z",
     "Range": "Yemen",
     "Description": "--",
@@ -1729,6 +1994,8 @@
   {
     "_id": "57ab8f211eff02897b163f5a",
     "Scientific name": "Gazella saudiya",
+    "common_name": "Saudi gazelle",
+    "scientific_name": "Gazella saudiya",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "Arabian Peninsula",
     "Description": "--",
@@ -1742,6 +2009,8 @@
   {
     "_id": "57ab8f211eff02897b163f5b",
     "Scientific name": "Rucervus schomburgki",
+    "common_name": "Schomburgk's deer",
+    "scientific_name": "Rucervus schomburgki",
     "date": "1938-01-01T00:00:00Z",
     "Range": "Thailand",
     "Description": "--",
@@ -1755,6 +2024,8 @@
   {
     "_id": "57ab8f211eff02897b163f5c",
     "Scientific name": "Hydrodamalis gigas",
+    "common_name": "Steller's sea cow",
+    "scientific_name": "Hydrodamalis gigas",
     "date": "1768-01-01T00:00:00Z",
     "Range": "Russia (Commander Islands)",
     "Description": "--",
@@ -1768,6 +2039,8 @@
   {
     "_id": "57ab8f211eff02897b163f5d",
     "Scientific name": "Pipistrellus sturdeei",
+    "common_name": "Sturdee's pipistrelle",
+    "scientific_name": "Pipistrellus sturdeei",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "Japan (Bonin Islands)",
     "Description": "--",
@@ -1781,6 +2054,8 @@
   {
     "_id": "57ab8f211eff02897b163f5e",
     "Scientific name": "Neofelis nebulosa brachyura",
+    "common_name": "Verhoeven's giant tree rat",
+    "scientific_name": "Neofelis nebulosa brachyura",
     "date": "1500-01-01T00:00:00Z",
     "Range": "Indonesia (Flores)",
     "Description": "--",
@@ -1794,6 +2069,8 @@
   {
     "_id": "57ab8f211eff02897b163f5f",
     "Scientific name": "Rhinoceros sondaicus annamiticus",
+    "common_name": "Vietnamese Javan rhinoceros",
+    "scientific_name": "Rhinoceros sondaicus annamiticus",
     "date": "2010-01-01T00:00:00Z",
     "Range": "Vietnam to Malaysia",
     "Description": "--",
@@ -1807,6 +2084,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f60",
     "Scientific name": "Bos primigenius",
+    "common_name": "Aurochs",
+    "scientific_name": "Bos primigenius",
     "date": "Indi-01-01T00:00:00Za (9000), Eurasia (1627)",
     "Range": "Northern Asia and Indian Sontinent",
     "Description": "--",
@@ -1820,6 +2099,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f61",
     "Scientific name": "Panthera tigris balica",
+    "common_name": "Bali tiger",
+    "scientific_name": "Panthera tigris balica",
     "date": "1937-01-01T00:00:00Z",
     "Range": "Indonesia (Bali)",
     "Description": "--",
@@ -1833,6 +2114,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f62",
     "Scientific name": "Coryphomys buehleri",
+    "common_name": "Buhler's coryphomys",
+    "scientific_name": "Coryphomys buehleri",
     "date": "1500-01-01T00:00:00Z",
     "Range": "Indonesia (Timor)",
     "Description": "--",
@@ -1846,6 +2129,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f63",
     "Scientific name": "Panthera tigris virgata",
+    "common_name": "Caspian tiger",
+    "scientific_name": "Panthera tigris virgata",
     "date": "1970-01-01T00:00:00Z",
     "Range": "Turkey to China",
     "Description": "--",
@@ -1859,6 +2144,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f64",
     "Scientific name": "Alces alces caucasicus",
+    "common_name": "Caucasian moose",
+    "scientific_name": "Alces alces caucasicus",
     "date": "1850-01-01T00:00:00Z",
     "Range": "Caucasus Mountains, Iran and Turkey",
     "Description": "--",
@@ -1872,6 +2159,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f65",
     "Scientific name": "Bison bonasus caucasicus",
+    "common_name": "Caucasian wisent",
+    "scientific_name": "Bison bonasus caucasicus",
     "date": "1925-01-01T00:00:00Z",
     "Range": "Caucasus Mountains",
     "Description": "--",
@@ -1885,6 +2174,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f66",
     "Scientific name": "Sus cebifrons cebifrons",
+    "common_name": "Cebu warty pig",
+    "scientific_name": "Sus cebifrons cebifrons",
     "date": "1951-01-01T00:00:00Z",
     "Ran": "Queen of Sheba's gazelle",
     "Range": "Yemen",
@@ -1899,6 +2190,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f67",
     "Scientific name": "Gazella saudiya",
+    "common_name": "Saudi gazelle",
+    "scientific_name": "Gazella saudiya",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "Arabian Peninsula",
     "Description": "--",
@@ -1912,6 +2205,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f68",
     "Scientific name": "Rucervus schomburgki",
+    "common_name": "Schomburgk's deer",
+    "scientific_name": "Rucervus schomburgki",
     "date": "1938-01-01T00:00:00Z",
     "Range": "Thailand",
     "Description": "--",
@@ -1925,6 +2220,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f69",
     "Scientific name": "Hydrodamalis gigas",
+    "common_name": "Steller's sea cow",
+    "scientific_name": "Hydrodamalis gigas",
     "date": "1768-01-01T00:00:00Z",
     "Range": "Russia (Commander Islands)",
     "Description": "--",
@@ -1938,6 +2235,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f6a",
     "Scientific name": "Pipistrellus sturdeei",
+    "common_name": "Sturdee's pipistrelle",
+    "scientific_name": "Pipistrellus sturdeei",
     "date": "Unkn-01-01T00:00:00Zown",
     "Range": "Japan (Bonin Islands)",
     "Description": "--",
@@ -1951,6 +2250,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f6b",
     "Scientific name": "Neofelis nebulosa brachyura",
+    "common_name": "Verhoeven's giant tree rat",
+    "scientific_name": "Neofelis nebulosa brachyura",
     "date": "1500-01-01T00:00:00Z",
     "Range": "Indonesia (Flores)",
     "Description": "--",
@@ -1964,6 +2265,8 @@
   {
     "_id": "57ab8f3f1eff02897b163f6c",
     "Scientific name": "Rhinoceros sondaicus annamiticus",
+    "common_name": "Vietnamese Javan rhinoceros",
+    "scientific_name": "Rhinoceros sondaicus annamiticus",
     "date": "2010-01-01T00:00:00Z",
     "Range": "Vietnam to Malaysia",
     "Description": "--",
@@ -1977,6 +2280,8 @@
   {
     "_id": "57ab8f681eff02897b163f73",
     "Scientific name": "Pinguinus impennis",
+    "common_name": "Great auk",
+    "scientific_name": "Pinguinus impennis",
     "date": "1854-01-01T00:00:00Z",
     "Range": "Iceland and Northern European Coast",
     "Type": "air",
@@ -1989,6 +2294,8 @@
   {
     "_id": "57ab8f681eff02897b163f74",
     "Scientific name": "Corvus corax varius",
+    "common_name": "Pied raven",
+    "scientific_name": "Corvus corax varius",
     "date": "1950-01-01T00:00:00Z",
     "Range": "Denmark (Faroe Islands)",
     "Type": "air",

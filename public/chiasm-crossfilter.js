@@ -1,5 +1,8 @@
 // This function defines a Chiasm component that exposes a Crossfilter instance
 // to visualizations via the Chaism configuration.
+var ChiasmComponent = require('chiasm-component');
+var Model = require('model-js');
+var crossfilter = require('crossfilter');
 
 function ChiasmCrossfilter() {
 
@@ -16,8 +19,7 @@ function ChiasmCrossfilter() {
       var updateFunctions = [];
 
       listeners.forEach(my.cancel);
-
-      listeners = Object.keys(groups).map(function (groupName){
+      listeners = Object.keys(groups).map(function (groupName) {
         var group = groups[groupName];
         var dimension = group.dimension;
         var cfDimension = cf.dimension(function (d){ return d[dimension]; }); //invalid date error here
@@ -57,12 +59,7 @@ function ChiasmCrossfilter() {
         updateMyGroup();
         return my.when(dimension + "Filter", function (extent) {
           if (extent !== Model.None) {
-            // if (dimension === 'date' && play) {
-            //   move(extent);
-            // } else {
-            // t.stop();
               cfDimension.filterRange(extent);
-            // }
           } else {
             cfDimension.filterAll();
           }
@@ -77,3 +74,4 @@ function ChiasmCrossfilter() {
   });
   return my;
 }
+module.exports = ChiasmCrossfilter;
