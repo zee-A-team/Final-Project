@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run bundle & npm run server",
     "bundle": "webpack",
-    "server": "node server.js"
+    "server": "node server.js",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
@@ -39,6 +40,8 @@
     "csv-loader": "^2.0.1",
     "d3": "3.5.6",
     "del": "^2.2.2",
+    "eslint": "^3.3.1",
+    "eslint-config-airbnb": "^10.0.1",
     "express": "^4.14.0",
     "extract-text-webpack-plugin": "^1.0.1",
     "graphiql": "^0.7.4",
@@ -62,6 +65,11 @@
     "webpack-hot-middleware": "^2.12.2"
   },
   "devDependencies": {
+    "eslint": "^3.3.1",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.13.0",
+    "eslint-plugin-jsx-a11y": "^2.1.0",
+    "eslint-plugin-react": "^6.1.2",
     "node-sass": "^3.8.0",
     "sass-loader": "^4.0.0",
     "webpack": "^1.13.2"
