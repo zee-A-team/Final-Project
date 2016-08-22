@@ -17,14 +17,13 @@ const compiler = webpack(config);
 /*----------  MONGOOSE ORM SETUP   ----------*/
 const mongoose = require('mongoose');
 mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost/et');
+mongoose.Promise = global.Promise;
+
 const db = mongoose.connection;
 const path = require('path');
 
 db.on('error', console.error.bind(console, "connection error"));
 db.once('open', _ => console.log("Mongo reporting for duty!"));
-
-mongoose.Promise = global.Promise;
-
 
 app.use(express.static('public'));
 app.use(bodyParser.json());

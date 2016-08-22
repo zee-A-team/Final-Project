@@ -1,3 +1,5 @@
+'use strict';
+
 var Chiasm = require('chiasm');
 var ChiasmComponent = require('chiasm-component');
 var ChiasmCrossfilter = require('./chiasm-crossfilter');

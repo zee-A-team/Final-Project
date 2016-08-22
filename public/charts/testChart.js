@@ -1,3 +1,4 @@
+'use strict';
 /*----------  PIE CHART COMPARING EXTINCTIONS BY HEMISPHERE  ----------*/
 const c3 = require('c3');
 let data = d3.json("../animalData.json", function(data){

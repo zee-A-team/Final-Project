@@ -1,6 +1,6 @@
+'use strict';
 // This is a Chiasm component that implements a bubble map.
 // Based on chiasm-leaflet.
-//
 var ChiasmLeaflet = require('./chiasm-leaflet');
 var Model = require('model-js');
 var L = require('leaflet');

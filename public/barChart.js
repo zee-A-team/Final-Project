@@ -1,3 +1,4 @@
+'use strict';
 var ChiasmComponent = require('chiasm-component');
 var d3 = require('d3');
 var Model = require('model-js');

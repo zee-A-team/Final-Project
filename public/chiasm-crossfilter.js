@@ -1,3 +1,4 @@
+'use strict';
 // This function defines a Chiasm component that exposes a Crossfilter instance
 // to visualizations via the Chaism configuration.
 var ChiasmComponent = require('chiasm-component');
