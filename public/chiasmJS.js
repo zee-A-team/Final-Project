@@ -1,3 +1,4 @@
+/*jshint esversion: 6 */
 'use strict';
 const Chiasm = require('chiasm');
 const ChiasmComponent = require('chiasm-component');
