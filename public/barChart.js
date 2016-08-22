@@ -2,6 +2,36 @@ const ChiasmComponent = require('chiasm-component');
 const d3 = require('d3');
 const Model = require('model-js');
 
+function xAxis(my, g) {
+  const axisG = g.append('g').attr('class', 'x axis');
+  const axis = d3.svg.axis();
+  my.addPublicProperty('xAxisTickDensity', 70);
+  my.addPublicProperty('xAxisTickAngle', 0);
+  my.when(['xScale', 'xAxisTickDensity', 'xAxisTickAngle', 'innerBox'],
+    (xScale, xAxisTickDensity, xAxisTickAngle, innerBox) => {
+      const width = innerBox.width;
+      axis.scale(xScale).ticks(width / xAxisTickDensity);
+      axisG.call(axis);
+
+      const text = axisG.selectAll('text')
+        .attr('transform', `rotate(-${xAxisTickAngle})`);
+
+      if (xAxisTickAngle > 45) {
+        text
+          .attr('dx', '-0.9em')
+          .attr('dy', '-0.6em')
+          .style('text-anchor', 'end');
+      } else {
+        text
+          .attr('dx', '0em');
+      }
+    });
+
+  my.when('innerBox', (innerBox) => {
+    axisG.attr('transform', `translate(0,${innerBox.height})`);
+  });
+  return axisG;
+}
 function BarChart() {
   function onBrush() {
     if (brush.empty()) {
@@ -118,34 +148,4 @@ function BarChart() {
   return my;
 }
 
-function xAxis(my, g) {
-  const axisG = g.append('g').attr('class', 'x axis');
-  const axis = d3.svg.axis();
-  my.addPublicProperty('xAxisTickDensity', 70);
-  my.addPublicProperty('xAxisTickAngle', 0);
-  my.when(['xScale', 'xAxisTickDensity', 'xAxisTickAngle', 'innerBox'],
-    (xScale, xAxisTickDensity, xAxisTickAngle, innerBox) => {
-      const width = innerBox.width;
-      axis.scale(xScale).ticks(width / xAxisTickDensity);
-      axisG.call(axis);
-
-      const text = axisG.selectAll('text')
-        .attr('transform', `rotate(-${xAxisTickAngle})`);
-
-      if (xAxisTickAngle > 45) {
-        text
-          .attr('dx', '-0.9em')
-          .attr('dy', '-0.6em')
-          .style('text-anchor', 'end');
-      } else {
-        text
-          .attr('dx', '0em');
-      }
-    });
-
-  my.when('innerBox', (innerBox) => {
-    axisG.attr('transform', `translate(0,${innerBox.height})`);
-  });
-  return axisG;
-}
 module.exports = BarChart;

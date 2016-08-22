@@ -1,5 +1,5 @@
-const Animals = require('./Animal.js');
-const {getSchema} =  require('@risingstack/graffiti-mongoose');
+const Animals = require('./Animal');
+const { getSchema } = require('@risingstack/graffiti-mongoose');
 
 const schema = getSchema(Animals);
 

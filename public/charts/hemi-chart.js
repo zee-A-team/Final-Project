@@ -66,9 +66,9 @@ window.onload = () => {
                   ['data', 91.4],
             ],
             type: 'gauge',
-            onclick: (d, i) => { console.log('onclick', d, i); },
-            onmouseover: (d, i) => { console.log('onmouseover', d, i); },
-            onmouseout: (d, i) => { console.log('onmouseout', d, i); },
+            onclick: (d, i) => console.log('onclick', d, i),
+            onmouseover: (d, i) => console.log('onmouseover', d, i),
+            onmouseout: (d, i) => console.log('onmouseout', d, i),
           },
           gauge: {
             label: {

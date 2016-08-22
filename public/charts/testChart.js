@@ -1,7 +1,7 @@
 const c3 = require('c3');
 const d3 = require('d3');
 
-let data = d3.json('../animalData.json', (data) => {
+const data = d3.json('../animalData.json', (data) => {
   let north = 0;
   let south = 0;
 

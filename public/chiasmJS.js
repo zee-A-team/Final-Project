@@ -6,9 +6,8 @@ const ChiasmDatasetLoader = require('chiasm-dataset-loader');
 const BarChart = require('./barChart');
 const BubbleMap = require('./bubble-map');
 
-// Create a new Chiasm instance.
 const chiasm = new Chiasm();
-// Register plugins that the configuration can access.
+
 chiasm.plugins.layout = ChiasmLayout;
 chiasm.plugins.links = ChiasmLinks;
 chiasm.plugins.datasetLoader = ChiasmDatasetLoader;
@@ -16,7 +15,6 @@ chiasm.plugins.barChart = BarChart;
 chiasm.plugins.bubbleMap = BubbleMap;
 chiasm.plugins.crossfilter = ChiasmCrossfilter;
 
-// Set the Chaism configuration.
 chiasm.setConfig({
   layout: {
     plugin: 'layout',
