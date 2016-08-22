@@ -36,9 +36,6 @@ function BubbleMap() {
   };
   canvasTiles.addTo(my.map);
 
-  // Generate a function or constant for circle radius,
-  // depending on whether or not rColumn is defined.
-
   my.when(['datasetForScaleDomain', 'rColumn', 'rDefault', 'rMin', 'rMax'],
       (dataset, rColumn, rDefault, rMin, rMax) => {
         const data = dataset.data;
@@ -56,10 +53,11 @@ function BubbleMap() {
   let oldMarkers = [];
   const locationRandomizer = [];
   const randomizer = (object) => {
-    if (!locationRandomizer.includes(object)) {
-      object.latitude = object.latitude + Math.random(0, 500);
-      object.longitude = object.longitude + Math.random(0, 500);
-      locationRandomizer.push(object);
+    const tempObj = object;
+    if (!locationRandomizer.includes(tempObj)) {
+      tempObj.latitude += Math.random(0, 500);
+      tempObj.longitude += Math.random(0, 500);
+      locationRandomizer.push(tempObj);
     }
   };
 
