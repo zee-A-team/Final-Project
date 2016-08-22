@@ -7,62 +7,63 @@
 }
 
      /* Style the brush. Draws from http://bl.ocks.org/mbostock/4343214 */
-.brush .extent {
- stroke: black;
- fill-opacity: .2;
- shape-rendering: crispEdges;
+.brush,
+.extent {
+  stroke: black;
+  fill-opacity: .2;
+  shape-rendering: crispEdges;
 }
 
      /* Axis CSS from bar chart example http://bl.ocks.org/mbostock/3885304 */
 .axis {
- font: 10px Helvetica;
+  font: 10px Helvetica;
 }
 
 .axis path,
 .axis line {
- fill: none;
- stroke: lightgray;
- shape-rendering: crispEdges;
+  fill: none;
+  stroke: lightgray;
+  shape-rendering: crispEdges;
 }
 
      /* Custom CSS for axis labels. */
 .axis-label {
- text-anchor: middle;
- font-size: 1.1em;
+  text-anchor: middle;
+  font-size: 1.1em;
 }
 
 body {
   background:white;
 }
 
- Map
+Map
 .graticule {
- fill: none;
- stroke: #000;
- stroke-opacity: .5;
- stroke-width: .5px;
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .5;
+  stroke-width: .5px;
 }
 
 .land {
- stroke: rgb(44,155,155);
- fill: black;
+  stroke: rgb(44,155,155);
+  fill: black;
 }
 
 .boundary {
- fill: none;
- stroke: rgb(44,155,155);
+  fill: none;
+  stroke: rgb(44,155,155);
 }
 
 #chiasm-container{
- margin-left: 10%;
- margin-right: 10%;
- margin-top: 10%;
- // max-height: 65%;
- min-height: 85%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+  // max-height: 65%;
+  min-height: 85%;
 }
 
 #additional-info{
- padding-top: 100px;
+  padding-top: 100px;
 }
 
 .chiasm-component-date-chart{
@@ -70,9 +71,9 @@ body {
 }
 
 #main-container{
- position: absolute;
- width: 100%;
- height: 100%;
+  position: absolute;
+  width: 100%;
+  height: 100%;
 }
 
 #left-additional-info{

@@ -1,13 +1,12 @@
 /*----------  PIE CHART COMPARING EXTINCTIONS BY HEMISPHERE  ----------*/
-var c3 = require('c3');
-var data = d3.json("../animalData.json", function(data){
- var north = 0;
- var south = 0;
-
+const c3 = require('c3');
+let data = d3.json("../animalData.json", function(data){
+  let north = 0;
+  let south = 0;
 
 //COUNT NORTH OR SOUTH
   data.forEach(function(element){
-   var parsed = parseFloat(element.latitude);
+   let parsed = parseFloat(element.latitude);
     if(parsed > 0) {
       return north++;
     }
@@ -15,7 +14,7 @@ var data = d3.json("../animalData.json", function(data){
   });
 
 //GENEREATE PIE CHART
-  var chart = c3.generate({
+  let chart = c3.generate({
     bindto: '#left-additional-info',
     data: {
       columns: [

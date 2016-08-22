@@ -2,7 +2,7 @@
   "name": "Final-Project",
   "version": "1.0.0",
   "description": "![alt tag](https://github.com/zee-A-team/Final-Project/blob/master/The-a-team-the-cast-mr-t-george-peppard-dwight-schultz-dirk-bendict.jpg)",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run bundle & npm run server",
