@@ -1,4 +1,6 @@
+'use strict';
 /*----------  PIE CHART COMPARING EXTINCTIONS BY CONTINENT  ----------*/
+
 let africa = 0;
 let asia = 0;
 let northAmerica = 0;

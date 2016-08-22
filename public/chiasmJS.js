@@ -1,14 +1,15 @@
-var Chiasm = require('chiasm');
-var ChiasmComponent = require('chiasm-component');
-var ChiasmCrossfilter = require('./chiasm-crossfilter');
-var ChiasmLayout = require('chiasm-layout');
-var ChiasmLinks = require('chiasm-links');
-var ChiasmDatasetLoader = require('chiasm-dataset-loader');
-var BarChart = require('./barChart');
-var BubbleMap = require('./bubble-map');
+'use strict';
+const Chiasm = require('chiasm');
+const ChiasmComponent = require('chiasm-component');
+const ChiasmCrossfilter = require('./chiasm-crossfilter');
+const ChiasmLayout = require('chiasm-layout');
+const ChiasmLinks = require('chiasm-links');
+const ChiasmDatasetLoader = require('chiasm-dataset-loader');
+const BarChart = require('./barChart');
+const BubbleMap = require('./bubble-map');
 
 // Create a new Chiasm instance.
-var chiasm = new Chiasm();
+const chiasm = new Chiasm();
 // Register plugins that the configuration can access.
 chiasm.plugins.layout = ChiasmLayout;
 chiasm.plugins.links = ChiasmLinks;
