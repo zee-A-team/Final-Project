@@ -39,6 +39,7 @@
     "csv-loader": "^2.0.1",
     "d3": "3.5.6",
     "del": "^2.2.2",
+    "dotenv": "^2.0.0",
     "express": "^4.14.0",
     "extract-text-webpack-plugin": "^1.0.1",
     "graphiql": "^0.7.4",
