@@ -40,7 +40,6 @@ db.once('open', _ => console.log("Mongo reporting for duty!"));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:true}));
 
->>>>>>> production-deploy
 
 app.get('/', (req, res) => res.sendFile('public/index.html'));
 
