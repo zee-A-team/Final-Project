@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "57b7c81fa63e484229d311b0",
+    "common_name": "Tasman starling",
+    "scientific_name": "Aplonis fusca",
+    "date": "1923-01-01T00:00:00Z",
+    "range": "Norfolk Island and Lord Howe Island, New South Wales",
+    "description": "Last recorded 1923. Competition from introduced European starling, song \nthrush and common blackbird, clearance for agriculture. Predation from \nintroduced black rats.",
+    "latitude": "-29.04",
+    "longitude": "167.95",
+    "latlong": "-29.04,167.95",
+    "type": "air",
+    "continent": "Australia",
+    "country": "NF"
+  }
+]

@@ -8,15 +8,16 @@ module.exports = function() {
     function findShortName(results) {
       var found;
       results.forEach(function(elie){
-        if(elie.short_name.length === 2 && lookup.indexOf(elie.short_name) !== -1) {
-          found = elie.short_name;
+        if(lookup.indexOf(elie.short_name) !== -1) {
+          if(elie.short_name.length === 2){
+            found = elie.short_name;
+          }
         }
       });
       return found;
     }
 
     function countryFind(directions) {
-      // console.log(Object.keys(directions.googleApi));
       var shortName = findShortName(directions);
       var continent = lookup[lookup.indexOf(shortName) + 1];
       return {
@@ -27,30 +28,30 @@ module.exports = function() {
 
     d.forEach(function(elie) {
       var parsed = JSON.parse(elie.googleApi);
-      console.log(parsed.results.length, 'PARSED');
-      console.log(parsed.results);
       function checkAddressComponents() {
-        if(parsed.results.length < 3) {
+        if(parsed.results.length < 1) {
           return {
             country: 'empty',
             continent: 'empty',
           };
         }
-        return countryFind(parsed.results[2].address_components);
+        return countryFind(parsed.results[0].address_components);
       }
+
       var info = checkAddressComponents();
+      console.log('info', info);
 
       Animal.findById(elie.animal["_id"], function( err, animal ) {
-        animal["_id"] = elie.animal["_id"];
-        animal["Common name"] = elie.animal["Common Name"],
-        animal["Scientific name"] = elie.animal["Scientific name"],
-        animal["date"] = elie.animal["date"],
-        animal["Range"] = elie.animal["Range"],
-        animal["Image"] = elie.animal["Image"],
-        animal["Type"] = elie.animal["Type"],
-        animal["latitude"] = elie.animal["latitude"],
-        animal["longitude"] = elie.animal["longitude"],
-        animal["latlong"] = elie.animal["latlong"],
+        animal["_id"] = animal["_id"];
+        animal["Common name"] = animal["Common Name"],
+        animal["Scientific name"] = animal["Scientific name"],
+        animal["date"] = animal["date"],
+        animal["Range"] = animal["Range"],
+        animal["Image"] = animal["Image"],
+        animal["Type"] = animal["Type"],
+        animal["latitude"] = animal["latitude"],
+        animal["longitude"] = animal["longitude"],
+        animal["latlong"] = animal["latlong"],
         animal["country"] = info.country,
         animal["continent"] = info.continent,
 

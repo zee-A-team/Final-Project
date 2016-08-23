@@ -2,12 +2,13 @@
   "name": "Final-Project",
   "version": "1.0.0",
   "description": "![alt tag](https://github.com/zee-A-team/Final-Project/blob/master/The-a-team-the-cast-mr-t-george-peppard-dwight-schultz-dirk-bendict.jpg)",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run bundle & npm run server",
     "bundle": "webpack",
-    "server": "node server.js"
+    "server": "node server.js",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
@@ -23,14 +24,12 @@
   "dependencies": {
     "bluebird": "^3.4.1",
     "body-parser": "^1.15.2",
-    "d3": "^4.2.2",
+    "d3": "3.5.6",
     "@risingstack/graffiti": "^3.1.1",
     "@risingstack/graffiti-mongoose": "^5.2.1",
     "autoprefixer": "^6.4.0",
     "babel-core": "^6.13.2",
     "babel-loader": "^6.2.5",
-    "body-parser": "^1.15.2",
-    "browserify": "^13.1.0",
     "c3": "^0.4.11",
     "chiasm": "^0.3.0",
     "chiasm-component": "^0.2.3",
@@ -41,18 +40,14 @@
     "crossfilter": "^1.3.12",
     "css-loader": "^0.23.1",
     "csv-loader": "^2.0.1",
-    "d3": "3.5.6",
-    "d3-timer": "^1.0.2",
     "del": "^2.2.2",
+    "eslint": "^3.3.1",
+    "eslint-config-airbnb": "^10.0.1",
     "express": "^4.14.0",
     "fs": "0.0.2",
     "extract-text-webpack-plugin": "^1.0.1",
     "graphiql": "^0.7.4",
     "graphql": "^0.6.2",
-    "gulp": "^3.9.1",
-    "gulp-cli": "^1.2.2",
-    "gulp-load-plugins": "^1.2.4",
-    "gulp-sass": "^2.3.2",
     "json-loader": "^0.5.4",
     "leaflet": "^0.7.7",
     "lodash": "^4.15.0",
@@ -69,7 +64,6 @@
     "sass": "^0.5.0",
     "stats-webpack-plugin": "^0.4.2",
     "style-loader": "^0.13.1",
-    "topojson": "^1.6.26",
     "vinyl-paths": "^2.1.0",
     "vinyl-source-stream": "^1.1.0",
     "webpack": "^1.13.1",
@@ -77,9 +71,14 @@
     "webpack-hot-middleware": "^2.12.2"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "eslint": "^3.3.1",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.13.0",
+    "eslint-plugin-jsx-a11y": "^2.1.0",
+    "eslint-plugin-react": "^6.1.2",
     "node-sass": "^3.8.0",
     "sass-loader": "^4.0.0",
-    "webpack": "^1.13.2"
+    "webpack": "^1.13.2",
+    "webpack-livereload-plugin": "^0.8.2"
   }
 }
