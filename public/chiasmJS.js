@@ -1,3 +1,6 @@
+/*jshint esversion: 6 */
+'use strict';
+
 const Chiasm = require('chiasm');
 const ChiasmCrossfilter = require('./chiasm-crossfilter');
 const ChiasmLayout = require('chiasm-layout');
