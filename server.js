@@ -11,19 +11,36 @@ const mongoose = require('mongoose');
 const app = express();
 const PORT = process.env.PORT || 3001;
 const compiler = webpack(config);
+require('dotenv').config();
 
-mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost/et');
+/*----------  MONGOOSE ORM SETUP   ----------*/
+const mongoose = require('mongoose');
+mongoose.connect(process.env.DB_CONNECT || process.env.DB_CONNECT);
 mongoose.Promise = global.Promise;
 
-app.use(express.static('public'));
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
-app.use(webpackDevMiddleware(compiler, {
+const db = mongoose.connection;
+const path = require('path');
+
+if(process.env === 'production'){
+  app.use(express.static('public'));
+} else {
+  app.use(express.static('public'));
+  app.use(webpackDevMiddleware(compiler, {
   publicPath: config.output.publicPath,
-  stats: {
+    stats: {
     colors: true,
-  },
-}));
+    }
+  }));
+}
+
+
+db.on('error', console.error.bind(console, "connection error"));
+db.once('open', _ => console.log("Mongo reporting for duty!"));
+
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({extended:true}));
+
+>>>>>>> production-deploy
 
 app.get('/', (req, res) => res.sendFile('public/index.html'));
 
