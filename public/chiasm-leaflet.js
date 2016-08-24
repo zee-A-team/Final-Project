@@ -13,7 +13,6 @@ const ChiasmLeaflet = () => {
     zoom: 5,
     minZoom: 2,
     maxZoom: 5,
-    // scrollWheelZoom: false,
     center: [40.7127837, -74.0059413],
     zoomControl: true,
     attributionControl: false,
@@ -24,12 +23,6 @@ const ChiasmLeaflet = () => {
     continuousWorld: true,
     reuseTiles: true,
   }).addTo(my.map);
-
-  const overlays = {
-    wat: {},
-  };
-
-  L.control.layers({}, overlays).addTo(my.map);
 
   const getCenter = () => {
     const center = my.map.getCenter();
