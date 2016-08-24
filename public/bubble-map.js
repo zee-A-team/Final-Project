@@ -68,6 +68,7 @@ function BubbleMap() {
       randomizer(d);
       const lat = locationRandomizer[locationRandomizer.indexOf(d)].latitude;
       const lng = locationRandomizer[locationRandomizer.indexOf(d)].longitude;
+      const aniType = locationRandomizer[locationRandomizer.indexOf(d)].longitude;
       const markerCenter = L.latLng(lat, lng);
       const circleMarker = L.circleMarker(markerCenter, {
         id: 'anicon',
