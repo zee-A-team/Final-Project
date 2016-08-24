@@ -9,6 +9,101 @@ function BubbleMap() {
 
   const my = ChiasmLeaflet();
 
+
+
+  var MyCustomMarker = L.Marker.extend({
+
+      bindPopup: function(htmlContent, options) {
+
+      if (options && options.showOnMouseOver) {
+
+        // call the super method
+        L.Marker.prototype.bindPopup.apply(this, [htmlContent, options]);
+
+        // unbind the click event
+        this.off("click", this.openPopup, this);
+
+        // bind to mouse over
+        this.on("mouseover", function(e) {
+
+          // get the element that the mouse hovered onto
+          var target = e.originalEvent.fromElement || e.originalEvent.relatedTarget;
+          var parent = this._getParent(target, "leaflet-popup");
+
+          // check to see if the element is a popup, and if it is this marker's popup
+          if (parent == this._popup._container)
+            return true;
+
+          // show the popup
+          this.openPopup();
+
+        }, this);
+
+        // and mouse out
+        this.on("mouseout", function(e) {
+
+          // get the element that the mouse hovered onto
+          var target = e.originalEvent.toElement || e.originalEvent.relatedTarget;
+
+          // check to see if the element is a popup
+          if (this._getParent(target, "leaflet-popup")) {
+
+            L.DomEvent.on(this._popup._container, "mouseout", this._popupMouseOut, this);
+            return true;
+
+          }
+
+          // hide the popup
+          this.closePopup();
+
+        }, this);
+
+      }
+
+    },
+
+    _popupMouseOut: function(e) {
+
+      // detach the event
+      L.DomEvent.off(this._popup, "mouseout", this._popupMouseOut, this);
+
+      // get the element that the mouse hovered onto
+      var target = e.toElement || e.relatedTarget;
+
+      // check to see if the element is a popup
+      if (this._getParent(target, "leaflet-popup"))
+        return true;
+
+      // check to see if the marker was hovered back onto
+      if (target == this._icon)
+        return true;
+
+      // hide the popup
+      this.closePopup();
+
+    },
+
+    _getParent: function(element, className) {
+
+      var parent = element.parentNode;
+
+      while (parent != null) {
+
+        if (parent.className && L.DomUtil.hasClass(parent, className))
+          return parent;
+
+        parent = parent.parentNode;
+
+      }
+
+      return false;
+
+    }
+
+  });
+
+
+
   my.when('data', (data) => {
     my.cleanData = data.filter((d) => {
       const lat = d[latitudeColumn];
@@ -64,21 +159,52 @@ function BubbleMap() {
     oldMarkers.forEach((marker) => {
       my.map.removeLayer(marker);
     });
-    oldMarkers = data.map((d) => {
-      randomizer(d);
-      const lat = locationRandomizer[locationRandomizer.indexOf(d)].latitude;
-      const lng = locationRandomizer[locationRandomizer.indexOf(d)].longitude;
-      const aniType = locationRandomizer[locationRandomizer.indexOf(d)].longitude;
+    oldMarkers = data.map((daData) => {
+      randomizer(daData);
+      const lat = locationRandomizer[locationRandomizer.indexOf(daData)].latitude;
+      const lng = locationRandomizer[locationRandomizer.indexOf(daData)].longitude;
+      const aniType = locationRandomizer[locationRandomizer.indexOf(daData)].type;
+      // console.log(aniType);
       const markerCenter = L.latLng(lat, lng);
-      const circleMarker = L.circleMarker(markerCenter, {
-        id: 'anicon',
-        color: '#FF4136',
-        weight: 2,
-        clickable: true,
-      });
-      circleMarker.bindPopup(d.common_name);
-      circleMarker.setRadius(r(d));
-      circleMarker.addTo(my.map);
+      let circleMarker;
+      if(aniType==='land'){
+        circleMarker = L.circleMarker(markerCenter, {
+
+          color: '#FF4136',
+          weight: 2,
+          clickable: true,
+        });
+        circleMarker.bindPopup(daData.common_name);
+        circleMarker.setRadius(r(daData));
+        circleMarker.addTo(my.map);
+      }
+      else if(aniType==='air'){
+        circleMarker = L.circleMarker(markerCenter, {
+          color: 'yellow',
+          weight: 2,
+          clickable: true,
+        });
+        circleMarker.bindPopup(daData.common_name);
+        circleMarker.setRadius(r(daData));
+        circleMarker.addTo(my.map);
+      }
+      else if(aniType==='marine'){
+        circleMarker = L.circleMarker(markerCenter, {
+          color: 'lightblue',
+          weight: 2,
+          clickable: true,
+        });
+        circleMarker.bindPopup(daData.common_name);
+        circleMarker.setRadius(r(daData));
+        circleMarker.addTo(my.map);
+      }
+      else{
+
+      }
+
+      // circleMarker.bindPopup(daData.common_name);
+      // circleMarker.setRadius(r(daData));
+      // circleMarker.addTo(my.map);
       return circleMarker;
     });
   }, 100));

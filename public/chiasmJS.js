@@ -51,7 +51,7 @@ chiasm.setConfig({
       fill: '#FF7F78',
       yColumn: 'value',
       xColumn: 'key',
-      margin: { left: 14, top: 1, right: 14, bottom: 20 },
+      margin: { left: 1, top: 1, right: 14, bottom: 1 },
     },
   },
   'data-loader': {
