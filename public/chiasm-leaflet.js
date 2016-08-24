@@ -4,11 +4,11 @@ const L = require('leaflet');
 
 const ChiasmLeaflet = () => {
   const my = ChiasmComponent({
-    center: [0, 0],
+    center: [60, 60],
     zoom: 5,
   });
   my.el = document.createElement('div');
-  d3.select(my.el).style('background-color', 'black');
+  d3.select(my.el).style('background-color', '#242325');
   my.map = L.map(my.el, {
     zoom: 5,
     minZoom: 2,
@@ -18,11 +18,16 @@ const ChiasmLeaflet = () => {
     attributionControl: false,
   }).setView(my.center, my.zoom);
 
-  L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.png', {
-    noWrap: true,
-    continuousWorld: true,
-    reuseTiles: true,
-  }).addTo(my.map);
+ const southWest = L.latLng(-90, -170);
+ const northEast = L.latLng(70, 160);
+ const bounds = L.latLngBounds(southWest, northEast);
+
+ L.tileLayer('http://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png', {
+   continuousWorld: false,
+   bounds:bounds,
+   noWrap: true,
+   reuseTiles: true,
+ }).addTo(my.map);
 
   const getCenter = () => {
     const center = my.map.getCenter();
