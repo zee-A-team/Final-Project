@@ -88,7 +88,7 @@ function BarChart() {
   my.when(['box', 'margin'], (box, margin) => {
     my.innerBox = {
       width: box.width - margin.left - margin.right,
-      height: (box.height - margin.top - margin.bottom) / 2,
+      height: (box.height - margin.top - margin.bottom) / 3.25,
     };
     svg
       .attr('width', box.width)
@@ -142,7 +142,7 @@ function BarChart() {
       brushG.call(brush);
       brushG.selectAll('rect')
         .attr('y', 0)
-        .attr('height', innerBox.height - 1);
+        .attr('height', innerBox.height - 5);
     });
   return my;
 }
