@@ -76,6 +76,7 @@ app.get('/', (req, res) => res.sendFile('public/index.html'));
 
 app.use(graffiti.express({
   schema,
+  graphiql: true,
 }));
 
 app.listen(PORT, () => console.log(`Now listening on PORT ${PORT}`));
