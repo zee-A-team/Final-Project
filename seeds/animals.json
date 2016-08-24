@@ -1150,21 +1150,6 @@
     "country": "BR"
   },
   {
-    "_id": "57ab8d8c1eff02897b163f20",
-    "Scientific Name": "Canis nehringi",
-    "common_name": "Canis nehringi",
-    "scientific_name": "Canis nehringi",
-    "date": "-8000-01-01T00:00:00Z",
-    "range": "South America",
-    "description": "--",
-    "type": "land",
-    "latitude": "-16.95",
-    "longitude": "-57.74",
-    "latlong": "-16.9,-57.74",
-    "continent": "South America",
-    "country": "BR"
-  },
-  {
     "_id": "57ab8d8c1eff02897b163f21",
     "Scientific Name": "Cuvieronius sp.",
     "common_name": "Cuvieronius",
@@ -4699,20 +4684,6 @@
     "country": "MX"
   },
   {
-    "_id": "57bbaf7e7f658b5320d3f885",
-    "common_name": "Mylohyus",
-    "scientific_name": "M. elmorei*,*M. floridanus*,*M. fossilis*,*M. gidleyi* & *M. nasutus",
-    "date": "9000-01-01T00:00:00Z",
-    "range": "North America",
-    "image": "--",
-    "latlong": "40.22,-101.25",
-    "latitude": "40.22",
-    "longitude": "-101.25",
-    "type": "land",
-    "continent": "North America",
-    "country": "US"
-  },
-  {
     "_id": "57bbaf7e7f658b5320d3f886",
     "common_name": "Neochoerus",
     "scientific_name": "Neochoerus aesopi* & *Neochoerus pinckneyi",
@@ -4839,20 +4810,6 @@
     "country": "US"
   },
   {
-    "_id": "57bbaf7e7f658b5320d3f88e",
-    "common_name": "Saber-tooth cat",
-    "scientific_name": "Smilodon",
-    "date": "8000-01-01T00:00:00Z",
-    "range": "North America",
-    "image": "--",
-    "latlong": "40.22,-101.25",
-    "latitude": "40.22",
-    "longitude": "-101.25",
-    "type": "land",
-    "continent": "North America",
-    "country": "US"
-  },
-  {
     "_id": "57bbaf7e7f658b5320d3f88f",
     "common_name": "Saiga antelope",
     "scientific_name": "Saiga tatarica",
@@ -4904,34 +4861,6 @@
     "latlong": "31.20,-105.40",
     "latitude": "31.20",
     "longitude": "-105.40",
-    "type": "land",
-    "continent": "North America",
-    "country": "US"
-  },
-  {
-    "_id": "57bbaf7e7f658b5320d3f893",
-    "common_name": "Short-faced bear",
-    "scientific_name": "Arctodus simus",
-    "date": "8000-01-01T00:00:00Z",
-    "range": "North America",
-    "image": "--",
-    "latlong": "40.22,-101.25",
-    "latitude": "40.22",
-    "longitude": "-101.25",
-    "type": "land",
-    "continent": "North America",
-    "country": "US"
-  },
-  {
-    "_id": "57bbaf7e7f658b5320d3f894",
-    "common_name": "Shrub-ox",
-    "scientific_name": "Euceratherium collinum",
-    "date": "9500-01-01T00:00:00Z",
-    "range": "North America",
-    "image": "--",
-    "latlong": "40.22,-101.25",
-    "latitude": "40.22",
-    "longitude": "-101.25",
     "type": "land",
     "continent": "North America",
     "country": "US"
