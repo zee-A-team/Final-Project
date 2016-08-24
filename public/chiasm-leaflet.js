@@ -53,34 +53,7 @@ const ChiasmLeaflet = () => {
     });
     my.map.on('move', onMove);
   };
-  document.getElementById('toggleEuChart').addEventListener('click', () => {
-    setCenter([8.7832, 55.4915]);
-  });
 
-  document.getElementById('toggleAsiaChart').addEventListener('click', () => {
-    setCenter([90, 30]);
-    my.map.setZoom(4);
-  });
-
-  document.getElementById('toggleAfricaChart').addEventListener('click', () => {
-    setCenter([9, 10]);
-    my.map.setZoom(4);
-  });
-
-  document.getElementById('toggleNaChart').addEventListener('click', () => {
-    setCenter([-90, 40]);
-    my.map.setZoom(4);
-  });
-
-  document.getElementById('toggleSaChart').addEventListener('click', () => {
-    setCenter([-70, -20]);
-    my.map.setZoom(4);
-  });
-
-  document.getElementById('toggleAuChart').addEventListener('click', () => {
-    setCenter([130, -30]);
-    my.map.setZoom(4);
-  });
   my.when(['center', 'zoom'], (center, zoom) => {
     if (!equal(center, getCenter())) setCenter(center);
     my.map.setZoom(zoom);

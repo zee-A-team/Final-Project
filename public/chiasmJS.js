@@ -40,8 +40,8 @@ chiasm.setConfig({
   map: {
     plugin: 'bubbleMap',
     state: {
-      center: [5, 50],
-      zoom: 4,
+      center: [0, 0],
+      zoom: 0,
       rMax: 30,
     },
   },
