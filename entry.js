@@ -1,3 +1,4 @@
+require('./public/sass/_reset.scss');
 require('./public/chiasmJS');
 require('./public/charts/conti-chart');
 require('./public/charts/chart-viewer');

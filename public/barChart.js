@@ -43,10 +43,10 @@ function BarChart() {
 
   const my = ChiasmComponent({
     margin: {
-      left: 20,
-      top: 40,
-      right: 20,
-      bottom: 20,
+      left: 0,
+      top: 0,
+      right: 0,
+      bottom: 0,
     },
     yColumn: Model.None,
     xColumn: Model.None,
@@ -89,7 +89,7 @@ function BarChart() {
   my.when(['box', 'margin'], (box, margin) => {
     my.innerBox = {
       width: box.width - margin.left - margin.right,
-      height: box.height - margin.top - margin.bottom,
+      height: (box.height - margin.top - margin.bottom) / 2,
     };
     svg
       .attr('width', box.width)

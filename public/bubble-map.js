@@ -75,8 +75,7 @@ function BubbleMap() {
         weight: 1,
         clickable: true,
       });
-      circleMarker.commonName = d['Common name'];
-      circleMarker.bindPopup(circleMarker.commonName);
+      circleMarker.bindPopup(d.common_name);
       circleMarker.setRadius(r(d));
       circleMarker.addTo(my.map);
       return circleMarker;
