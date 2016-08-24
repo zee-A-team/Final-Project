@@ -1,33 +1,31 @@
-$brightest-red: rgb(240,60,2);
-$second-brightest: rgb(194,26,1);
-$third-brightest: rgb(163,0,6);
-$darkest-red: rgb(107,1,3);
-$dark-color: rgb(28,1,19);
-
 .button-jar > button {
-  -moz-box-shadow: 0px 10px 14px -7px #276873;
-  -webkit-box-shadow: 0px 10px 14px -7px #276873;
-  box-shadow: 0px 10px 14px -7px #276873;
-  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #599bb3), color-stop(1, #408c99));
-  background:-moz-linear-gradient(top, #599bb3 5%, #408c99 100%);
-  background:-webkit-linear-gradient(top, #599bb3 5%, #408c99 100%);
-  background:-o-linear-gradient(top, #599bb3 5%, #408c99 100%);
-  background:-ms-linear-gradient(top, #599bb3 5%, #408c99 100%);
-  background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
-  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bb3', endColorstr='#408c99',GradientType=0);
-  background-color:#599bb3;
-  -moz-border-radius:8px;
-  -webkit-border-radius:8px;
-  border-radius:8px;
-  display:inline-block;
+  // filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#5CA2326', endColorstr='#5CA2326',GradientType=0);
+  letter-spacing: 1px;
+  // display:inline-block;
   cursor:pointer;
   color:#ffffff;
-  font-family:'Oswald';
+  font-family:sans-serif;
   font-size:15px;
-  font-weight:bold;
-  padding:13px 32px;
   text-decoration:none;
-  text-shadow:0px 1px 0px #3d768a;
+  transition: background-color 0.5s ease-in-out;
+  background-color:#6B0103;
+  color: white;
+}
+
+.button-jar > button:nth-child(2) {
+    background: #6B0103;
+}
+.button-jar > button:nth-child(3) {
+    background: #A30006;
+}
+.button-jar > button:nth-child(4) {
+    background: #C21A01;
+}
+.button-jar > button:nth-child(5) {
+    background: #F03C02;
+}
+.button-jar > button:nth-child(6) {
+    background: #fd490f;
 }
 .button-jar > button:hover {
   background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #408c99), color-stop(1, #599bb3));
@@ -36,8 +34,8 @@ $dark-color: rgb(28,1,19);
   background:-o-linear-gradient(top, #408c99 5%, #599bb3 100%);
   background:-ms-linear-gradient(top, #408c99 5%, #599bb3 100%);
   background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
-  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#408c99', endColorstr='#599bb3',GradientType=0);
-  background-color:#408c99;
+  background-color: #F03C02;
+
 }
 .button-jar > button:active {
   position:relative;
@@ -45,38 +43,15 @@ $dark-color: rgb(28,1,19);
 }
 
 .chart-selector > button {
-  -moz-box-shadow: 3px 4px 0px 0px #899599;
-  -webkit-box-shadow: 3px 4px 0px 0px #899599;
-  box-shadow: 3px 4px 0px 0px #899599;
-  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #bab1ba));
-  background:-moz-linear-gradient(top, #ededed 5%, #bab1ba 100%);
-  background:-webkit-linear-gradient(top, #ededed 5%, #bab1ba 100%);
-  background:-o-linear-gradient(top, #ededed 5%, #bab1ba 100%);
-  background:-ms-linear-gradient(top, #ededed 5%, #bab1ba 100%);
-  background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
-  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#bab1ba',GradientType=0);
   background-color:#ededed;
-  -moz-border-radius:15px;
-  -webkit-border-radius:15px;
-  border-radius: 0px;
-  border:1px solid #d6bcd6;
   display:inline-block;
   cursor:pointer;
-  color:#3a8a9e;
-  font-family:'Oswald';
+  color:#F03C02;
+  font-family:sans-serif;
   font-size:10px;
-  padding:7px 25px;
   text-decoration:none;
-  text-shadow:0px 1px 0px #e1e2ed;
 }
 .chart-selector > button:hover {
-  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bab1ba), color-stop(1, #ededed));
-  background:-moz-linear-gradient(top, #bab1ba 5%, #ededed 100%);
-  background:-webkit-linear-gradient(top, #bab1ba 5%, #ededed 100%);
-  background:-o-linear-gradient(top, #bab1ba 5%, #ededed 100%);
-  background:-ms-linear-gradient(top, #bab1ba 5%, #ededed 100%);
-  background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
-  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bab1ba', endColorstr='#ededed',GradientType=0);
   background-color:#bab1ba;
 }
 .chart-selector > button:active {
@@ -87,9 +62,6 @@ $dark-color: rgb(28,1,19);
 .button-jar {
   display: flex;
   flex-direction: column;
-  background-color: $dark-color;
-  width: 30%;
-  h3{
-  font-color: $brightest-red;
-  }
+  background-color: #000000;
+  width: 70%;
 }

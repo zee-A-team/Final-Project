@@ -6,7 +6,7 @@ function xAxis(my, g) {
   const axisG = g.append('g').attr('class', 'x axis');
   const axis = d3.svg.axis();
   my.addPublicProperty('xAxisTickDensity', 70);
-  my.addPublicProperty('xAxisTickAngle', 0);
+  my.addPublicProperty('xAxisTickAngle', 2);
   my.when(['xScale', 'xAxisTickDensity', 'xAxisTickAngle', 'innerBox'],
     (xScale, xAxisTickDensity, xAxisTickAngle, innerBox) => {
       const width = innerBox.width;
@@ -15,7 +15,6 @@ function xAxis(my, g) {
 
       const text = axisG.selectAll('text')
         .attr('transform', `rotate(-${xAxisTickAngle})`);
-
       if (xAxisTickAngle > 45) {
         text
           .attr('dx', '-0.9em')
@@ -23,7 +22,7 @@ function xAxis(my, g) {
           .style('text-anchor', 'end');
       } else {
         text
-          .attr('dx', '0em');
+          .attr('dx', '-0.2em');
       }
     });
 
@@ -50,16 +49,16 @@ function BarChart() {
     },
     yColumn: Model.None,
     xColumn: Model.None,
-    barPadding: 0.1,
-    barOuterPadding: 0.1,
-    fill: '#a3a3a3',
+    barPadding: 5.5,
+    barOuterPadding: 5.5,
+    fill: '#A30006',
     stroke: 'none',
-    strokeWidth: '1px',
+    strokeWidth: '5px',
     brushEnabled: false,
     brushIntervalX: Model.None,
     title: '',
-    titleSize: '1.5em',
-    titleOffset: '-0.3em',
+    titleSize: '2em',
+    titleOffset: '-0.5em',
   });
 
   const yScale = d3.scale.linear();

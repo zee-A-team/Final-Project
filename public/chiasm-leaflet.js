@@ -4,13 +4,16 @@ const L = require('leaflet');
 
 const ChiasmLeaflet = () => {
   const my = ChiasmComponent({
-    center: [0, 0],
+    center: [60, 60],
     zoom: 5,
   });
   my.el = document.createElement('div');
-  d3.select(my.el).style('background-color', 'black');
+  d3.select(my.el).style('background-color', '#242325');
   my.map = L.map(my.el, {
     zoom: 5,
+    inertia: true,
+    inertiaMaxSpeed:1500,
+    inertiaThreshold:32,
     minZoom: 2,
     maxZoom: 5,
     center: [40.7127837, -74.0059413],
@@ -18,16 +21,18 @@ const ChiasmLeaflet = () => {
     attributionControl: false,
   }).setView(my.center, my.zoom);
 
-  var southWest = L.latLng(-90, -170);
-  var northEast = L.latLng(70, 160);
-  var bounds = L.latLngBounds(southWest, northEast);
 
-  L.tileLayer('http://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png', {
-    continuousWorld: false,
-    bounds: bounds,
-    noWrap: true,
-    reuseTiles: true,
-  }).addTo(my.map);
+ const southWest = L.latLng(-90, -170);
+ const northEast = L.latLng(70, 160);
+ const bounds = L.latLngBounds(southWest, northEast);
+
+ L.tileLayer('http://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png', {
+   continuousWorld: false,
+   bounds:bounds,
+   noWrap: true,
+   reuseTiles: true,
+ }).addTo(my.map);
+
   const getCenter = () => {
     const center = my.map.getCenter();
     return [center.lng, center.lat];

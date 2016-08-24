@@ -1,4 +1,3 @@
-@import url('http://fonts.googleapis.com/css?family=Oswald');
 
 /// Slightly lighten a color
 /// @access public
@@ -8,7 +7,6 @@
 @function tint($color, $percentage) {
   @return mix(white, $color, $percentage);
 }
-
 /// Slightly darken a color
 /// @access public
 /// @param {Color} $color - color to shade
@@ -17,57 +15,44 @@
 @function shade($color, $percentage) {
   @return mix(black, $color, $percentage);
 }
+body {
+  color:white;
+  letter-spacing:1px;
+  background-color:#1C0113
+}
 
-$brightest-red: rgb(240,60,2);
-$second-brightest: rgb(194,26,1);
-$third-brightest: rgb(163,0,6);
-$darkest-red: rgb(107,1,3);
-$dark-color: rgb(28,1,19);
+
+@keyframes title {
+  0%{background-color: red;}
+  50% {background-color: coral;}
+  100% {background-color: #6B0103;}
+}
 
 #chiasm-container {
- position: relative;
- left: 0px;
- right: 0px;
- top: 0px;
- bottom: 0px;
+  animation-name: title;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+  border-style: solid;
+  border-color: #520102;
+  border-width: 15px;
+  color: orange;
+  // background-image: url("./img/color.jpg");
+  background-color: #6B0103;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  // z-index: -100;
 }
 
-     /* Style the brush. Draws from http://bl.ocks.org/mbostock/4343214 */
-.brush,
-.extent {
-  stroke: black;
-  fill-opacity: .2;
-  shape-rendering: crispEdges;
-}
-
-     /* Axis CSS from bar chart example http://bl.ocks.org/mbostock/3885304 */
-.axis {
-  font: 10px Helvetica;
-}
-
-.axis path,
-.axis line {
-  fill: none;
-  stroke: lightgray;
-  shape-rendering: crispEdges;
-}
-
-     /* Custom CSS for axis labels. */
-.axis-label {
-  text-anchor: middle;
-  font-size: 1.1em;
-}
-
-body {
-  background-color: tint(#556270, 42%);
-}
 
 Map
 .graticule {
   fill: none;
   stroke: #000;
-  stroke-opacity: .5;
-  stroke-width: .5px;
+  stroke-opacity: 99.5;
+  stroke-width: 55.5px;
 }
 
 .land {
@@ -83,9 +68,11 @@ Map
 #chiasm-container {
   // max-height: 65%;
   min-height: 75%;
+  // z-index: -100;
 }
 
 #additional-info{
+  background-color: #6B0103;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -94,41 +81,33 @@ Map
   margin-top: -3.5%;
 }
 
-#panel-1 {
-  display: flex;
-  flex-direction: row;
-  width: 33%;
-  align-items: stretch;
-  opacity: 0.7;
-}
+
 
 h3 {
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
-  font-family: 'Oswald';
-  font-weight: bold;
+  font-family:sans-serif;
 }
 
 #chart-viewer1 {
-  background-color: $brightest-red;
+  background-color: #6B0103;
   width: 69%;
   border-left: solid black 2px;
   border-right: dotted black 1px;
 }
 
 #chart-viewer2 {
-  background-color: shade(#556270, 42%);
-  width: 69%;
-  border-left: solid black 2px;
-  border-right: dotted black 1px;
+  background-color: #000000;
+  opacity: 0.8;
+  width: 89%;
+
 }
 
 #chart-viewer3 {
-  background-color: shade(#556270, 42%);
-  width: 69%;
-  border-left: solid black 2px;
-  border-right: dotted black 1px;
+  background-color: #000000;
+  opacity: 0.8;
+  width: 89%;
 }
 
 .chart-selector {
@@ -136,33 +115,102 @@ h3 {
   flex-direction: column;
   background-color: #556270;
   width: 30%;
-  border-right: solid black 1px;
+  border-right: solid green 1px;
   justify-content: center;
 }
 
-
+#panel-1 {
+  -webkit-box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
+  -moz-box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
+  box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
+  display: flex;
+  flex-direction: row;
+  width: 33%;
+  align-items: stretch;
+  opacity: 0.9;
+  z-index: 11;
+  border-style: solid;
+  border-color: rgba(96,1,3,1);
+  border-width: 15px;
+  border-radius:2px;
+}
 #panel-2 {
+  -webkit-box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
+  -moz-box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
+  box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
   display: flex;
   flex-direction: row;
   width: 33%;
   align-items: stretch;
   margin-left: 15px;
   margin-right: 15px;
-  opacity: 0.7;
-}
+  opacity: 0.9;
+  z-index: 10;
+  border-style: solid;
+  border-color: rgba(96,1,3,1);
+  border-width: 15px;
+  border-radius:5px;
 
+}
 #panel-3 {
+  -webkit-box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
+  -moz-box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
+  box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
   display: flex;
   flex-direction: row;
   width: 33%;
   align-items: stretch;
-  opacity: 0.7;
+  opacity: 1;
+  z-index: 13;
+  border-style: solid;
+  border-color: rgba(96,1,3,1);
+  border-width: 15px;
+  border-radius:5px;
+}
+
+path.leaflet-clickable {
+  -webkit-animation-timing-function: linear;
+  -webkit-animation: "pulsate" 5s ease-in;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes pulsate {
+    0% {-webkit-transform: scale(0.95, 0.95); opacity: 1.0;}
+    50% {-webkit-transform: scale(0.96, 0.96); opacity: 1.0;}
+    100% {-webkit-transform: scale(0.95, 0.95); opacity: 1.0;}
 }
 
 .chiasm-component-date-chart{
+  // background: rgba(189,0,6,1);
+  // background: -moz-linear-gradient(left, rgba(189,0,6,1) 0%, rgba(189,0,6,1) 6%, rgba(189,0,6,1) 11%, rgba(189,0,6,1) 15%, rgba(126,1,3,1) 63%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(96,1,3,1) 100%);
+  // background: -webkit-gradient(left top, right top, color-stop(0%, rgba(189,0,6,1)), color-stop(6%, rgba(189,0,6,1)), color-stop(11%, rgba(189,0,6,1)), color-stop(15%, rgba(189,0,6,1)), color-stop(63%, rgba(126,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(100%, rgba(96,1,3,1)));
+  // background: -webkit-linear-gradient(left, rgba(189,0,6,1) 0%, rgba(189,0,6,1) 6%, rgba(189,0,6,1) 11%, rgba(189,0,6,1) 15%, rgba(126,1,3,1) 63%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(96,1,3,1) 100%);
+  // background: -o-linear-gradient(left, rgba(189,0,6,1) 0%, rgba(189,0,6,1) 6%, rgba(189,0,6,1) 11%, rgba(189,0,6,1) 15%, rgba(126,1,3,1) 63%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(96,1,3,1) 100%);
+  // background: -ms-linear-gradient(left, rgba(189,0,6,1) 0%, rgba(189,0,6,1) 6%, rgba(189,0,6,1) 11%, rgba(189,0,6,1) 15%, rgba(126,1,3,1) 63%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(96,1,3,1) 100%);
+  // background: linear-gradient(to right, rgba(189,0,6,1) 0%, rgba(189,0,6,1) 6%, rgba(189,0,6,1) 11%, rgba(189,0,6,1) 15%, rgba(126,1,3,1) 63%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(96,1,3,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bd0006', endColorstr='#600103', GradientType=1 );
+  background: rgb(189,0,6);
+  // background: -moz-linear-gradient(left, rgb(189,0,6) 0%, rgb(189,0,6) 6%, rgb(189,0,6) 11%, rgb(189,0,6) 15%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(96,1,3) 100%);
+  // background: -webkit-gradient(left top, right top, color-stop(0%, rgb(189,0,6)), color-stop(6%, rgb(189,0,6)), color-stop(11%, rgb(189,0,6)), color-stop(15%, rgb(189,0,6)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(100%, rgb(96,1,3)));
+  // background: -webkit-linear-gradient(left, rgb(189,0,6) 0%, rgb(189,0,6) 6%, rgb(189,0,6) 11%, rgb(189,0,6) 15%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(96,1,3) 100%);
+  // background: -o-linear-gradient(left, rgb(189,0,6) 0%, rgb(189,0,6) 6%, rgb(189,0,6) 11%, rgb(189,0,6) 15%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(96,1,3) 100%);
+  // background: -ms-linear-gradient(left, rgb(189,0,6) 0%, rgb(189,0,6) 6%, rgb(189,0,6) 11%, rgb(189,0,6) 15%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(96,1,3) 100%);
+  // background: linear-gradient(to right, rgb(189,0,6) 0%, rgb(189,0,6) 6%, rgb(189,0,6) 11%, rgb(189,0,6) 15%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(96,1,3) 100%);
+  // filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bd0006', endColorstr='#600103', GradientType=1 );
+
+  color : white;
  // position: static;
 }
 
+#v1graphbuts {
+  height: 20px;
+}
+#v2graphbuts {
+  height: 20px;
+}
+#v3graphbuts {
+  height: 20px;
+}
 #main-container{
   position: absolute;
   width: 100%;
@@ -170,5 +218,32 @@ h3 {
 }
 
 #left-additional-info{
-  max-width: 50%;
+  max-width: 90%;
+  z-index: -5;
+}
+
+     /* Style the brush. Draws from http://bl.ocks.org/mbostock/4343214 */
+.brush,
+.extent {
+  stroke: #F03C02;
+  fill: #F03C02;
+  fill-opacity: .9;
+  shape-rendering: optimizeSpeed;
+}
+     /* Axis CSS from bar chart example http://bl.ocks.org/mbostock/3885304 */
+.axis {
+  font: 10px impact;
+  color: white;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #F35906;
+  color: green;
+  shape-rendering: optimizeSpeed;
+}
+     /* Custom CSS for axis labels. */
+.axis-label {
+  text-anchor: middle;
+  font-size: 1.1em;
 }

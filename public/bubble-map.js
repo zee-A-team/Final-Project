@@ -31,15 +31,14 @@ function BubbleMap() {
   const canvasTiles = L.tileLayer.canvas();
   canvasTiles.drawTile = (canvas) => {
     const ctx = canvas.getContext('2d');
-    ctx.fillStyle = 'rgba(255, 255, 250, 0)';
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    ctx.fillStyle = 'rgba(240,60,2, 0.03)';
+    ctx.fillRect(50, 100, canvas.width, canvas.height*2);
   };
   canvasTiles.addTo(my.map);
-
+  canvasTiles.bringToBack();
   my.when(['datasetForScaleDomain', 'rColumn', 'rDefault', 'rMin', 'rMax'],
       (dataset, rColumn, rDefault, rMin, rMax) => {
         const data = dataset.data;
-
         if (rColumn === Model.None) {
           my.r = () => rDefault;
         } else {
@@ -69,10 +68,12 @@ function BubbleMap() {
       randomizer(d);
       const lat = locationRandomizer[locationRandomizer.indexOf(d)].latitude;
       const lng = locationRandomizer[locationRandomizer.indexOf(d)].longitude;
+      const aniType = locationRandomizer[locationRandomizer.indexOf(d)].longitude;
       const markerCenter = L.latLng(lat, lng);
       const circleMarker = L.circleMarker(markerCenter, {
+        id: 'anicon',
         color: '#FF4136',
-        weight: 1,
+        weight: 2,
         clickable: true,
       });
       circleMarker.bindPopup(d.common_name);
