@@ -22,5 +22,5 @@ function fetchRedditData(fileContents) {
       googleApi: res,
       animal: parsed[index],
     };
-  }, {concurrency: 1});
+  }, { concurrency: 1 });
 }
