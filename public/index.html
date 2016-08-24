@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>SMD Webpack</title>
     <script src="http://localhost:35729/livereload.js"></script>
+    <script src="'https://fonts.googleapis.com/css?family=Oswald'"></script>
   </head>
   <body>
     <div id ='main-container'>
@@ -14,7 +15,7 @@
       <div id='additional-info'>
        <div id='panel-1'>
          <div class="button-jar">
-           <h3>By Geolocation</h3>
+           <h3 >By Geolocation</h3>
            <button id="toggleHemiChart">Hemisphere</button>
            <button id="toggleEuChart">Europe</button>
            <button id="toggleAsiaChart">Asia</button>
@@ -24,6 +25,11 @@
            <button id="toggleAuChart">Australia</button>
          </div>
          <div id="chart-viewer1"></div>
+         <div class="chart-selector">
+           <button>Bar</button>
+           <button>Timeseries</button>
+           <button>Pie</button>
+         </div>
        </div>
        <div id='panel-2'>
           <div class="button-jar">
@@ -33,6 +39,11 @@
              <button id="toggleAvianChart">Avian</button>
           </div>
           <div id="chart-viewer2"></div>
+          <div class="chart-selector">
+            <button>Scatter</button>
+            <button>Bar</button>
+            <button>Pie</button>
+          </div>
        </div>
        <div id='panel-3'> <!-- ADD EXSTINCTION LIVE-FEED -->
          <div class="button-jar">
@@ -42,6 +53,15 @@
            <button id="togglePresent">Present</button>
          </div>
          <div id="chart-viewer3"></div>
+         <div class="chart-selector">
+           <button>Line</button>
+           <button>Bar</button>
+           <button>Spline</button>
+           <button>Step</button>
+           <button>Timeseries</button>
+           <button>Scatter</button>
+           <button>Pie</button>
+         </div>
        </div>
      </div>
     </div>

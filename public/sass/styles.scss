@@ -1,3 +1,23 @@
+@import url('http://fonts.googleapis.com/css?family=Oswald');
+
+/// Slightly lighten a color
+/// @access public
+/// @param {Color} $color - color to tint
+/// @param {Number} $percentage - percentage of `$color` in returned color
+/// @return {Color}
+@function tint($color, $percentage) {
+  @return mix(white, $color, $percentage);
+}
+
+/// Slightly darken a color
+/// @access public
+/// @param {Color} $color - color to shade
+/// @param {Number} $percentage - percentage of `$color` in returned color
+/// @return {Color}
+@function shade($color, $percentage) {
+  @return mix(black, $color, $percentage);
+}
+
 #chiasm-container {
  position: relative;
  left: 0px;
@@ -33,7 +53,7 @@
 }
 
 body {
-  background:white;
+  background-color: tint(#556270, 42%);
 }
 
 Map
@@ -64,8 +84,6 @@ Map
   flex-direction: row;
   justify-content: space-between;
   align-items: strech;
-  background-color: blue;
-  opacity: 0.6;
   height: 300px;
   margin-top: -3.5%;
 }
@@ -73,47 +91,153 @@ Map
 #panel-1 {
   display: flex;
   flex-direction: row;
-  background-color: red;
   width: 33%;
   align-items: stretch;
+  opacity: 0.7;
+}
+
+h3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-family: 'Oswald';
+  font-weight: bold;
+}
+
+.button-jar > button {
+  -moz-box-shadow: 0px 10px 14px -7px #276873;
+  -webkit-box-shadow: 0px 10px 14px -7px #276873;
+  box-shadow: 0px 10px 14px -7px #276873;
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #599bb3), color-stop(1, #408c99));
+  background:-moz-linear-gradient(top, #599bb3 5%, #408c99 100%);
+  background:-webkit-linear-gradient(top, #599bb3 5%, #408c99 100%);
+  background:-o-linear-gradient(top, #599bb3 5%, #408c99 100%);
+  background:-ms-linear-gradient(top, #599bb3 5%, #408c99 100%);
+  background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bb3', endColorstr='#408c99',GradientType=0);
+  background-color:#599bb3;
+  -moz-border-radius:8px;
+  -webkit-border-radius:8px;
+  border-radius:8px;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:'Oswald';
+  font-size:15px;
+  font-weight:bold;
+  padding:13px 32px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #3d768a;
+}
+.button-jar > button:hover {
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #408c99), color-stop(1, #599bb3));
+  background:-moz-linear-gradient(top, #408c99 5%, #599bb3 100%);
+  background:-webkit-linear-gradient(top, #408c99 5%, #599bb3 100%);
+  background:-o-linear-gradient(top, #408c99 5%, #599bb3 100%);
+  background:-ms-linear-gradient(top, #408c99 5%, #599bb3 100%);
+  background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#408c99', endColorstr='#599bb3',GradientType=0);
+  background-color:#408c99;
+}
+.button-jar > button:active {
+  position:relative;
+  top:1px;
+}
+
+.chart-selector > button {
+  -moz-box-shadow: 3px 4px 0px 0px #899599;
+  -webkit-box-shadow: 3px 4px 0px 0px #899599;
+  box-shadow: 3px 4px 0px 0px #899599;
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #bab1ba));
+  background:-moz-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+  background:-webkit-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+  background:-o-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+  background:-ms-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+  background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#bab1ba',GradientType=0);
+  background-color:#ededed;
+  -moz-border-radius:15px;
+  -webkit-border-radius:15px;
+  border-radius: 0px;
+  border:1px solid #d6bcd6;
+  display:inline-block;
+  cursor:pointer;
+  color:#3a8a9e;
+  font-family:'Oswald';
+  font-size:10px;
+  padding:7px 25px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #e1e2ed;
+}
+.chart-selector > button:hover {
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bab1ba), color-stop(1, #ededed));
+  background:-moz-linear-gradient(top, #bab1ba 5%, #ededed 100%);
+  background:-webkit-linear-gradient(top, #bab1ba 5%, #ededed 100%);
+  background:-o-linear-gradient(top, #bab1ba 5%, #ededed 100%);
+  background:-ms-linear-gradient(top, #bab1ba 5%, #ededed 100%);
+  background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bab1ba', endColorstr='#ededed',GradientType=0);
+  background-color:#bab1ba;
+}
+.chart-selector > button:active {
+  position:relative;
+  top:1px;
 }
 
 .button-jar {
   display: flex;
   flex-direction: column;
-  background-color: purple;
+  background-color: #556270;
   width: 30%;
 }
 
 #chart-viewer1 {
-  background-color: red;
+  background-color: shade(#556270, 42%);
   width: 69%;
+  border-left: solid black 2px;
+  border-right: dotted black 1px;
 }
 
 #chart-viewer2 {
-  background-color: green;
+  background-color: shade(#556270, 42%);
   width: 69%;
+  border-left: solid black 2px;
+  border-right: dotted black 1px;
 }
 
 #chart-viewer3 {
-  background-color: yellow;
+  background-color: shade(#556270, 42%);
   width: 69%;
+  border-left: solid black 2px;
+  border-right: dotted black 1px;
 }
+
+.chart-selector {
+  display: flex;
+  flex-direction: column;
+  background-color: #556270;
+  width: 30%;
+  border-right: solid black 1px;
+  justify-content: center;
+}
+
 
 #panel-2 {
   display: flex;
   flex-direction: row;
-  background-color: red;
   width: 33%;
   align-items: stretch;
+  margin-left: 15px;
+  margin-right: 15px;
+  opacity: 0.7;
 }
 
 #panel-3 {
   display: flex;
   flex-direction: row;
-  background-color: red;
   width: 33%;
   align-items: stretch;
+  opacity: 0.7;
 }
 
 .chiasm-component-date-chart{
