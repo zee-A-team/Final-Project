@@ -55,41 +55,21 @@ const ChiasmLeaflet = () => {
     });
     my.map.on('move', onMove);
   };
+ function contiCenterZoom(toggles, center, zoom) {
+    document.getElementById(toggles).addEventListener('click', () => {
+      setCenter(center);
+      my.map.setZoom(zoom);
+      onMove();
+    });
+  }
 
-  document.getElementById('toggleHemiChart').addEventListener('click', () => {
-    setCenter([0, 0]);
-    my.map.setZoom(0);
-  });
-
-  document.getElementById('toggleEuChart').addEventListener('click', () => {
-    setCenter([10, 55]);
-    my.map.setZoom(4);
-  });
-
-  document.getElementById('toggleAsiaChart').addEventListener('click', () => {
-    setCenter([90, 30]);
-    my.map.setZoom(4);
-  });
-
-  document.getElementById('toggleAfricaChart').addEventListener('click', () => {
-    setCenter([9, 10]);
-    my.map.setZoom(4);
-  });
-
-  document.getElementById('toggleNaChart').addEventListener('click', () => {
-    setCenter([-90, 40]);
-    my.map.setZoom(4);
-  });
-
-  document.getElementById('toggleSaChart').addEventListener('click', () => {
-    setCenter([-70, -20]);
-    my.map.setZoom(4);
-  });
-
-  document.getElementById('toggleAuChart').addEventListener('click', () => {
-    setCenter([130, -30]);
-    my.map.setZoom(4);
-  });
+  contiCenterZoom('toggleHemiChart', [0, 0], 0);
+  contiCenterZoom('toggleEuChart', [10, 55], 4);
+  contiCenterZoom('toggleAsiaChart', [90, 30], 4);
+  contiCenterZoom('toggleAfricaChart', [9, 10], 4);
+  contiCenterZoom('toggleNaChart', [-90, 40], 4);
+  contiCenterZoom('toggleSaChart', [-70, -20], 4);
+  contiCenterZoom('toggleAuChart', [130, -30], 4);
 
   my.when(['center', 'zoom'], (center, zoom) => {
     if (!equal(center, getCenter())) setCenter(center);
