@@ -31,7 +31,7 @@ function BubbleMap() {
   const canvasTiles = L.tileLayer.canvas();
   canvasTiles.drawTile = (canvas) => {
     const ctx = canvas.getContext('2d');
-    ctx.fillStyle = 'rgba(255, 255, 250, 0.7)';
+    ctx.fillStyle = 'rgba(255, 255, 250, 0)';
     ctx.fillRect(0, 0, canvas.width, canvas.height);
   };
   canvasTiles.addTo(my.map);

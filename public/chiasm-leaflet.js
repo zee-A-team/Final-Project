@@ -18,12 +18,16 @@ const ChiasmLeaflet = () => {
     attributionControl: false,
   }).setView(my.center, my.zoom);
 
-  L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.png', {
+  var southWest = L.latLng(-90, -170);
+  var northEast = L.latLng(70, 160);
+  var bounds = L.latLngBounds(southWest, northEast);
+
+  L.tileLayer('http://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png', {
+    continuousWorld: false,
+    bounds: bounds,
     noWrap: true,
-    continuousWorld: true,
     reuseTiles: true,
   }).addTo(my.map);
-
   const getCenter = () => {
     const center = my.map.getCenter();
     return [center.lng, center.lat];
