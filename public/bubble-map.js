@@ -12,94 +12,61 @@ function BubbleMap() {
 
 
   var MyCustomMarker = L.Marker.extend({
-
       bindPopup: function(htmlContent, options) {
-
       if (options && options.showOnMouseOver) {
-
         // call the super method
         L.Marker.prototype.bindPopup.apply(this, [htmlContent, options]);
-
         // unbind the click event
         this.off("click", this.openPopup, this);
-
         // bind to mouse over
         this.on("mouseover", function(e) {
-
           // get the element that the mouse hovered onto
           var target = e.originalEvent.fromElement || e.originalEvent.relatedTarget;
           var parent = this._getParent(target, "leaflet-popup");
-
           // check to see if the element is a popup, and if it is this marker's popup
           if (parent == this._popup._container)
             return true;
-
           // show the popup
           this.openPopup();
-
         }, this);
 
         // and mouse out
         this.on("mouseout", function(e) {
-
           // get the element that the mouse hovered onto
           var target = e.originalEvent.toElement || e.originalEvent.relatedTarget;
-
           // check to see if the element is a popup
           if (this._getParent(target, "leaflet-popup")) {
-
             L.DomEvent.on(this._popup._container, "mouseout", this._popupMouseOut, this);
             return true;
-
           }
-
           // hide the popup
           this.closePopup();
-
         }, this);
-
       }
-
     },
-
     _popupMouseOut: function(e) {
-
       // detach the event
       L.DomEvent.off(this._popup, "mouseout", this._popupMouseOut, this);
-
       // get the element that the mouse hovered onto
       var target = e.toElement || e.relatedTarget;
-
       // check to see if the element is a popup
       if (this._getParent(target, "leaflet-popup"))
         return true;
-
       // check to see if the marker was hovered back onto
       if (target == this._icon)
         return true;
-
       // hide the popup
       this.closePopup();
-
     },
-
     _getParent: function(element, className) {
-
       var parent = element.parentNode;
-
       while (parent != null) {
-
         if (parent.className && L.DomUtil.hasClass(parent, className))
           return parent;
-
         parent = parent.parentNode;
-
       }
-
       return false;
-
     }
-
   });
 
 
@@ -155,7 +122,7 @@ function BubbleMap() {
     }
   };
 
-  my.when(['cleanData', 'r'], _.throttle((data, r) => {
+  my.when(['cleanData', 'r'], _.throttle((data, rData) => {
     oldMarkers.forEach((marker) => {
       my.map.removeLayer(marker);
     });
@@ -167,39 +134,64 @@ function BubbleMap() {
       // console.log(aniType);
       const markerCenter = L.latLng(lat, lng);
       let circleMarker;
-      if(aniType==='land'){
-        circleMarker = L.circleMarker(markerCenter, {
 
-          color: '#FF4136',
-          weight: 2,
-          clickable: true,
-        });
-        circleMarker.bindPopup(daData.common_name);
-        circleMarker.setRadius(r(daData));
-        circleMarker.addTo(my.map);
-      }
-      else if(aniType==='air'){
-        circleMarker = L.circleMarker(markerCenter, {
-          color: 'yellow',
-          weight: 2,
-          clickable: true,
-        });
-        circleMarker.bindPopup(daData.common_name);
-        circleMarker.setRadius(r(daData));
-        circleMarker.addTo(my.map);
-      }
-      else if(aniType==='marine'){
-        circleMarker = L.circleMarker(markerCenter, {
-          color: 'lightblue',
-          weight: 2,
-          clickable: true,
-        });
-        circleMarker.bindPopup(daData.common_name);
-        circleMarker.setRadius(r(daData));
-        circleMarker.addTo(my.map);
-      }
-      else{
+      var redArr = ['#e50000', '#990000', '#4c0000', '#ff0000','#FF2400','#6F4242','#8B3626'];
+      var blueArr = ['#7f7fff', '#1919ff', '#0000e5', '#000099', '#779999','#668B8B'];
+      var yellowArr = ['#ffff00', '#FFA500', '#cccc00', '#FF6103','#999900','#CDAD00', '#8B7500'];
+      var sizeNumsArr= [1, 2, 3, 4, 5];
 
+      function getMeRandomSize() {
+        let randomIndex = Math.floor(Math.random() * redArr.length);
+        let randomNum = redArr[randomIndex];
+        return randomNum;
+      }
+      function getMeRandomColors(randParam) {
+        let randomIndex;
+        let randomColor;
+        if (randParam === 'red') {
+          randomIndex = Math.floor(Math.random() * redArr.length);
+          randomColor = redArr[randomIndex];
+        }else if (randParam === 'blue') {
+          randomIndex = Math.floor(Math.random() * blueArr.length);
+          randomColor = blueArr[randomIndex];
+        }else if (randParam === 'yellow') {
+          randomIndex = Math.floor(Math.random() * yellowArr.length);
+          randomColor = yellowArr[randomIndex];
+        }
+        return randomColor;
+      }
+
+
+      if (aniType === 'land') {
+        circleMarker = L.circleMarker(markerCenter, {
+          color: getMeRandomColors('red'),
+          weight: 3,
+          clickable: true,
+        });
+        circleMarker.bindPopup(daData.common_name);
+        circleMarker.setRadius(rData(daData));
+        circleMarker.addTo(my.map);
+      }
+      else if (aniType ==='air') {
+        circleMarker = L.circleMarker(markerCenter, {
+          color: getMeRandomColors('yellow'),
+          weight: 1,
+          clickable: true,
+        });
+        circleMarker.bindPopup(daData.common_name);
+        circleMarker.setRadius(rData(daData));
+        circleMarker.addTo(my.map);
+      }
+      else if (aniType ==='marine') {
+        circleMarker = L.circleMarker(markerCenter, {
+          color: getMeRandomColors('blue'),
+          weight: 2,
+          clickable: true,
+        });
+        let addMe = getMeRandomSize();
+        circleMarker.bindPopup(daData.common_name);
+        circleMarker.setRadius(rData(daData));
+        circleMarker.addTo(my.map);
       }
 
       // circleMarker.bindPopup(daData.common_name);

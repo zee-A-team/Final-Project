@@ -166,16 +166,8 @@ h3 {
 }
 
 path.leaflet-clickable {
-  -webkit-animation-timing-function: linear;
-  -webkit-animation: "pulsate" 5s ease-in;
-  -webkit-animation-iteration-count: infinite;
 }
 
-@-webkit-keyframes pulsate {
-    0% {-webkit-transform: scale(0.95, 0.95); opacity: 1.0;}
-    50% {-webkit-transform: scale(0.96, 0.96); opacity: 1.0;}
-    100% {-webkit-transform: scale(0.95, 0.95); opacity: 1.0;}
-}
 
 .chiasm-component-date-chart{
   // background: rgba(189,0,6,1);
