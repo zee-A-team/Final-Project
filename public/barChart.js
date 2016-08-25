@@ -5,8 +5,8 @@ const Model = require('model-js');
 function xAxis(my, g) {
   const axisG = g.append('g').attr('class', 'x axis');
   const axis = d3.svg.axis();
-  my.addPublicProperty('xAxisTickDensity', 70);
-  my.addPublicProperty('xAxisTickAngle', 2);
+  my.addPublicProperty('xAxisTickDensity', 100);
+  my.addPublicProperty('xAxisTickAngle', 0);
   my.when(['xScale', 'xAxisTickDensity', 'xAxisTickAngle', 'innerBox'],
     (xScale, xAxisTickDensity, xAxisTickAngle, innerBox) => {
       const width = innerBox.width;
@@ -15,7 +15,7 @@ function xAxis(my, g) {
 
       const text = axisG.selectAll('text')
         .attr('transform', `rotate(-${xAxisTickAngle})`)
-        .style('stroke', 'rgb(107,1,3)');
+        .style('stroke', '#bfbfbf');
       if (xAxisTickAngle > 45) {
         text
           .attr('dx', '-0.9em')

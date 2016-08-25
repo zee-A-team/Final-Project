@@ -9,7 +9,6 @@ function BubbleMap() {
 
   const my = ChiasmLeaflet();
 
-
   my.when('data', (data) => {
     my.cleanData = data.filter((d) => {
       const lat = d[latitudeColumn];
@@ -65,37 +64,51 @@ function BubbleMap() {
     oldMarkers.forEach((marker) => {
       my.map.removeLayer(marker);
     });
-    oldMarkers = data.map((daData) => {
-      randomizer(daData);
-      const lat = locationRandomizer[locationRandomizer.indexOf(daData)].latitude;
-      const lng = locationRandomizer[locationRandomizer.indexOf(daData)].longitude;
-      const aniType = locationRandomizer[locationRandomizer.indexOf(daData)].type;
+    oldMarkers = data.map((dx) => {
+      randomizer(dx);
+      const lat = locationRandomizer[locationRandomizer.indexOf(dx)].latitude;
+      const lng = locationRandomizer[locationRandomizer.indexOf(dx)].longitude;
+      const aniType = locationRandomizer[locationRandomizer.indexOf(dx)].type;
       const markerCenter = L.latLng(lat, lng);
       let circleMarker;
 
-      var redArr = ['#e50000', '#990000', '#4c0000', '#ff0000', '#FF2400', '#6F4242', '#8B3626'];
-      var blueArr = ['#7f7fff', '#1919ff', '#0000e5', '#000099', '#779999', '#668B8B'];
-      var yellowArr = ['#ffff00', '#FFA500', '#cccc00', '#FF6103', '#999900', '#CDAD00', '#8B7500'];
-      var sizeNumsArr= [1, 2, 3, 4, 5];
+      const redArr = [
+        '#e50000',
+        '#990000',
+        '#4c0000',
+        '#ff0000',
+        '#FF2400',
+        '#6F4242',
+        '#8B3626'
+      ];
 
-      function getMeRandomSize() {
-        const randomIndex = Math.floor(Math.random() * redArr.length);
-        const randomNum = redArr[randomIndex];
-        return randomNum;
-      }
+      const blueArr = [
+        '#7f7fff',
+        '#1919ff',
+        '#0000e5',
+        '#000099',
+        '#779999',
+        '#668B8B'
+      ];
+
+      const yellowArr = [
+        '#ffff00',
+        '#FFA500',
+        '#cccc00',
+        '#FF6103',
+        '#999900',
+        '#CDAD00',
+        '#8B7500'
+      ];
 
       function getMeRandomColors(randParam) {
-        let randomIndex;
         let randomColor;
         if (randParam === 'red') {
-          randomIndex = Math.floor(Math.random() * redArr.length);
-          randomColor = redArr[randomIndex];
+          randomColor = redArr[Math.floor(Math.random() * redArr.length)];
         } else if (randParam === 'blue') {
-          randomIndex = Math.floor(Math.random() * blueArr.length);
-          randomColor = blueArr[randomIndex];
+          randomColor = blueArr[Math.floor(Math.random() * blueArr.length)];
         } else if (randParam === 'yellow') {
-          randomIndex = Math.floor(Math.random() * yellowArr.length);
-          randomColor = yellowArr[randomIndex];
+          randomColor = yellowArr[Math.floor(Math.random() * yellowArr.length)];
         }
         return randomColor;
       }
@@ -104,7 +117,7 @@ function BubbleMap() {
         return str.replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase());
       }
 
-      daData.common_name = toTitleCase(daData.common_name);
+      dx.common_name = toTitleCase(dx.common_name);
 
       if (aniType === 'land') {
         circleMarker = L.circleMarker(markerCenter, {
@@ -112,8 +125,9 @@ function BubbleMap() {
           weight: 3,
           clickable: true,
         });
-      }
-      else if (aniType ==='air') {
+
+
+      } else if (aniType === 'air') {
         circleMarker = L.circleMarker(markerCenter, {
           color: getMeRandomColors('yellow'),
           weight: 1,
@@ -127,20 +141,19 @@ function BubbleMap() {
           weight: 2,
           clickable: true,
         });
-      }
-      else {
+      } else {
         circleMarker = L.circleMarker(markerCenter, {
           color: getMeRandomColors('blue'),
           weight: 2,
           clickable: true,
         });
       }
-      circleMarker.bindPopup(daData.common_name);
-      circleMarker.setRadius(rData(daData));
+      circleMarker.bindPopup(dx.common_name);
+      circleMarker.setRadius(rData(dx));
       circleMarker.on('mouseover', function(e) {
         const popup = L.popup()
          .setLatLng(e.latlng)
-         .setContent(`${daData.common_name} (${daData.year})`)
+         .setContent(`${dx.common_name} (${dx.year})`)
          .openOn(my.map);
       });
       circleMarker.addTo(my.map);
