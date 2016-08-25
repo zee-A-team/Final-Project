@@ -23,11 +23,48 @@ const panel3Arr = [
   ['chart-button', 'Charts'],
   ['about-button', 'About'],
 ];
+const elementsOne = [];
+const elementsTwo = [];
+const elementsThree = [];
 
-function createElement(id, value) {
+function createElement(id, value, n) {
   const element = document.createElement('div');
   element.id = id;
   element.innerHTML = value;
+  element.addEventListener('mouseenter', () => {
+    element.style.color = 'rgb(240,60,2)';
+  });
+  element.addEventListener('mouseleave', () => {
+    if(element.selected) return;
+    element.style.color = '';
+  });
+  element.addEventListener('click', () => {
+    if(elementsOne.indexOf(element) >= 0) {
+      elementsOne.forEach((e) => {
+        e.selected = false;
+        e.style.textDecoration = '';
+        e.style.color = '';
+      });
+    } else if(elementsTwo.indexOf(element) >= 0) {
+      elementsTwo.forEach((e) => {
+        e.selected = false;
+        e.style.textDecoration = '';
+        e.style.color = '';
+      });
+    } else {
+      elementsThree.forEach((e) => {
+        e.selected = false;
+        e.style.textDecoration = '';
+        e.style.color = '';
+      });
+    }
+    element.selected = true;
+    element.style.color = 'rgb(240,60,2)';
+    element.style.textDecoration = 'underline';
+  });
+  if(n === 1) elementsOne.push(element);
+  if(n === 2) elementsTwo.push(element);
+  if(n === 3) elementsThree.push(element);
   return element;
 }
 
@@ -36,7 +73,7 @@ function panelOne() {
   h3.innerHTML = 'By Geolocation';
   panel1.appendChild(h3);
   for (let i = 0; i < panel1Arr.length; i++) {
-    panel1.appendChild(createElement(panel1Arr[i][0], panel1Arr[i][1]));
+    panel1.appendChild(createElement(panel1Arr[i][0], panel1Arr[i][1], 1));
   }
 }
 function panelTwo() {
@@ -44,7 +81,7 @@ function panelTwo() {
   h3.innerHTML = 'By Habitat';
   panel2.appendChild(h3);
   for (let i = 0; i < panel2Arr.length; i++) {
-    panel2.appendChild(createElement(panel2Arr[i][0], panel2Arr[i][1]));
+    panel2.appendChild(createElement(panel2Arr[i][0], panel2Arr[i][1], 2));
   }
 }
 function panelThree() {
@@ -52,7 +89,7 @@ function panelThree() {
   h3.innerHTML = 'By Time';
   panel3.appendChild(h3);
   for (let i = 0; i < panel3Arr.length; i++) {
-    panel3.appendChild(createElement(panel3Arr[i][0], panel3Arr[i][1]));
+    panel3.appendChild(createElement(panel3Arr[i][0], panel3Arr[i][1], 3));
   }
 }
 
