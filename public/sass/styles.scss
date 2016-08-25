@@ -19,7 +19,7 @@ body {
   left:0;
 }
 .leaflet-popup-content-wrapper {
-  background:$means;
+  background:$means !important;
   color: #fe3c32;
   line-height:16px;
 }
@@ -68,7 +68,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin-top: -10%;
+  margin-top: -8%;
   height:30%;
 }
 
@@ -84,6 +84,9 @@ h3 {
   background-color: $map-gray;
   width: 70%;
   border-right: 3px solid black;
+  svg{
+    padding-top: 20px;
+  }
 }
 
 #chart-viewer2 {
@@ -150,7 +153,7 @@ path.leaflet-clickable {
   shape-rendering: optimizeSpeed;
 }
 .axis {
-  font: 10px impact;
+  font: 10px monospace;
   color: white;
 }
 .axis path,
