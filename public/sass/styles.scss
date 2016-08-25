@@ -3,22 +3,7 @@ $again: rgb(194,26,1);
 $damn-good: rgb(163,0,6);
 $means: rgb(107,1,3);
 $map-gray: rgb(36,36,38);
-/// Slightly lighten a color
-/// @access public
-/// @param {Color} $color - color to tint
-/// @param {Number} $percentage - percentage of `$color` in returned color
-/// @return {Color}
-@function tint($color, $percentage) {
-  @return mix(white, $color, $percentage);
-}
-/// Slightly darken a color
-/// @access public
-/// @param {Color} $color - color to shade
-/// @param {Number} $percentage - percentage of `$color` in returned color
-/// @return {Color}
-@function shade($color, $percentage) {
-  @return mix(black, $color, $percentage);
-}
+
 body {
   letter-spacing:1px;
   background-color: $means;
@@ -26,13 +11,9 @@ body {
 
 
 #chiasm-container {
-  // animation-name: title;
-  // animation-duration: 2s;
-  // animation-iteration-count: 1;
   border-style: solid;
   border-color: $means;
   border-width: 15px;
-  // background-image: url("./img/color.jpg");
   background-color: #6B0103;
   position: relative;
   left: 0px;
@@ -41,7 +22,6 @@ body {
   bottom: 0px;
   max-height: 75%;
   min-height: 75%;
-  // z-index: -100;
 }
 
 
@@ -70,12 +50,7 @@ Map
   flex-direction: row;
   justify-content: space-between;
   align-items: strech;
-  // height: 40%;
-  // margin-bottom: 100px;
   margin-top: -6%;
-  // div{
-  //   margin-top: 8.5%;
-  // }
 }
 
 
@@ -90,8 +65,6 @@ h3 {
 #chart-viewer1 {
   background-color: $means;
   width: 69%;
-  // border-left: solid black 2px;
-  // border-right: dotted black 1px;
 }
 
 #chart-viewer2 {
@@ -110,89 +83,35 @@ h3 {
 }
 
 #panel-1 {
-  // -webkit-box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
-  // -moz-box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
-  // box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
   display: flex;
   flex-direction: row;
   width: 40%;
   margin-left: 1.1%;
   align-items: stretch;
-  // opacity: 0.9;
-  // border-style: solid;
-  // border-color: rgba(96,1,3,1);
-  // border-width: 15px;
-  // border-radius:2px;
 }
 #panel-2 {
-  // -webkit-box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
-  // -moz-box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
-  // box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
   display: flex;
   flex-direction: row;
   width: 40%;
   align-items: stretch;
-  // margin-left: 15px;
-  // margin-right: 15px;
-  // opacity: 0.9;
-  // border-style: solid;
-  // border-color: rgba(96,1,3,1);
-  // border-width: 15px;
-  // border-radius:5px;
-
 }
 #panel-3 {
-  // -webkit-box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
-  // -moz-box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
-  // box-shadow: inset 20px 20px 46px 0px rgba(0,0,0,0.92);
   display: flex;
   flex-direction: row;
   width: 20%;
   align-items: stretch;
-  // opacity: 1;
-  // border-style: solid;
-  // border-color: $means;
-  // border-width: 15px;
-  // border-radius:5px;
-  // div{
-  //   width: 100%;
-  // }
 }
 
 path.leaflet-clickable {
 }
 
-<<<<<<< HEAD
-=======
-// @-webkit-keyframes pulsate {
-//     0% {-webkit-transform: scale(0.95, 0.95); opacity: 1.0;}
-//     50% {-webkit-transform: scale(0.96, 0.96); opacity: 1.0;}
-//     100% {-webkit-transform: scale(0.95, 0.95); opacity: 1.0;}
-// }
->>>>>>> control-panel
 
 .chiasm-component-date-chart{
-  // background: rgba(189,0,6,1);
-  // background: -moz-linear-gradient(left, rgba(189,0,6,1) 0%, rgba(189,0,6,1) 6%, rgba(189,0,6,1) 11%, rgba(189,0,6,1) 15%, rgba(126,1,3,1) 63%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(96,1,3,1) 100%);
-  // background: -webkit-gradient(left top, right top, color-stop(0%, rgba(189,0,6,1)), color-stop(6%, rgba(189,0,6,1)), color-stop(11%, rgba(189,0,6,1)), color-stop(15%, rgba(189,0,6,1)), color-stop(63%, rgba(126,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(66%, rgba(124,1,3,1)), color-stop(100%, rgba(96,1,3,1)));
-  // background: -webkit-linear-gradient(left, rgba(189,0,6,1) 0%, rgba(189,0,6,1) 6%, rgba(189,0,6,1) 11%, rgba(189,0,6,1) 15%, rgba(126,1,3,1) 63%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(96,1,3,1) 100%);
-  // background: -o-linear-gradient(left, rgba(189,0,6,1) 0%, rgba(189,0,6,1) 6%, rgba(189,0,6,1) 11%, rgba(189,0,6,1) 15%, rgba(126,1,3,1) 63%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(96,1,3,1) 100%);
-  // background: -ms-linear-gradient(left, rgba(189,0,6,1) 0%, rgba(189,0,6,1) 6%, rgba(189,0,6,1) 11%, rgba(189,0,6,1) 15%, rgba(126,1,3,1) 63%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(96,1,3,1) 100%);
-  // background: linear-gradient(to right, rgba(189,0,6,1) 0%, rgba(189,0,6,1) 6%, rgba(189,0,6,1) 11%, rgba(189,0,6,1) 15%, rgba(126,1,3,1) 63%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(124,1,3,1) 66%, rgba(96,1,3,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bd0006', endColorstr='#600103', GradientType=1 );
   background: darken($map-gray, 10%);
-  // background: -moz-linear-gradient(left, rgb(189,0,6) 0%, rgb(189,0,6) 6%, rgb(189,0,6) 11%, rgb(189,0,6) 15%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(96,1,3) 100%);
-  // background: -webkit-gradient(left top, right top, color-stop(0%, rgb(189,0,6)), color-stop(6%, rgb(189,0,6)), color-stop(11%, rgb(189,0,6)), color-stop(15%, rgb(189,0,6)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(66%, rgb(133,1,4)), color-stop(100%, rgb(96,1,3)));
-  // background: -webkit-linear-gradient(left, rgb(189,0,6) 0%, rgb(189,0,6) 6%, rgb(189,0,6) 11%, rgb(189,0,6) 15%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(96,1,3) 100%);
-  // background: -o-linear-gradient(left, rgb(189,0,6) 0%, rgb(189,0,6) 6%, rgb(189,0,6) 11%, rgb(189,0,6) 15%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(96,1,3) 100%);
-  // background: -ms-linear-gradient(left, rgb(189,0,6) 0%, rgb(189,0,6) 6%, rgb(189,0,6) 11%, rgb(189,0,6) 15%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(96,1,3) 100%);
-  // background: linear-gradient(to right, rgb(189,0,6) 0%, rgb(189,0,6) 6%, rgb(189,0,6) 11%, rgb(189,0,6) 15%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(133,1,4) 66%, rgb(96,1,3) 100%);
-  // filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bd0006', endColorstr='#600103', GradientType=1 );
   color : white;
   text{
     color: $means
   }
- // position: static;
  svg{
   height: 80px;
  }
@@ -213,12 +132,6 @@ path.leaflet-clickable {
   height: 100%;
 }
 
-// #left-additional-info{
-//   max-width: 90%;
-//   z-index: -5;
-// }
-
-     /* Style the brush. Draws from http://bl.ocks.org/mbostock/4343214 */
 .brush,
 .extent {
   stroke: #F03C02;
@@ -226,7 +139,6 @@ path.leaflet-clickable {
   fill-opacity: .9;
   shape-rendering: optimizeSpeed;
 }
-     /* Axis CSS from bar chart example http://bl.ocks.org/mbostock/3885304 */
 .axis {
   font: 10px impact;
   color: white;
@@ -238,7 +150,7 @@ path.leaflet-clickable {
   color: green;
   shape-rendering: optimizeSpeed;
 }
-     /* Custom CSS for axis labels. */
+
 .axis-label {
   text-anchor: middle;
   font-size: 1.1em;
