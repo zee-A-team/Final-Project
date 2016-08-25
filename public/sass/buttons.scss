@@ -11,6 +11,9 @@ $map-gray: rgb(36,36,38);
   width: 30%;
   color: rgb(254,60,50);
 }
+.button-jar div {
+  cursor: pointer;
+}
 
 #control-panel{
   width: 100%;
@@ -18,7 +21,8 @@ $map-gray: rgb(36,36,38);
   background-color: $means;
   flex-direction: column;
   color: rgb(254,60,50);
-  div{
+  div {
+    cursor: pointer;
     display: flex;
     justify-content: center;
     margin-top: 8%;

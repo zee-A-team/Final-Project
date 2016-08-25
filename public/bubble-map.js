@@ -51,23 +51,22 @@ function BubbleMap() {
       if (this._getParent(target, "leaflet-popup"))
         return true;
       // check to see if the marker was hovered back onto
-      if (target == this._icon)
+      if (target === this._icon)
         return true;
       // hide the popup
       this.closePopup();
     },
-    _getParent: function(element, className) {
-      var parent = element.parentNode;
-      while (parent != null) {
-        if (parent.className && L.DomUtil.hasClass(parent, className))
+    _getParent: (element, className) => {
+      let parent = element.parentNode;
+      while (parent !== null) {
+        if (parent.className && L.DomUtil.hasClass(parent, className)) {
           return parent;
+        }
         parent = parent.parentNode;
       }
       return false;
-    }
+    },
   });
-
-
 
   my.when('data', (data) => {
     my.cleanData = data.filter((d) => {
@@ -92,7 +91,7 @@ function BubbleMap() {
   canvasTiles.drawTile = (canvas) => {
     const ctx = canvas.getContext('2d');
     ctx.fillStyle = 'rgba(240,60,2, 0.03)';
-    ctx.fillRect(50, 100, canvas.width, canvas.height*2);
+    ctx.fillRect(50, 100, canvas.width, (canvas.height * 2));
   };
   canvasTiles.addTo(my.map);
   canvasTiles.bringToBack();
@@ -129,30 +128,55 @@ function BubbleMap() {
       const lat = locationRandomizer[locationRandomizer.indexOf(daData)].latitude;
       const lng = locationRandomizer[locationRandomizer.indexOf(daData)].longitude;
       const aniType = locationRandomizer[locationRandomizer.indexOf(daData)].type;
-      // console.log(aniType);
       const markerCenter = L.latLng(lat, lng);
       let circleMarker;
 
-      var redArr = ['#e50000', '#990000', '#4c0000', '#ff0000','#FF2400','#6F4242','#8B3626'];
-      var blueArr = ['#7f7fff', '#1919ff', '#0000e5', '#000099', '#779999','#668B8B'];
-      var yellowArr = ['#ffff00', '#FFA500', '#cccc00', '#FF6103','#999900','#CDAD00', '#8B7500'];
-      var sizeNumsArr= [1, 2, 3, 4, 5];
+      const redArr = [
+        '#e50000',
+        '#990000',
+        '#4c0000',
+        '#ff0000',
+        '#FF2400',
+        '#6F4242',
+        '#8B3626'
+      ];
+
+      const blueArr = [
+        '#7f7fff',
+        '#1919ff',
+        '#0000e5',
+        '#000099',
+        '#779999',
+        '#668B8B'
+      ];
+
+      const yellowArr = [
+        '#ffff00',
+        '#FFA500',
+        '#cccc00',
+        '#FF6103',
+        '#999900',
+        '#CDAD00',
+        '#8B7500'
+      ];
+      const sizeNumsArr = [1, 2, 3, 4, 5];
 
       function getMeRandomSize() {
-        let randomIndex = Math.floor(Math.random() * redArr.length);
-        let randomNum = redArr[randomIndex];
+        const randomIndex = Math.floor(Math.random() * redArr.length);
+        const randomNum = redArr[randomIndex];
         return randomNum;
       }
+
       function getMeRandomColors(randParam) {
         let randomIndex;
         let randomColor;
         if (randParam === 'red') {
           randomIndex = Math.floor(Math.random() * redArr.length);
           randomColor = redArr[randomIndex];
-        }else if (randParam === 'blue') {
+        } else if (randParam === 'blue') {
           randomIndex = Math.floor(Math.random() * blueArr.length);
           randomColor = blueArr[randomIndex];
-        }else if (randParam === 'yellow') {
+        } else if (randParam === 'yellow') {
           randomIndex = Math.floor(Math.random() * yellowArr.length);
           randomColor = yellowArr[randomIndex];
         }
@@ -160,8 +184,9 @@ function BubbleMap() {
       }
 
       function toTitleCase(str){
-        return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+        return str.replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase());
       }
+
       daData.common_name = toTitleCase(daData.common_name);
 
       if (aniType === 'land') {
@@ -170,16 +195,7 @@ function BubbleMap() {
           weight: 3,
           clickable: true,
         });
-        circleMarker.bindPopup(daData.common_name);
-        circleMarker.setRadius(rData(daData));
-        circleMarker.on('mouseover', function(e) {
-          //open popup;
-          var popup = L.popup()
-           .setLatLng(e.latlng)
-           .setContent(daData.common_name+" "+daData.year)
-           .openOn(my.map);
-        });
-        circleMarker.addTo(my.map);
+
       }
       else if (aniType ==='air') {
         circleMarker = L.circleMarker(markerCenter, {
@@ -187,52 +203,26 @@ function BubbleMap() {
           weight: 1,
           clickable: true,
         });
-        circleMarker.bindPopup(daData.common_name);
-        circleMarker.setRadius(rData(daData));
-        circleMarker.on('mouseover', function(e) {
-          //open popup;
-          var popup = L.popup()
-           .setLatLng(e.latlng)
-           .setContent(daData.common_name+" "+daData.year)
-           .openOn(my.map);
-        });
-        circleMarker.addTo(my.map);
+
       }
-      else if (aniType ==='marine') {
+      else {
         circleMarker = L.circleMarker(markerCenter, {
           color: getMeRandomColors('blue'),
           weight: 2,
           clickable: true,
         });
         let addMe = getMeRandomSize();
-        circleMarker.bindPopup(daData.common_name);
-        circleMarker.setRadius(rData(daData));
-
-        circleMarker.on('mouseover', function(e) {
-          //open popup;
-          var popup = L.popup()
-           .setLatLng(e.latlng)
-           .setContent(daData.common_name+" "+daData.year)
-           .openOn(my.map);
-        });
-        circleMarker.addTo(my.map);
       }
+      circleMarker.bindPopup(daData.common_name);
+      circleMarker.setRadius(rData(daData));
+      circleMarker.on('mouseover', function(e) {
+        const popup = L.popup()
+         .setLatLng(e.latlng)
+         .setContent(`${daData.common_name} (${daData.year})`)
+         .openOn(my.map);
+      });
+      circleMarker.addTo(my.map);
 
-
-
-      // var myLayer = new L.GeoJSON();
-      // myLayer.on("featureparse", function (e){
-      //   e.layer.setStyle(e.properties.style);
-      //   e.layer.on("mouseover", function () { alert("ON!") });
-      //   e.layer.on("mouseoff", function () { alert("OFF") });
-      //  });
-      // myLayer.addGeoJSON(circleMarker);
-      // my.map.addLayer(myLayer);
-
-
-      // circleMarker.bindPopup(daData.common_name);
-      // circleMarker.setRadius(r(daData));
-      // circleMarker.addTo(my.map);
       return circleMarker;
     });
   }, 100));

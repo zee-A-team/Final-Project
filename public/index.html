@@ -3,11 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>SMD Webpack</title>
-    <style>
-      #map { position: absolute; top:0; bottom:0; right:0; left:0; }
-    </style>
     <script src="http://localhost:35729/livereload.js"></script>
-    <script src="'https://fonts.googleapis.com/css?family=Oswald'"></script>
+    <script src="https://fonts.googleapis.com/css?family=Oswald"></script>
   </head>
   <body>
     <div id ='main-container'>
@@ -16,34 +13,15 @@
       </div>
       <div id='additional-info'>
        <div id='panel-1'>
-         <div class="button-jar">
-           <h3 >By Geolocation</h3>
-           <div id="toggleHemiChart">Hemisphere</div>
-           <div id="toggleEuChart">Europe</div>
-           <div id="toggleAsiaChart">Asia</div>
-           <div id="toggleAfricaChart">Africa</div>
-           <div id="toggleNaChart">North America</div>
-           <div id="toggleSaChart">South America</div>
-           <div id="toggleAuChart">Australia</div>
-         </div>
+         <div id="panel-1-div" class="button-jar"></div>
          <div id="chart-viewer1"></div>
        </div>
        <div id='panel-2'>
-          <div class="button-jar">
-             <h3>By Habitat</h3>
-             <div id="toggleTerrChart">Terrestrial</div>
-             <div id="toggleAquaChart">Aquatic</div>
-             <div id="toggleAvianChart">Avian</div>
-          </div>
+          <div id="panel-2-div" class="button-jar"></div>
           <div id="chart-viewer2"></div>
        </div>
        <div id='panel-3'>
-         <div id='control-panel'>
-           <h3>By Time</h3>
-           <div id="navigate-button">Navigate</div>
-           <div id="chart-button">Charts</div>
-           <div id="about-button">About</div>
-         </div>
+         <div id='control-panel'></div>
        </div>
      </div>
     </div>
