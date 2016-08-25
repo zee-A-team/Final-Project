@@ -1,401 +1,401 @@
-_id,scientific_name,common_name,date,year,range,description,type,latitude,longitude,latlong,continent,country
-57ab8c5b1eff02897b163ed1,Tachybaptus rufolavatus,Alaotra grebe,1985-01-01T00:00:00Z,1985,Madagascar,--,air,-18.76,46.86,"-18.76,46.86",Africa,MG
-57ab8c5b1eff02897b163ed2,Nesillas aldabrana,Aldabra brush-warbler,1983-01-01T00:00:00Z,1983,Seychelles,--,air,-4.65,55.47,"-4.65,55.47",Africa,SC
-57ab8c5b1eff02897b163ed3,Mundia elpenor,Ascension flightless crake,1656-01-01T00:00:00Z,1656,United Kingdom (Ascension),--,air,-15.98,-5.7,"-15.90,-5.70",Africa,SH
-57ab8c5b1eff02897b163ed4,Nycticorax olsoni,Ascension night heron,1600-01-01T00:00:00Z,1600,United Kingdom (Ascension),--,air,-15.98,-5.7,"-15.90,-5.70",Africa,SH
-57ab8c5b1eff02897b163ed5,Lophopsittacus mauritianus,Broad-billed parrot,1680-01-01T00:00:00Z,1680,Mauritius,--,air,-20.34,57.55,"-20.34,57.55",Africa,MU
-57ab8c5b1eff02897b163ed6,Haematopus meadewaldoi,Canary Islands oystercatcher,1940-01-01T00:00:00Z,1940,Spain (Canary Islands),--,air,28.29,-16.62,"28.29,-16.62",Europe,ES
-57ab8c5b1eff02897b163ed7,Coturnix gomerae,Canary Islands quail,1444-01-01T00:00:00Z,1444,United Kingdom (Saint Helena),--,air,-15.98,-5.71,"-15.98,-5.71",Africa,SH
-57ab8c5b1eff02897b163ed8,Dysmoropelia dekarchiskos,Saint Helena dove,1502-01-01T00:00:00Z,1502,United Kingdom (Saint Helena),--,air,-15.98,-5.71,"-15.98,-5.71",Africa,SH
-57ab8c5b1eff02897b163ed9,Upupa antaios,Saint Helena hoopoe,1500-01-01T00:00:00Z,1500,United Kingdom (Saint Helena),--,air,-15.98,-5.71,"-15.98,-5.71",Africa,SH
-57ab8c5b1eff02897b163eda,Porzana astrictocarpus,Saint Helena rail,1502-01-01T00:00:00Z,1502,United Kingdom (Saint Helena),--,air,-15.98,-5.71,"-15.98,-5.71",Africa,SH
-57ab8c5b1eff02897b163edb,Psittacula wardis,Seychelles parakeet,1886-01-01T00:00:00Z,1886,Seychelles,--,air,-4.6,55.47,"-4.60,55.47",Africa,SE
-57ab8c5b1eff02897b163edc,Bulweria bifax,Small Saint Helena petrel,1502-01-01T00:00:00Z,1502,United Kingdom (Saint Helena),--,air,-15.98,-5.71,"-15.98,-5.71",Africa,SH
-57ab8c5b1eff02897b163edd,Gallinula nesiotis,Tristan moorhen,1890-01-01T00:00:00Z,1890,United Kingdom (Tristan da Cunha),--,air,-37.1,-12.27,"-37.10,-12.27",Africa,SH
-57ab8cde1eff02897b163ede,Equus africanus atlanticus,Atlas wild ass,300-01-01T00:00:00Z,300,North African,--,land,18.18,18.28,"18.18,18.28",Africa,TD
-57ab8cde1eff02897b163edf,Canariomys bravoi and Canariomys tamarani,Canary Islands giant rats,1500-01-01T00:00:00Z,1500,Spain (Canary Islands),--,land,28.29,-16.62,"28.29,-16.62",Europe,ES
-57bbaf7e7f658b5320d3f843,Bufo periglenes,Golden toad,1989-01-01T00:00:00Z,1989,Costa Rica,--,land,9.74,-83.75,"9.74,-83.75",North America,CR
-57ab8cde1eff02897b163ee0,Daubentonia robusta,Giant aye-aye,1000-01-01T00:00:00Z,1000,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG
-57ab8cde1eff02897b163ee1,Cryptoprocta spelea,Giant fossa,1444-01-01T00:00:00Z,1444,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG
-57ab8cde1eff02897b163ee2,Hipposideros besaoka,Hipposideros besaoka,1000-01-01T00:00:00Z,1000,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG
-57ab8cde1eff02897b163ee3,Homotherium,Homotherium,1000-01-01T00:00:00Z,1000,Africa,--,land,3.29,22.52,"3.29,22.52",Africa,CD
-57ab8cde1eff02897b163ee4,Megaladapis,Koala lemur,1420-01-01T00:00:00Z,1420,Madagascar,--,land,-18.76,46.87,"-18.76,46.87",Africa,MG
-57ab8cde1eff02897b163ee5,Malpaisomys insularis,Lava mouse,1500-01-01T00:00:00Z,1500,Spain (Canary Islands),--,land,28.29,-16.62,"28.29,-16.62",Europe,ES
-57ab8cde1eff02897b163ee6,Plesiorycteropus,Malagasy aardvark,200-01-01T00:00:00Z,200,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG
-57ab8cde1eff02897b163ee7,Hippopotamus,Malagasy hippopotamus,1000-01-01T00:00:00Z,1000,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG
-57ab8cde1eff02897b163ee8,Megalotragus,Megalotragus,1000-01-01T00:00:00Z,1000,Africa,--,land,3.29,22.52,"3.29,22.52",Africa,CD
-57ab8cde1eff02897b163ee9,Microgale macpheei,Microgale macpheei,100-01-01T00:00:00Z,100,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG
-57ab8cde1eff02897b163eea,Loxodonta africana pharaoensis,North African elephant,300-01-01T00:00:00Z,300,North Africa,--,land,30.3,12.39,"30.30,12.39",Africa,LY
-57ab8cde1eff02897b163eeb,Pelorovis,Pelorovis,0001-01-01T00:00:00Z,0001,Africa,12000BC,land,3.29,22.52,"3.29,22.52",Africa,CD
-57ab8cde1eff02897b163eec,Sivatherium,Sivatherium,0001-01-01T00:00:00Z,0001,Africa,-6000BC,land,3.29,22.52,"3.29,22.52",Africa,CD
-57ab8d111eff02897b163eed,Ursus arctos crowtheri,Atlas bear,1870-01-01T00:00:00Z,1870,North Africa,--,land,30.3,12.39,"30.30,12.39",Africa,LY
-57ab8d111eff02897b163eee,Bos primigenius,Aurochs,1627-01-01T00:00:00Z,1627,North Africa || Europe,--,air,34.1,-0.26,"34.1,-0.26",Africa,LI
-57ab8d111eff02897b163eef,Hippotragus leucophaeus,Bluebuck,1799-01-01T00:00:00Z,1799,South Africa,--,land,-29.82,23.55,"-29.8,23.55",Africa,ZA
-57ab8d111eff02897b163ef0,Alcelaphus buselaphus buselaphus,Bubal hartebeest,1923-01-01T00:00:00Z,1923,North Africa,--,land,30.3,12.39,"30.30,12.39",Africa,LY
-57ab8d111eff02897b163ef1,Panthera leo melanochaitus,Cape lion,1860-01-01T00:00:00Z,1860,South Africa,--,land,-29.82,23.55,"-29.8,23.55",Africa,ZA
-57ab8d111eff02897b163ef2,Leptailurus serval serval,Cape serval,1444-01-01T00:00:00Z,1444,South Africa,--,land,-29.82,23.55,"-29.8,23.55",Africa,ZA
-57ab8d111eff02897b163ef3,Phacochoerus aethiopicus aethiopicus,Cape warthog,1900-01-01T00:00:00Z,1900,South Africa,--,land,-29.82,23.55,"-29.8,23.55",Africa,ZA
-57ab8d111eff02897b163ef4,Ourebia ourebi kenyae,Kenya oribi,1444-01-01T00:00:00Z,1444,Kenya,--,land,0.453,37.7,"0.453,37.70",Africa,KE
-57ab8d111eff02897b163ef5,Palaeopropithecus,Large sloth lemur,1500-01-01T00:00:00Z,1500,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG
-57ab8d111eff02897b163ef6,Pteropus subniger,Lesser Mascarene flying fox,1850-01-01T00:00:00Z,1850,Mauritius and France (Reunion),--,land,-20.26,57.56,"-20.2,57.56",Africa,MU
-57ab8d111eff02897b163ef7,Equus quagga quagga,Quagga,1883-01-01T00:00:00Z,1883,Namibia and South Africa,--,land,-21.68,17.75,"-21.6,17.75",Africa,NA
-57ab8d111eff02897b163ef8,Eudorcas rufinaa,Red gazelle,1894-01-01T00:00:00Z,1894,Algeria,--,land,31.8,3.21,"31.80,3.21",Africa,DZ
-57ab8d111eff02897b163ef9,Kobus leche robertsi,Robert's lechwe,1444-01-01T00:00:00Z,1444,South Africa,--,land,-29.82,23.55,"-29.8,23.55",Africa,ZA
-57ab8d111eff02897b163efa,Diceros bicornis longipes,Western black rhinoceros,1996-01-01T00:00:00Z,1996,Cameroon,--,land,4.57,12.56,"4.57,12.56",Africa,CM
-57ab8d401eff02897b163efb,Macroscincus coctei,Cape Verde giant skink,1920-01-01T00:00:00Z,1920,Cape Verde,--,land,16.06,-22.78,"16.06,-22.78",Africa,CV
-57ab8d401eff02897b163efc,Cylindraspis triserrata,Domed Mauritius giant tortoise,1850-01-01T00:00:00Z,1850,Mauritius,--,land,-20.34,57.55,"-20.3,57.55",Africa,MU
-57ab8d401eff02897b163efd,Cylindraspis peltastes,Domed Rodrigues giant tortoise,1800-01-01T00:00:00Z,1800,Mauritius,--,land,-20.34,57.55,"-20.3,57.55",Africa,MU
-57ab8d401eff02897b163efe,Tetradactylus eastwoodae,Eastwood's long-tailed seps,1912-01-01T00:00:00Z,1912,South Africa,--,land,-29.82,23.55,"-29.8,23.55",Africa,ZA
-57ab8d401eff02897b163eff,Typhlops cariei,Hoffstetter's worm snake,1444-01-01T00:00:00Z,1444,Mauritius,--,land,-20.34,57.55,"-20.3,57.55",Africa,MU
-57ab8d401eff02897b163f00,Didosaurus maurtianus,Mauritian giant skink,1650-01-01T00:00:00Z,1650,Mauritius,--,land,-20.34,57.55,"-20.3,57.55",Africa,MU
-57ab8d401eff02897b163f01,Aparallactus nigriceps,Mozambique centipede-eater,1840-01-01T00:00:00Z,1840,France (Reunion),--,land,-21.14,55.65,"-21.1,55.65",Africa,RE
-57ab8d401eff02897b163f02,Phelsuma edwardnewtoni,Rodrigues day gecko,1917-01-01T00:00:00Z,1917,Mauritius,--,land,-20.34,57.55,"-20.3,57.55",Africa,MU
-57ab8d401eff02897b163f03,Phelsuma gigas,Rodrigues giant day gecko,1842-01-01T00:00:00Z,1842,Mauritius,--,land,-20.34,57.55,"-20.3,57.55",Africa,MU
-57ab8d401eff02897b163f04,Gallotia simonyi simonyi,Roque Chico de Salmor giant lizard,1930-01-01T00:00:00Z,1930,Spain (Canary Islands),--,land,28.29,-16.62,"28.29,-16.62",Europe,ES
-57ab8d401eff02897b163f05,Bolyeria multocarinata,Round Island burrowing boa,1975-01-01T00:00:00Z,1975,Mauritius,--,land,-20.34,57.55,"-20.3,57.55",Africa,MU
-57ab8d401eff02897b163f06,Cylindraspis inepta,Saddle-backed Mauritius giant tortoise,1750-01-01T00:00:00Z,1750,Mauritius,--,land,-20.34,57.55,"-20.3,57.55",Africa,MU
-57ab8d401eff02897b163f07,Cylindraspis vosmaeri,Saddle-backed Rodrigues giant tortoise,1800-01-01T00:00:00Z,1800,Mauritius,--,land,-20.34,57.55,"-20.3,57.55",Africa,MU
-57ab8d611eff02897b163f08,Eriocnemis godini,Turquoise-throated puffleg,1850-01-01T00:00:00Z,1850,Colombia and Ecuador,--,land,2.48,-75.76,"2.48,75.76",South America,CO
-57ab8d611eff02897b163f09,Atelopus ignescens,Atelopus ignescens,1444-01-01T00:00:00Z,1444,Ecuador,--,land,-1.13,-77.16,"-1.13,-77.16",South America,EC
-57ab8d611eff02897b163f0a,Atelopus longirostris,Atelopus longirostris,1989-01-01T00:00:00Z,1989,Ecuador,--,land,-1.13,-77.16,"-1.13,-77.16",South America,EC
-57ab8d611eff02897b163f0b,Atelopus vogli,Atelopus vogli,1933-01-01T00:00:00Z,1933,Venezuela,--,land,6.63,-65.21,"6.63,-65.21",South America,VE
-57ab8d611eff02897b163f0c,Phrynomedusa fimbriata,Spiny-knee leaf frog,1920-01-01T00:00:00Z,1920,Brazil,--,land,-12.54,-53.08,"-12.5,-53.08",South America,BR
-57ab8d611eff02897b163f0d,Rhinoderma rufum,Chile Darwin's frog,1980-01-01T00:00:00Z,1980,Chile,--,land,-47.74,-73.12,"-47.7,-73.12",South America,CL
-57ab8d611eff02897b163f0e,Chelonoidis nigra nigra,Charles Island tortoise,1850-01-01T00:00:00Z,1850,Ecuador (Galapagos Islands),--,land,-0.73,-91.06,"-0.73,-91.06",South America,EC
-57ab8d611eff02897b163f0f,Chelonoidis nigra abingdonii,Pinta Island tortoise,2012-01-01T00:00:00Z,2012,Ecuador (Galapagos Islands),--,land,-0.73,-91.06,"-0.73,-91.06",South America,EC
-57ab8d7c1eff02897b163f10,Sephanoides fernandensis leyboldi,Alejandro Selkirk Island Firecrown,1908-01-01T00:00:00Z,1908,Chile,--,air,-47.74,-73.12,"-47.7,-73.12",South America,CL
-57ab8d7c1eff02897b163f11,Podiceps andinus,Colombian grebe,1970-01-01T00:00:00Z,1970,Colombia,--,air,2.47,-72.07,"2.47,-72.07",South America,CO
-57ab8d7c1eff02897b163f12,Geospiza magnirostris magnirostris,Darwin's ground finch,1957-01-01T00:00:00Z,1957,Ecuador (Galapagos Islands),--,air,-0.73,-91.06,"-0.73,-91.06",South America,EC
-57ab8d7c1eff02897b163f13,Anas georgica niceforoi,Niceforo's pintail,1952-01-01T00:00:00Z,1952,Colombia,--,air,2.47,-72.07,"2.47,-72.07",South America,CO
-57ab8d7c1eff02897b163f14,Pyrocephalus rubinus dubius,San Cristabal vermilion flycatcher,1980-01-01T00:00:00Z,1980,Ecuador (Galapagos Islands),--,air,-0.73,-91.06,"-0.73,-91.06",South America,EC
-57ab8d7c1eff02897b163f15,Aramides gutturalis,Red-throated wood-rail,1843-01-01T00:00:00Z,1843,Peru,--,air,-10.21,-73.56,"-10.2,-73.56",South America,PE
-57ab8d7c1eff02897b163f16,Heliangelus zusii,Antioquia brush finch,1971-01-01T00:00:00Z,1971,Colombia,--,air,2.47,-72.07,"2.47,-72.07",South America,CO
-57ab8d7c1eff02897b163f17,Heliangelus zusii,Bogota SunAngel,1907-01-01T00:00:00Z,1907,Colombia,--,air,2.47,-72.07,"2.47,7.07",South America,CO
-57ab8d7c1eff02897b163f18,Numenius borealis,Eskimo Curlew,1939-01-01T00:00:00Z,1939,Brazil and Argentina,--,air,-28.21,-56.33,"-28.2,-56.33",South America,AR
-57ab8d7c1eff02897b163f19,Anodorhynchus glaucus,Glaucous macaw,1960-01-01T00:00:00Z,1960,"Argentina,Brazil,Paraguay and Uruguay",--,air,-28.21,-56.33,"-28.2,-56.33",South America,AR
-57ab8d7c1eff02897b163f1a,Sporophila melanops,Hooded seedeater,1823-01-01T00:00:00Z,1823,Brazil,--,air,-12.54,-53.08,"-12.5,-53.08",South America,BR
-57ab8d7c1eff02897b163f1b,Discosura letitiae,Letitia's thorntail,1852-01-01T00:00:00Z,1852,Bolivia,--,air,-16.11,-64.77,"-16.1,-64.77",South America,BO
-57ab8d7c1eff02897b163f1c,Grallaria chthonia,Tachira antpitta,1956-01-01T00:00:00Z,1956,Venezuela,--,air,6.63,-65.21,"6.63,-65.21",South America,VE
-57ab8d8c1eff02897b163f1d,Smilodon populator,Amazonian smilodon,1850-01-01T00:00:00Z,1850,Northern South Ameica,--,land,-3.23,-57.12,"-3.23,-57.12",South America,BR
-57bbaf7e7f658b5320d3f806,Drepanis pacifica,Hawai'i mamo,1988-01-T00:00:00Z,1988,Hawaiian Islands,--,air,19.66,-155.51,"19.66,-155.51",North America,US
-57ab8d8c1eff02897b163f1e,Antifer crassus,Antifer,1100-01-01T00:00:00Z,1100,"Argentina,Brazil and Chile",--,land,-47.74,-73.12,"-47.7,-73.12",South America,CL
-57ab8d8c1eff02897b163f1f,Arctotherium sp.,Arctotherium,1100-01-01T00:00:00Z,1100,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR
-57ab8d8c1eff02897b163f20,Canis nehringi,Canis nehringi,0001-01-01T00:00:00Z,0001,South America,-8000BC,land,-16.95,-57.74,"-16.9,-57.74",South America,BR
-57ab8d8c1eff02897b163f21,Cuvieronius sp.,Cuvieronius,0001-01-01T00:00:00Z,0001,South America,-4000BC,land,-16.95,-57.74,"-16.9,-57.74",South America,BR
-57ab8d8c1eff02897b163f22,Canis dirus,Dire wolf,1100-01-01T00:00:00Z,1100,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR
-57ab8d8c1eff02897b163f23,Catonyx,Ground sloths,0001-01-01T00:00:00Z,0001,South America,-6000BC,land,-16.95,-57.74,"-16.9,-57.74",South America,BR
-57ab8d8c1eff02897b163f24,Doedicurus,Glyptodontidaes,0001-01-01T00:00:00Z,0001,South America,-1100BC,land,-16.95,-57.74,"-16.9,-57.74",South America,BR
-57ab8d8c1eff02897b163f25,Hippidion,Hippidion,1000-01-01T00:00:00Z,1000,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR
-57ab8d8c1eff02897b163f26,Macrauchenia sp.,Macrauchenia,1000-01-01T00:00:00Z,1000,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR
-57ab8d8c1eff02897b163f27,Neochoerus sp.,Neochoerus,1000-01-01T00:00:00Z,1000,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR
-57ab8d8c1eff02897b163f28,Stegomastodon sp.,Stegomastodon,1000-01-01T00:00:00Z,1000,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR
-57ab8d8c1eff02897b163f29,Palaeolama mirifica,Stout-legged llama,1000-01-01T00:00:00Z,1000,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR
-57ab8d8c1eff02897b163f2a,Theriodictis sp.,Theriodictis,1100-01-01T00:00:00Z,1100,"Bolivia,Brazil and Paraguay",--,land,-16.79,-62.4,"-16.7,-62.40",South America,BO
-57ab8d8c1eff02897b163f2b,Toxodon sp.,Toxodon,1650-01-01T00:00:00Z,1650,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR
-57ab8d8c1eff02897b163f2c,Xenorhinotherium bahiensis,Xenorhinotherium,1000-01-01T00:00:00Z,1000,Brazil and Venezuela,--,land,6.63,-65.21,"6.63,-65.21",South America,VE
-57ab8d8c1eff02897b163f2d,Juscelinomys candango,Candango mouse,1960-01-01T00:00:00Z,1960,Brazil,--,land,-12.54,-53.08,"-12.5,-53.08",South America,BR
-57ab8d8c1eff02897b163f2f,Nesoryzomys darwini,Darwin's rice rat,1929-01-01T00:00:00Z,1929,Ecuador (Galapagos Islands),--,land,-0.73,-91.06,"-0.73,-91.06",South America,EC
-57ab8d8c1eff02897b163f31,Megaoryzomys curioi,Galapagos giant rat,1444-01-01T00:00:00Z,1444,Ecuador (Galapagos Islands),--,land,-0.73,-91.06,"-0.73,-91.06",South America,EC
-57ab8d8c1eff02897b163f32,Nesoryzomys indefessus,Indefatigable Galapagos mouse,1930-01-01T00:00:00Z,1930,Ecuador (Galapagos Islands),--,land,-0.73,-91.06,"-0.73,-91.06",South America,EC
-57ab8d8c1eff02897b163f33,Desmodus draculae,Giant vampire bat,1444-01-01T00:00:00Z,1444,"Bolivia,Brazil & Venezuela",--,land,6.63,-65.21,"6.63,6.21",Africa,NG
-57ab8d8c1eff02897b163f34,Lagostomus crassus,Peruvian viscacha,1910-01-01T00:00:00Z,1910,Peru,--,land,-10.21,-73.56,"-10.2,-73.56",South America,PE
-57ab8d8c1eff02897b163f36,Noronhomys vespuccii,Vespucci's rodent,1503-01-01T00:00:00Z,1503,Brazil,--,land,-12.54,-53.08,"-12.5,-53.08",South America,BR
-57ab8d8c1eff02897b163f38,Octodon pacificus,Pacific degu,1994-01-01T00:00:00Z,1994,"Mocha Island,Chile",--,land,-47.74,-73.12,"-47.7,-73.12",South America,CL
-57ab8d8c1eff02897b163f39,Melanomys zunigae,Zuniga's dark rice rat,1942-01-01T00:00:00Z,1942,Peru,--,land,-10.21,-73.56,"-10.2,-73.56",South America,PE
-57ab8f0d1eff02897b163f3a,Struthio camelus syriacus,Arabian ostrich,1966-01-01T00:00:00Z,1966,Middle East,--,air,29.16,42.02,"29.16,42.02",Asia,SA
-57ab8f0d1eff02897b163f3b,Struthio asiaticus,Asiatic ostrich,1000-01-01T00:00:00Z,1000,Middle East to Central Asia,--,air,29.16,42.02,"29.16,42.02",Asia,SA
-57ab8f0d1eff02897b163f3c,Branta hutchinsii asiatica,Bering Cackling Goose,1929-01-01T00:00:00Z,1929,Russia (Komandorski and Kuril Islands),--,air,62.73,98.44,"62.73,98.44",Europe,RU
-57ab8f0d1eff02897b163f3d,Carpodacus ferreorostris,Bonin grosbeak,1828-01-01T00:00:00Z,1828,Japan (Bonin Islands),--,air,27.03,142.2,"27.03,142.20",Asia,JP
-57ab8f0d1eff02897b163f3e,Nycticorax caledonicus crassirostris,Bonin nankeen night heron,1889-01-01T00:00:00Z,1889,Japan (Bonin Islands),--,air,27.03,142.2,"27.03,142.20",Asia,JP
-57ab8f0d1eff02897b163f3f,Zoothera terrestris,Bonin thrush,1827-01-01T00:00:00Z,1827,Japan (Bonin Islands),--,air,27.03,142.2,"27.03,142.20",Asia,JP
-57ab8f0d1eff02897b163f40,Columba versicolor,Bonin wood pigeon,1889-01-01T00:00:00Z,1889,Japan (Bonin Islands),--,air,27.03,142.2,"27.03,142.20",Asia,JP
-57ab8f0d1eff02897b163f41,Loriculus philippensis chrysonotus,Cebu hanging parrot,1444-01-01T00:00:00Z,1444,Philippines (Cebu),--,air,10.4,123.8,"10.40,123.80",Asia,PH
-57ab8f0d1eff02897b163f42,Cinclus cinclus olympicus,Cyprus dipper,1950-01-01T00:00:00Z,1950,Cyprus,--,air,34.93,33.14,"34.93,33.14",Asia,CY
-57ab8f0d1eff02897b163f43,Apalopteron familiare familiare,Mukojima white-eye,1930-01-01T00:00:00Z,1930,Japan (Bonin Islands),--,air,27.03,142.2,"27.03,142.20",Asia,JP
-57ab8f0d1eff02897b163f44,Todiramphus miyakoensis,Ryukyu kingfisher,1887-01-01T00:00:00Z,1887,Japan (Ryukyu Islands),--,air,26.49,127.99,"26.49,127.99",Asia,JP
-57ab8f0d1eff02897b163f45,Columba jouyi,Ryukyu wood pigeon,1936-01-01T00:00:00Z,1936,Japan (Ryukyu Islands),--,air,26.49,127.99,"26.49,127.99",Asia,JP
-57ab8f0d1eff02897b163f46,Phalacrocorax perspicillatus,Spectacled cormorant,1850-01-01T00:00:00Z,1850,Russia,--,air,62.73,98.44,"62.73,98.44",Europe,RU
-57ab8f211eff02897b163f47,Bos primigenius,Aurochs,1627-01-01T00:00:00Z0,16270,Northern Asia and Indian Sontinent,--,land,49.1,108.78,"49.10,108.78",Asia,MN
-57ab8f211eff02897b163f48,Panthera tigris balica,Bali tiger,1937-01-01T00:00:00Z,1937,Indonesia (Bali),--,land,-8.34,115.08,"-8.34,115.08",Asia,ID
-57ab8f211eff02897b163f49,Coryphomys buehleri,Buhler's coryphomys,1500-01-01T00:00:00Z,1500,Indonesia (Timor),--,land,-9.88,124.33,"-9.88,124.33",Asia,ID
-57ab8f211eff02897b163f4a,Panthera tigris virgata,Caspian tiger,1970-01-01T00:00:00Z,1970,Turkey to China,--,land,36.65,64.03,"36.65,64.03",Asia,TM
-57ab8f211eff02897b163f4b,Alces alces caucasicus,Caucasian moose,1850-01-01T00:00:00Z,1850,"Caucasus Mountains,Iran and Turkey",--,land,38.51,44.35,"38.51,44.35",Asia,IR
-57ab8f211eff02897b163f4c,Bison bonasus caucasicus,Caucasian wisent,1925-01-01T00:00:00Z,1925,Caucasus Mountains,--,land,38.51,44.35,"38.51,44.35",Asia,IR
-57ab8f211eff02897b163f4d,Sus cebifrons cebifrons,Cebu warty pig,1951-01-01T00:00:00Z,1951,Yemen,--,land,15.29,46.73,"15.29,46.73",Asia,YE
-57ab8f211eff02897b163f4e,Spelaeomys florensis,Flores cave rat,1500-01-01T00:00:00Z,1500,Indonesia (Flores),--,land,-8.77,121.06,"-8.77,121.06",Asia,ID
-57ab8f211eff02897b163f4f,Paulamys naso,Flores long-nosed rat,1500-01-01T00:00:00Z,1500,Indonesia (Flores),--,land,-8.77,121.06,"-8.77,121.06",Asia,ID
-57ab8f211eff02897b163f50,Neofelis nebulosa brachyura,Formosan clouded leopard,1990-01-01T00:00:00Z,1990,Taiwan,--,land,23.69,121.01,"23.69,121.01",Asia,TW
-57ab8f211eff02897b163f51,Canis lupus hattai,Hokkaidō wolf,1889-01-01T00:00:00Z,1889,Japan (Hokkaidō),--,land,43.25,142.66,"43.25,142.66",Asia,JP
-57ab8f211eff02897b163f52,Canis lupus hodophilax,Honshū wolf,1905-01-01T00:00:00Z,1905,Japan (Honshū),--,land,35.97,138.23,"35.97,138.23",Asia,JP
-57ab8f211eff02897b163f53,Crateromys paulus,Ilin Island Cloudrunner,1953-01-01T00:00:00Z,1953,Philippines,--,land,11.46,123.32,"11.46,123.32",Asia,PH
-57ab8f211eff02897b163f54,Rhinoceros sondaicus inermis,Indian Javan rhinoceros,1925-01-01T00:00:00Z,1925,"Bangladesh,Burma (Myanmar),and India",--,land,23.21,92.89,"23.21,92.89",Asia,IN
-57ab8f211eff02897b163f55,Lutra lutra whiteleyi,Japanese river otter,1979-01-01T00:00:00Z,1979,Japan,--,land,35.82,138.76,"35.82,138.76",Asia,JP
-57ab8f211eff02897b163f56,Zalophus japonicus,Japanese sea lion,1974-01-01T00:00:00Z,1974,Sea of Japan,--,land,35.82,138.76,"35.82,138.76",Asia,JP
-57ab8f211eff02897b163f57,Panthera tigris sondaica,Javan tiger,1970-01-01T00:00:00Z,1970,Indonesia (Java),--,land,-7.24,110.57,"-7.24,110.57",Asia,ID
-57ab8f211eff02897b163f58,Dicerorhinus sumatrensis lasiotis,Northern Sumatran rhinoceros,1444-01-01T00:00:00Z,1444,"Bangladesh,Burma (Myanmar),and India",--,land,23.21,92.89,"23.21,92.89",Asia,IN
-57ab8f211eff02897b163f59,Gazella bilkis,Queen of Sheba's gazelle,1951-01-01T00:00:00Z,1951,Yemen,--,land,15.29,46.73,"15.29,46.73",Asia,YE
-57ab8f211eff02897b163f5a,Gazella saudiya,Saudi gazelle,1444-01-01T00:00:00Z,1444,Arabian Peninsula,--,land,18.88,47.51,"18.88,47.51",Asia,SA
-57ab8f211eff02897b163f5b,Rucervus schomburgki,Schomburgk's deer,1938-01-01T00:00:00Z,1938,Thailand,--,land,16.62,100.34,"16.62,100.34",Asia,TH
-57ab8f211eff02897b163f5c,Hydrodamalis gigas,Steller's sea cow,1768-01-01T00:00:00Z,1768,Russia (Commander Islands),--,land,62.73,98.44,"62.73,98.44",Europe,RU
-57ab8f211eff02897b163f5d,Pipistrellus sturdeei,Sturdee's pipistrelle,1444-01-01T00:00:00Z,1444,Japan (Bonin Islands),--,land,27.03,142.2,"27.03,142.20",Asia,Japan
-57ab8f211eff02897b163f5e,Neofelis nebulosa brachyura,Verhoeven's giant tree rat,1500-01-01T00:00:00Z,1500,Indonesia (Flores),--,land,-8.77,121.06,"-8.77,121.06",Asia,ID
-57ab8f211eff02897b163f5f,Rhinoceros sondaicus annamiticus,Vietnamese Javan rhinoceros,2010-01-01T00:00:00Z,2010,Vietnam to Malaysia,--,land,4.57,103.15,"4.57,103.15",Asia,MY
-57ab8f3f1eff02897b163f60,Bos primigenius,Aurochs,1627-01-01T00:00:00Z,1627,Northern Asia and Indian Sontinent,--,land,49.1,108.78,"49.10,108.78",Asia,MN
-57ab8f3f1eff02897b163f61,Panthera tigris balica,Bali tiger,1937-01-01T00:00:00Z,1937,Indonesia (Bali),--,land,-8.34,115.08,"-8.34,115.08",Asia,ID
-57ab8f3f1eff02897b163f62,Coryphomys buehleri,Buhler's coryphomys,1500-01-01T00:00:00Z,1500,Indonesia (Timor),--,land,-9.88,124.33,"-9.88,124.33",Asia,ID
-57ab8f3f1eff02897b163f63,Panthera tigris virgata,Caspian tiger,1970-01-01T00:00:00Z,1970,Turkey to China,--,land,38.7,66.46,"38.7,66.46",Asia,UZ
-57ab8f3f1eff02897b163f64,Alces alces caucasicus,Caucasian moose,1850-01-01T00:00:00Z,1850,"Caucasus Mountains,Iran and Turkey",--,land,42.56,44.03,"42.56,44.03",Asia,IR
-57ab8f3f1eff02897b163f65,Bison bonasus caucasicus,Caucasian wisent,1925-01-01T00:00:00Z,1925,Caucasus Mountains,--,land,42.56,44.03,"42.56,44.03",Asia,GA
-57ab8f3f1eff02897b163f66,Sus cebifrons cebifrons,Cebu warty pig,1951-01-01T00:00:00Z,1951,Yemen,--,land,15.29,46.73,"15.29,46.73",Asia,YE
-57ab8f3f1eff02897b163f67,Gazella saudiya,Saudi gazelle,1444-01-01T00:00:00Z,1444,Arabian Peninsula,--,land,18.88,47.51,"18.88,47.51",Asia,SA
-57ab8f3f1eff02897b163f68,Rucervus schomburgki,Schomburgk's deer,1938-01-01T00:00:00Z,1938,Thailand,--,land,16.62,100.34,"16.62,100.34",Asia,TH
-57ab8f3f1eff02897b163f69,Hydrodamalis gigas,Steller's sea cow,1768-01-01T00:00:00Z,1768,Russia (Commander Islands),--,land,62.73,98.44,"62.73,98.44",Europe,RU
-57ab8f3f1eff02897b163f6a,Pipistrellus sturdeei,Sturdee's pipistrelle,1444-01-01T00:00:00Z,1444,Japan (Bonin Islands),--,land,27.03,142.2,"27.03,142.20",Asia,JP
-57ab8f3f1eff02897b163f6b,Neofelis nebulosa brachyura,Verhoeven's giant tree rat,1500-01-01T00:00:00Z,1500,Indonesia (Flores),--,land,-8.77,121.06,"-8.77,121.06",Asia,ID
-57ab8f3f1eff02897b163f6c,Rhinoceros sondaicus annamiticus,Vietnamese Javan rhinoceros,2010-01-01T00:00:00Z,2010,Vietnam to Malaysia,--,land,4.57,103.15,"4.57,103.15",Asia,MY
-57ab8f681eff02897b163f73,Pinguinus impennis,Great auk,1854-01-01T00:00:00Z,1854,Iceland and Northern European Coast,--,air,64.87,-18.81,"64.87,-18.81",Europe,IS
-57ab8f681eff02897b163f74,Corvus corax varius,Pied raven,1950-01-01T00:00:00Z,1950,Denmark (Faroe Islands),--,air,62.2,-7.08,"62.20,-7.08",Europe,FO
-57b7c81fa63e484229d311b1,Columba vitiensis godmanae,White-throated pigeon,1853-01-01T00:00:00Z,1853,Lord Howe Island,Last recorded 1853. Believed due to hunting.,air,-31.55,159.07,"-31.55,159.07",Australia,AU
-57b7c81fa63e484229d311b2,Cyanoramphus novaezelandiae subflavescens,Red-crowned parakeet,1869-01-01T00:00:00Z,1869,Lord Howe Island,"Last recorded 1869. Due to persecution,because of predation on gardens and crops.",air,-31.55,159.07,"-31.55,159.07",Australia,AU
-57b7c81fa63e484229d311b3,Dromaius baudinianus,Kangaroo Island emu,1805-01-01T00:00:00Z,1805,Kangaroo Island,Extinction has been attributed to hunting and habitat clearance through burning. A captive bird died in 1822,air,-35.03,137.55,"-35.03,137.55",Australia,AU
-57b7c81fa63e484229d311b4,Dromaius novaehollandiae diemenensis,Tasmanian emu,1850-01-01T00:00:00Z,1850,Tasmania,--,air,-42.03,146.55,"-42.03,146.55",Australia,AU
-57b7c81fa63e484229d311b5,Drymodes superciliaris colcloughi,Roper River scrub-robin,1910-01-01T00:00:00Z,1910,Northern Territory,--,air,-19.03,132.55,"-19.03,146.55",Australia,AU
-57b7c81fa63e484229d311b6,Gallicolumba norfolciensis,Norfolk ground dove,1850-01-01T00:00:00Z,1850,Norfolk Island,--,air,-29.04,167.95,"-29.04,167.95",Australia,NF
-57b7c81fa63e484229d311b7,Rhipidura cervina,Lord Howe fantail,1924-01-01T00:00:00Z,1924,Lord Howe Island,Believed to be a result of the introduction of black rats following the grounding of SS *Makamboin June 1918.,air,-31.55,159.07,"-31.55,159.07",Australia,AU
-57b7c81fa63e484229d311b8,Turdus poliocephalus vinitinctus,Lord Howe Island thrush,1924-01-01T00:00:00Z,1924,Lord Howe Island,Believed to be a result of the introduction of black rats following the grounding of SS *Makamboin June 1918.,air,-31.55,159.07,"-31.55,159.07",Australia,AU
-57b7c81fa63e484229d311b9,Zosterops strenuus,Robust white-eye,1923-01-01T00:00:00Z,1923,Lord Howe Island,Believed to be a result of the introduction of black rats following the grounding of SS *Makamboin June 1918.,air,-31.55,159.07,"-31.55,159.07",Australia,AU
-57b7c81fa63e484229d311ba,Dromaius ater,Dwarf emu,1822-01-01T00:00:00Z,1822,Tasmania,"1822. Extinction through hunting and,apparently,fires started by visiting sailors",air,-42.03,146.55,"-42.03,146.55",Australia,AU
-57b7c81fa63e484229d311bb,Gerygone insularis,Lord Howe warbler,1928-01-01T00:00:00Z,1928,Lord Howe Island,Not recorded since 1928. Believed to be a result of the introduction of black rats following the grounding of SS *Makamboin June 1918.,air,-31.55,159.07,"-31.55,159.07",Australia,AU
-57b7c81fa63e484229d311bc,Ninox novaeseelandiae undulata,Norfolk Island boobook,1996-01-01T00:00:00Z,1996,Norfolk Island,--,air,-29.04,167.95,"-29.04,167.95",Australia,NF
-57b7c81fa63e484229d311bd,Psephotus pulcherrimus,Paradise parrot,1927-01-01T00:00:00Z,1927,"New South Wales,Queensland","Date uncertain but around 1927; more recent sightings are sometimes claimed but have never been confirmed. Cause uncertain,most hypotheses centre on starvation from lack of grass seed after drought,overgrazing,more frequent fires,and introduction of prickly pear.",air,-32.04,146.95,"-32.04,146.95",Australia,AU
-57b7c81fa63e484229d311be,Rallus pectoralis clelandi,Lewin's water rail,1932-01-01T00:00:00Z,1932,Western Australia,--,air,-25.55,120.07,"-25.55,120.07",Australia,AU
-57bbaf7e7f658b5320d3f7e6,Caloprymnus campestris,Desert rat-kangaroo,1935-01-01T00:00:00Z,1935,"Queensland,South Australia,Northern Territories",--,land,-20.9,142.7,"-20.90,142.70",Australia,AU
-57bbaf7e7f658b5320d3f7e7,Chaeropus ecaudatus,Pig-footed bandicoot,1950-01-01T00:00:00Z,1950,"New South Wales,Northern Territories South Australia,Victoria,Western Australia",--,land,-25.61,132.95,"-25.61,132.95",Australia,AU
-57bbaf7e7f658b5320d3f7e8,Conilurus albipes,White-footed rabbit-rat,1857-01-01T00:00:00Z,1857,"New South Wales,Queensland,South Australia,Victoria",--,land,-32.9,140.7,"-32.90,140.70",Australia,AU
-57bbaf7e7f658b5320d3f7e9,Lagorchestes asomatus,Central hare-wallaby,1935-01-01T00:00:00Z,1935,Northern Territories,--,land,-21.09,133.65,"-20.90,142.70",Australia,AU
-57bbaf7e7f658b5320d3f7ea,Lagorchestes leporides,Eastern hare-wallaby,1890-01-01T00:00:00Z,1890,"New South Wales,Queensland,South Australia,Victoria",--,land,-20.9,142.7,"-20.90,142.70",Australia,AU
-57bbaf7e7f658b5320d3f7eb,Macropus grey,Toolache wallaby,1932-01-01T00:00:00Z,1932,"South Australia,Victoria",--,land,-35.54,140.86,"-35.54,140.86",Australia,AU
-57bbaf7e7f658b5320d3f7ec,Macrotis leucura,Lesser bilby,1931-01-01T00:00:00Z,1931,"Northern Territories Queensland,Southern Australia",--,land,-26.9,139.63,"-26.90,139.63",Australia,AU
-57bbaf7e7f658b5320d3f7ed,Macropus greyi,Toolache wallaby,1932-01-01T00:00:00Z,1932,"South Australia,Victoria",--,land,-35.54,140.86,"-35.54,140.86",Australia,AU
-57bbaf7e7f658b5320d3f7ee,Macropus greyi,Toolache wallaby,1932-01-01T00:00:00Z,1932,"South Australia,Victoria",--,land,-35.54,140.86,"-35.54,140.86",Australia,AU
-57bbaf7e7f658b5320d3f7ef,Melomys rubicola,Bramble Cay melomys,1896-01-01T00:00:00Z,1896,"Bramble Cay,Queensland",--,land,-9.14,143.87,"-9.14,143.87",Australia,AU
-57bbaf7e7f658b5320d3f7f0,Notomys longicaudatus,Long-tailed hopping-mouse,1901-01-01T00:00:00Z,1901,"Northern Territories South Australia,Western Australia",--,land,-20.9,142.7,"-20.90,142.70",Australia,AU
-57bbaf7e7f658b5320d3f7f1,Notomys macrotis,Big-eared hopping-mouse,1843-01-01T00:00:00Z,1843,Western Australia,--,land,-25.59,121.86,"-20.90,142.70",Australia,AU
-57bbaf7e7f658b5320d3f7f2,Notomys mordax,Darling Downs hopping-mouse,1846-01-01T00:00:00Z,1846,"New South Wales,Queensland",--,land,-28.95,144.27,"-28.95,144.27",Australia,AU
-57bbaf7e7f658b5320d3f7f3,Onychogalea lunata,Crescent nail-tail wallaby,1956-01-01T00:00:00Z,1956,"South Australia,Western Australia",--,land,-28.64,128.62,"-28.64,128.62",Australia,AU
-57bbaf7e7f658b5320d3f7f4,Perameles eremiana,Desert bandicoot,1960-01-01T00:00:00Z,1960,"Northern Territories South Australia,Western Australia",--,land,-25.75,129.08,"-25.75,129.08",Australia,AU
-57bbaf7e7f658b5320d3f7f5,Potorous platyops,Broad-faced potoroo,1865-01-01T00:00:00Z,1865,Western Australia,--,land,-26.78,122.39,"-26.78,122.39",Australia,AU
-57bbaf7e7f658b5320d3f7f6,Pseudomys glaucus6,Blue-grey mouse,1956-01-01T00:00:00Z,1956,"New South Wales,Queensland",--,land,-28.95,144.27,"-28.95,144.27",Australia,AU
-57bbaf7e7f658b5320d3f7f7,Pseudomys gouldii,Gould's mouse,1857-01-01T00:00:00Z,1857,"New South Wales,Queensland,South Australia,Victoria,Western Australia",--,land,-25.99,139.22,"-25.99,139.22",Australia,AU
-57bbaf7e7f658b5320d3f7f8,Pteropus brunneus,Dusky flying fox,1800-01-01T00:00:00Z,1800,Queensland,--,land,-23.63,143.56,"-23.63,143.56",Australia,AU
-57bbaf7e7f658b5320d3f7f9,Rattus macleari,Maclear's rat,1908-01-01T00:00:00Z,1908,Christmas Island,--,land,-10.48,105.64,"-10.48,105.64",Asia,CX
-57bbaf7e7f658b5320d3f7fa,Thylacinus cynocephalus1,"Thylacine,Tasmanian tiger",1936-01-01T00:00:00Z,1936,Tasmania,--,land,-42.41,146.86,"-42.41,146.86",Australia,AU
-57bbaf7e7f658b5320d3f7fb,Rheobatrachus silus,Gastric-brooding frog,1981-01-01T00:00:00Z,1981,Queensland,--,land,-20.9,142.7,"-20.90,142.70",Australia,AU
-57bbaf7e7f658b5320d3f7fc,Rheobatrachus vitellinus,Eungella gastric-brooding frog,1985-01-01T00:00:00Z,1985,Queensland,--,land,-20.9,142.7,"-20.90,142.70",Australia,AU
-57bbaf7e7f658b5320d3f7fd,Taudactylus acutirostris,Sharp-snouted day frog,1997-01-01T00:00:00Z,1997,Queensland,--,land,-20.9,142.7,"-20.90,142.70",Australia,AU
-57bbaf7e7f658b5320d3f7fe,Taudactylus diurnus,Southern day frog,1979-01-01T00:00:00Z,1979,Queensland,--,land,-20.9,142.7,"-20.90,142.70",Australia,AU
-57bbaf7e7f658b5320d3f7ff,Emoia nativitatis,Christmas Island fores skink,2014-01-01T00:00:00Z,2014,Christmas Island,--,land,-10.9,105.7,"-10.90,105.70",Australia,AU
-57bbaf7e7f658b5320d3f800,Myadestes woahensis,ʻĀmaui,1850-01-01T00:00:00Z,1850,Oahu,--,air,21.9,-158.7,"21.90,-158.70",North America,US
-57bbaf7e7f658b5320d3f801,Moho bishopi,Bishop's O'o',1904-01-01T00:00:00Z,1904,Molokai and Maui,--,air,21.14,-157,"21.14,-157.00",North America,US
-57bbaf7e7f658b5320d3f802,Drepanis funerea,Black mamo,1907-01-01T00:00:00Z,1907,Molokai and Maui,--,air,21.14,-157,"21.14,-157.00",North America,US
-57bbaf7e7f658b5320d3f803,Hemignathus sagittirostris,Greater ʻamakihi,1901-01-01T00:00:00Z,1901,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US
-57bbaf7e7f658b5320d3f804,Rhodacanthis palmeri,Greater koa finch,1896-01-01T00:00:00Z,1896,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US
-57bbaf7e7f658b5320d3f805,Hemignathus obscurus,Hawaiʻi ʻakialoa,1940-01-01T00:00:00Z,1940,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US
-57bbaf7e7f658b5320d3f807,Moho nobilis,Hawaiʻi ʻōʻō,1934-01-01T00:00:00Z,1934,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US
-57bbaf7e7f658b5320d3f808,Porzana sandwichensis,Hawaiian rail,1883-01-01T00:00:00Z,1883,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US
-57bbaf7e7f658b5320d3f809,Myadestes myadestinus,Kāmaʻo,1989-01-01T00:00:00Z,1989,Kauaʻi,--,air,22.09,-159.52,"22.09,-159.52",North America,US
-57bbaf7e7f658b5320d3f80a,Hemignathus ellisianus stejnegeri,Kauaʻi ʻakialoa,1965-01-01T00:00:00Z,1965,Kauaʻi,--,air,22.09,-159.52,"22.09,-159.52",North America,US
-57bbaf7e7f658b5320d3f80b,Moho braccatus,Kauaʻi ʻO'o,1987-01-01T00:00:00Z,1987,Kauaʻi,--,air,22.09,-159.52,"22.09,-159.52",North America,US
-57bbaf7e7f658b5320d3f80c,Chaetoptila angustipluma,Kioea,1859-01-01T00:00:00Z,1859,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US
-57bbaf7e7f658b5320d3f80d,Hemignathus ellisianus lanaiensis,Lana'i 'akialoa,1890-01-01T00:00:00Z,1890,Lana'i,--,air,20.82,156.92,"20.82,156.92",North America,US
-57bbaf7e7f658b5320d3f80e,Chloridops kona,Kona grosbeak,1894-01-01T00:00:00Z,1894,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US
-57bbaf7e7f658b5320d3f80f,Dysmorodrepanis munroi,Lanai hookbill,1918-01-01T00:00:00Z,1918,Lanai,--,air,20.82,156.92,"20.82,156.92",North America,US
-57bbaf7e7f658b5320d3f810,Porzana palmeri,Laysan rail,1944-01-01T00:00:00Z,1944,Laysan,--,air,25.76,-71.73,"25.76,-71.73",North America,US
-57bbaf7e7f658b5320d3f811,Himatione fraithii,Laysan honeycreeper,1923-01-01T00:00:00Z,1923,Laysan,--,air,25.76,-71.73,"25.76,-71.73",North America,US
-57bbaf7e7f658b5320d3f812,Acrocephalus familiaris familiaris,Laysan millerbird,1910-01-01T00:00:00Z,1910,Laysan,--,air,25.76,-71.73,"25.76,-71.73",North America,US
-57bbaf7e7f658b5320d3f813,Rhodacanthis flaviceps,Lesser koa finch,1891-01-01T00:00:00Z,1891,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US
-57bbaf7e7f658b5320d3f814,Loxops coccineus ochraceus,Maui ʻakepa,1988-01-01T00:00:00Z,1988,Maui,--,air,21.14,-157,"21.14,-157.00",North America,US
-57bbaf7e7f658b5320d3f815,Paroreomyza flammea,Molokaʻi creeper,1963-01-01T00:00:00Z,1963,Molokaʻi,--,air,21.14,-157,"21.14,-157.00",North America,US
-57bbaf7e7f658b5320d3f816,Moho apicalis,Oʻahu ʻōʻō,1837-01-01T00:00:00Z,1837,Oahu,--,air,21.9,-158.7,"21.90,-158.70",North America,US
-57bbaf7e7f658b5320d3f817,Hemignathus ellisianus ellisanus,Oahu 'akialoa,1940-01-01T00:00:00Z,1940,Oahu,--,air,21.9,-158.7,"21.90,-158.70",North America,US
-57bbaf7e7f658b5320d3f818,Loxops coccineus wolstenholmei,Oʻahu ʻakepa,1990-01-01T00:00:00Z,1990,Oahu,--,air,21.9,-158.7,"21.90,-158.70",North America,US
-57bbaf7e7f658b5320d3f819,Hemignathus lucidus lucidus,Oʻahu nukupuʻu,1837-01-01T00:00:00Z,1837,Oahu,--,air,21.9,-158.7,"21.90,-158.70",North America,US
-57bbaf7e7f658b5320d3f81a,Ciridops anna,Ula-'ai-hawane,1892-01-01T00:00:00Z,1892,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US
-57bbaf7e7f658b5320d3f81b,Uromys imperator,Emperor rat,1960-01-01T00:00:00Z,1960,Solomon Islands,--,land,-9.64,160.156,"-9.64,160.156",Australia,SB
-57bbaf7e7f658b5320d3f81c,Uromys porculus,Guadalcanal rat,1888-01-01T00:00:00Z,1888,Solomon Islands,--,land,-9.64,160.156,"-9.64,160.156",Australia,SB
-57bbaf7e7f658b5320d3f81d,Pteropus tokudae,Guam flying fox,1967-01-01T00:00:00Z,1967,Guam,--,land,13.44,144.79,"13.44,144.79",Australia,GU
-57bbaf7e7f658b5320d3f81e,Pteropus pilosus,Large Palau flying fox,1874-01-01T00:00:00Z,1874,Palau,--,land,7.51,34.58,"7.51,134.58",Australia,PW
-57bbaf7e7f658b5320d3f81f,Nyctimene sanctacrucis,Nendo tube-nosed fruit bat,1907-01-01T00:00:00Z,1907,Solomon Islands,--,bat,13.44,144.79,"13.44,144.79",Australia,GU
-57bbaf7e7f658b5320d3f820,Mekosuchus,Mekosuchus,0001-01-01T00:00:00Z,0001,New Caledonia and Vanuatu,-1000BC,land,-21.33,165.42,"-21.33,165.42",Australia,NC
-57bbaf7e7f658b5320d3f821,Tachygia microlepis,Tonga grou skink,1800-01-01T00:00:00Z,1800,Tonga,--,land,-21.19,175.18,"-21.19,-175.18",Australia,TO
-57bbaf7e7f658b5320d3f822,Volia athollandersoni,Volia,0001-01-01T00:00:00Z,0001,Fiji,-5000BC,land,-17.85,177.98,"-17.85,177.98",Australia,FJ
-57bbaf7e7f658b5320d3f823,Nesoclopeus poecilopterus,Bar-winged rail,1973-01-01T00:00:00Z,1973,Fiji,--,air,-17.85,177.98,"-17.85,177.98",Australia,FJ
-57bbaf7e7f658b5320d3f824,Aplonis ulietensis,Bay thrush,1850-01-01T00:00:00Z,1850,Raiatea,--,air,-16.81,-151.46,"-16.81,-151.46",Australia,PF
-57bbaf7e7f658b5320d3f825,Cyanoramphus zealandicus,Black-fronted parakeet,1850-01-01T00:00:00Z,1850,Tahiti,--,air,-17.67,149.9,"-17.67,-149.40",Australia,PF
-57bbaf7e7f658b5320d3f826,Prosobonia cancellata,Christmas sandpiper,1850-01-01T00:00:00Z,1850,Kiribati,--,air,1.87,-157.36,"1.87,-157.36",Australia,KI
-57bbaf7e7f658b5320d3f827,Microgoura meeki,Choiseul pigeon,1904-01-01T00:00:00Z,1904,Solomon Islands,--,air,-9.64,160.156,"-9.64,160.156",Australia,SB
-57bbaf7e7f658b5320d3f828,Myiagra freycineti,Guam flycatcher,1983-01-01T00:00:00Z,1983,Guam,--,air,13.44,144.79,"13.44,144.79",Australia,GU
-57bbaf7e7f658b5320d3f829,Porzana monasa,Kosrae crake,1827-01-01T00:00:00Z,1827,"Kosrae,Micronesia",--,air,5.31,162.98,"5.31,162.98",Australia,FM
-57bbaf7e7f658b5320d3f82a,Aplonis corvina,Kosrae starling,1827-01-01T00:00:00Z,1827,"Kosrae,Micronesia",--,air,5.31,162.98,"5.31,162.98",Australia,FM
-57bbaf7e7f658b5320d3f82b,Caloenas maculata,Liverpool pigeon,1851-01-01T00:00:00Z,1851,Tahiti,--,air,-17.67,149.9,"-17.67,-149.40",Australia,PF
-57bbaf7e7f658b5320d3f82c,Gallinula silvestris,Makira woodhen,1953-01-01T00:00:00Z,1953,Solomon Islands,--,air,-9.64,160.156,"-9.64,160.156",Australia,SB
-57bbaf7e7f658b5320d3f82d,Anas oustaleti,Mariana mallard,1974-01-01T00:00:00Z,1974,Northern Mariana Islands,--,air,15.04,145.63,"15.04,145.63",Australia,MP
-57bbaf7e7f658b5320d3f82e,Porphyrio paepae,Marquesas swamphe,1900-01-01T00:00:00Z,1900,Marquesas Islands,--,air,9.75,-139.02,"-9.75,-139.02",Australia,PF
-57bbaf7e7f658b5320d3f82f,Pomarea pomarea,Maupiti monarch,1823-01-01T00:00:00Z,1823,Maupiti,--,air,-16.44,-152.26,"-16.44,-152.26",Australia,PF
-57bbaf7e7f658b5320d3f830,Porzana nigra,Miller's rail,1784-01-01T00:00:00Z,1784,Tahiti,--,air,-17.67,149.9,"-17.67,-149.40",Australia,PF
-57bbaf7e7f658b5320d3f831,Aplonis mavornata,Mysterious starlin,1774-01-01T00:00:00Z,1774,Cook Islands,--,air,-21.23,159.78,"-21.23,-159.78",Australia,CK
-57bbaf7e7f658b5320d3f832,Porphyrio kukwiedei,New Caledonian gallile,1444-01-01T00:00:00Z,1444,New Caledonia,--,air,-21.33,165.42,"-21.33,165.42",Australia,NC
-57bbaf7e7f658b5320d3f833,Sylviornis neocaledoniae,New Caledonian giant scrubfowl,0001-01-01T00:00:00Z,0001,Fiji,-1500BC,air,-17.85,177.98,"-17.85,177.98",Australia,FJ
-57bbaf7e7f658b5320d3f834,Pomarea nukuhivae,Nuku Hiva monarch,1930-01-01T00:00:00Z,1930,Nuku Hiva,--,air,-8.86,-140.14,"-8.86,-140.14",Australia,PF
-57bbaf7e7f658b5320d3f835,Eclectus infectus,Oceanic eclectus parrot,1793-01-01T00:00:00Z,1793,Tonga and Vanuatu,--,air,-17.85,177.98,"-17.85,177.98",Australia,FJ
-57bbaf7e7f658b5320d3f836,Ptilinopus mercierii,Red-moustached fruit dove,1922-01-01T00:00:00Z,1922,Marquesas Islands,--,air,9.75,-139.02,"-9.75,-139.02",Australia,PF
-57bbaf7e7f658b5320d3f837,Cyanoramphus ulietanus,Society parakeet,1777-01-01T00:00:00Z,1777,Raiatea,--,air,-16.81,-151.46,"-16.81,-151.46",Australia,PF
-57bbaf7e7f658b5320d3f838,Gallirallus pacificus,Tahitian red-billed rat,1880-01-01T00:00:00Z,1880,Tahiti,--,air,-17.67,149.9,"-17.67,-149.40",Australia,PF
-57bbaf7e7f658b5320d3f839,Prosobonia leucoptera,Tahiti sandpiper,1922-01-01T00:00:00Z,1922,Tahiti,--,air,-17.67,149.9,"-17.67,-149.40",Australia,PF
-57bbaf7e7f658b5320d3f83a,Prosobonia ellisi,Moorea sandpiper,1850-01-01T00:00:00Z,1850,Moorea,--,air,-17.53,149.82,"-17.53,149.82",Australia,PF
-57bbaf7e7f658b5320d3f83b,Prosobonia cancellata,Kiritimati sandpiper,1850-01-01T00:00:00Z,1850,Kiritimati,--,air,1.87,-157.36,"1.87,-157.36",Australia,KI
-57bbaf7e7f658b5320d3f83c,Gallicolumba ferruginea,Tanna ground dove,1774-01-01T00:00:00Z,1774,Vanuatu,--,air,-15.37,166.95,"-15.37,166.95",Australia,VU
-57bbaf7e7f658b5320d3f83d,Gallicolumba salamonis,Thick-billed ground dove,1927-01-01T00:00:00Z,1927,Solomon Islands,--,air,-9.64,160.156,"-9.64,160.156",Australia,SB
-57bbaf7e7f658b5320d3f83e,Gallirallus hypoleucus,Tongatapu rail,1777-01-01T00:00:00Z,1777,Tonga,--,air,-17.85,177.98,"-17.85,177.98",Australia,FJ
-57bbaf7e7f658b5320d3f83f,Gallirallus wakensis,Wake Island rail,1945-01-01T00:00:00Z,1945,Wake Island,--,air,-19.28,166.64,"-19.28,166.64",North America,US
-57bbaf7e7f658b5320d3f840,Prosobonia ellisi,White-winged sandpiper,1777-01-01T00:00:00Z,1777,Moorea,--,air,-17.53,149.82,"-17.53,149.82",Australia,AU
-57bbaf7e7f658b5320d3f841,Plethodon ainsworthi,Ainsworth's salamander,1964-01-01T00:00:00Z,1964,USA,--,land,40.22,-101.25,"40.22,-101.25",North America,US
-57bbaf7e7f658b5320d3f842,Craugastor escoces,Craugastor escoces,1986-01-01T00:00:00Z,1986,Costa Rica,--,land,9.74,-83.75,"9.74,-83.75",North America,CR
-57bbaf7e7f658b5320d3f844,Aiolornis incredibilis,Aiolornis,0001-01-01T00:00:00Z,0001,North America,-11000BC,air,40.22,-101.25,"40.22,-101.25",North America,US
-57bbaf7e7f658b5320d3f845,Nesotrochis debooyi,Antillean cave rail,0001-01-01T00:00:00Z,0001,Virgin Islands,-20001BC,air,18.41,-64.61,"18.41,-64.61",North America,VG
-57bbaf7e7f658b5320d3f846,Nesotrochis debooyi,Antillean cave rail,0001-01-01T00:00:00Z,0001,Puerto Rico,-20001BC,air,18.22,-66.59,"18.22,-66.59",North America,PR
-57bbaf7e7f658b5320d3f847,Meleagris californica,Californian turkey,0001-01-01T00:00:00Z,0001,USA,-10001BC,air,40.22,-101.25,"40.22,-101.25",North America,US
-57bbaf7e7f658b5320d3f848,Cathartornis gracilis,Cathartornis gracilis,0001-01-01T00:00:00Z,0001,USA,-10001BC,air,33.22,-90.25,"33.22,-90.25",North America,US
-57bbaf7e7f658b5320d3f849,Chendytes lawi,Chendytes lawi,0001-01-01T00:00:00Z,0001,Western USA Coast,-1800BC,air,40.86,-120.93,"40.86,-120.93",North America,US
-57bbaf7e7f658b5320d3f84a,Gymnogyps varonai,Cuban condor,0001-01-01T00:00:00Z,0001,Cuba,-9700BC,air,21.52,-77.78,"21.52,-77.78",North America,CU
-57bbaf7e7f658b5320d3f84b,Buteogallus daggetti,Daggett's eagle,0001-01-01T00:00:00Z,0001,California,13000BC,air,25.59,-99.99,"25.59,-99.99",North America,MX
-57bbaf7e7f658b5320d3f84c,Buteogallus daggetti,Daggett's eagle,0001-01-01T00:00:00Z,0001,"Nuevo Lean,Mexico",1300BC,air,40.22,-101.25,"40.22,-101.25",North America,US
-57bbaf7e7f658b5320d3f84d,Ciconia maltha,La Brea stork,0001-T00:00:00Z,-10001BC,"Western,Southern USA",-10001BC,air,36.25,-115.49,"36.25,-115.49",North America,US
-57bbaf7e7f658b5320d3f84e,Ciconia maltha,La Brea stork,0001-T00:00:00Z,-10001BC,Cuba,-10001BC,air,21.52,-77.78,"21.52,-77.78",North America,CU
-57bbaf7e7f658b5320d3f84f,Teratornis merriami & Teratornis woodburnensis,Teratorns,0001-T00:00:00Z,-8000BC,North America,-8000BC,air,40.22,-101.25,"40.22,-101.25",North America,US
-57bbaf7e7f658b5320d3f850,Amplibuteo woodwardi,Woodward's eagle,0001-T00:00:00Z,-20001BC,Caribbean,-20001BC,air,24.59,-78.02,"24.59,-78.02",North America,BS
-57bbaf7e7f658b5320d3f851,Chirostoma bartoni,Alberca silverside,2006-T00:00:00Z,2006,"Lerma River Basin,Mexico","The Alberca silverside was found only in the Alberca Caldera, Guanajuato, Mexico. It became extinct when the caldera temporarily dried up in August 2006.",marine,19.86,-101.13,"19.86,-101.13",North America,MX
-57bbaf7e7f658b5320d3f852,Oncorhynchus clarki alvordensis,Alvord cutthroat trout,1920-T00:00:00Z,1920,"Alvord Dry Lake,Oregon",--,marine,42.38,-118.61,"42.38,-118.61",North America,US
-57bbaf7e7f658b5320d3f853,Gambusia amistadensis,Amistad gambusia,1987-T00:00:00Z,1987,"Goodenough Spring,Texas",--,marine,29.54,-101.25,"29.54,-101.25",North America,US
-57bbaf7e7f658b5320d3f854,Empetrichthys merriami,Ash Meadows killifish,1948-T00:00:00Z,1948,"Ash Meadows,Nevada",--,marine,37.83,-94.36,"37.83,-94",North America,US
-57bbaf7e7f658b5320d3f855,Rhinichthys cataractae smithi,Banff longnose dace,1987-T00:00:00Z,1987,"Banff,Alberta",--,marine,51.17,-115.57,"51.17,-115.57",North America,CA
-57bbaf7e7f658b5320d3f856,Coregonus nigripinnis,Blackfin cisco,1969-T00:00:00Z,1969,"Great Lakes,Canada and USA",--,marine,46.02,-87.71,"46.02,-87.71",North America,US
-57bbaf7e7f658b5320d3f857,Sander vitreus glaucus,Blue walleye,1983-T00:00:00Z,1983,"Great Lakes,Canada and USA",--,marine,46.02,-87.71,"46.02,-87.71",North America,US
-57bbaf7e7f658b5320d3f858,Pogonichthys ciscoides',Clear Lake splittail,1970-T00:00:00Z,1970,"Clear Lake,California",--,marine,50.65,-99.96,"50.65,-99.96",North America,CA
-57bbaf7e7f658b5320d3f859,Coregonus johannae,Deepwater cisco,1952-T00:00:00Z,1952,"Great Lakes,Canada and USA",--,marine,46.02,-87.71,"46.02,-87.71",North America,US
-57bbaf7e7f658b5320d3f85a,Rhinichthys osculus reliquus,Grass Valley speckled dace,1938-T00:00:00Z,1938,"Lander County,Nevada",--,marine,40.05,-116.98,"40.05,-116.98",North America,US
-57bbaf7e7f658b5320d3f85b,Moxostoma lacerum,Harelip sucker,1893-T00:00:00Z,1893,Southeastern USA,--,marine,33.83,-85.08,"33.83,-85.08",North America,US
-57bbaf7e7f658b5320d3f85c,Gila bicolor isolata,Independence Valley tui chub,1970-T00:00:00Z,1970,"Independence Valley,Nevada",--,marine,41.35,-116.1,"41.35,-116.1",North America,US
-57bbaf7e7f658b5320d3f85d,Rhinichthys deaconi,Las Vegas dace,1986-T00:00:00Z,1986,"Las Vegas Valley,USA",--,marine,36.11,-115.17,"36.11,-115.17",North America,US
-57bbaf7e7f658b5320d3f85e,Coregonus alpenae,Longjaw cisco,1975-T00:00:00Z,1975,"Great Lakes,Canada and USA",--,marine,46.02,-87.71,"46.02,-87.71",North America,US
-57bbaf7e7f658b5320d3f85f,Etheostoma sellare,Maryland darter,1988-T00:00:00Z,1988,"Deer Creek,Maryland",--,marine,39.04,-76.45,"39.04,-76.45",North America,US
-57bbaf7e7f658b5320d3f860,Lepidomeda altivelis,Pahranagat spinedace,1938-T00:00:00Z,1938,"Pahranagat Valley,Nevada",--,marine,37.19,-115.04,"37.19,-115.04",North America,US
-57bbaf7e7f658b5320d3f861,Notropis orca,Phantom shiner,1975-T00:00:00Z,1975,"Rio Grande Basin,Mexico and USA",--,marine,28.27,-99.49,"28.27,-99.49",North America,US
-57bbaf7e7f658b5320d3f862,Gambusia georgei,San Marcos gambusia,1983-T00:00:00Z,1983,"San Marcos Spring,Texas",--,marine,38.8,-116.42,"38.8,-116.42",North America,US
-57bbaf7e7f658b5320d3f863,Noturus trautmani,Scioto madtom,1957-T00:00:00Z,1957,"Big Darby Creek,Ohio",--,marine,39.77,-83.1,"39.77,-83.1",North America,US
-57bbaf7e7f658b5320d3f864,Coregonus reighardi,Shortnose cisco,1985-T00:00:00Z,1985,"Great Lakes,Canada and USA",--,marine,46.02,-87.71,"46.02,-87.71",North America,US
-57bbaf7e7f658b5320d3f865,Salvelinus agassizi,Silver trout,1930-T00:00:00Z,1930,"Dublin Pond,New Hampshire",--,marine,42.9,-72.08,"42.9,-72.08",North America,US
-57bbaf7e7f658b5320d3f866,Cyprinodon nevadensis calidae,Tecopa pupfish,1979-T00:00:00Z,1979,"Majavo Desert Springs,California",--,marine,33.92,-116.51,"33.92,-116.51",North America,US
-57bbaf7e7f658b5320d3f867,Gila crassicauda,Thicktail chub,1950-T00:00:00Z,1950,Central Valley of California,--,marine,40.21,-111.8,"40.21,-111.8",North America,US
-57bbaf7e7f658b5320d3f868,Cottus echinatus,Utah Lake sculpin,1928-T00:00:00Z,1928,"Utah Lake,Utah",--,marine,40.21,-111.8,"40.21,-111.8",North America,US
-57bbaf7e7f658b5320d3f869,Oncorhynchus clarki macdonald,Yellowfin cutthroat trout,1903-T00:00:00Z,1903,"Twin Lakes,Colorado",--,marine,39.08,-106.38,"39.08,-106.38",North America,US
-57bbaf7e7f658b5320d3f86a,Oncorhynchus rastrosus,Saber-toothed salmon,0001-T00:00:00Z,-20001BC,Western Coast of Canada and USA,-20001BC,marine,48.24,-122.87,"48.24,-122.87",North America,US
-57bbaf7e7f658b5320d3f86b,Miracinonyx trumani* & *Miracinonyx inexpectatus,American cheetahs,0001-01-01T00:00:00Z,0001,North America,-11000BC,land,40.22,-101.25,"40.22,-101.25",North America,US
-57bbaf7e7f658b5320d3f86c,Panthera leo atrox,American lion,0001-01-01T00:00:00Z,0001,"USA,Canada and Mexico",-11000BC,land,56.21,-131.95,"56.21,-131.95",North America,US
-57bbaf7e7f658b5320d3f86d,Mammut americanum,American mastodon,0001-01-01T00:00:00Z,0001,USA and Canada,-8500BC,land,36.21,-91.95,"36.21,-91.95",North America,US
-57bbaf7e7f658b5320d3f86e,Odocoileus lucasi,American mountain deer,0001-01-01T00:00:00Z,0001,USA,-10001BC,land,40.22,-101.25,"40.22,-101.25",North America,US
-57bbaf7e7f658b5320d3f86f,Aztlanolagus agilis,Aztlanolagus agilis,0001-01-01T00:00:00Z,0001,Southeastern Arizona to Central America,-10001BC,land,13.95,-85.43,"13.95,-85.43",North America,NI
-57bbaf7e7f658b5320d3f870,Dasypus bellus,Beautiful armadillo,0001-01-01T00:00:00Z,0001,USA to South America,-8000BC,land,32.13,-102.83,"32.13,-102.83",North America,US
-57bbaf7e7f658b5320d3f871,Bison antiquus,Bison antiquus,0001-01-01T00:00:00Z,0001,USA and Canada,-10001BC,land,32.13,-102.83,"32.13,-102.83",North America,US
-57bbaf7e7f658b5320d3f872,Bison occidentalis,Bison occidentalis,0001-01-01T00:00:00Z,0001,Alaska to Minnesota,-5000BC,land,50.86,-105.12,"50.86,-105.12",North America,CA
-57bbaf7e7f658b5320d3f873,Amblyrhiza inundata,Blunt-toothed giant hutia,0001-01-01T00:00:00Z,0001,Northern Lesser Antilles,-11000BC,land,16.3,-61.68,"16.3,-61.68",North America,GP
-57bbaf7e7f658b5320d3f874,Tapirus californicus,California tapir,0001-01-01T00:00:00Z,0001,USA,-11000BC,land,40.22,-101.25,"40.22,-101.25",North America,US
-57bbaf7e7f658b5320d3f875,Camelops spp.,Camelops,0001-01-01T00:00:00Z,0001,USA and Mexico,-8000BC,land,31.51,-106.26,"31.51,-106.26",North America,MX
-57bbaf7e7f658b5320d3f876,Capromeryx minor,Capromeryx,0001-01-01T00:00:00Z,0001,USA and Mexico,-11000BC,land,24.51,-130.26,"24.51,-130.26",North America,MX
-57bbaf7e7f658b5320d3f877,Caribbean ground sloths,Caribbean ground sloths,0001-01-01T00:00:00Z,0001,Caribbean Islands,-5000BC,land,21.6,-71.89,"21.6,-71.89",North America,TC
-57bbaf7e7f658b5320d3f878,Mammuthus columbi,Columbian mammoth,0001-01-01T00:00:00Z,0001,USA and Mexico,-5800BC,land,41.51,-120.26,"41.51,-126.26",North America,MX
-57bbaf7e7f658b5320d3f879,Tapirus copei,Cope's tapir,0001-01-01T00:00:00Z,0001,USA,-11000BC,land,40.22,-101.25,"40.22,-101.25",North America,US
-57bbaf7e7f658b5320d3f87a,Cuon alpinus,Dhole,0001-01-01T00:00:00Z,0001,North America,-11000BC,land,36.22,-97.25,"36.22,-97.25",North America,US
-57bbaf7e7f658b5320d3f87b,Canis dirus,Dire wolf,0001-01-01T00:00:00Z,0001,North America,-8000BC,land,38.22,-103.25,"38.22,-103.25",North America,US
-57bbaf7e7f658b5320d3f87c,Panthera leo spelaea,Eurasian cave lion,0001-01-01T00:00:00Z,0001,Canada and Alaska,-11000BC,land,56.1304,106.347,"56.1304,106.347",Europe,RU
-57bbaf7e7f658b5320d3f87d,Tremarctos floridanus,Florida spectacled bear,0001-01-01T00:00:00Z,0001,USA,-8000BC,land,40.22,-101.25,"40.22,-101.25",North America,US
-57bbaf7e7f658b5320d3f87e,Castoroides leiseyorum* & *Castoroides ohioensis,Giant beaver,0001-01-01T00:00:00Z,0001,Canada and USA,-11000BC,beaver,56.1304,106.347,"56.13,106.347",Europe,RU
-57bbaf7e7f658b5320d3f87f,Glyptodon,Glyptodon,0001-01-01T00:00:00Z,0001,Central America,-10001BC,turtle,12.77,85.603,"12.77,85.603",North America,GU
-57bbaf7e7f658b5320d3f881,Oreamnos harringtoni,Harrington's mountain goat,0001-01-01T00:00:00Z,0001,USA and Mexico,-12000BC,land,28.51,-108.26,"28.51,-108.26",North America,MX
-57bbaf7e7f658b5320d3f882,Holmesina septentrionalis,Holmesina septentrionalis,0001-01-01T00:00:00Z,0001,USA,-8000BC,land,40.22,-101.25,"40.22,-101.25",North America,US
-57bbaf7e7f658b5320d3f883,Megalonyx spp.,Jefferson's ground sloth,0001-01-01T00:00:00Z,0001,USA and Canada,-11000BC,land,56.1304,106.35,"56.13,106.35",Europe,RU
-57bbaf7e7f658b5320d3f884,Equus conversidens,Mexican horse,11000-01-01T00:00:00Z,1100Z,USA and Mexico,--,land,31.51,-106.26,"31.51,-106.26",North America,MX
-57bbaf7e7f658b5320d3f886,Neochoerus aesopi* & *Neochoerus pinckneyi,Neochoerus,11000-01-01T00:00:00Z,1100Z,Southeast USA to Panama,--,land,8.91,-82.42,"8.91,-82.42",North America,PA
-57bbaf7e7f658b5320d3f887,Clidomys osborni,Osborn's key mouse,11000-01-01T00:00:00Z,1100Z,Jamaica,--,land,18.1,-77.29,"18.1,-77.29",North America,JM
-57bbaf7e7f658b5320d3f888,Panthera onca augusta,Pleistocene North American jaguar,10001-01-01T00:00:00Z,1000Z,Panama to USA,--,land,8.91,-82.42,"8.91,-82.42",North America,PA
-57bbaf7e7f658b5320d3f889,Eremotherium laurillardi,Panamerican ground sloth,11000-01-01T00:00:00Z,1100Z,USA to Panama,--,land,8.91,-82.42,"7.91,-83.42",North America,PA
-57bbaf7e7f658b5320d3f88a,Paramylodon harlani,Paramylodon harlani,0001-01-01T00:00:00Z,0001,North America,-11000BC,land,40.22,-101.25,"40.22,-101.25",North America,US
-57bbaf7e7f658b5320d3f88b,Elasmodontomys obliquus,Plate-toothed giant hutia,0001-01-01T00:00:00Z,0001,Puerto Rico,-11000BC,land,18.22,-66.59,"18.22,-66.59",North America,PR
-57bbaf7e7f658b5320d3f88c,Oregonensis bicalcaratus compressus intermedius,Platygonus,0001-01-01T00:00:00Z,0001,North America,-11000BC,land,40.22,-101.25,"38.22,-99.25",North America,US
-57bbaf7e7f658b5320d3f88d,Mammuthus exilis,Pygmy mammoth,0300-01-01T00:00:00Z,0300,"Channel Islands of California,USA",-11300BC,land,34.01,-119.78,"34.01,-119.78",North America,US
-57bbaf7e7f658b5320d3f899,Palaeolama,Stout-legged llama,0001-01-01T00:00:00Z,0001,USA,-11000BC,land,64.22,-131.25,"64.22,-131.25",North America,US
-57bbaf7e7f658b5320d3f88f,Saiga tatarica,Saiga antelope,0001-01-01T00:00:00Z,0001,North America,-10001BC,land,35.22,-111.25,"35.22,-111.25",North America,US
-57bbaf7e7f658b5320d3f890,Homotherium,Scimitar cats,0001-01-01T00:00:00Z,0001,"USA,Canada,Mexico",-10001BC,land,38.11,-90.83,"38.11,-90.83",North America,US
-57bbaf7e7f658b5320d3f891,Nothrotheriops shastensis,Shasta ground sloth,0001-01-01T00:00:00Z,0001,USA,-10001,land,29.11,-94.83,"29.11,-94.83",North America,US
-57bbaf7e7f658b5320d3f892,Equus scotti,Scott's horse,0001-01-01T00:00:00Z,0001,USA and Mexico,-10001BC,land,31.2,-105,"31.2,-105",North America,US
-57bbaf7e7f658b5320d3f896,Bison priscus*â€™,Steppe wisent,0001-01-01T00:00:00Z,0001,Alaska and Yukon,-10001BC,land,65.52,-143.86,"65.52,-143.86",North America,US
-57bbaf7e7f658b5320d3f897,Hemiauchenia,Stilt-legged llama,0001-01-01T00:00:00Z,0001,USA and Mexico,-10001BC,land,55.55,-85.4,"55.55,-85.4",North America,US
-57bbaf7e7f658b5320d3f898,Stockoceros onusrosagris,Stockoceros,0001-01-01T00:00:00Z,0001,Southwestern North America,-10001BC,land,48.22,-111.25,"48.22,-111.25",North America,US
-57bbaf7e7f658b5320d3f89a,Tapirus merriami,Tapirus merriami,0001-01-01T00:00:00Z,0001,USA,-11000BC,land,44.22,-97.25,"44.22,-97.25",North America,US
-57bbaf7e7f658b5320d3f89b,Quemisia gravis,Twisted-toothed mouse,0001-01-01T00:00:00Z,0001,Hispaniola,-11000BC,land,18.022,-73.11,"18.022,-73.11",North America,DO
-57bbaf7e7f658b5320d3f89c,Ursus maritimus tyrannus,Ursus maritimus tyrannus,0001-01-01T00:00:00Z,0001,Arctic,-11000BC,land,70.67,-107.06,"70.67,-107.06",North America,CA
-57bbaf7e7f658b5320d3f89d,Equus occidentalis,Western horse,0001-01-01T00:00:00Z,0001,USA,-10001BC,land,36.22,-105.25,"36.22,-105.25",North America,US
-57bbaf7e7f658b5320d3f89e,Mammuthus primigenius,Woolly mammoth,0001-01-01T00:00:00Z,0001,Northern USA,-2000BC,land,41.22,-106.25,"41.22,-106.25",North America,US
-57bbaf7e7f658b5320d3f89f,Equus lambei,Yukon horse,0001-01-01T00:00:00Z,0001,USA and Canada,-11000BC,land,59.17,-136.89,"59.17,-136.89",North America,CA
-57bbaf7e7f658b5320d3f8a0,Megalomys desmarestii,Antillean giant rice rat,1902-01-01T00:00:00Z,1902,France (Martinique),--,land,14.71,-61.06,"14.71,-61.06",North America,MQ
-57bbaf7e7f658b5320d3f8a1,Canis lupus bernard,Banks Island wolf,1920-01-01T00:00:00Z,1920,Canada,--,land,73.06,-120.73,"73.06,-120.73",North America,CA
-57bbaf7e7f658b5320d3f8a2,Procyon lotor gloverallen,Barbados raccoon,1964-01-01T00:00:00Z,1964,Barbados,--,land,13.16,-59.55,"13.16,-59.55",North America,BB
-57bbaf7e7f658b5320d3f8a3,Neotoma bunkeri,Bunker's woodrat,1932-01-01T00:00:00Z,1932,Mexico (Coronados Islands),--,land,26.11,-111.55,"26.11,-111.55",North America,MX
-57bbaf7e7f658b5320d3f8a4,Ursus arctos californicu,California golden bear,1922-01-01T00:00:00Z,1922,California,--,land,41.22,-106.25,"41.22,-106.25",North America,US
-57bbaf7e7f658b5320d3f8a5,Monachus tropicalis,Caribbean monk seal,1952-01-01T00:00:00Z,1952,Caribbean Sea,--,land,24.58,-101.25,"24.58,-101.25",North America,MX
-57bbaf7e7f658b5320d3f8a6,Canis lupus fuscu,Cascade mountain wolf,1940-01-01T00:00:00Z,1940,Canada and USA,--,land,44.21,-104.95,"44.21,-104.95",North America,US
-57bbaf7e7f658b5320d3f8a7,Geocapromys columbianus,Cuban coney,1500-01-01T00:00:00Z,1500,Cuba,--,land,23.52,-74.78,"23.52,-74.78",North America,CU
-57bbaf7e7f658b5320d3f8a8,Puma concolor cougua,Eastern cougar,2011-01-01T00:00:00Z,2011,Eastern Canada and USA,--,land,45.46,-70.58,"45.46,-70.58",North America,US
-57bbaf7e7f658b5320d3f8a9,Cervus canadensis canadiensi,Eastern elk,1887-01-01T00:00:00Z,1887,Eastern Canada and USA,--,land,46.46,-68.58,"46.46,-68.58",North America,US
-57bbaf7e7f658b5320d3f8aa,Geomys pinetis goff,Goff's pocket gopher,1955-01-01T00:00:00Z,1955,Florida,--,land,28.7,-81.65,"28.7,-81.65",North America,US
-57bbaf7e7f658b5320d3f8ab,Microtus pennsylvanicus nesophilu,Gull Island vole,1897-01-01T00:00:00Z,1897,"Gull Island,New York",--,land,42.53,-82.68,"42.53,-82.68",North America,US
-57bbaf7e7f658b5320d3f8ac,Heteropsomys insulans* [,Hispaniolan edible rat,1500-01-01T00:00:00Z,1500,Hispaniola,--,land,19.022,-71.11,"19.022,-71.11",North America,DO
-57bbaf7e7f658b5320d3f8ad,Heteropsomys insulans,Insular cave rat,1600-01-01T00:00:00Z,1600,Puerto Rico,--,land,18.22,-66.59,"18.22,-66.59",North America,PR
-57bbaf7e7f658b5320d3f8ae,Hexolobodon phenax,Imposter hutia,1500-01-01T00:00:00Z,1500,Hispaniola,--,land,19.022,-71.11,"19.022,-71.11",North America,DO
-57bbaf7e7f658b5320d3f8af,Xenothrix mcgregori1,Jamaican monkey,1500-01-01T00:00:00Z,1500,Jamaica,--,land,18.1,-77.29,"18.1,-77.29",North America,JM
-57bbaf7e7f658b5320d3f8b0,Oryzomys antillarum1,Jamaican rice rat,1870-01-01T00:00:00Z,1870,Jamaica,--,land,14.1,-67.29,"14.1,-67.29",North America,JM
-57bbaf7e7f658b5320d3f8b1,Geocapromys thoracatus1,Little Swan Island hutia,1955-01-01T00:00:00Z,1955,"Swan Islands,Honduras",--,land,17.41,-83.92,"17.41,83.92",North America,HN
-57bbaf7e7f658b5320d3f8b2,Solenodon marcanoi1,Marcano's solenodon,1500-01-01T00:00:00Z,1500,Hispaniola,--,land,22.022,-73.11,"22.022,-73.11",North America,DO
-57bbaf7e7f658b5320d3f8b3,Cervus canadensis merriam,Merriam's elk,1906-01-01T00:00:00Z,1906,Southwestern USA,--,land,34.97,-107.93,"34.97,-107.93",North America,US
-57bbaf7e7f658b5320d3f8b4,Ursus arctos nelson,Mexican grizzly bear,1964-01-01T00:00:00Z,1964,Mexico and Southwestern USA,--,land,31.9,-109.93,"31.9,-109.93",North America,US
-57bbaf7e7f658b5320d3f8b5,Isolobodon montanus1,Montane hutia,1500-01-01T00:00:00Z,1500,Hispaniola,--,land,19.022,-71.11,"19.022,-69.11",North America,DO
-57bbaf7e7f658b5320d3f8b6,Oryzomys nelsoni1,Nelson's rice rat,1897-01-01T00:00:00Z,1897,"Maraa Madre Island,Mexico",--,land,21.63,-106.57,"21.63,-106.57",North America,MX
-57bbaf7e7f658b5320d3f8b7,Pennatomys nivalis1,Nevis rice rat,1500-01-01T00:00:00Z,1500,Netherlands (Sint Eustatius) & Saint Kitts and Nevis,--,land,17.14,-65.57,"17.14,-65.57",Europe,NE
-57bbaf7e7f658b5320d3f8b8,Canis lupus beothuc,Newfoundland wolf,1911-01-01T00:00:00Z,1911,Newfoundland,--,land,48.61,-55.7,"48.61,-55.7",North America,CA
-57bbaf7e7f658b5320d3f8b9,Boromys offella1,Oriente cave rat,1500-01-01T00:00:00Z,1500,Cuba,--,land,21.52,-77.78,"21.52,-77.78",North America,CU
-57bbaf7e7f658b5320d3f8ba,Peromyscus polionotus decoloratu,Pallid beach mouse,1959-01-01T00:00:00Z,1959,Florida,--,land,29.21,-81.89,"29.21,81.89",North America,US
-57bbaf7e7f658b5320d3f8bb,Isolobodon portoricensis1,Puerto Rican hutia,1600-01-01T00:00:00Z,1600,Hispaniola,--,land,17.022,-70.11,"17.022,-70.11",North America,DO
-57bbaf7e7f658b5320d3f8bc,Isolobodon portoricensis1,Puerto Rican hutia,1600-01-01T00:00:00Z,1600,Puerto Rico,--,land,19.22,-67.59,"19.22,-67.59",North America,PR
-57bbaf7e7f658b5320d3f8bd,Monophyllus frate,Puerto Rican long-nosed bat,1600-01-01T00:00:00Z,1600,Puerto Rico,--,land,18.22,-66.59,"18.22,-66.59",North America,PR
-57bbaf7e7f658b5320d3f8be,Megalomys luciae1,Santa Lucian giant ri ce rat,1852-01-01T00:00:00Z,1852,St. Lucia,--,land,13.91,-60.97,"13.91,-60.97",North America,LC
-57bbaf7e7f658b5320d3f8bf,Oligoryzomys victus2,Saint Vincent pygmy rice rat,1898-01-01T00:00:00Z,1898,St. Vincent,--,land,13.91,-60.97,"13.91,-60.97",North America,LC
-57bbaf7e7f658b5320d3f8c0,Plagiodontia ipnaeum2,Samana hutia,1500-01-01T00:00:00Z,1500,Hispaniola,--,land,20,-71,"20,-71",North America,DO
-57bbaf7e7f658b5320d3f8c1,Neotoma martinensis2,San MartÃ­n Island woodra t,1950-01-01T00:00:00Z,1950,"San Martan Island,Mexico",--,land,30.49,-116.11,"30.49,-116.11",North America,MX
-57bbaf7e7f658b5320d3f8c2,Neovison macrodon2,Sea mink,1860-01-01T00:00:00Z,1860,Atlantic Canada and New England,--,land,47.27,-68.45,"47.27,-68.45",North America,US
-57bbaf7e7f658b5320d3f8c3,Sylvilagus floridanus hitchens,Smith Island cottontail,1987-01-01T00:00:00Z,1987,"Smith Island,Virginia",--,land,37.98,-76.03,"37.98,-76.03",North America,US
-57bbaf7e7f658b5320d3f8c4,Vulpes macrotis macroti,Southern California kit fox,1903-01-01T00:00:00Z,1903,"Southern California,USA",--,land,35.46,-118.21,"35.46,-118.21",North America,US
-57bbaf7e7f658b5320d3f8c5,Canis lupus young,Southern Rocky Mountains wolf,1935-01-01T00:00:00Z,1935,"Southern Rocky Mountains,USA",--,land,36.14,-106.7,"36.14,-106.7",North America,US
-57bbaf7e7f658b5320d3f8c6,Hydrodamalis gigas2,Steller's sea cow,1768-01-01T00:00:00Z,1768,Commander Islands,--,land,54.98,166.32,"54.98,166.32",Europe,RU
-57bbaf7e7f658b5320d3f8c7,Thomomys mazama tacomensi,Tacoma pocket gopher,1970-01-01T00:00:00Z,1970,Washington,--,land,47.56,-119.99,"47.56,-119.99",North America,US
-57bbaf7e7f658b5320d3f8c8,Boromys torrei2,Torre's cave rat,1500-01-01T00:00:00Z,1500,Cuba,--,land,21.52,-77.78,"21.52,-77.78",North America,CU
-57bbaf7e7f658b5320d3f8c9,Sorex ornatus juncensi,Tule shrew,1905-01-01T00:00:00Z,1905,"Baja California,Mexico",--,land,28.93,-113.9,"28.93,-113.9",North America,MX
-57bbaf7e7f658b5320d3f8ca,Nesphontes,Nesphontes,1500-01-01T00:00:00Z,1500,Cuba,--,land,21.52,-77.78,"21.52,-77.78",North America,CU
-57bbaf7e7f658b5320d3f8cb,Nesphontes,Nesphontes,1500-01-01T00:00:00Z,1500,Hispaniola,--,land,19.02,-71.11,"19.02,-71.11",North America,DO
-57bbaf7e7f658b5320d3f8cc,Nesphontes,Nesphontes,1500-01-01T00:00:00Z,1500,Puerto Rico,--,land,18.22,-66.59,"18.22,-66.59",North America,PR
-57bbaf7e7f658b5320d3f8cd,Ameiva cineracea,Guadeloupe ameiva,1928-01-01T00:00:00Z,1928,France (Guadeloupe),--,land,16.2,-61.67,"16.2,-61.67",North America,GP
-57bbaf7e7f658b5320d3f8ce,Celestus occiduus,Jamaica giant galliwasp,1840-01-01T00:00:00Z,1840,Jamaica,--,land,18.1,-77.29,"18.1,-77.29",North America,JM
-57bbaf7e7f658b5320d3f8cf,Leiocephalus herminieri,Martinique curly-tailed lizard,1830-01-01T00:00:00Z,1830,France (Martinique),--,land,14.71,-61.06,"14.71,-61.06",North America,MQ
-57bbaf7e7f658b5320d3f8d0,Leiocephalus eremitus,Navassa curly-tailed lizard,1917-01-01T00:00:00Z,1917,"Navassa Island,USA",--,land,18.4,-75.01,"18.4,-75.01",North America,US
-57bbaf7e7f658b5320d3f8d1,Tropidophis bucculentus,Navassa Island dwarf boa,1870-01-01T00:00:00Z,1870,"Navassa Island,USA",--,land,18,-74.97,"18.0,-74.97",North America,US
-57bbaf7e7f658b5320d3f8d2,Cyclura cornuta onchiopsis,Navassa Island iguana,1880-01-01T00:00:00Z,1880,"Navassa Island,USA",--,land,18.4,-75.01,"18.4,-75.01",North America,US
-57b7c81fa63e484229d311b0,Aplonis fusca,Tasman starling,1923-01-01T00:00:00Z,1923,"Norfolk Island and Lord Howe Island,New South Wales","Last recorded 1923. Competition from introduced European starling,song thrush and common blackbird,clearance for agriculture. Predation from introduced black rats.",air,-29.04,167.95,"-29.04,167.95",Australia,NF
+_id,scientific_name,common_name,date,year,range,description,type,latitude,longitude,latlong,continent,country,size,commonSMame,common_SMme
+57ab8c5b1eff02897b163ed1,Tachybaptus rufolavatus,Alaotra grebe,1980-01-01T00:00:00Z,1980,Madagascar,--,air,-18.76,46.86,"-18.76,46.86",Africa,MG,SM,,
+57ab8c5b1eff02897b163ed2,Nesillas aldabrana,Aldabra brush-warbler,1980-01-01T00:00:00Z,1980,Seychelles,--,air,-4.65,55.47,"-4.65,55.47",Africa,SC,SM,,
+57ab8c5b1eff02897b163ed3,Mundia elpenor,Ascension flightless crake,1650-01-01T00:00:00Z,1650,United Kingdom (Ascension),--,air,-15.98,-5.7,"-15.90,-5.70",Africa,SH,SM,,
+57ab8c5b1eff02897b163ed4,Nycticorax olsoni,Ascension night heron,1600-01-01T00:00:00Z,1600,United Kingdom (Ascension),--,air,-15.98,-5.7,"-15.90,-5.70",Africa,SH,SM,,
+57ab8c5b1eff02897b163ed5,Lophopsittacus mauritianus,Broad-billed parrot,1680-01-01T00:00:00Z,1680,Mauritius,--,air,-20.34,57.55,"-20.34,57.55",Africa,MU,SM,,
+57ab8c5b1eff02897b163ed6,Haematopus meadewaldoi,Canary Islands oystercatcher,1940-01-01T00:00:00Z,1940,Spain (Canary Islands),--,air,28.29,-16.62,"28.29,-16.62",Europe,ES,SM,,
+57ab8c5b1eff02897b163ed7,Coturnix gomerae,Canary Islands quail,1444-01-01T00:00:00Z,1444,United Kingdom (Saint Helena),--,air,-15.98,-5.71,"-15.98,-5.71",Africa,SH,SM,,
+57ab8c5b1eff02897b163ed8,Dysmoropelia dekarchiskos,Saint Helena dove,1500-01-01T00:00:00Z,1500,United Kingdom (Saint Helena),--,air,-15.98,-5.71,"-15.98,-5.71",Africa,SH,SM,,
+57ab8c5b1eff02897b163ed9,Upupa antaios,Saint Helena hoopoe,1500-01-01T00:00:00Z,1500,United Kingdom (Saint Helena),--,air,-15.98,-5.71,"-15.98,-5.71",Africa,SH,SM,,
+57ab8c5b1eff02897b163eda,Porzana astrictocarpus,Saint Helena rail,1500-01-01T00:00:00Z,1500,United Kingdom (Saint Helena),--,air,-15.98,-5.71,"-15.98,-5.71",Africa,SH,SM,,
+57ab8c5b1eff02897b163edb,Psittacula wardis,Seychelles parakeet,1880-01-01T00:00:00Z,1880,Seychelles,--,air,-4.6,55.47,"-4.60,55.47",Africa,SE,SM,,
+57ab8c5b1eff02897b163edc,Bulweria bifax,Small Saint Helena petrel,1500-01-01T00:00:00Z,1500,United Kingdom (Saint Helena),--,air,-15.98,-5.71,"-15.98,-5.71",Africa,SH,SM,,
+57ab8c5b1eff02897b163edd,Gallinula nesiotis,Tristan moorhen,1890-01-01T00:00:00Z,1890,United Kingdom (Tristan da Cunha),--,air,-37.1,-12.27,"-37.10,-12.27",Africa,SH,SM,,
+57ab8cde1eff02897b163ede,Equus africanus atlanticus,Atlas Wild Ass,300-01-01T00:00:00Z,300,North African,--,land,18.18,18.28,"18.18,18.28",Africa,TD,MD,,
+57ab8cde1eff02897b163edf,Canariomys bravoi and Canariomys tamarani,Canary Islands giant rats,1500-01-01T00:00:00Z,1500,Spain (Canary Islands),--,land,28.29,-16.62,"28.29,-16.62",Europe,ES,SM,,
+57bbaf7e7f658b5320d3f843,Bufo periglenes,Golden toad,1980-01-01T00:00:00Z,1980,Costa Rica,--,amph,9.74,-83.75,"9.74,-83.75",North America,CR,SM,,
+57ab8cde1eff02897b163ee0,Daubentonia robusta,Giant aye-aye,1000-01-01T00:00:00Z,1000,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG,ZZ,,
+57ab8cde1eff02897b163ee1,Cryptoprocta spelea,Giant fossa,1444-01-01T00:00:00Z,1444,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG,ZZ,,
+57ab8cde1eff02897b163ee2,Hipposideros besaoka,Hipposideros besaoka,1000-01-01T00:00:00Z,1000,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG,ZZ,,
+57ab8cde1eff02897b163ee3,Homotherium,Homotherium,1000-01-01T00:00:00Z,1000,Africa,--,land,3.29,22.52,"3.29,22.52",Africa,CD,ZZ,,
+57ab8cde1eff02897b163ee4,Megaladapis,Koala lemur,1420-01-01T00:00:00Z,1420,Madagascar,--,land,-18.76,46.87,"-18.76,46.87",Africa,MG,ZZ,,
+57ab8cde1eff02897b163ee5,Malpaisomys insularis,Lava mouse,1500-01-01T00:00:00Z,1500,Spain (Canary Islands),--,land,28.29,-16.62,"28.29,-16.62",Europe,ES,SM,,
+57ab8cde1eff02897b163ee6,Plesiorycteropus,Malagasy aardvark,200-01-01T00:00:00Z,200,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG,ZZ,,
+57ab8cde1eff02897b163ee7,Hippopotamus,Malagasy hippopotamus,1000-01-01T00:00:00Z,1000,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG,LG,,
+57ab8cde1eff02897b163ee8,Megalotragus,Megalotragus,1000-01-01T00:00:00Z,1000,Africa,--,land,3.29,22.52,"3.29,22.52",Africa,CD,ZZ,,
+57ab8cde1eff02897b163ee9,Microgale macpheei,Microgale macpheei,100-01-01T00:00:00Z,100,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG,ZZ,,
+57ab8cde1eff02897b163eea,Loxodonta africana pharaoensis,North African elephant,300-01-01T00:00:00Z,300,North Africa,--,land,30.3,12.39,"30.30,12.39",Africa,LY,LG,,
+57ab8cde1eff02897b163eeb,Pelorovis,Pelorovis,0001-01-01T00:00:00Z,12000 BC,Africa,12000 BC,land,3.29,22.52,"3.29,22.52",Africa,CD,ZZ,,
+57ab8cde1eff02897b163eec,Sivatherium,Sivatherium,0001-01-01T00:00:00Z,-6000 BC,Africa,-6000 BC,land,3.29,22.52,"3.29,22.52",Africa,CD,ZZ,,
+57ab8d111eff02897b163eed,Ursus arctos crowtheri,Atlas bear,1870-01-01T00:00:00Z,1870,North Africa,--,land,30.3,12.39,"30.30,12.39",Africa,LY,ZZ,,
+57ab8d111eff02897b163eee,Bos primigenius,Aurochs,1627-01-01T00:00:00Z,1627,North Africa || Europe,--,air,34.1,-0.26,"34.1,-0.26",Africa,LI,SM,,
+57ab8d111eff02897b163eef,Hippotragus leucophaeus,Bluebuck,1799-01-01T00:00:00Z,1799,South Africa,--,land,-29.82,23.55,"-29.8,23.55",Africa,ZA,ZZ,,
+57ab8d111eff02897b163ef0,Alcelaphus buselaphus buselaphus,Bubal hartebeest,1920-01-01T00:00:00Z,1920,North Africa,--,land,30.3,12.39,"30.30,12.39",Africa,LY,ZZ,,
+57ab8d111eff02897b163ef1,Panthera leo melanochaitus,Cape lion,1860-01-01T00:00:00Z,1860,South Africa,--,land,-29.82,23.55,"-29.8,23.55",Africa,ZA,LG,,
+57ab8d111eff02897b163ef2,Leptailurus serval serval,Cape serval,1444-01-01T00:00:00Z,1444,South Africa,--,land,-29.82,23.55,"-29.8,23.55",Africa,ZA,ZZ,,
+57ab8d111eff02897b163ef3,Phacochoerus aethiopicus aethiopicus,Cape warthog,1900-01-01T00:00:00Z,1900,South Africa,--,land,-29.82,23.55,"-29.8,23.55",Africa,ZA,MD,,
+57ab8d111eff02897b163ef4,Ourebia ourebi kenyae,Kenya oribi,1444-01-01T00:00:00Z,1444,Kenya,--,land,0.453,37.7,"0.453,37.70",Africa,KE,ZZ,,
+57ab8d111eff02897b163ef5,Palaeopropithecus,Large sloth lemur,1500-01-01T00:00:00Z,1500,Madagascar,--,land,-18.76,46.86,"-18.76,46.86",Africa,MG,ZZ,,
+57ab8d111eff02897b163ef6,Pteropus subniger,Lesser Mascarene flying fox,1850-01-01T00:00:00Z,1850,Mauritius and France (Reunion),--,land,-20.26,57.56,"-20.2,57.56",Africa,MU,ZZ,,
+57ab8d111eff02897b163ef7,Equus quagga quagga,Quagga,1880-01-01T00:00:00Z,1880,Namibia and South Africa,--,land,-21.68,17.75,"-21.6,17.75",Africa,NA,ZZ,,
+57ab8d111eff02897b163ef8,Eudorcas rufinaa,Red gazelle,1890-01-01T00:00:00Z,1890,Algeria,--,land,31.8,3.21,"31.80,3.21",Africa,DZ,MD,,
+57ab8d111eff02897b163ef9,Kobus leche robertsi,Robert's lechwe,1444-01-01T00:00:00Z,1444,South Africa,--,land,-29.82,23.55,"-29.8,23.55",Africa,ZA,ZZ,,
+57ab8d111eff02897b163efa,Diceros bicornis longipes,Western black rhinoceros,1990-01-01T00:00:00Z,1990,Cameroon,--,land,4.57,12.56,"4.57,12.56",Africa,CM,ZZ,,
+57ab8d401eff02897b163efb,Macroscincus coctei,Cape Verde giant skink,1920-01-01T00:00:00Z,1920,Cape Verde,--,reptile,16.06,-22.78,"16.06,-22.78",Africa,CV,SM,,
+57ab8d401eff02897b163efc,Cylindraspis triserrata,Domed Mauritius giant tortoise,1850-01-01T00:00:00Z,1850,Mauritius,--,reptile,-20.34,57.55,"-20.3,57.55",Africa,MU,MD,,
+57ab8d401eff02897b163efd,Cylindraspis peltastes,Domed Rodrigues giant tortoise,1800-01-01T00:00:00Z,1800,Mauritius,--,reptile,-20.34,57.55,"-20.3,57.55",Africa,MU,MD,,
+57ab8d401eff02897b163efe,Tetradactylus eastwoodae,Eastwood's long-tailed seps,1910-01-01T00:00:00Z,1910,South Africa,--,land,-29.82,23.55,"-29.8,23.55",Africa,ZA,ZZ,,
+57ab8d401eff02897b163eff,Typhlops cariei,Hoffstetter's worm snake,1444-01-01T00:00:00Z,1444,Mauritius,--,reptile,-20.34,57.55,"-20.3,57.55",Africa,MU,SM,,
+57ab8d401eff02897b163f00,Didosaurus maurtianus,Mauritian giant skink,1650-01-01T00:00:00Z,1650,Mauritius,--,reptile,-20.34,57.55,"-20.3,57.55",Africa,MU,SM,,
+57ab8d401eff02897b163f01,Aparallactus nigriceps,Mozambique centipede-eater,1840-01-01T00:00:00Z,1840,France (Reunion),--,land,-21.14,55.65,"-21.1,55.65",Africa,RE,ZZ,,
+57ab8d401eff02897b163f02,Phelsuma edwardnewtoni,Rodrigues day gecko,1910-01-01T00:00:00Z,1910,Mauritius,--,reptile,-20.34,57.55,"-20.3,57.55",Africa,MU,SM,,
+57ab8d401eff02897b163f03,Phelsuma gigas,Rodrigues giant day gecko,1842-01-01T00:00:00Z,1842,Mauritius,--,reptile,-20.34,57.55,"-20.3,57.55",Africa,MU,SM,,
+57ab8d401eff02897b163f04,Gallotia simonyi simonyi,Roque Chico de Salmor giant lizard,1930-01-01T00:00:00Z,1930,Spain (Canary Islands),--,reptile,28.29,-16.62,"28.29,-16.62",Europe,ES,MD,,
+57ab8d401eff02897b163f05,Bolyeria multocarinata,Round Island burrowing boa,1970-01-01T00:00:00Z,1970,Mauritius,--,reptile,-20.34,57.55,"-20.3,57.55",Africa,MU,MD,,
+57ab8d401eff02897b163f06,Cylindraspis inepta,Saddle-backed Mauritius giant tortoise,1750-01-01T00:00:00Z,1750,Mauritius,--,reptile,-20.34,57.55,"-20.3,57.55",Africa,MU,MD,,
+57ab8d401eff02897b163f07,Cylindraspis vosmaeri,Saddle-backed Rodrigues giant tortoise,1800-01-01T00:00:00Z,1800,Mauritius,--,reptile,-20.34,57.55,"-20.3,57.55",Africa,MU,MD,,
+57ab8d611eff02897b163f08,Eriocnemis godini,Turquoise-throated puffleg,1850-01-01T00:00:00Z,1850,Colombia and Ecuador,--,land,2.48,-75.76,"2.48,75.76",South America,CO,ZZ,,
+57ab8d611eff02897b163f09,Atelopus ignescens,Atelopus ignescens,1444-01-01T00:00:00Z,1444,Ecuador,--,land,-1.13,-77.16,"-1.13,-77.16",South America,EC,ZZ,,
+57ab8d611eff02897b163f0a,Atelopus longirostris,Atelopus longirostris,1980-01-01T00:00:00Z,1980,Ecuador,--,land,-1.13,-77.16,"-1.13,-77.16",South America,EC,ZZ,,
+57ab8d611eff02897b163f0b,Atelopus vogli,Atelopus vogli,1930-01-01T00:00:00Z,1930,Venezuela,--,land,6.63,-65.21,"6.63,-65.21",South America,VE,ZZ,,
+57ab8d611eff02897b163f0c,Phrynomedusa fimbriata,Spiny-knee leaf frog,1920-01-01T00:00:00Z,1920,Brazil,--,amph,-12.54,-53.08,"-12.5,-53.08",South America,BR,SM,,
+57ab8d611eff02897b163f0d,Rhinoderma rufum,Chile Darwin's frog,1980-01-01T00:00:00Z,1980,Chile,--,amph,-47.74,-73.12,"-47.7,-73.12",South America,CL,SM,,
+57ab8d611eff02897b163f0e,Chelonoidis nigra nigra,Charles Island tortoise,1850-01-01T00:00:00Z,1850,Ecuador (Galapagos Islands),--,reptile,-0.73,-91.06,"-0.73,-91.06",South America,EC,MD,,
+57ab8d611eff02897b163f0f,Chelonoidis nigra abingdonii,Pinta Island tortoise,2012-01-01T00:00:00Z,2012,Ecuador (Galapagos Islands),--,reptile,-0.73,-91.06,"-0.73,-91.06",South America,EC,MD,,
+57ab8d7c1eff02897b163f10,Sephanoides fernandensis leyboldi,Alejandro Selkirk Island Firecrown,1900-01-01T00:00:00Z,1900,Chile,--,air,-47.74,-73.12,"-47.7,-73.12",South America,CL,SM,,
+57ab8d7c1eff02897b163f11,Podiceps andinus,Colombian grebe,1970-01-01T00:00:00Z,1970,Colombia,--,air,2.47,-72.07,"2.47,-72.07",South America,CO,SM,,
+57ab8d7c1eff02897b163f12,Geospiza magnirostris magnirostris,Darwin's ground finch,1950-01-01T00:00:00Z,1950,Ecuador (Galapagos Islands),--,air,-0.73,-91.06,"-0.73,-91.06",South America,EC,SM,,
+57ab8d7c1eff02897b163f13,Anas georgica niceforoi,Niceforo's pintail,1950-01-01T00:00:00Z,1950,Colombia,--,air,2.47,-72.07,"2.47,-72.07",South America,CO,SM,,
+57ab8d7c1eff02897b163f14,Pyrocephalus rubinus dubius,San Cristabal vermilion flycatcher,1980-01-01T00:00:00Z,1980,Ecuador (Galapagos Islands),--,air,-0.73,-91.06,"-0.73,-91.06",South America,EC,SM,,
+57ab8d7c1eff02897b163f15,Aramides gutturalis,Red-throated wood-rail,1843-01-01T00:00:00Z,1843,Peru,--,air,-10.21,-73.56,"-10.2,-73.56",South America,PE,SM,,
+57ab8d7c1eff02897b163f16,Heliangelus zusii,Antioquia brush finch,1970-01-01T00:00:00Z,1970,Colombia,--,air,2.47,-72.07,"2.47,-72.07",South America,CO,SM,,
+57ab8d7c1eff02897b163f17,Heliangelus zusii,Bogota SunAngel,1900-01-01T00:00:00Z,1900,Colombia,--,air,2.47,-72.07,"2.47,7.07",South America,CO,SM,,
+57ab8d7c1eff02897b163f18,Numenius borealis,Eskimo Curlew,1930-01-01T00:00:00Z,1930,Brazil and Argentina,--,air,-28.21,-56.33,"-28.2,-56.33",South America,AR,SM,,
+57ab8d7c1eff02897b163f19,Anodorhynchus glaucus,Glaucous macaw,1960-01-01T00:00:00Z,1960,"Argentina,Brazil,Paraguay and Uruguay",--,air,-28.21,-56.33,"-28.2,-56.33",South America,AR,SM,,
+57ab8d7c1eff02897b163f1a,Sporophila melanops,Hooded seedeater,1820-01-01T00:00:00Z,1820,Brazil,--,air,-12.54,-53.08,"-12.5,-53.08",South America,BR,SM,,
+57ab8d7c1eff02897b163f1b,Discosura letitiae,Letitia's thorntail,1850-01-01T00:00:00Z,1850,Bolivia,--,air,-16.11,-64.77,"-16.1,-64.77",South America,BO,SM,,
+57ab8d7c1eff02897b163f1c,Grallaria chthonia,Tachira antpitta,1950-01-01T00:00:00Z,1950,Venezuela,--,air,6.63,-65.21,"6.63,-65.21",South America,VE,SM,,
+57ab8d8c1eff02897b163f1d,Smilodon populator,Amazonian smilodon,1850-01-01T00:00:00Z,1850,Northern South Ameica,--,land,-3.23,-57.12,"-3.23,-57.12",South America,BR,ZZ,,
+57bbaf7e7f658b5320d3f806,Drepanis pacifica,Hawai'i mamo,1980-01-T00:00:00Z,1980,Hawaiian Islands,--,air,19.66,-155.51,"19.66,-155.51",North America,US,SM,,
+57ab8d8c1eff02897b163f1e,Antifer crassus,Antifer,1100-01-01T00:00:00Z,1100,"Argentina,Brazil and Chile",--,land,-47.74,-73.12,"-47.7,-73.12",South America,CL,ZZ,,
+57ab8d8c1eff02897b163f1f,Arctotherium sp.,Arctotherium,1100-01-01T00:00:00Z,1100,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f20,Canis nehringi,Canis nehringi,0001-01-01T00:00:00Z,-8000 BC,South America,-8000 BC,land,-16.95,-57.74,"-16.9,-57.74",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f21,Cuvieronius sp.,Cuvieronius,0004-01-01T00:00:00Z,-4000 BC,South America,-4000 BC,land,-16.95,-57.74,"-16.9,-57.74",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f22,Canis dirus,Dire wolf,1100-01-01T00:00:00Z,1100,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f23,Catonyx,Ground sloths,0006-01-01T00:00:00Z,-6000 BC,South America,-6000 BC,land,-16.95,-57.74,"-16.9,-57.74",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f24,Doedicurus,Glyptodontidaes,0001-01-01T00:00:00Z,-1100 BC,South America,-1100 BC,land,-16.95,-57.74,"-16.9,-57.74",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f25,Hippidion,Hippidion,1000-01-01T00:00:00Z,1000,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f26,Macrauchenia sp.,Macrauchenia,1000-01-01T00:00:00Z,1000,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f27,Neochoerus sp.,Neochoerus,1000-01-01T00:00:00Z,1000,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f28,Stegomastodon sp.,Stegomastodon,1000-01-01T00:00:00Z,1000,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f29,Palaeolama mirifica,Stout-legged llama,1000-01-01T00:00:00Z,1000,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f2a,Theriodictis sp.,Theriodictis,1100-01-01T00:00:00Z,1100,"Bolivia,Brazil and Paraguay",--,land,-16.79,-62.4,"-16.7,-62.40",South America,BO,ZZ,,
+57ab8d8c1eff02897b163f2b,Toxodon sp.,Toxodon,1650-01-01T00:00:00Z,1650,South America,--,land,-16.95,-57.74,"-16.9,-57.74",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f2c,Xenorhinotherium bahiensis,Xenorhinotherium,1000-01-01T00:00:00Z,1000,Brazil and Venezuela,--,land,6.63,-65.21,"6.63,-65.21",South America,VE,ZZ,,
+57ab8d8c1eff02897b163f2d,Juscelinomys candango,Candango mouse,1960-01-01T00:00:00Z,1960,Brazil,--,land,-12.54,-53.08,"-12.5,-53.08",South America,BR,SM,,
+57ab8d8c1eff02897b163f2f,Nesoryzomys darwini,Darwin's rice rat,1920-01-01T00:00:00Z,1920,Ecuador (Galapagos Islands),--,land,-0.73,-91.06,"-0.73,-91.06",South America,EC,SM,,
+57ab8d8c1eff02897b163f31,Megaoryzomys curioi,Galapagos giant rat,1444-01-01T00:00:00Z,1444,Ecuador (Galapagos Islands),--,land,-0.73,-91.06,"-0.73,-91.06",South America,EC,SM,,
+57ab8d8c1eff02897b163f32,Nesoryzomys indefessus,Indefatigable Galapagos mouse,1930-01-01T00:00:00Z,1930,Ecuador (Galapagos Islands),--,land,-0.73,-91.06,"-0.73,-91.06",South America,EC,SM,,
+57ab8d8c1eff02897b163f33,Desmodus draculae,Giant vampire bat,1444-01-01T00:00:00Z,1444,"Bolivia,Brazil & Venezuela",--,land,6.63,-65.21,"6.63,6.21",Africa,NG,ZZ,,
+57ab8d8c1eff02897b163f34,Lagostomus crassus,Peruvian viscacha,1910-01-01T00:00:00Z,1910,Peru,--,land,-10.21,-73.56,"-10.2,-73.56",South America,PE,ZZ,,
+57ab8d8c1eff02897b163f36,Noronhomys vespuccii,Vespucci's rodent,1500-01-01T00:00:00Z,1500,Brazil,--,land,-12.54,-53.08,"-12.5,-53.08",South America,BR,ZZ,,
+57ab8d8c1eff02897b163f38,Octodon pacificus,Pacific degu,1990-01-01T00:00:00Z,1990,"Mocha Island,Chile",--,land,-47.74,-73.12,"-47.7,-73.12",South America,CL,ZZ,,
+57ab8d8c1eff02897b163f39,Melanomys zunigae,Zuniga's dark rice rat,1940-01-01T00:00:00Z,1940,Peru,--,land,-10.21,-73.56,"-10.2,-73.56",South America,PE,SM,,
+57ab8f0d1eff02897b163f3a,Struthio camelus syriacus,Arabian ostrich,1960-01-01T00:00:00Z,1960,Middle East,--,air,29.16,42.02,"29.16,42.02",Asia,SA,SM,,
+57ab8f0d1eff02897b163f3b,Struthio asiaticus,Asiatic ostrich,1000-01-01T00:00:00Z,1000,Middle East to Central Asia,--,air,29.16,42.02,"29.16,42.02",Asia,SA,SM,,
+57ab8f0d1eff02897b163f3c,Branta hutchinsii asiatica,Bering Cackling Goose,1920-01-01T00:00:00Z,1920,Russia (Komandorski and Kuril Islands),--,air,62.73,98.44,"62.73,98.44",Europe,RU,SM,,
+57ab8f0d1eff02897b163f3d,Carpodacus ferreorostris,Bonin grosbeak,1828-01-01T00:00:00Z,1828,Japan (Bonin Islands),--,air,27.03,142.2,"27.03,142.20",Asia,JP,SM,,
+57ab8f0d1eff02897b163f3e,Nycticorax caledonicus crassirostris,Bonin nankeen night heron,1880-01-01T00:00:00Z,1880,Japan (Bonin Islands),--,air,27.03,142.2,"27.03,142.20",Asia,JP,SM,,
+57ab8f0d1eff02897b163f3f,Zoothera terrestris,Bonin thrush,1827-01-01T00:00:00Z,1827,Japan (Bonin Islands),--,air,27.03,142.2,"27.03,142.20",Asia,JP,SM,,
+57ab8f0d1eff02897b163f40,Columba versicolor,Bonin wood pigeon,1880-01-01T00:00:00Z,1880,Japan (Bonin Islands),--,air,27.03,142.2,"27.03,142.20",Asia,JP,SM,,
+57ab8f0d1eff02897b163f41,Loriculus philippensis chrysonotus,Cebu hanging parrot,1444-01-01T00:00:00Z,1444,Philippines (Cebu),--,air,10.4,123.8,"10.40,123.80",Asia,PH,SM,,
+57ab8f0d1eff02897b163f42,Cinclus cinclus olympicus,Cyprus dipper,1950-01-01T00:00:00Z,1950,Cyprus,--,air,34.93,33.14,"34.93,33.14",Asia,CY,SM,,
+57ab8f0d1eff02897b163f43,Apalopteron familiare familiare,Mukojima white-eye,1930-01-01T00:00:00Z,1930,Japan (Bonin Islands),--,air,27.03,142.2,"27.03,142.20",Asia,JP,SM,,
+57ab8f0d1eff02897b163f44,Todiramphus miyakoensis,Ryukyu kingfisher,1880-01-01T00:00:00Z,1880,Japan (Ryukyu Islands),--,air,26.49,127.99,"26.49,127.99",Asia,JP,SM,,
+57ab8f0d1eff02897b163f45,Columba jouyi,Ryukyu wood pigeon,1930-01-01T00:00:00Z,1930,Japan (Ryukyu Islands),--,air,26.49,127.99,"26.49,127.99",Asia,JP,SM,,
+57ab8f0d1eff02897b163f46,Phalacrocorax perspicillatus,Spectacled cormorant,1850-01-01T00:00:00Z,1850,Russia,--,air,62.73,98.44,"62.73,98.44",Europe,RU,SM,,
+57ab8f211eff02897b163f47,Bos primigenius,Aurochs,1627-01-01T00:00:00Z0,16270,Northern Asia and Indian Continent,--,land,49.1,108.78,"49.10,108.78",Asia,MN,ZZ,,
+57ab8f211eff02897b163f48,Panthera tigris balica,Bali tiger,1930-01-01T00:00:00Z,1930,Indonesia (Bali),--,land,-8.34,115.08,"-8.34,115.08",Asia,ID,MD,,
+57ab8f211eff02897b163f49,Coryphomys buehleri,Buhler's coryphomys,1500-01-01T00:00:00Z,1500,Indonesia (Timor),--,land,-9.88,124.33,"-9.88,124.33",Asia,ID,ZZ,,
+57ab8f211eff02897b163f4a,Panthera tigris virgata,Caspian tiger,1970-01-01T00:00:00Z,1970,Turkey to China,--,land,36.65,64.03,"36.65,64.03",Asia,TM,MD,,
+57ab8f211eff02897b163f4b,Alces alces caucasicus,Caucasian moose,1850-01-01T00:00:00Z,1850,"Caucasus Mountains,Iran and Turkey",--,land,38.51,44.35,"38.51,44.35",Asia,IR,MD,,
+57ab8f211eff02897b163f4c,Bison bonasus caucasicus,Caucasian wisent,1920-01-01T00:00:00Z,1920,Caucasus Mountains,--,land,38.51,44.35,"38.51,44.35",Asia,IR,ZZ,,
+57ab8f211eff02897b163f4d,Sus cebifrons cebifrons,Cebu warty pig,1950-01-01T00:00:00Z,1950,Yemen,--,land,15.29,46.73,"15.29,46.73",Asia,YE,ZZ,,
+57ab8f211eff02897b163f4e,Spelaeomys florensis,Flores cave rat,1500-01-01T00:00:00Z,1500,Indonesia (Flores),--,land,-8.77,121.06,"-8.77,121.06",Asia,ID,SM,,
+57ab8f211eff02897b163f4f,Paulamys naso,Flores long-nosed rat,1500-01-01T00:00:00Z,1500,Indonesia (Flores),--,land,-8.77,121.06,"-8.77,121.06",Asia,ID,SM,,
+57ab8f211eff02897b163f50,Neofelis nebulosa brachyura,Formosan clouded leopard,1990-01-01T00:00:00Z,1990,Taiwan,--,land,23.69,121.01,"23.69,121.01",Asia,TW,MD,,
+57ab8f211eff02897b163f51,Canis lupus hattai,Hokkaidō wolf,1880-01-01T00:00:00Z,1880,Japan (Hokkaidō),--,land,43.25,142.66,"43.25,142.66",Asia,JP,MD,,
+57ab8f211eff02897b163f52,Canis lupus hodophilax,Honshū wolf,1900-01-01T00:00:00Z,1900,Japan (Honshū),--,land,35.97,138.23,"35.97,138.23",Asia,JP,MD,,
+57ab8f211eff02897b163f53,Crateromys paulus,Ilin Island Cloudrunner,1950-01-01T00:00:00Z,1950,Philippines,--,land,11.46,123.32,"11.46,123.32",Asia,PH,ZZ,,
+57ab8f211eff02897b163f54,Rhinoceros sondaicus inermis,Indian Javan rhinoceros,1920-01-01T00:00:00Z,1920,"Bangladesh,Burma (Myanmar),and India",--,land,23.21,92.89,"23.21,92.89",Asia,IN,LG,,
+57ab8f211eff02897b163f55,Lutra lutra whiteleyi,Japanese river otter,1970-01-01T00:00:00Z,1970,Japan,--,land,35.82,138.76,"35.82,138.76",Asia,JP,MD,,
+57ab8f211eff02897b163f56,Zalophus japonicus,Japanese sea lion,1970-01-01T00:00:00Z,1970,Sea of Japan,--,land,35.82,138.76,"35.82,138.76",Asia,JP,MD,,
+57ab8f211eff02897b163f57,Panthera tigris sondaica,Javan tiger,1970-01-01T00:00:00Z,1970,Indonesia (Java),--,land,-7.24,110.57,"-7.24,110.57",Asia,ID,LG,,
+57ab8f211eff02897b163f58,Dicerorhinus sumatrensis lasiotis,Northern Sumatran rhinoceros,1444-01-01T00:00:00Z,1444,"Bangladesh,Burma (Myanmar),and India",--,land,23.21,92.89,"23.21,92.89",Asia,IN,LG,,
+57ab8f211eff02897b163f59,Gazella bilkis,Queen of Sheba's gazelle,1950-01-01T00:00:00Z,1950,Yemen,--,land,15.29,46.73,"15.29,46.73",Asia,YE,MD,,
+57ab8f211eff02897b163f5a,Gazella saudiya,Saudi gazelle,1444-01-01T00:00:00Z,1444,Arabian Peninsula,--,land,18.88,47.51,"18.88,47.51",Asia,SA,MD,,
+57ab8f211eff02897b163f5b,Rucervus schomburgki,Schomburgk's deer,1930-01-01T00:00:00Z,1930,Thailand,--,land,16.62,100.34,"16.62,100.34",Asia,TH,MD,,
+57ab8f211eff02897b163f5c,Hydrodamalis gigas,Steller's sea cow,1760-01-01T00:00:00Z,1760,Russia (Commander Islands),--,land,62.73,98.44,"62.73,98.44",Europe,RU,MD,,
+57ab8f211eff02897b163f5d,Pipistrellus sturdeei,Sturdee's pipistrelle,1444-01-01T00:00:00Z,1444,Japan (Bonin Islands),--,land,27.03,142.2,"27.03,142.20",Asia,Japan,ZZ,,
+57ab8f211eff02897b163f5e,Neofelis nebulosa brachyura,Verhoeven's giant tree rat,1500-01-01T00:00:00Z,1500,Indonesia (Flores),--,land,-8.77,121.06,"-8.77,121.06",Asia,ID,SM,,
+57ab8f211eff02897b163f5f,Rhinoceros sondaicus annamiticus,Vietnamese Javan rhinoceros,2010-01-01T00:00:00Z,2010,Vietnam to Malaysia,--,land,4.57,103.15,"4.57,103.15",Asia,MY,LG,,
+57ab8f3f1eff02897b163f60,Bos primigenius,Aurochs,1627-01-01T00:00:00Z,1627,Northern Asia and Indian Sontinent,--,land,49.1,108.78,"49.10,108.78",Asia,MN,ZZ,,
+57ab8f3f1eff02897b163f61,Panthera tigris balica,Bali tiger,1930-01-01T00:00:00Z,1930,Indonesia (Bali),--,land,-8.34,115.08,"-8.34,115.08",Asia,ID,ZZ,,
+57ab8f3f1eff02897b163f62,Coryphomys buehleri,Buhler's coryphomys,1500-01-01T00:00:00Z,1500,Indonesia (Timor),--,land,-9.88,124.33,"-9.88,124.33",Asia,ID,ZZ,,
+57ab8f3f1eff02897b163f63,Panthera tigris virgata,Caspian tiger,1970-01-01T00:00:00Z,1970,Turkey to China,--,land,38.7,66.46,"38.7,66.46",Asia,UZ,ZZ,,
+57ab8f3f1eff02897b163f64,Alces alces caucasicus,Caucasian moose,1850-01-01T00:00:00Z,1850,"Caucasus Mountains,Iran and Turkey",--,land,42.56,44.03,"42.56,44.03",Asia,IR,ZZ,,
+57ab8f3f1eff02897b163f65,Bison bonasus caucasicus,Caucasian wisent,1920-01-01T00:00:00Z,1920,Caucasus Mountains,--,land,42.56,44.03,"42.56,44.03",Asia,GA,ZZ,,
+57ab8f3f1eff02897b163f66,Sus cebifrons cebifrons,Cebu warty pig,1950-01-01T00:00:00Z,1950,Yemen,--,land,15.29,46.73,"15.29,46.73",Asia,YE,ZZ,,
+57ab8f3f1eff02897b163f67,Gazella saudiya,Saudi gazelle,1444-01-01T00:00:00Z,1444,Arabian Peninsula,--,land,18.88,47.51,"18.88,47.51",Asia,SA,ZZ,,
+57ab8f3f1eff02897b163f68,Rucervus schomburgki,Schomburgk's deer,1930-01-01T00:00:00Z,1930,Thailand,--,land,16.62,100.34,"16.62,100.34",Asia,TH,ZZ,,
+57ab8f3f1eff02897b163f69,Hydrodamalis gigas,Steller's sea cow,1760-01-01T00:00:00Z,1760,Russia (Commander Islands),--,land,62.73,98.44,"62.73,98.44",Europe,RU,ZZ,,
+57ab8f3f1eff02897b163f6a,Pipistrellus sturdeei,Sturdee's pipistrelle,1444-01-01T00:00:00Z,1444,Japan (Bonin Islands),--,land,27.03,142.2,"27.03,142.20",Asia,JP,ZZ,,
+57ab8f3f1eff02897b163f6b,Neofelis nebulosa brachyura,Verhoeven's giant tree rat,1500-01-01T00:00:00Z,1500,Indonesia (Flores),--,land,-8.77,121.06,"-8.77,121.06",Asia,ID,SM,,
+57ab8f3f1eff02897b163f6c,Rhinoceros sondaicus annamiticus,Vietnamese Javan rhinoceros,2010-01-01T00:00:00Z,2010,Vietnam to Malaysia,--,land,4.57,103.15,"4.57,103.15",Asia,MY,ZZ,,
+57ab8f681eff02897b163f73,Pinguinus impennis,Great auk,1850-01-01T00:00:00Z,1850,Iceland and Northern European Coast,--,air,64.87,-18.81,"64.87,-18.81",Europe,IS,SM,,
+57ab8f681eff02897b163f74,Corvus corax varius,Pied raven,1950-01-01T00:00:00Z,1950,Denmark (Faroe Islands),--,air,62.2,-7.08,"62.20,-7.08",Europe,FO,SM,,
+57b7c81fa63e484229d311b1,Columba vitiensis godmanae,White-throated pigeon,1850-01-01T00:00:00Z,1850,Lord Howe Island,Last recorded 1853. Believed due to hunting.,air,-31.55,159.07,"-31.55,159.07",Australia,AU,SM,,
+57b7c81fa63e484229d311b2,Cyanoramphus novaezelandiae subflavescens,Red-crowned parakeet,1860-01-01T00:00:00Z,1860,Lord Howe Island,"Last recorded 1860. Due to persecution,because of predation on gardens and crops.",air,-31.55,159.07,"-31.55,159.07",Australia,AU,SM,,
+57b7c81fa63e484229d311b3,Dromaius baudinianus,Kangaroo Island emu,1805-01-01T00:00:00Z,1805,Kangaroo Island,Extinction has been attributed to hunting and habitat clearance through burning. A captive bird died in 1822,air,-35.03,137.55,"-35.03,137.55",Australia,AU,SM,,
+57b7c81fa63e484229d311b4,Dromaius novaehollandiae diemenensis,Tasmanian emu,1850-01-01T00:00:00Z,1850,Tasmania,--,air,-42.03,146.55,"-42.03,146.55",Australia,AU,SM,,
+57b7c81fa63e484229d311b5,Drymodes superciliaris colcloughi,Roper River scrub-robin,1910-01-01T00:00:00Z,1910,Northern Territory,--,air,-19.03,132.55,"-19.03,146.55",Australia,AU,SM,,
+57b7c81fa63e484229d311b6,Gallicolumba norfolciensis,Norfolk ground dove,1850-01-01T00:00:00Z,1850,Norfolk Island,--,air,-29.04,167.95,"-29.04,167.95",Australia,NF,SM,,
+57b7c81fa63e484229d311b7,Rhipidura cervina,Lord Howe fantail,1920-01-01T00:00:00Z,1920,Lord Howe Island,Believed to be a result of the introduction of black rats following the grounding of SS *Makamboin June 1918.,air,-31.55,159.07,"-31.55,159.07",Australia,AU,SM,,
+57b7c81fa63e484229d311b8,Turdus poliocephalus vinitinctSM,Lord Howe Island thrush,1920-01-01T00:00:00Z,1920,Lord Howe Island,Believed to be a result of the introduction of black rats following the grounding of SS *Makamboin June 1918.,air,-31.55,159.07,"-31.55,159.07",Australia,AU,SM,,
+57b7c81fa63e484229d311b9,Zosterops strenuus,Robust white-eye,1920-01-01T00:00:00Z,1920,Lord Howe Island,Believed to be a result of the introduction of black rats following the grounding of SS *Makamboin June 1918.,air,-31.55,159.07,"-31.55,159.07",Australia,AU,SM,,
+57b7c81fa63e484229d311ba,Dromaius ater,Dwarf emu,1822-01-01T00:00:00Z,1822,Tasmania,"1822. Extinction through hunting and,apparently,fires started by visiting sailors",air,-42.03,146.55,"-42.03,146.55",Australia,AU,SM,,
+57b7c81fa63e484229d311bb,Gerygone insularis,Lord Howe warbler,1920-01-01T00:00:00Z,1920,Lord Howe Island,Not recorded since 1920. Believed to be a result of the introduction of black rats following the grounding of SS Makamboin June 1918.,air,-31.55,159.07,"-31.55,159.07",Australia,AU,SM,,
+57b7c81fa63e484229d311 bc,Ninox novaeseelandiae undulata,Norfolk Island boobook,1990-01-01T00:00:00Z,1990,Norfolk Island,"The owl inhabited the island's subtropical rainforest, which was largely cleared in the 19th century following human settlement.",air,-29.04,167.95,"-29.04,167.95",Australia,NF,SM,,
+57b7c81fa63e484229d311bd,Psephotus pulcherrimus,Paradise parrot,1920-01-01T00:00:00Z,1920,"New South Wales,Queensland","Date uncertain but around 1920; more recent sightings are sometimes claimed but have never been confirmed. Cause uncertain,most hypotheses centre on starvation from lack of grass seed after drought,overgrazing,more frequent fires,and introduction of prickly pear.",air,-32.04,146.95,"-32.04,146.95",Australia,AU,SM,,
+57b7c81fa63e484229d311be,Rallus pectoralis clelandi,Lewin's water rail,1930-01-01T00:00:00Z,1930,Western Australia,--,air,-25.55,120.07,"-25.55,120.07",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f7e6,Caloprymnus campestris,Desert rat-kangaroo,1930-01-01T00:00:00Z,1930,"Queensland,South Australia,Northern Territories",--,mars,-20.9,142.7,"-20.90,142.70",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f7e7,Chaeropus ecaudatus,Pig-footed bandicoot,1950-01-01T00:00:00Z,1950,"New South Wales,Northern Territories South Australia,Victoria,Western Australia",--,mars,-25.61,132.95,"-25.61,132.95",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7e8,Conilurus albipes,White-footed rabbit-rat,1850-01-01T00:00:00Z,1850,"New South Wales,Queensland,South Australia,Victoria",--,land,-32.9,140.7,"-32.90,140.70",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7e9,Lagorchestes asomatus,Central hare-wallaby,1930-01-01T00:00:00Z,1930,Northern Territories,--,mars,-21.09,133.65,"-20.90,142.70",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7ea,Lagorchestes leporides,Eastern hare-wallaby,1890-01-01T00:00:00Z,1890,"New South Wales,Queensland,South Australia,Victoria",--,mars,-20.9,142.7,"-20.90,142.70",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7eb,Macropus grey,Toolache wallaby,1930-01-01T00:00:00Z,1930,"South Australia,Victoria",--,mars,-35.54,140.86,"-35.54,140.86",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7ec,Macrotis leucura,Lesser bilby,1930-01-01T00:00:00Z,1930,"Northern Territories Queensland,Southern Australia",--,mars,-26.9,139.63,"-26.90,139.63",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7ed,Macropus greyi,Toolache wallaby,1930-01-01T00:00:00Z,1930,"South Australia,Victoria",--,mars,-35.54,140.86,"-35.54,140.86",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7ee,Macropus greyi,Toolache wallaby,1930-01-01T00:00:00Z,1930,"South Australia,Victoria",--,mars,-35.54,140.86,"-35.54,140.86",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7ef,Melomys rubicola,Bramble Cay Melomys Rat,1890-01-01T00:00:00Z,1890,"Bramble Cay,Queensland",--,land,-9.14,143.87,"-9.14,143.87",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f7f0,Notomys longicaudatus,Long-tailed hopping mouse,1900-01-01T00:00:00Z,1900,"Northern Territories South Australia,Western Australia",--,land,-20.9,142.7,"-20.90,142.70",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f7f1,Notomys macrotis,Big-eared hopping mouse,1843-01-01T00:00:00Z,1843,Western Australia,--,land,-25.59,121.86,"-20.90,142.70",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f7f2,Notomys mordax,Darling Downs hopping mouse,1846-01-01T00:00:00Z,1846,"New South Wales,Queensland",--,land,-28.95,144.27,"-28.95,144.27",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f7f3,Onychogalea lunata,Crescent nail-tail wallaby,1950-01-01T00:00:00Z,1950,"South Australia,Western Australia",--,mars,-28.64,128.62,"-28.64,128.62",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7f4,Perameles eremiana,Desert bandicoot,1960-01-01T00:00:00Z,1960,"Northern Territories South Australia, Western Australia",--,mars,-25.75,129.08,"-25.75,129.08",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7f5,Potorous platyops,Broad-faced potoroo,1860-01-01T00:00:00Z,1860,Western Australia,--,mars,-26.78,122.39,"-26.78,122.39",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7f6,Pseudomys glaucus,Blue-grey mouse,1950-01-01T00:00:00Z,1950,"New South Wales,Queensland",--,land,-28.95,144.27,"-28.95,144.27",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f7f7,Pseudomys gouldii,Gould's mouse,1850-01-01T00:00:00Z,1850,"New South Wales,Queensland,South Australia,Victoria,Western Australia",--,land,-25.99,139.22,"-25.99,139.22",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f7f8,Pteropus brunneus,Dusky flying fox,1800-01-01T00:00:00Z,1800,Queensland,--,land,-23.63,143.56,"-23.63,143.56",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7f9,Rattus macleari,Maclear's rat,1900-01-01T00:00:00Z,1900,Christmas Island,--,land,-10.48,105.64,"-10.48,105.64",Asia,CX,SM,,
+57bbaf7e7f658b5320d3f7fa,Thylacinus cynocephalus1,Thylacine Tasmanian tiger,1930-01-01T00:00:00Z,1930,Tasmania,--,land,-42.41,146.86,"-42.41,146.86",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f7fb,Rheobatrachus silus,Gastric-brooding frog,1980-01-01T00:00:00Z,1980,Queensland,--,amph,-20.9,142.7,"-20.90,142.70",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f7fc,Rheobatrachus vitellinus,Eungella gastric-brooding frog,1980-01-01T00:00:00Z,1980,Queensland,--,amph,-20.9,142.7,"-20.90,142.70",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f7fd,Taudactylus acutirostris,Sharp-snouted day frog,1990-01-01T00:00:00Z,1990,Queensland,--,amph,-20.9,142.7,"-20.90,142.70",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f7fe,Taudactylus diurnus,Southern day frog,1970-01-01T00:00:00Z,1970,Queensland,--,amph,-20.9,142.7,"-20.90,142.70",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f7ff,Emoia nativitatis,Christmas Island fores skink,2014-01-01T00:00:00Z,2014,Christmas Island,--,land,-10.9,105.7,"-10.90,105.70",Australia,AU,ZZ,,
+57bbaf7e7f658b5320d3f800,Myadestes woahensis,ʻĀmaui,1850-01-01T00:00:00Z,1850,Oahu,--,air,21.9,-158.7,"21.90,-158.70",North America,US,SM,,
+57bbaf7e7f658b5320d3f801,Moho bishopi,Bishop's O'o',1900-01-01T00:00:00Z,1900,Molokai and Maui,--,air,21.14,-157,"21.14,-157.00",North America,US,SM,,
+57bbaf7e7f658b5320d3f802,Drepanis funerea,Black mamo,1900-01-01T00:00:00Z,1900,Molokai and Maui,--,air,21.14,-157,"21.14,-157.00",North America,US,SM,,
+57bbaf7e7f658b5320d3f803,Hemignathus sagittirostris,Greater ʻamakihi,1900-01-01T00:00:00Z,1900,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US,SM,,
+57bbaf7e7f658b5320d3f804,Rhodacanthis palmeri,Greater koa finch,1890-01-01T00:00:00Z,1890,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US,SM,,
+57bbaf7e7f658b5320d3f805,Hemignathus obscurus,Hawaiʻi ʻakialoa,1940-01-01T00:00:00Z,1940,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US,SM,,
+57bbaf7e7f658b5320d3f807,Moho nobilis,Hawaiʻi ʻōʻō,1930-01-01T00:00:00Z,1930,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US,SM,,
+57bbaf7e7f658b5320d3f808,Porzana sandwichensis,Hawaiian rail,1880-01-01T00:00:00Z,1880,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US,SM,,
+57bbaf7e7f658b5320d3f809,Myadestes myadestinus,Kāmaʻo,1980-01-01T00:00:00Z,1980,Kauaʻi,--,air,22.09,-159.52,"22.09,-159.52",North America,US,SM,,
+57bbaf7e7f658b5320d3f80a,Hemignathus ellisianus stejnegeri,Kauaʻi ʻakialoa,1960-01-01T00:00:00Z,1960,Kauaʻi,--,air,22.09,-159.52,"22.09,-159.52",North America,US,SM,,
+57bbaf7e7f658b5320d3f80b,Moho braccatus,Kauaʻi ʻO'o,1980-01-01T00:00:00Z,1980,Kauaʻi,--,air,22.09,-159.52,"22.09,-159.52",North America,US,SM,,
+57bbaf7e7f658b5320d3f80c,Chaetoptila angustipluma,Kioea,1850-01-01T00:00:00Z,1850,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US,SM,,
+57bbaf7e7f658b5320d3f80d,Hemignathus ellisianus lanaiensis,Lana'i 'akialoa,1890-01-01T00:00:00Z,1890,Lana'i,--,air,20.82,156.92,"20.82,156.92",North America,US,SM,,
+57bbaf7e7f658b5320d3f80e,Chloridops kona,Kona grosbeak,1890-01-01T00:00:00Z,1890,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US,SM,,
+57bbaf7e7f658b5320d3f80f,Dysmorodrepanis munroi,Lanai hookbill,1910-01-01T00:00:00Z,1910,Lanai,--,air,20.82,156.92,"20.82,156.92",North America,US,SM,,
+57bbaf7e7f658b5320d3f810,Porzana palmeri,Laysan rail,1940-01-01T00:00:00Z,1940,Laysan,--,air,25.76,-71.73,"25.76,-71.73",North America,US,SM,,
+57bbaf7e7f658b5320d3f811,Himatione fraithii,Laysan honeycreeper,1920-01-01T00:00:00Z,1920,Laysan,--,air,25.76,-71.73,"25.76,-71.73",North America,US,SM,,
+57bbaf7e7f658b5320d3f812,Acrocephalus familiaris familiaris,Laysan millerbird,1910-01-01T00:00:00Z,1910,Laysan,--,air,25.76,-71.73,"25.76,-71.73",North America,US,SM,,
+57bbaf7e7f658b5320d3f813,Rhodacanthis flaviceps,Lesser koa finch,1890-01-01T00:00:00Z,1890,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US,SM,,
+57bbaf7e7f658b5320d3f814,Loxops coccineus ochraceus,Maui ʻakepa,1980-01-01T00:00:00Z,1980,Maui,--,air,21.14,-157,"21.14,-157.00",North America,US,SM,,
+57bbaf7e7f658b5320d3f815,Paroreomyza flammea,Molokaʻi creeper,1960-01-01T00:00:00Z,1960,Molokaʻi,--,air,21.14,-157,"21.14,-157.00",North America,US,SM,,
+57bbaf7e7f658b5320d3f816,Moho apicalis,Oʻahu ʻōʻō,1837-01-01T00:00:00Z,1837,Oahu,--,air,21.9,-158.7,"21.90,-158.70",North America,US,SM,,
+57bbaf7e7f658b5320d3f817,Hemignathus ellisianus ellisanus,Oahu 'akialoa,1940-01-01T00:00:00Z,1940,Oahu,--,air,21.9,-158.7,"21.90,-158.70",North America,US,SM,,
+57bbaf7e7f658b5320d3f818,Loxops coccineus wolstenholmei,Oʻahu ʻakepa,1990-01-01T00:00:00Z,1990,Oahu,--,air,21.9,-158.7,"21.90,-158.70",North America,US,SM,,
+57bbaf7e7f658b5320d3f819,Hemignathus lucidus lucidus,Oʻahu nukupuʻu,1837-01-01T00:00:00Z,1837,Oahu,--,air,21.9,-158.7,"21.90,-158.70",North America,US,SM,,
+57bbaf7e7f658b5320d3f81a,Ciridops anna,Ula-'ai-hawane,1890-01-01T00:00:00Z,1890,Hawaii/Big Island,--,air,19.66,-155.51,"19.66,-155.51",North America,US,SM,,
+57bbaf7e7f658b5320d3f81b,Uromys imperator,Emperor rat,1960-01-01T00:00:00Z,1960,Solomon Islands,--,land,-9.64,160.156,"-9.64,160.156",Australia,SB,SM,,
+57bbaf7e7f658b5320d3f81c,Uromys porculus,Guadalcanal rat,1880-01-01T00:00:00Z,1880,Solomon Islands,--,land,-9.64,160.156,"-9.64,160.156",Australia,SB,SM,,
+57bbaf7e7f658b5320d3f81d,Pteropus tokudae,Guam flying fox,1960-01-01T00:00:00Z,1960,Guam,--,land,13.44,144.79,"13.44,144.79",Australia,GU,ZZ,,
+57bbaf7e7f658b5320d3f81e,Pteropus pilosus,Large Palau flying fox,1874-01-01T00:00:00Z,1874,Palau,--,land,7.51,34.58,"7.51,134.58",Australia,PW,ZZ,,
+57bbaf7e7f658b5320d3f81f,Nyctimene sanctacrucis,Nendo tube-nosed fruit bat,1900-01-01T00:00:00Z,1900,Solomon Islands,--,bat,13.44,144.79,"13.44,144.79",Australia,GU,ZZ,,
+57bbaf7e7f658b5320d3f820,Mekosuchus,Mekosuchus,0001-01-01T00:00:00Z,-1000 BC,New Caledonia and Vanuatu,-1000 BC,land,-21.33,165042,"-21.33,165042",Australia,NC,ZZ,,
+57bbaf7e7f658b5320d3f821,Tachygia microlepis,Tonga grou skink,1800-01-01T00:00:00Z,1800,Tonga,--,land,-21.19,175.18,"-21.19,-175.18",Australia,TO,ZZ,,
+57bbaf7e7f658b5320d3f822,Volia athollandersoni,Volia,0001-01-01T00:00:00Z,-5000 BC,Fiji,-5000 BC,land,-17.85,177.98,"-17.85,177.98",Australia,FJ,ZZ,,
+57bbaf7e7f658b5320d3f823,Nesoclopeus poecilopterus,Bar-winged rail,1970-01-01T00:00:00Z,1970,Fiji,--,air,-17.85,177.98,"-17.85,177.98",Australia,FJ,SM,,
+57bbaf7e7f658b5320d3f824,Aplonis ulietensis,Bay thrush,1850-01-01T00:00:00Z,1850,Raiatea,--,air,-16.81,-151.46,"-16.81,-151.46",Australia,PF,SM,,
+57bbaf7e7f658b5320d3f825,Cyanoramphus zealandicus,Black-fronted parakeet,1850-01-01T00:00:00Z,1850,Tahiti,--,air,-17.67,149.9,"-17.67,-149.40",Australia,PF,SM,,
+57bbaf7e7f658b5320d3f826,Prosobonia cancellata,Christmas sandpiper,1850-01-01T00:00:00Z,1850,Kiribati,--,air,1.87,-157.36,"1.87,-157.36",Australia,KI,SM,,
+57bbaf7e7f658b5320d3f827,Microgoura meeki,Choiseul pigeon,1900-01-01T00:00:00Z,1900,Solomon Islands,--,air,-9.64,160.156,"-9.64,160.156",Australia,SB,SM,,
+57bbaf7e7f658b5320d3f828,Myiagra freycineti,Guam flycatcher,1980-01-01T00:00:00Z,1980,Guam,--,air,13.44,144.79,"13.44,144.79",Australia,GU,SM,,
+57bbaf7e7f658b5320d3f829,Porzana monasa,Kosrae crake,1827-01-01T00:00:00Z,1827,"Kosrae,Micronesia",--,air,5.31,162.98,"5.31,162.98",Australia,FM,SM,,
+57bbaf7e7f658b5320d3f82a,Aplonis corvina,Kosrae starling,1827-01-01T00:00:00Z,1827,"Kosrae,Micronesia",--,air,5.31,162.98,"5.31,162.98",Australia,FM,SM,,
+57bbaf7e7f658b5320d3f82b,Caloenas maculata,Liverpool pigeon,1850-01-01T00:00:00Z,1850,Tahiti,--,air,-17.67,149.9,"-17.67,-149.40",Australia,PF,SM,,
+57bbaf7e7f658b5320d3f82c,Gallinula silvestris,Makira woodhen,1950-01-01T00:00:00Z,1950,Solomon Islands,--,air,-9.64,160.156,"-9.64,160.156",Australia,SB,SM,,
+57bbaf7e7f658b5320d3f82d,Anas oustaleti,Mariana mallard,1970-01-01T00:00:00Z,1970,Northern Mariana Islands,--,air,15.04,145.63,"15.04,145.63",Australia,MP,SM,,
+57bbaf7e7f658b5320d3f82e,Porphyrio paepae,Marquesas swamphe,1900-01-01T00:00:00Z,1900,Marquesas Islands,--,air,9.75,-139.02,"-9.75,-139.02",Australia,PF,SM,,
+57bbaf7e7f658b5320d3f82f,Pomarea pomarea,Maupiti monarch,1820-01-01T00:00:00Z,1820,Maupiti,--,air,-16.44,-152.26,"-16.44,-152.26",Australia,PF,SM,,
+57bbaf7e7f658b5320d3f830,Porzana nigra,Miller's rail,1780-01-01T00:00:00Z,1780,Tahiti,--,air,-17.67,149.9,"-17.67,-149.40",Australia,PF,SM,,
+57bbaf7e7f658b5320d3f831,Aplonis mavornata,Mysterious starlin,1770-01-01T00:00:00Z,1770,Cook Islands,--,air,-21.23,159.78,"-21.23,-159.78",Australia,CK,SM,,
+57bbaf7e7f658b5320d3f832,Porphyrio kukwiedei,New Caledonian gallile,1444-01-01T00:00:00Z,1444,New Caledonia,--,air,-21.33,165042,"-21.33,165042",Australia,NC,SM,,
+57bbaf7e7f658b5320d3f833,Sylviornis neocaledoniae,New Caledonian giant scrubfowl,0001-01-01T00:00:00Z,-1500 BC,Fiji,-1500 BC,air,-17.85,177.98,"-17.85,177.98",Australia,FJ,SM,,
+57bbaf7e7f658b5320d3f834,Pomarea nukuhivae,Nuku Hiva monarch,1930-01-01T00:00:00Z,1930,Nuku Hiva,--,air,-8.86,-140.14,"-8.86,-140.14",Australia,PF,SM,,
+57bbaf7e7f658b5320d3f835,Eclectus infectus,Oceanic eclectus parrot,1790-01-01T00:00:00Z,1790,Tonga and Vanuatu,--,air,-17.85,177.98,"-17.85,177.98",Australia,FJ,SM,,
+57bbaf7e7f658b5320d3f836,Ptilinopus mercierii,Red-moustached fruit dove,1920-01-01T00:00:00Z,1920,Marquesas Islands,--,air,9.75,-139.02,"-9.75,-139.02",Australia,PF,SM,,
+57bbaf7e7f658b5320d3f837,Cyanoramphus ulietanus,Society parakeet,1770-01-01T00:00:00Z,1770,Raiatea,--,air,-16.81,-151.46,"-16.81,-151.46",Australia,PF,SM,,
+57bbaf7e7f658b5320d3f838,Gallirallus pacificus,Tahitian red-billed rat,1880-01-01T00:00:00Z,1880,Tahiti,--,air,-17.67,149.9,"-17.67,-149.40",Australia,PF,SM,,
+57bbaf7e7f658b5320d3f839,Prosobonia leucoptera,Tahiti sandpiper,1920-01-01T00:00:00Z,1920,Tahiti,--,air,-17.67,149.9,"-17.67,-149.40",Australia,PF,SM,,
+57bbaf7e7f658b5320d3f83a,Prosobonia ellisi,Moorea sandpiper,1850-01-01T00:00:00Z,1850,Moorea,--,air,-17.53,149.82,"-17.53,149.82",Australia,PF,SM,,
+57bbaf7e7f658b5320d3f83b,Prosobonia cancellata,Kiritimati sandpiper,1850-01-01T00:00:00Z,1850,Kiritimati,--,air,1.87,-157.36,"1.87,-157.36",Australia,KI,SM,,
+57bbaf7e7f658b5320d3f83c,Gallicolumba ferruginea,Tanna ground dove,1770-01-01T00:00:00Z,1770,Vanuatu,--,air,-15.37,166.95,"-15.37,166.95",Australia,VU,SM,,
+57bbaf7e7f658b5320d3f83d,Gallicolumba salamonis,Thick-billed ground dove,1920-01-01T00:00:00Z,1920,Solomon Islands,--,air,-9.64,160.156,"-9.64,160.156",Australia,SB,SM,,
+57bbaf7e7f658b5320d3f83e,Gallirallus hypoleucus,Tongatapu rail,1770-01-01T00:00:00Z,1770,Tonga,--,air,-17.85,177.98,"-17.85,177.98",Australia,FJ,SM,,
+57bbaf7e7f658b5320d3f83f,Gallirallus wakensis,Wake Island rail,1940-01-01T00:00:00Z,1940,Wake Island,--,air,-19.28,166.64,"-19.28,166.64",North America,US,SM,,
+57bbaf7e7f658b5320d3f840,Prosobonia ellisi,White-winged sandpiper,1770-01-01T00:00:00Z,1770,Moorea,--,air,-17.53,149.82,"-17.53,149.82",Australia,AU,SM,,
+57bbaf7e7f658b5320d3f841,Plethodon ainsworthi,Ainsworth's salamander,1960-01-01T00:00:00Z,1960,USA,--,land,37.11,-94.39,"37.11,-94.39",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f842,Craugastor escoces,Craugastor escoces,1980-01-01T00:00:00Z,1980,Costa Rica,--,land,9.74,-83.75,"9.74,-83.75",North America,CR,ZZ,,
+57bbaf7e7f658b5320d3f844,Aiolornis incredibilis,Aiolornis,0001-01-01T00:00:00Z,-11000 BC,North America,-11000 BC,air,40.22,-101.25,"40.22,-101.25",North America,US,SM,,
+57bbaf7e7f658b5320d3f845,Nesotrochis debooyi,Antillean cave rail,0001-01-01T00:00:00Z,-20000 BC,Virgin Islands,-20000 BC,air,18.41,-64.61,"18.41,-64.61",North America,VG,SM,,
+57bbaf7e7f658b5320d3f846,Nesotrochis debooyi,Antillean cave rail,0001-01-01T00:00:00Z,-20000 BC,Puerto Rico,-20000 BC,air,18.22,-66.59,"18.22,-66.59",North America,PR,SM,,
+57bbaf7e7f658b5320d3f847,Meleagris californica,Californian turkey,0001-01-01T00:00:00Z,-10000 BC,USA,"Died out toward end of last ice age, approx -10000 BC",air,40.22,-101.25,"40.22,-101.25",North America,US,SM,,
+57bbaf7e7f658b5320d3f848,Cathartornis gracilis,Cathartornis gracilis,0001-01-01T00:00:00Z,-10000 BC,USA,"Died out toward end of last ice age, approx -10000 BC",air,33.22,-90.25,"33.22,-90.25",North America,US,SM,,
+57bbaf7e7f658b5320d3f849,Chendytes lawi,Chendytes lawi,0001-01-01T00:00:00Z,-300 BC,Western USA Coast,A flightless seaduck that probably went extinct around -300 BC due to hunting,air,40.86,-120.93,"40.86,-120.93",North America,US,SM,,
+57bbaf7e7f658b5320d3f84a,Gymnogyps varonai,Cuban condor,0001-01-01T00:00:00Z,-9700 BC,Cuba,-9700 BC,air,21.52,-77.78,"21.52,-77.78",North America,CU,SM,,
+57bbaf7e7f658b5320d3f84b,Buteogallus daggetti,Daggett's eagle,0001-01-01T00:00:00Z,13000 BC,California,13000 BC,air,25.59,-99.99,"25.59,-99.99",North America,MX,SM,,
+57bbaf7e7f658b5320d3f84c,Buteogallus daggetti,Daggett's eagle,0030-01-01T00:00:00Z,1300 BC,"Nuevo Lean,Mexico",1300 BC,air,40.22,-101.25,"40.22,-101.25",North America,US,SM,,
+57bbaf7e7f658b5320d3f84d,Ciconia maltha,La Brea stork,0001-T00:00:00Z,-10000 BC,"Western,Southern USA","Died out toward end of last ice age, approx -10000 BC",air,36.25,-115.49,"36.25,-115.49",North America,US,SM,,
+57bbaf7e7f658b5320d3f84e,Ciconia maltha,La Brea stork,0001-T00:00:00Z,-10000 BC,Cuba,"Died out toward end of last ice age, approx -10000 BC",air,21.52,-77.78,"21.52,-77.78",North America,CU,SM,,
+57bbaf7e7f658b5320d3f84f,Teratornis merriami & Teratornis woodburnensis,Teratorns,0002-T00:00:00Z,-8000 BC,North America,-8000 BC,air,40.22,-101.25,"40.22,-101.25",North America,US,SM,,
+57bbaf7e7f658b5320d3f850,Amplibuteo woodwardi,Woodward's eagle,0001-T00:00:00Z,-20000 BC,Caribbean,-20000 BC,air,24.59,-78.02,"24.59,-78.02",North America,BS,SM,,
+57bbaf7e7f658b5320d3f851,Chirostoma bartoni,Alberca silverside,2006-T00:00:00Z,2006,"Lerma River Basin,Mexico","The Alberca silverside was found only in the Alberca Caldera, Guanajuato, Mexico. It became extinct when the caldera temporarily dried up in August 2006.",marine,19.86,-101.13,"19.86,-101.13",North America,MX,ZZ,,
+57bbaf7e7f658b5320d3f852,Oncorhynchus clarki alvordensis,Alvord cutthroat trout,1920-T00:00:00Z,1920,"Alvord Dry Lake,Oregon",--,marine,42.38,-118.61,"42.38,-118.61",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f853,Gambusia amistadensis,Amistad gambusia,1980-T00:00:00Z,1980,"Goodenough Spring,Texas",--,marine,29.54,-101.25,"29.54,-101.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f854,Empetrichthys merriami,Ash Meadows killifish,1940-T00:00:00Z,1940,"Ash Meadows,Nevada",--,marine,37.83,-94.36,"37.83,-94",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f855,Rhinichthys cataractae smithi,Banff longnose dace,1980-T00:00:00Z,1980,"Banff,Alberta",--,marine,51.17,-115.57,"51.17,-115.57",North America,CA,ZZ,,
+57bbaf7e7f658b5320d3f856,Coregonus nigripinnis,Blackfin cisco,1960-T00:00:00Z,1960,"Great Lakes,Canada and USA",--,marine,46.02,-87.71,"46.02,-87.71",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f857,Sander vitreus glaucus,Blue walleye,1980-T00:00:00Z,1980,"Great Lakes,Canada and USA",--,marine,46.02,-87.71,"46.02,-87.71",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f858,Pogonichthys ciscoides',Clear Lake splittail,1970-T00:00:00Z,1970,"Clear Lake,California",--,marine,50.65,-99.96,"50.65,-99.96",North America,CA,ZZ,,
+57bbaf7e7f658b5320d3f859,Coregonus johannae,Deepwater cisco,1950-T00:00:00Z,1950,"Great Lakes,Canada and USA",--,marine,46.02,-87.71,"46.02,-87.71",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f85a,Rhinichthys osculus reliquus,Grass Valley speckled dace,1930-T00:00:00Z,1930,"Lander County,Nevada",--,marine,40.05,-116.98,"40.05,-116.98",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f85b,Moxostoma lacerum,Harelip sucker,1890-T00:00:00Z,1890,Southeastern USA,--,marine,33.83,-85.08,"33.83,-85.08",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f85c,Gila bicolor isolata,Independence Valley tui chub,1970-T00:00:00Z,1970,"Independence Valley,Nevada",--,marine,41.35,-116.1,"41.35,-116.1",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f85d,Rhinichthys deaconi,Las Vegas dace,1980-T00:00:00Z,1980,"Las Vegas Valley,USA",--,marine,36.11,-115.17,"36.11,-115.17",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f85e,Coregonus alpenae,Longjaw cisco,1970-T00:00:00Z,1970,"Great Lakes,Canada and USA",--,marine,46.02,-87.71,"46.02,-87.71",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f85f,Etheostoma sellare,Maryland darter,1980-T00:00:00Z,1980,"Deer Creek,Maryland",--,marine,39.04,-76.45,"39.04,-76.45",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f860,Lepidomeda altivelis,Pahranagat spinedace,1930-T00:00:00Z,1930,"Pahranagat Valley,Nevada",--,marine,37.19,-115.04,"37.19,-115.04",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f861,Notropis orca,Phantom shiner,1970-T00:00:00Z,1970,"Rio Grande Basin,Mexico and USA",--,marine,28.27,-99.49,"28.27,-99.49",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f862,Gambusia georgei,San Marcos gambusia,1980-T00:00:00Z,1980,"San Marcos Spring,Texas",--,marine,38.8,-116.42,"38.8,-116.42",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f863,Noturus trautmani,Scioto madtom,1950-T00:00:00Z,1950,"Big Darby Creek,Ohio",--,marine,39.77,-83.1,"39.77,-83.1",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f864,Coregonus reighardi,Shortnose cisco,1980-T00:00:00Z,1980,"Great Lakes,Canada and USA",--,marine,46.02,-87.71,"46.02,-87.71",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f865,Salvelinus agassizi,Silver trout,1930-T00:00:00Z,1930,"Dublin Pond,New Hampshire",--,marine,42.9,-72.08,"42.9,-72.08",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f866,Cyprinodon nevadensis calidae,Tecopa pupfish,1970-T00:00:00Z,1970,"Majavo Desert Springs,California",--,marine,33.92,-116.51,"33.92,-116.51",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f867,Gila crassicauda,Thicktail chub,1950-T00:00:00Z,1950,Central Valley of California,--,marine,40.21,-111.8,"40.21,-111.8",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f868,Cottus echinatus,Utah Lake sculpin,1920-T00:00:00Z,1920,"Utah Lake,Utah",--,marine,40.21,-111.8,"40.21,-111.8",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f869,Oncorhynchus clarki macdonald,Yellowfin cutthroat trout,1900-T00:00:00Z,1900,"Twin Lakes,Colorado",--,marine,39.08,-106.38,"39.08,-106.38",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f86a,Oncorhynchus rastrosus,Saber-toothed salmon,0001-T00:00:00Z,-20000 BC,Western Coast of Canada and USA,-20000 BC,marine,48.24,-122.87,"48.24,-122.87",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f86b,Miracinonyx trumani* & *Miracinonyx inexpectatus,American cheetahs,0001-01-01T00:00:00Z,-11000 BC,North America,-11000 BC,land,40.22,-101.25,"40.22,-106.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f86c,Panthera leo atrox,American lion,0001-01-01T00:00:00Z,-11000 BC,"USA,Canada and Mexico",-11000 BC,land,56.21,-131.95,"56.21,-131.95",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f86d,Mammut americanum,American mastodon,0001-01-01T00:00:00Z,-8500 BC,USA and Canada,-8500 BC,land,36.21,-91.95,"36.21,-91.95",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f86e,Odocoileus lucasi,American mountain deer,0001-01-01T00:00:00Z,-10000 BC,USA,"Died out toward end of last ice age, approx -10000 BC",land,40.22,-101.25,"40.22,-101.25",North America,US,MD,,
+57bbaf7e7f658b5320d3f86f,Aztlanolagus agilis,Aztlanolagus agilis,0001-01-01T00:00:00Z,-10000 BC,Southeastern Arizona to Central America,"Died out toward end of last ice age, approx -10000 BC",land,13.95,-85.43,"13.95,-85.43",North America,NI,ZZ,,
+57bbaf7e7f658b5320d3f870,Dasypus bellus,Beautiful armadillo,0001-01-01T00:00:00Z,-8000 BC,USA to South America,-8000 BC,land,32.13,-102.83,"32.13,-102.83",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f871,Bison antiquus,Bison antiquus,0001-01-01T00:00:00Z,-10000 BC,USA and Canada,"Died out toward end of last ice age, approx -10000 BC",land,32.13,-102.83,"32.13,-102.83",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f872,Bison occidentalis,Bison occidentalis,0001-01-01T00:00:00Z,-5000 BC,Alaska to Minnesota,-5000 BC,land,57.86,-105.12,"50.86,-105.12",North America,CA,ZZ,,
+57bbaf7e7f658b5320d3f873,Amblyrhiza inundata,Blunt-toothed giant hutia,0001-01-01T00:00:00Z,-11000 BC,Northern Lesser Antilles,-11000 BC,land,16.3,-61.68,"16.3,-61.68",North America,GP,ZZ,,
+57bbaf7e7f658b5320d3f874,Tapirus californicus,California tapir,0001-01-01T00:00:00Z,-11000 BC,USA,-11000 BC,land,40.22,-101.25,"40.22,-101.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f875,Camelops,Camelops,0001-01-01T00:00:00Z,-8000 BC,USA and Mexico,-8000 BC,land,31.51,-106.26,"31.51,-106.26",North America,MX,ZZ,,
+57bbaf7e7f658b5320d3f876,Capromeryx minor,Capromeryx,0001-01-01T00:00:00Z,-11000 BC,USA and Mexico,-11000 BC,land,24.51,-130.26,"24.51,-130.26",North America,MX,ZZ,,
+57bbaf7e7f658b5320d3f877,Caribbean ground sloths,Caribbean ground sloths,0001-01-01T00:00:00Z,-5000 BC,Caribbean Islands,-5000 BC,land,21.6,-71.89,"21.6,-71.89",North America,TC,ZZ,,
+57bbaf7e7f658b5320d3f878,Mammuthus columbi,Columbian mammoth,0001-01-01T00:00:00Z,-5800 BC,USA and Mexico,-5800 BC,land,41.51,-120.26,"41.51,-126.26",North America,MX,ZZ,,
+57bbaf7e7f658b5320d3f879,Tapirus copei,Cope's tapir,0001-01-01T00:00:00Z,-11000 BC,USA,-11000 BC,land,40.22,-101.25,"40.22,-101.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f87a,Cuon alpinus,Dhole,0001-01-01T00:00:00Z,-11000 BC,North America,-11000 BC,land,36.22,-97.25,"36.22,-97.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f87b,Canis dirus,Dire wolf,0001-01-01T00:00:00Z,-8000 BC,North America,-8000 BC,land,38.22,-103.25,"38.22,-103.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f87c,Panthera leo spelaea,Eurasian cave lion,0001-01-01T00:00:00Z,-11000 BC,Canada and Alaska,-11000 BC,land,56.1304,106.347,"56.1304,106.347",Europe,RU,MD,,
+57bbaf7e7f658b5320d3f87d,Tremarctos floridanus,Florida spectacled bear,0001-01-01T00:00:00Z,-8000 BC,USA,-8000 BC,land,40.22,-101.25,"40.22,-101.25",North America,US,LG,,
+57bbaf7e7f658b5320d3f87e,Castoroides leiseyorum Castoroides ohioensis,Giant beaver,0001-01-01T00:00:00Z,-11000 BC,Canada and USA,-11000 BC,land,56.1304,106.347,"56.13,106.347",Europe,RU,MD,,
+57bbaf7e7f658b5320d3f87f,Glyptodon,Glyptodon,0001-01-01T00:00:00Z,-10000 BC,Central America,"Died out toward end of last ice age, approx -10000 BC",reptile,12.77,85.603,"12.77,85.603",North America,GU,MD,,
+57bbaf7e7f658b5320d3f881,Oreamnos harringtoni,Harrington's mountain goat,0001-01-01T00:00:00Z,-12000 BC,USA and Mexico,-12000 BC,land,28.51,-108.26,"28.51,-108.26",North America,MX,MD,,
+57bbaf7e7f658b5320d3f882,Holmesina septentrionalis,Holmesina septentrionalis,0001-01-01T00:00:00Z,-8000 BC,,-8000 BC,land,40.22,-101.25,"40.22,-101.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f883,Megalonyx,Jefferson's ground sloth,0001-01-01T00:00:00Z,-11000 BC,USA and Canada,-11000 BC,land,56.1304,106.35,"56.13,106.35",Europe,RU,MD,,
+57bbaf7e7f658b5320d3f884,Equus conversidens,Mexican horse,11000-01-01T00:00:00Z,1100,USA and Mexico,--,land,31.51,-106.26,"31.51,-106.26",North America,MX,MD,,
+57bbaf7e7f658b5320d3f886,Neochoerus aesopi,Neochoerus,11000-01-01T00:00:00Z,1100Z,Southeast USA to Panama,--,land,8.91,-82.42,"8.91,-82.42",North America,PA,ZZ,,
+57bbaf7e7f658b5320d3f887,Clidomys osborni,Osborn's key mouse,11000-01-01T00:00:00Z,1100Z,Jamaica,--,land,18.1,-77.29,"18.1,-77.29",North America,JM,SM,,
+57bbaf7e7f658b5320d3f888,Panthera onca augusta,Pleistocene North American jaguar,10001-01-01T00:00:00Z,1000Z,Panama to USA,--,land,8.91,-82.42,"8.91,-82.42",North America,PA,ZZ,,
+57bbaf7e7f658b5320d3f889,Eremotherium laurillardi,Panamerican ground sloth,11000-01-01T00:00:00Z,1100Z,USA to Panama,--,land,8.91,-82.42,"8.91,-82.42",North America,PA,ZZ,,
+57bbaf7e7f658b5320d3f88a,Paramylodon harlani,Paramylodon harlani,0001-01-01T00:00:00Z,-11000 BC,North America,-11000 BC,land,45.22,-92.25,"45.22,-92.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f88b,Elasmodontomys obliquus,Plate-toothed giant hutia,0001-01-01T00:00:00Z,-11000 BC,Puerto Rico,-11000 BC,land,18.22,-66.59,"18.22,-66.59",North America,PR,ZZ,,
+57bbaf7e7f658b5320d3f88c,Oregonensis bicalcaratus compressus intermedius,Platygonus,0001-01-01T00:00:00Z,-11000 BC,North America,-11000 BC,land,46.63,-107.75,"46.63,-107.75",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f88d,Mammuthus exilis,Pygmy mammoth,007-01-01T00:00:00Z,-11300 BC,"Channel Islands of California,USA",-11300 BC,land,34.01,-119.78,"34.01,-119.78",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f899,Palaeolama,Stout-legged llama,0001-01-01T00:00:00Z,-11000 BC,USA,-11000 BC,land,64.22,-131.25,"64.22,-131.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f88f,Saiga tatarica,Saiga antelope,0001-01-01T00:00:00Z,-10000 BC,North America,"Died out toward end of last ice age, approx -10000 BC",land,35.22,-111.25,"35.22,-111.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f890,Homotherium,Scimitar cats,0001-01-01T00:00:00Z,-10000 BC,"USA,Canada,Mexico","Died out toward end of last ice age, approx -10000 BC",land,38.11,-90.83,"38.11,-90.83",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f891,Nothrotheriops shastensis,Shasta ground sloth,0001-01-01T00:00:00Z,-10000,USA,-10000,land,29.11,-94.83,"29.11,-94.83",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f892,Equus scotti,Scott's horse,0001-01-01T00:00:00Z,-10000 BC,USA and Mexico,"Died out toward end of last ice age, approx -10000 BC",land,31.2,-105,"31.2,-105",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f896,Bison priscus,Steppe wisent,0001-01-01T00:00:00Z,-10000 BC,Alaska and Yukon,"Died out toward end of last ice age, approx -10000 BC",land,65.52,-143.86,"65.52,-143.86",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f897,Hemiauchenia,Stilt-legged llama,0001-01-01T00:00:00Z,-10000 BC,USA and Mexico,"Died out toward end of last ice age, approx -10000 BC",land,55.55,-85.4,"55.55,-85.4",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f898,Stockoceros onusrosagris,Stockoceros,0001-01-01T00:00:00Z,-10000 BC,Southwestern North America,"Died out toward end of last ice age, approx -10000 BC",land,48.22,-111.25,"48.22,-111.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f89a,Tapirus merriami,Tapir - Tapirus merriami,0001-01-01T00:00:00Z,-11000 BC,USA,-11000 BC,land,44.22,-97.25,"44.22,-97.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f89b,Quemisia gravis,Twisted-toothed mouse,0001-01-01T00:00:00Z,-11000 BC,Hispaniola,-11000 BC,land,18.022,-73.11,"18.022,-73.11",North America,DO,SM,,
+57bbaf7e7f658b5320d3f89c,Ursus maritimus tyrannus,Ursus maritimus Polar Bear,0001-01-01T00:00:00Z,-70000 BC,Arctic,-11000 BC,land,70.67,-107.06,"70.67,-107.06",North America,CA,ZZ,,
+57bbaf7e7f658b5320d3f89d,Equus occidentalis,Western horse,0001-01-01T00:00:00Z,-10000 BC,USA,--,land,36.22,-105.25,"36.22,-105.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f89e,Mammuthus primigenius,Woolly mammoth,0008-01-01T00:00:00Z,-2000 BC,Northern USA,-2000 BC,land,41.22,-106.25,"41.22,-106.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f89f,Equus lambei,Yukon horse,0001-01-01T00:00:00Z,-11000 BC,USA and Canada,"Equus lambei ranged across North America until approximately 10,000 years ago. It probably was much like the extinct Tarpan and the living Przewalski's Horse of today.",land,59.17,-136.89,"59.17,-136.89",North America,CA,ZZ,,
+57bbaf7e7f658b5320d3f8a0,Megalomys desmarestii,Antillean giant rice rat,1900-01-01T00:00:00Z,1900,France (Martinique),--,land,14.71,-61.06,"14.71,-61.06",North America,MQ,SM,,
+57bbaf7e7f658b5320d3f8a1,Canis lupus bernard,Banks Island wolf,1920-01-01T00:00:00Z,1920,Canada,--,land,73.06,-120.73,"73.06,-120.73",North America,CA,ZZ,,
+57bbaf7e7f658b5320d3f8a2,Procyon lotor gloverallen,Barbados raccoon,1960-01-01T00:00:00Z,1960,Barbados,--,land,13.16,-59.55,"13.16,-59.55",North America,BB,ZZ,,
+57bbaf7e7f658b5320d3f8a3,Neotoma bunkeri,Bunker's woodrat,1930-01-01T00:00:00Z,1930,Mexico (Coronados Islands),--,land,26.11,-111.55,"26.11,-111.55",North America,MX,ZZ,,
+57bbaf7e7f658b5320d3f8a4,Ursus arctos californicu,California golden bear,1920-01-01T00:00:00Z,1920,California,--,land,41.22,-106.25,"41.22,-106.25",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8a5,Monachus tropicalis,Caribbean monk seal,1950-01-01T00:00:00Z,1950,Caribbean Sea,--,land,24.58,-101.25,"24.58,-101.25",North America,MX,ZZ,,
+57bbaf7e7f658b5320d3f8a6,Canis lupus fuscu,Cascade mountain wolf,1940-01-01T00:00:00Z,1940,Canada and USA,--,land,44.21,-104.95,"44.21,-104.95",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8a7,Geocapromys columbianus,Cuban coney,1500-01-01T00:00:00Z,1500,Cuba,--,land,23.52,-74.78,"23.52,-74.78",North America,CU,ZZ,,
+57bbaf7e7f658b5320d3f8a8,Puma concolor cougua,Eastern cougar,2011-01-01T00:00:00Z,2011,Eastern Canada and USA,--,land,45.46,-70.58,"45.46,-70.58",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8a9,Cervus canadensis canadiensi,Eastern elk,1880-01-01T00:00:00Z,1880,Eastern Canada and USA,--,land,46.46,-68.58,"46.46,-68.58",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8aa,Geomys pinetis goff,Goff's pocket gopher,1950-01-01T00:00:00Z,1950,Florida,--,land,28.7,-81.65,"28.7,-81.65",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8ab,Microtus pennsylvanicus nesophilu,Gull Island vole,1890-01-01T00:00:00Z,1890,"Gull Island,New York",--,land,42.53,-82.68,"42.53,-82.68",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8ac,Heteropsomys insulans,Hispaniolan edible rat,1500-01-01T00:00:00Z,1500,Hispaniola,--,land,19.022,-71.11,"19.022,-71.11",North America,DO,SM,,
+57bbaf7e7f658b5320d3f8ad,Heteropsomys insulans,Insular cave rat,1600-01-01T00:00:00Z,1600,Puerto Rico,--,land,18.22,-66.59,"18.22,-66.59",North America,PR,SM,,
+57bbaf7e7f658b5320d3f8ae,Hexolobodon phenax,Imposter hutia,1500-01-01T00:00:00Z,1500,Hispaniola,--,land,19.022,-71.11,"19.022,-71.11",North America,DO,ZZ,,
+57bbaf7e7f658b5320d3f8af,Xenothrix mcgregori,Jamaican monkey,1500-01-01T00:00:00Z,1500,Jamaica,--,land,18.1,-77.29,"18.1,-77.29",North America,JM,ZZ,,
+57bbaf7e7f658b5320d3f8b0,Oryzomys antillarum,Jamaican rice rat,1870-01-01T00:00:00Z,1870,Jamaica,--,land,14.1,-67.29,"14.1,-67.29",North America,JM,SM,,
+57bbaf7e7f658b5320d3f8b1,Geocapromys thoracatus,Little Swan Island hutia,1950-01-01T00:00:00Z,1950,"Swan Islands,Honduras","A slow-moving, guinea-pig-like rodent disappeared after a severe hurricane (Hurricane Janet) in 1950, followed by the introduction of house cats to the island.",land,17.41,-83.92,"17.41,83.92",North America,HN,ZZ,,
+57bbaf7e7f658b5320d3f8b2,Solenodon marcanoi,Marcano's solenodon,1500-01-01T00:00:00Z,1500,Hispaniola,--,land,22.022,-73.11,"22.022,-73.11",North America,DO,ZZ,,
+57bbaf7e7f658b5320d3f8b3,Cervus canadensis merriam,Merriam's elk,1900-01-01T00:00:00Z,1900,Southwestern USA,--,land,34.97,-107.93,"34.97,-107.93",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8b4,Ursus arctos nelson,Mexican grizzly bear,1960-01-01T00:00:00Z,1960,Mexico and Southwestern USA,--,land,31.9,-109.93,"31.9,-109.93",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8b5,Isolobodon montanus,Montane hutia,1500-01-01T00:00:00Z,1500,Hispaniola,--,land,19.022,-71.11,"19.022,-69.11",North America,DO,ZZ,,
+57bbaf7e7f658b5320d3f8b6,Oryzomys nelsoni,Nelson's rice rat,1890-01-01T00:00:00Z,1890,"Maraa Madre Island,Mexico",--,land,21.63,-106.57,"21.63,-106.57",North America,MX,SM,,
+57bbaf7e7f658b5320d3f8b7,Pennatomys nivalis,Nevis rice rat,1500-01-01T00:00:00Z,1500,Netherlands (Sint Eustatius) & Saint Kitts and Nevis,--,land,17.14,-65.57,"17.14,-65.57",Europe,NE,SM,,
+57bbaf7e7f658b5320d3f8b8,Canis lupus beothuc,Newfoundland wolf,1910-01-01T00:00:00Z,1910,Newfoundland,--,land,48.61,-55.7,"48.61,-55.7",North America,CA,ZZ,,
+57bbaf7e7f658b5320d3f8b9,Boromys offella,Oriente cave rat,1500-01-01T00:00:00Z,1500,Cuba,--,land,21.52,-77.78,"21.52,-77.78",North America,CU,SM,,
+57bbaf7e7f658b5320d3f8ba,Peromyscus polionotus decoloratu,Pallid beach mouse,1950-01-01T00:00:00Z,1950,Florida,--,land,29.21,-81.89,"29.21,81.89",North America,US,SM,,
+57bbaf7e7f658b5320d3f8bb,Isolobodon portoricensis,Puerto Rican hutia,1600-01-01T00:00:00Z,1600,Hispaniola,--,land,17.022,-70.11,"17.022,-70.11",North America,DO,ZZ,,
+57bbaf7e7f658b5320d3f8 bc,Isolobodon portoricensis,Puerto Rican hutia,1600-01-01T00:00:00Z,1600,Puerto Rico,--,land,19.22,-67.59,"19.22,-67.59",North America,PR,ZZ,,
+57bbaf7e7f658b5320d3f8bd,Monophyllus frate,Puerto Rican long-nosed bat,1600-01-01T00:00:00Z,1600,Puerto Rico,--,land,18.22,-66.59,"18.22,-66.59",North America,PR,ZZ,,
+57bbaf7e7f658b5320d3f8be,Megalomys luciae1,Santa Lucian giant rice rat,1850-01-01T00:00:00Z,1850,St. Lucia,--,land,13.91,-60.97,"13.91,-60.97",North America,LC,SM,,
+57bbaf7e7f658b5320d3f8bf,Oligoryzomys victus,Saint Vincent pygmy rice rat,1890-01-01T00:00:00Z,1890,St. Vincent,--,land,13.91,-60.97,"13.91,-60.97",North America,LC,SM,,
+57bbaf7e7f658b5320d3f8c0,Plagiodontia ipnaeum,Samana hutia,1500-01-01T00:00:00Z,1500,Hispaniola,--,land,20,-71,"20,-71",North America,DO,ZZ,,
+57bbaf7e7f658b5320d3f8c1,Neotoma martinensis,San Martan Island woodrat,1950-01-01T00:00:00Z,1950,"San Martan Island,Mexico",--,land,30.49,-116.11,"30.49,-116.11",North America,MX,ZZ,,
+57bbaf7e7f658b5320d3f8c2,Neovison macrodon,Sea mink,1860-01-01T00:00:00Z,1860,Atlantic Canada and New England,--,land,47.27,-68.45,"47.27,-68.45",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8c3,Sylvilagus floridanus hitchens,Smith Island cottontail,1980-01-01T00:00:00Z,1980,"Smith Island,Virginia",--,land,37.98,-76.03,"37.98,-76.03",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8c4,Vulpes macrotis macroti,Southern California kit fox,1900-01-01T00:00:00Z,1900,"Southern California,USA",--,land,35.46,-118.21,"35.46,-118.21",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8c5,Canis lupus young,Southern Rocky Mountains wolf,1930-01-01T00:00:00Z,1930,"Southern Rocky Mountains,USA",--,land,36.14,-106.7,"36.14,-106.7",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8c6,Hydrodamalis gigas,Steller's sea cow,1760-01-01T00:00:00Z,1760,Commander Islands,"Related to the dugong. Within 27 years of discovery by Europeans, the slow-moving and easily captured Steller's sea cow was hunted to extinction.",land,54.98,166.32,"54.98,166.32",Europe,RU,ZZ,,
+57bbaf7e7f658b5320d3f8c7,Thomomys mazama tacomensi,Tacoma pocket gopher,1970-01-01T00:00:00Z,1970,Washington,--,land,47.56,-119.99,"47.56,-119.99",North America,US,ZZ,,
+57bbaf7e7f658b5320d3f8c8,Boromys torrei,Torre's cave rat,1500-01-01T00:00:00Z,1500,Cuba,--,land,21.52,-77.78,"21.52,-77.78",North America,CU,SM,,
+57bbaf7e7f658b5320d3f8c9,Sorex ornatus juncensi,Tule shrew,1900-01-01T00:00:00Z,1900,"Baja California,Mexico",--,land,28.93,-113.9,"28.93,-113.9",North America,MX,ZZ,,
+57bbaf7e7f658b5320d3f8ca,Nesphontes,Nesphontes,1500-01-01T00:00:00Z,1500,Cuba,Some authorities estimate extinction coinciding with the arrivals of rats (Rattus) aboard Spanish vessels in the early 16th century,land,21.52,-77.78,"21.52,-77.78",North America,CU,ZZ,,
+57bbaf7e7f658b5320d3f8cb,Nesphontes,Nesphontes,1500-01-01T00:00:00Z,1500,Hispaniola,Some authorities estimate extinction coinciding with the arrivals of rats (Rattus) aboard Spanish vessels in the early 16th century,land,19.02,-71.11,"19.02,-71.11",North America,DO,ZZ,,
+57bbaf7e7f658b5320d3f8cc,Nesphontes,,1500-01-01T00:00:00Z,1500,Puerto Rico,Some authorities estimate extinction coinciding with the arrivals of rats aboard Spanish vessels in the early 16th century,land,18.22,-66.59,"18.22,-66.59",North America,PR,ZZ,West Indies Shrew,
+57bbaf7e7f658b5320d3f8cd,Ameiva cineracea,,1920-01-01T00:00:00Z,1920,France (Guadeloupe),Its extinction likely occurred when this area was decimated by a hurricane in 1928,reptile,16.2,-61.67,"16.2,-61.67",North America,GP,SM,,Guadeloupe ameiva lizard
+57bbaf7e7f658b5320d3f8ce,Celestus occiduus,Jamaica giant galliwasp Lizard,1840-01-01T00:00:00Z,1840,Jamaica,--,reptile,18.1,-77.29,"18.1,-77.29",North America,JM,SM,,
+57bbaf7e7f658b5320d3f8cf,Leiocephalus herminieri,Martinique curly-tailed lizard,1830-01-01T00:00:00Z,1830,France (Martinique),--,reptile,14.71,-61.06,"14.71,-61.06",North America,MQ,SM,,
+57bbaf7e7f658b5320d3f8d0,Leiocephalus eremitus,Navassa curly-tailed lizard,1910-01-01T00:00:00Z,1910,"Navassa Island,USA",--,reptile,18.4,-75.01,"18.4,-75.01",North America,US,SM,,
+57bbaf7e7f658b5320d3f8d1,Tropidophis bucculentus,Navassa Island dwarf boa,1870-01-01T00:00:00Z,1870,"Navassa Island,USA",--,reptile,18,-74.97,"18.0,-74.97",North America,US,MD,,
+57bbaf7e7f658b5320d3f8d2,Cyclura cornuta onchiopsis,Navassa Island iguana,1880-01-01T00:00:00Z,1880,"Navassa Island,USA",--,reptile,18.4,-75.01,"18.4,-75.01",North America,US,ZZ,,
+57b7c81fa63e484229d311b0,Aplonis fusca,Tasman starling,1920-01-01T00:00:00Z,1920,"Norfolk Island and Lord Howe Island,New South Wales","Last recorded 1920. Competition from introduced European starling,song thrush and common blackbird,clearance for agriculture. Predation from introduced black rats.",air,-29.04,167.95,"-29.04,167.95",Australia,NF,SM,,
