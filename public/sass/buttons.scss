@@ -3,21 +3,33 @@ $again: rgb(194,26,1);
 $damn-good: rgb(163,0,6);
 $means: rgb(107,1,3);
 $map-gray: rgb(36,36,38);
+$footer-gray: lighten($map-gray, 5%);
 
 .button-jar {
   display: flex;
   flex-direction: column;
-  background-color: darken($means, 10%);
+  background-color: $map-gray;
   width: 30%;
-  color: rgb(254,60,50);
+  color: lighten($footer-gray, 15%);
+  div{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left;
+    margin-top: 8.5%;
+  }
+  h3{
+    font-weight: bold;
+    text-align: left;
+    color: lighten($footer-gray, 25%);
+  }
 }
 
 #control-panel{
   width: 100%;
   display: flex;
-  background-color: $means;
+  background-color: $map-gray;
   flex-direction: column;
-  color: rgb(254,60,50);
+  color: lighten($footer-gray, 15%);
   div{
     display: flex;
     justify-content: center;
@@ -26,7 +38,7 @@ $map-gray: rgb(36,36,38);
     margin-right: 10%;
     border: 2px solid;
     border-left: 10px solid;
-    border-color: $hipster-red;
+    border-color: $again;
     width: 75%;
     padding-top: 5px;
     padding-bottom: 5px;

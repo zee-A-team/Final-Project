@@ -88,7 +88,7 @@ function BarChart() {
   my.when(['box', 'margin'], (box, margin) => {
     my.innerBox = {
       width: box.width - margin.left - margin.right,
-      height: (box.height - margin.top - margin.bottom) / 3.25,
+      height: (box.height - margin.top - margin.bottom) / 8,
     };
     svg
       .attr('width', box.width)

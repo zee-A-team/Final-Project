@@ -14,8 +14,8 @@ document.getElementById('toggleHemiChart').addEventListener('click', () => {
           ],
           type: 'pie',
           colors: {
-            'Northern Hemisphere': '#599bb3',
-            'Southern Hemisphere': '#ffffff',
+            'Northern Hemisphere': '#F03C02',
+            'Southern Hemisphere': '#C21A01',
           },
           size: {
             width: 640
@@ -38,8 +38,8 @@ document.getElementById('toggleEuChart').addEventListener('click', () => {
           ],
           type: 'pie',
           colors: {
-            'Europe': '#599bb3',
-            'World': '#ffffff',
+            'Europe': '#F03C02',
+            'World': '#C21A01',
           },
           size: {
             width: 640
@@ -62,8 +62,8 @@ document.getElementById('toggleAsiaChart').addEventListener('click', () => {
           ],
           type: 'pie',
           colors: {
-            'Asia': '#599bb3',
-            'World': '#ffffff',
+            'Asia': '#F03C02',
+            'World': '#C21A01',
           },
           size: {
             width: 640
@@ -86,8 +86,8 @@ document.getElementById('toggleAfricaChart').addEventListener('click', () => {
           ],
           type: 'pie',
           colors: {
-            'Africa': '#599bb3',
-            'World': '#ffffff',
+            'Africa': '#F03C02',
+            'World': '#C21A01',
           },
           size: {
             width: 640
@@ -110,8 +110,8 @@ document.getElementById('toggleNaChart').addEventListener('click', () => {
           ],
           type: 'pie',
           colors: {
-            'North America': '#599bb3',
-            'World': '#ffffff',
+            'North America': '#F03C02',
+            'World': '#C21A01',
           },
           size: {
             width: 640
@@ -134,8 +134,8 @@ document.getElementById('toggleSaChart').addEventListener('click', () => {
           ],
           type: 'pie',
           colors: {
-            'South America': '#599bb3',
-            'World': '#ffffff',
+            'South America': '#F03C02',
+            'World': '#C21A01',
           },
           size: {
             width: 640
@@ -158,8 +158,8 @@ document.getElementById('toggleAuChart').addEventListener('click', () => {
           ],
           type: 'pie',
           colors: {
-            'Australia': '#599bb3',
-            'World': '#ffffff',
+            'Australia': '#F03C02',
+            'World': '#C21A01',
           },
           size: {
             width: 640
@@ -182,8 +182,8 @@ document.getElementById('toggleTerrChart').addEventListener('click', () => {
           ],
           type: 'pie',
           colors: {
-            'Terrestrial': '#599bb3',
-            'Rest': '#ffffff',
+            'Terrestrial': '#F03C02',
+            'Rest': '#C21A01',
           },
           size: {
             width: 640
@@ -206,8 +206,8 @@ document.getElementById('toggleAquaChart').addEventListener('click', () => {
           ],
           type: 'pie',
           colors: {
-            'Aquatic': '#599bb3',
-            'Rest': '#ffffff',
+            'Aquatic': '#F03C02',
+            'Rest': '#C21A01',
           },
           size: {
             width: 640
@@ -230,8 +230,8 @@ document.getElementById('toggleAvianChart').addEventListener('click', () => {
           ],
           type: 'pie',
           colors: {
-            'Avian': '#599bb3',
-            'Rest': '#ffffff',
+            'Avian': '#F03C02',
+            'Rest': '#C21A01',
           },
           size: {
             width: 640
@@ -254,7 +254,7 @@ document.getElementById('toggleAvianChart').addEventListener('click', () => {
 //           ],
 //           type: 'pie',
 //           colors: {
-//             'Avian': '#599bb3',
+//             'Avian': '#F03C02',
 //             'Rest': '#ffffff',
 //           },
 //           size: {
