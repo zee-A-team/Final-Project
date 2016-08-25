@@ -168,13 +168,16 @@ function BubbleMap() {
         circleMarker = L.circleMarker(markerCenter, {
           color: getMeRandomColors('red'),
           weight: 3,
-          clickable: true,
+          clickable: true
         });
         circleMarker.bindPopup(daData.common_name);
         circleMarker.setRadius(rData(daData));
         circleMarker.on('mouseover', function(e) {
           //open popup;
-          var popup = L.popup()
+          var popup = L.popup({
+            closeOnClick : true,
+            closeButton: false
+          })
            .setLatLng(e.latlng)
            .setContent(daData.common_name+" "+daData.year)
            .openOn(my.map);
@@ -191,7 +194,10 @@ function BubbleMap() {
         circleMarker.setRadius(rData(daData));
         circleMarker.on('mouseover', function(e) {
           //open popup;
-          var popup = L.popup()
+          var popup = L.popup({
+            closeOnClick : true,
+            closeButton: false
+          })
            .setLatLng(e.latlng)
            .setContent(daData.common_name+" "+daData.year)
            .openOn(my.map);
@@ -210,7 +216,10 @@ function BubbleMap() {
 
         circleMarker.on('mouseover', function(e) {
           //open popup;
-          var popup = L.popup()
+          var popup = L.popup({
+            closeOnClick : true,
+            closeButton: false
+          })
            .setLatLng(e.latlng)
            .setContent(daData.common_name+" "+daData.year)
            .openOn(my.map);

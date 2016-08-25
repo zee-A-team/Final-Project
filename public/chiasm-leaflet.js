@@ -12,8 +12,8 @@ const ChiasmLeaflet = () => {
   my.map = L.map(my.el, {
     zoom: 5,
     inertia: true,
-    inertiaMaxSpeed:1500,
-    inertiaThreshold:32,
+    inertiaMaxSpeed: 1500,
+    inertiaThreshold: 32,
     minZoom: 2,
     maxZoom: 5,
     center: [40.7127837, -74.0059413],
