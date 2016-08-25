@@ -11,11 +11,12 @@ const ChiasmLeaflet = () => {
   d3.select(my.el).style('background-color', '#242325');
   my.map = L.map(my.el, {
     zoom: 5,
-    inertia: true,
-    inertiaMaxSpeed: 1500,
-    inertiaThreshold: 32,
-    minZoom: 2,
-    maxZoom: 5,
+    // inertia: true,
+    // inertiaMaxSpeed:1500,
+    // inertiaThreshold:32,
+    // scrollWheelZoom: false,
+    // minZoom: 2,
+    // maxZoom: 5,
     center: [40.7127837, -74.0059413],
     zoomControl: true,
     attributionControl: false,
@@ -32,6 +33,9 @@ const ChiasmLeaflet = () => {
    noWrap: true,
    reuseTiles: true,
  }).addTo(my.map);
+
+
+
 
   const getCenter = () => {
     const center = my.map.getCenter();
