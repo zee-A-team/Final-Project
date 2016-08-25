@@ -9,8 +9,6 @@ function BubbleMap() {
 
   const my = ChiasmLeaflet();
 
-
-
   var MyCustomMarker = L.Marker.extend({
       bindPopup: function(htmlContent, options) {
       if (options && options.showOnMouseOver) {
@@ -161,6 +159,10 @@ function BubbleMap() {
         return randomColor;
       }
 
+      function toTitleCase(str){
+        return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+      }
+      daData.common_name = toTitleCase(daData.common_name);
 
       if (aniType === 'land') {
         circleMarker = L.circleMarker(markerCenter, {
@@ -170,6 +172,13 @@ function BubbleMap() {
         });
         circleMarker.bindPopup(daData.common_name);
         circleMarker.setRadius(rData(daData));
+        circleMarker.on('mouseover', function(e) {
+          //open popup;
+          var popup = L.popup()
+           .setLatLng(e.latlng)
+           .setContent(daData.common_name+" "+daData.year)
+           .openOn(my.map);
+        });
         circleMarker.addTo(my.map);
       }
       else if (aniType ==='air') {
@@ -180,6 +189,13 @@ function BubbleMap() {
         });
         circleMarker.bindPopup(daData.common_name);
         circleMarker.setRadius(rData(daData));
+        circleMarker.on('mouseover', function(e) {
+          //open popup;
+          var popup = L.popup()
+           .setLatLng(e.latlng)
+           .setContent(daData.common_name+" "+daData.year)
+           .openOn(my.map);
+        });
         circleMarker.addTo(my.map);
       }
       else if (aniType ==='marine') {
@@ -191,8 +207,28 @@ function BubbleMap() {
         let addMe = getMeRandomSize();
         circleMarker.bindPopup(daData.common_name);
         circleMarker.setRadius(rData(daData));
+
+        circleMarker.on('mouseover', function(e) {
+          //open popup;
+          var popup = L.popup()
+           .setLatLng(e.latlng)
+           .setContent(daData.common_name+" "+daData.year)
+           .openOn(my.map);
+        });
         circleMarker.addTo(my.map);
       }
+
+
+
+      // var myLayer = new L.GeoJSON();
+      // myLayer.on("featureparse", function (e){
+      //   e.layer.setStyle(e.properties.style);
+      //   e.layer.on("mouseover", function () { alert("ON!") });
+      //   e.layer.on("mouseoff", function () { alert("OFF") });
+      //  });
+      // myLayer.addGeoJSON(circleMarker);
+      // my.map.addLayer(myLayer);
+
 
       // circleMarker.bindPopup(daData.common_name);
       // circleMarker.setRadius(r(daData));

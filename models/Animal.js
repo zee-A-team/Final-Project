@@ -14,6 +14,7 @@ const animalSchema = new Schema({
   latlong: String,
   country: String,
   continent: String,
+  year: String,
 });
 
 module.exports = mongoose.model('animals', animalSchema);
