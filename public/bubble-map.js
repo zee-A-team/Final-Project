@@ -161,17 +161,13 @@ function BubbleMap() {
       ];
 
       function getMeRandomColors(randParam) {
-        let randomIndex;
         let randomColor;
         if (randParam === 'red') {
-          randomIndex = Math.floor(Math.random() * redArr.length);
-          randomColor = redArr[randomIndex];
+          randomColor = redArr[Math.floor(Math.random() * redArr.length)];
         } else if (randParam === 'blue') {
-          randomIndex = Math.floor(Math.random() * blueArr.length);
-          randomColor = blueArr[randomIndex];
+          randomColor = blueArr[Math.floor(Math.random() * blueArr.length)];
         } else if (randParam === 'yellow') {
-          randomIndex = Math.floor(Math.random() * yellowArr.length);
-          randomColor = yellowArr[randomIndex];
+          randomColor = yellowArr[Math.floor(Math.random() * yellowArr.length)];
         }
         return randomColor;
       }
@@ -189,16 +185,14 @@ function BubbleMap() {
           clickable: true,
         });
 
-      }
-      else if (aniType === 'air') {
+      } else if (aniType === 'air') {
         circleMarker = L.circleMarker(markerCenter, {
           color: getMeRandomColors('yellow'),
           weight: 1,
           clickable: true,
         });
 
-      }
-      else {
+      } else {
         circleMarker = L.circleMarker(markerCenter, {
           color: getMeRandomColors('blue'),
           weight: 2,
