@@ -18,18 +18,6 @@ body {
   right:0;
   left:0;
 }
-.leaflet-popup-content-wrapper {
-  background:$means;
-  color: #fe3c32;
-  line-height:16px;
-}
-.leaflet-popup-tip-container {
-  width:30px;
-  height:15px;
-}
-.leaflet-popup-tip {
-  border:300px solid transparent;
-}
 
 #chiasm-container {
   border-style: solid;
@@ -43,7 +31,6 @@ body {
   max-height: 80%;
   min-height: 80%;
 }
-
 
 .graticule {
   fill: none;
@@ -68,16 +55,15 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin-top: -10%;
+  margin-top: -7.5%;
   height:30%;
 }
 
-
-
 h3 {
   margin-left: 10%;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  font-size: 16px;
 }
 
 #chart-viewer1 {
@@ -111,18 +97,12 @@ h3 {
   align-items: stretch;
 }
 
-path.leaflet-clickable {
-}
-
 
 .chiasm-component-date-chart{
   background: darken($map-gray, 10%);
   color : white;
- svg {
-  text {
-    color: white;
-  }
-  height: 80px;
+  svg {
+    height: 80px;
   }
 }
 
@@ -164,4 +144,20 @@ path.leaflet-clickable {
 .axis-label {
   text-anchor: middle;
   font-size: 1.1em;
+}
+
+.leaflet-popup-content-wrapper {
+  background:$means !important;
+  color: #fe3c32;
+  line-height:16px;
+}
+.leaflet-popup-tip-container {
+  width:30px;
+  height:15px;
+}
+.leaflet-popup-tip {
+  border:300px solid transparent;
+}
+.leaflet-popup-close-button {
+  color: #F03C02 !important;
 }
