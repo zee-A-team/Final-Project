@@ -15,7 +15,7 @@ function xAxis(my, g) {
 
       const text = axisG.selectAll('text')
         .attr('transform', `rotate(-${xAxisTickAngle})`)
-        .style('stroke', '#fff');
+        .style('stroke', '#bfbfbf');
       if (xAxisTickAngle > 45) {
         text
           .attr('dx', '-0.9em')
