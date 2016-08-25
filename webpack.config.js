@@ -30,6 +30,8 @@ module.exports = {
       ],
     },
     {
+      test: /\.(woff|svg|ttf|eot)([\?]?.*)$/, loader: "file-loader?name=[name].[ext]"},
+    {
       test: /\.(jpe?g|png|gif|svg)$/i,
       loaders: [
         'file?hash=sha512&digest=hex&name=[hash].[ext]',

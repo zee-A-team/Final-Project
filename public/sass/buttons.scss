@@ -1,68 +1,51 @@
-.button-jar > button {
-  // filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#5CA2326', endColorstr='#5CA2326',GradientType=0);
-  letter-spacing: 1px;
-  // display:inline-block;
-  cursor:pointer;
-  color:#ffffff;
-  font-family:sans-serif;
-  font-size:15px;
-  text-decoration:none;
-  transition: background-color 0.5s ease-in-out;
-  background-color:#6B0103;
-  color: white;
-}
-
-.button-jar > button:nth-child(2) {
-    background: #6B0103;
-}
-.button-jar > button:nth-child(3) {
-    background: #A30006;
-}
-.button-jar > button:nth-child(4) {
-    background: #C21A01;
-}
-.button-jar > button:nth-child(5) {
-    background: #F03C02;
-}
-.button-jar > button:nth-child(6) {
-    background: #fd490f;
-}
-.button-jar > button:hover {
-  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #408c99), color-stop(1, #599bb3));
-  background:-moz-linear-gradient(top, #408c99 5%, #599bb3 100%);
-  background:-webkit-linear-gradient(top, #408c99 5%, #599bb3 100%);
-  background:-o-linear-gradient(top, #408c99 5%, #599bb3 100%);
-  background:-ms-linear-gradient(top, #408c99 5%, #599bb3 100%);
-  background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
-  background-color: #F03C02;
-
-}
-.button-jar > button:active {
-  position:relative;
-  top:1px;
-}
-
-.chart-selector > button {
-  background-color:#ededed;
-  display:inline-block;
-  cursor:pointer;
-  color:#F03C02;
-  font-family:sans-serif;
-  font-size:10px;
-  text-decoration:none;
-}
-.chart-selector > button:hover {
-  background-color:#bab1ba;
-}
-.chart-selector > button:active {
-  position:relative;
-  top:1px;
-}
+$hipster-red: rgb(240,60,2);
+$again: rgb(194,26,1);
+$damn-good: rgb(163,0,6);
+$means: rgb(107,1,3);
+$map-gray: rgb(36,36,38);
+$footer-gray: lighten($map-gray, 5%);
 
 .button-jar {
   display: flex;
   flex-direction: column;
-  background-color: #000000;
+  background-color: $map-gray;
   width: 30%;
+  color: lighten($footer-gray, 15%);
+  div{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left;
+    margin-top: 8.5%;
+  }
+  h3{
+    font-weight: bold;
+    text-align: left;
+    color: lighten($footer-gray, 25%);
+  }
+}
+.button-jar div {
+  cursor: pointer;
+}
+
+#control-panel{
+  width: 100%;
+  display: flex;
+  background-color: $map-gray;
+  flex-direction: column;
   color: rgb(254,60,50);
+  div {
+    cursor: pointer;
+    color: lighten($footer-gray, 15%);
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 2px solid;
+    border-left: 10px solid;
+    border-color: $again;
+    width: 75%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
 }

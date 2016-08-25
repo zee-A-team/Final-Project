@@ -59,6 +59,7 @@ const ChiasmLeaflet = () => {
     });
     my.map.on('move', onMove);
   };
+
  function contiCenterZoom(toggles, center, zoom) {
     document.getElementById(toggles).addEventListener('click', () => {
       setCenter(center);

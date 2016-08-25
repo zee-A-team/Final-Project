@@ -187,8 +187,6 @@ module.exports = (function() {
     });
   }
 
-
-
   return {
     hemiChart: __hemiChart,
     euChart: __euChart,

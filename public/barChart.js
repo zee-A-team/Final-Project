@@ -14,7 +14,8 @@ function xAxis(my, g) {
       axisG.call(axis);
 
       const text = axisG.selectAll('text')
-        .attr('transform', `rotate(-${xAxisTickAngle})`);
+        .attr('transform', `rotate(-${xAxisTickAngle})`)
+        .style('stroke', 'rgb(107,1,3)');
       if (xAxisTickAngle > 45) {
         text
           .attr('dx', '-0.9em')
@@ -88,7 +89,7 @@ function BarChart() {
   my.when(['box', 'margin'], (box, margin) => {
     my.innerBox = {
       width: box.width - margin.left - margin.right,
-      height: (box.height - margin.top - margin.bottom) / 3.25,
+      height: (box.height - margin.top - margin.bottom) / 8,
     };
     svg
       .attr('width', box.width)
