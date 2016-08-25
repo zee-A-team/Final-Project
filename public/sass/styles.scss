@@ -18,6 +18,18 @@ body {
   right:0;
   left:0;
 }
+.leaflet-popup-content-wrapper {
+  background:$means !important;
+  color: #fe3c32;
+  line-height:16px;
+}
+.leaflet-popup-tip-container {
+  width:30px;
+  height:15px;
+}
+.leaflet-popup-tip {
+  border:300px solid transparent;
+}
 
 #chiasm-container {
   border-style: solid;
@@ -55,7 +67,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin-top: -7.5%;
+  margin-top: -7.25%;
   height:30%;
 }
 
@@ -70,6 +82,9 @@ h3 {
   background-color: $map-gray;
   width: 70%;
   border-right: 3px solid black;
+  svg{
+    padding-top: 20px;
+  }
 }
 
 #chart-viewer2 {
@@ -130,7 +145,7 @@ h3 {
   shape-rendering: optimizeSpeed;
 }
 .axis {
-  font: 10px impact;
+  font: 10px monospace;
   color: white;
 }
 .axis path,
@@ -144,20 +159,4 @@ h3 {
 .axis-label {
   text-anchor: middle;
   font-size: 1.1em;
-}
-
-.leaflet-popup-content-wrapper {
-  background:$means !important;
-  color: #fe3c32;
-  line-height:16px;
-}
-.leaflet-popup-tip-container {
-  width:30px;
-  height:15px;
-}
-.leaflet-popup-tip {
-  border:300px solid transparent;
-}
-.leaflet-popup-close-button {
-  color: #F03C02 !important;
 }

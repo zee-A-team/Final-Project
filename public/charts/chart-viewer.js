@@ -228,7 +228,7 @@ document.getElementById('toggleAvianChart').addEventListener('click', () => {
               ['Avian', avian.avi],
               ['Rest', avian.rest],
           ],
-          type: 'pie',
+          type: 'scatter',
           colors: {
             'Avian': '#F03C02',
             'Rest': '#C21A01',
