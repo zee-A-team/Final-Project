@@ -9,6 +9,37 @@ function BubbleMap() {
 
   const my = ChiasmLeaflet();
 
+
+
+  const graticule = L.graticule().addTo(my.map);
+  L.graticule({ interval: 150 }).addTo(my.map);
+  L.graticule({
+    style: {
+      color: 'rgba(30,30,20,0.1)',
+      // color: 'rbga(250,250,250,0.001)',
+      weight: 1,
+    }
+  }).addTo(my.map);
+
+   // const rrose_geoj = new L.GeoJSON( graticule, {
+   //   style: function(feature){ return feature.properties.style },
+   //   onEachFeature: function(feature,layer){
+   //     layer.on('click',function(e) {
+   //       my.map.closePopup();
+   //       return true;
+   //     });
+   //     layer.on('mouseover mousemove', function(e){
+   //       let hover_bubble = new L.Rrose({ offset: new L.Point(0,-10), closeButton: false, autoPan: false })
+   //         .setContent(feature.properties.name)
+   //         .setLatLng(e.latlng)
+   //         .openOn(my.map);
+   //     });
+   //     layer.on('mouseout', function(e){ my.map.closePopup() });
+   //   }
+   // }).addTo(my.map);
+
+
+
   my.when('data', (data) => {
     my.cleanData = data.filter((d) => {
       const lat = d[latitudeColumn];
@@ -298,7 +329,22 @@ function BubbleMap() {
         circleMarker.on('mouseover', function(e) {
           const popup = L.popup()
            .setLatLng(e.latlng)
-           .setContent(`${dx.common_name} (${dx.year}) <br> <img src="./img/dodo_wild.jpg" width="290px"> <p> ${dx.description} </p>` )
+           .setContent(`${dx.common_name} (${dx.year}) <br>
+            <img src="./img/dodo_wild.jpg" width="290px"> <p> ${dx.description} </p>
+            <p><a href="https://en.wikipedia.org/wiki/Dodo" target="_blank">\>\>Wiki Link</a></p>` )
+           .openOn(my.map);
+        });
+      }
+
+      if (dx.scientific_name === 'Rhodacanthis palmeri') {
+        circleMarker.setRadius(10);
+        circleMarker.on('mouseover', function(e) {
+          const popup = L.popup()
+           .setLatLng(e.latlng)
+           .setContent(`${dx.common_name} (${dx.year}) <br>
+            <div style="width: 290px; height: 200px; overflow: hidden;">
+            <img src="./img/gkoafinch.jpg" width="290px"> </div> <p>${dx.description} </p>
+            <p><a href="https://en.wikipedia.org/wiki/Greater_koa_finch" target="_blank">\>\>Wiki Link</a></p>` )
            .openOn(my.map);
         });
       }
@@ -308,11 +354,12 @@ function BubbleMap() {
         circleMarker.on('mouseover', function(e) {
           const popup = L.popup()
            .setLatLng(e.latlng)
-           .setContent(`${dx.common_name} (${dx.year}) <br> <img src="./img/mammoth.jpg" width="290px"> <p> ${dx.description} </p>` )
+           .setContent(`${dx.common_name} (${dx.year}) <br>
+            <img src="./img/mammoth.jpg" width="290px"> <p> ${dx.description} </p>
+            <p><a href="https://en.wikipedia.org/wiki/Mammoth" target="_blank">\>\>Wiki Link</a></p>` )
            .openOn(my.map);
-
-           circleMarker.addTo(my.map);
-           circleMarker.bringToFront();
+           // circleMarker.addTo(my.map);
+           // circleMarker.bringToFront();
         });
       }
       circleMarker.addTo(my.map);
