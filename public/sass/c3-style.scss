@@ -2,11 +2,11 @@
 
 .c3 svg {
   font: 10px sans-serif;
-  height: 20px;
+  padding-top: 20px;
 }
 .c3 path, .c3 line {
   fill: none;
-  stroke: #000;
+  // stroke: #000;
 }
 .c3 text {
   -webkit-user-select: none;
@@ -15,7 +15,7 @@
 }
 
 .c3-chart-arc path {
-  stroke: #fff;
+  // stroke: #fff;
 
 }
 .c3-chart-arc text {

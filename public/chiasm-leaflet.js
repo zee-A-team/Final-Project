@@ -5,18 +5,18 @@ const L = require('leaflet');
 const ChiasmLeaflet = () => {
   const my = ChiasmComponent({
     center: [60, 60],
-    zoom: 5,
+    zoom: 4,
   });
   my.el = document.createElement('div');
   d3.select(my.el).style('background-color', '#242325');
   my.map = L.map(my.el, {
-    zoom: 5,
-    // inertia: true,
-    // inertiaMaxSpeed:1500,
-    // inertiaThreshold:32,
+    zoom: 4,
+    inertia: true,
+    inertiaMaxSpeed:1500,
+    inertiaThreshold:32,
     // scrollWheelZoom: false,
-    // minZoom: 2,
-    // maxZoom: 5,
+    minZoom: 2,
+    // maxZoom: 6,
     center: [40.7127837, -74.0059413],
     zoomControl: true,
     attributionControl: false,
@@ -33,8 +33,6 @@ const ChiasmLeaflet = () => {
    noWrap: true,
    reuseTiles: true,
  }).addTo(my.map);
-
-
 
 
   const getCenter = () => {
@@ -59,6 +57,7 @@ const ChiasmLeaflet = () => {
     });
     my.map.on('move', onMove);
   };
+
  function contiCenterZoom(toggles, center, zoom) {
     document.getElementById(toggles).addEventListener('click', () => {
       setCenter(center);

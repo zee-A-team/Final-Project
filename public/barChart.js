@@ -5,8 +5,8 @@ const Model = require('model-js');
 function xAxis(my, g) {
   const axisG = g.append('g').attr('class', 'x axis');
   const axis = d3.svg.axis();
-  my.addPublicProperty('xAxisTickDensity', 70);
-  my.addPublicProperty('xAxisTickAngle', 2);
+  my.addPublicProperty('xAxisTickDensity', 100);
+  my.addPublicProperty('xAxisTickAngle', 0);
   my.when(['xScale', 'xAxisTickDensity', 'xAxisTickAngle', 'innerBox'],
     (xScale, xAxisTickDensity, xAxisTickAngle, innerBox) => {
       const width = innerBox.width;
@@ -14,7 +14,8 @@ function xAxis(my, g) {
       axisG.call(axis);
 
       const text = axisG.selectAll('text')
-        .attr('transform', `rotate(-${xAxisTickAngle})`);
+        .attr('transform', `rotate(-${xAxisTickAngle})`)
+        .style('stroke', '#bfbfbf');
       if (xAxisTickAngle > 45) {
         text
           .attr('dx', '-0.9em')
@@ -88,7 +89,7 @@ function BarChart() {
   my.when(['box', 'margin'], (box, margin) => {
     my.innerBox = {
       width: box.width - margin.left - margin.right,
-      height: (box.height - margin.top - margin.bottom) / 3.25,
+      height: (box.height - margin.top - margin.bottom) / 8,
     };
     svg
       .attr('width', box.width)

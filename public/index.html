@@ -3,71 +3,25 @@
   <head>
     <meta charset="utf-8">
     <title>SMD Webpack</title>
-    <style>
-      #map { position: absolute; top:0; bottom:0; right:0; left:0; }
-    </style>
     <script src="http://localhost:35729/livereload.js"></script>
-    <script src="'https://fonts.googleapis.com/css?family=Oswald'"></script>
+    <script src="https://fonts.googleapis.com/css?family=Oswald"></script>
   </head>
   <body>
     <div id ='main-container'>
-    <div class='custom-popup' id='map'></div>
-<!--       <div id='header-div'>
-        <h1>Header</h1>
-      </div> -->
       <div id="chiasm-container">
         <div id="chiasm-container"></div>
       </div>
       <div id='additional-info'>
        <div id='panel-1'>
-         <div class="button-jar">
-           <h3 >By Geolocation</h3>
-           <div id="toggleHemiChart">Hemisphere</div>
-           <div id="toggleEuChart">Europe</div>
-           <div id="toggleAsiaChart">Asia</div>
-           <div id="toggleAfricaChart">Africa</div>
-           <div id="toggleNaChart">North America</div>
-           <div id="toggleSaChart">South America</div>
-           <div id="toggleAuChart">Australia</div>
-         </div>
+         <div id="panel-1-div" class="button-jar"></div>
          <div id="chart-viewer1"></div>
-<!--          <div class="chart-selector">
-           <div>Bar</div>
-           <div>Timeseries</div>
-           <div>Pie</div>
-         </div> -->
        </div>
        <div id='panel-2'>
-          <div class="button-jar">
-             <h3>By Habitat</h3>
-             <div id="toggleTerrChart">Terrestrial</div>
-             <div id="toggleAquaChart">Aquatic</div>
-             <div id="toggleAvianChart">Avian</div>
-          </div>
+          <div id="panel-2-div" class="button-jar"></div>
           <div id="chart-viewer2"></div>
-<!--           <div class="chart-selector">
-            <div>Scatter</div>
-            <div>Bar</div>
-            <div>Pie</div>
-          </div> -->
        </div>
-       <div id='panel-3'> <!-- ADD EXSTINCTION LIVE-FEED -->
-         <div class="button-jar">
-           <h3>By Time</h3>
-           <div id="toggleEarlyHalo">Early Halocene</div>
-           <div id="toggleMidHalo">Mid Halocene</div>
-           <div id="togglePresent">Present</div>
-         </div>
-         <div id="chart-viewer3"></div>
-<!--          <div class="chart-selector">
-           <div>Line</div>
-           <div>Bar</div>
-           <div>Spline</div>
-           <div>Step</div>
-           <div>Timeseries</div>
-           <div>Scatter</div>
-           <div>Pie</div>
-         </div> -->
+       <div id='panel-3'>
+         <div id='control-panel'></div>
        </div>
      </div>
     </div>
