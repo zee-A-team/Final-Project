@@ -150,7 +150,7 @@ document.getElementById('toggleAuChart').addEventListener('click', () => {
   charts.auChart('../animalData.json')
     .then((au) => {
       c3.generate({
-        bindto: '#chart-viewer1',
+        bindto: '#chart-1',
         data: {
           columns: [
               ['Australia', au.au],
@@ -228,7 +228,7 @@ document.getElementById('toggleAvianChart').addEventListener('click', () => {
               ['Avian', avian.avi],
               ['Rest', avian.rest],
           ],
-          type: 'scatter',
+          type: 'pie',
           colors: {
             'Avian': '#F03C02',
             'Rest': '#C21A01',
@@ -241,75 +241,3 @@ document.getElementById('toggleAvianChart').addEventListener('click', () => {
     })
     .catch((err) => console.log(err));
 });
-
-// document.getElementById('navigate-button').addEventListener('click', () => {
-//   charts.avianChart('../animalData.json')
-//     .then((avian) => {
-//       c3.generate({
-//         bindto: '#chart-viewer3',
-//         data: {
-//           columns: [
-//               ['Avian', avian.avi],
-//               ['Rest', avian.rest],
-//           ],
-//           type: 'pie',
-//           colors: {
-//             'Avian': '#F03C02',
-//             'Rest': '#ffffff',
-//           },
-//           size: {
-//             width: 640
-//           },
-//         },
-//       });
-//     })
-//     .catch((err) => console.log(err));
-// });
-
-// document.getElementById('chart-button').addEventListener('click', () => {
-//   charts.avianChart('../animalData.json')
-//     .then((avian) => {
-//       c3.generate({
-//         bindto: '#chart-viewer3',
-//         data: {
-//           columns: [
-//               ['Avian', avian.avi],
-//               ['Rest', avian.rest],
-//           ],
-//           type: 'pie',
-//           colors: {
-//             'Avian': '#599bb3',
-//             'Rest': '#ffffff',
-//           },
-//           size: {
-//             width: 640
-//           },
-//         },
-//       });
-//     })
-//     .catch((err) => console.log(err));
-// });
-
-// document.getElementById('togglePresent').addEventListener('click', () => {
-//   charts.avianChart('../animalData.json')
-//     .then((avian) => {
-//       c3.generate({
-//         bindto: '#chart-viewer3',
-//         data: {
-//           columns: [
-//               ['Avian', avian.avi],
-//               ['Rest', avian.rest],
-//           ],
-//           type: 'pie',
-//           colors: {
-//             'Avian': '#599bb3',
-//             'Rest': '#ffffff',
-//           },
-//           size: {
-//             width: 640
-//           },
-//         },
-//       });
-//     })
-//     .catch((err) => console.log(err));
-// });

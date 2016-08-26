@@ -73,7 +73,6 @@ body {
   flex-direction: row;
   justify-content: space-between;
   margin-top: -7.25%;
-  // height:30%;
 }
 
 h3 {
@@ -87,10 +86,6 @@ h3 {
   background-color: $map-gray;
   width: 70%;
   border-right: 1px solid black;
-  // height: 90%;
-  svg{
-    // padding-top: 10px;
-  }
 }
 
 #chart-viewer2 {
