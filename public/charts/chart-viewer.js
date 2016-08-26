@@ -186,7 +186,7 @@ document.getElementById('toggleTerrChart').addEventListener('click', () => {
             'Rest': '#C21A01',
           },
           size: {
-            width: 640
+            width: 640,
           },
         },
       });
@@ -210,7 +210,7 @@ document.getElementById('toggleAquaChart').addEventListener('click', () => {
             'Rest': '#C21A01',
           },
           size: {
-            width: 640
+            width: 640,
           },
         },
       });

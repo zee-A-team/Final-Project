@@ -32,11 +32,34 @@ $footer-gray: lighten($map-gray, 5%);
   display: flex;
   background-color: $map-gray;
   flex-direction: column;
-  // color: rgb(254,60,50);
-  img{
-    max-height: 25px;
-    max-width: 25px;
+  h3 {
+    text-size: 5px;
+    font-weight: bold;
+    text-align: left;
+    color: lighten($footer-gray, 25%);
   }
+  div {
+    font-size: 20px;
+    cursor: pointer;
+    width: 45px;
+    height: 45px;
+  }
+
+.icon-images{
+  margin-left: 10%;
+  background-size: contain;
+  height: 20px;
+  background-repeat: no-repeat;
+  margin-top: 6%;
+  }
+
+.legend-text{
+  font-size: 15px;
+  margin-left: 100%;
+  // margin-top: %;
+  color: lighten($footer-gray, 25%);
+  // padding-left: 60px;
+}
   // div {
   //   // font-size: 20px;
   //   // cursor: pointer;

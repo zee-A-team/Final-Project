@@ -129,7 +129,7 @@ _id,scientific_name,common_name,date,year,range,description,type,latitude,longit
 57ab8f211eff02897b163f52,Canis lupus hodophilax,Honshū wolf,1905-01-01T00:00:00Z,1905,Japan (Honshū),--,land,35.97,138.23,"35.97,138.23",Asia,JP
 57ab8f211eff02897b163f53,Crateromys paulus,Ilin Island Cloudrunner,1953-01-01T00:00:00Z,1953,Philippines,--,land,11.46,123.32,"11.46,123.32",Asia,PH
 57ab8f211eff02897b163f54,Rhinoceros sondaicus inermis,Indian Javan rhinoceros,1925-01-01T00:00:00Z,1925,"Bangladesh,Burma (Myanmar),and India",--,land,23.21,92.89,"23.21,92.89",Asia,IN
-57ab8f211eff02897b163f55,Lutra lutra whiteleyi,Japanese river otter,1979-01-01T00:00:00Z,1979,Japan,--,land,35.82,138.76,"35.82,138.76",Asia,JP
+57ab8f211eff02897b163f55,Lutra lutra whiteleyi,Japanese river otter,1979-01-01T00:00:00Z,1979,Japan,--,sea,35.82,138.76,"35.82,138.76",Asia,JP
 57ab8f211eff02897b163f56,Zalophus japonicus,Japanese sea lion,1974-01-01T00:00:00Z,1974,Sea of Japan,--,land,35.82,138.76,"35.82,138.76",Asia,JP
 57ab8f211eff02897b163f57,Panthera tigris sondaica,Javan tiger,1970-01-01T00:00:00Z,1970,Indonesia (Java),--,land,-7.24,110.57,"-7.24,110.57",Asia,ID
 57ab8f211eff02897b163f58,Dicerorhinus sumatrensis lasiotis,Northern Sumatran rhinoceros,1444-01-01T00:00:00Z,1444,"Bangladesh,Burma (Myanmar),and India",--,land,23.21,92.89,"23.21,92.89",Asia,IN
