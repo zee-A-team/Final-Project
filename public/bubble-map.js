@@ -296,7 +296,7 @@ function BubbleMap() {
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
             <img src="./img/dodo_wild.jpg" height="190px" width="260px"> <p> ${dx.description}
-            <a href="https://en.wikipedia.org/wiki/Dodo" target="_blank">\>\>Wiki Link</a></p>` )
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Dodo" target="_blank">Wiki Link</a></p>` )
            .openOn(my.map);
         });
       }
@@ -311,7 +311,7 @@ function BubbleMap() {
            .setContent(`${dx.common_name} (${dx.year}) <br>
             <div style="width: 290px; height: 200px; overflow: hidden;">
             <img src="./img/gkoafinch.jpg" width="290px"> </div> <p>${dx.description}
-            <a href="https://en.wikipedia.org/wiki/Greater_koa_finch" target="_blank">\>\>Wiki Link</a></p>` )
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Greater_koa_finch" target="_blank">Wiki Link</a></p>` )
            .openOn(my.map);
         });
       }
@@ -324,7 +324,8 @@ function BubbleMap() {
           })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
-            <img src="./img/mammoth.jpg" width="290px"> <p> ${dx.description} <a href="https://en.wikipedia.org/wiki/Mammoth" target="_blank">\>\>Wiki Link</a></p>` )
+            <img src="./img/mammoth.jpg" width="290px"> <p> ${dx.description}
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Mammoth" target="_blank">Wiki Link</a></p>` )
            .openOn(my.map);
         });
       }
@@ -334,12 +335,12 @@ function BubbleMap() {
         circleMarker.setRadius(12);
         circleMarker.on('mouseover', function(e) {
           const popup = L.popup({
-            offset: new L.Point(-200, 400)
+            offset: new L.Point(-195, 385)
           })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
             <img src="./img/trex.jpg" width="290px"> <p> ${dx.description}
-            <a href="https://en.wikipedia.org/wiki/Tarbosaurus" target="_blank">\>\>Wiki Link</a></p>` )
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Tarbosaurus" target="_blank">\>\>Wiki Link</a></p>` )
            .openOn(my.map);
         });
       }
