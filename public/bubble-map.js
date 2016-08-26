@@ -330,6 +330,20 @@ function BubbleMap() {
       }
       circleMarker.addTo(my.map);
 
+      if (dx.scientific_name === 'Tarbosaurus bataar') {
+        circleMarker.setRadius(12);
+        circleMarker.on('mouseover', function(e) {
+          const popup = L.popup({
+            offset: new L.Point(-200, 400)
+          })
+           .setLatLng(e.latlng)
+           .setContent(`${dx.common_name} (${dx.year}) <br>
+            <img src="./img/trex.jpg" width="290px"> <p> ${dx.description} <a href="https://en.wikipedia.org/wiki/Tyrannosaurus" target="_blank">\>\>Wiki Link</a></p>` )
+           .openOn(my.map);
+        });
+      }
+      circleMarker.addTo(my.map);
+
       return circleMarker;
     });
   }, 100));
