@@ -338,7 +338,8 @@ function BubbleMap() {
           })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
-            <img src="./img/trex.jpg" width="290px"> <p> ${dx.description} <a href="https://en.wikipedia.org/wiki/Tyrannosaurus" target="_blank">\>\>Wiki Link</a></p>` )
+            <img src="./img/trex.jpg" width="290px"> <p> ${dx.description}
+            <a href="https://en.wikipedia.org/wiki/Tarbosaurus" target="_blank">\>\>Wiki Link</a></p>` )
            .openOn(my.map);
         });
       }
