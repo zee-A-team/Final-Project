@@ -33,7 +33,6 @@ $footer-gray: lighten($map-gray, 5%);
   background-color: $map-gray;
   flex-direction: column;
   h3 {
-    text-size: 5px;
     font-weight: bold;
     text-align: left;
     color: lighten($footer-gray, 25%);
@@ -56,33 +55,6 @@ $footer-gray: lighten($map-gray, 5%);
 .legend-text{
   font-size: 15px;
   margin-left: 100%;
-  // margin-top: %;
   color: lighten($footer-gray, 25%);
-  // padding-left: 60px;
-}
-  // div {
-  //   // font-size: 20px;
-  //   // cursor: pointer;
-  //   // color: darken(white, 25%);
-  //   // margin-top: 2%;
-  //   // margin-left: 10%;
-  //   // margin-right: 10%;
-  //   // border: 1px solid;
-  //   // border-left: 15px solid;
-  //   // border-color: lighten($again, 20.5%);
-  //   // width: 75%;
-  //   // padding-top: 23px;
-  //   // padding-left: 5px;
-  //   // padding-bottom: 5px;
-  //   // height: 15%;
-  // }
-}
-
-#nav-panel {
- display: none;
- // flex-direction: column;
- width: 84%;
- // align-items: stretch;
- background-color: yellow;
- height: inherit;
+  }
 }
