@@ -86,7 +86,7 @@ function panelTwo() {
 }
 function panelThree() {
   const h3 = document.createElement('h3');
-  h3.innerHTML = 'By Time';
+  // h3.innerHTML = 'By Time';
   panel3.appendChild(h3);
   for (let i = 0; i < panel3Arr.length; i++) {
     panel3.appendChild(createElement(panel3Arr[i][0], panel3Arr[i][1], 3));

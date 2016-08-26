@@ -8,7 +8,7 @@ const ChiasmLeaflet = () => {
     zoom: 5,
   });
   my.el = document.createElement('div');
-  d3.select(my.el).style('background-color', '#242325');
+  d3.select(my.el).style('background-color', 'rgb(36,36,38)');
   my.map = L.map(my.el, {
     zoom: 5,
     inertia: true,
