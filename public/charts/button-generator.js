@@ -18,16 +18,19 @@ const panel2Arr = [
   ['toggleAvianChart', 'Avian'],
 ];
 
-const panel3Arr = [
-  ['navigate-button', 'Navigate'],
-  ['chart-button', 'Charts'],
-  ['about-button', 'About'],
-];
+// const panel3Arr = [
+//   ['amphibian', 'Ambphibian'],
+//   ['bird', 'Bird'],
+//   ['mammal', 'mammal'],
+//   ['marine', 'marine'],
+//   ['marsu', 'marsu'],
+//   ['reptile', 'reptile']
+// ];
 const elementsOne = [];
 const elementsTwo = [];
-const elementsThree = [];
+// const elementsThree = [];
 
-function createElement(id, value, n) {
+function createElement(id, value, n, url) {
   const element = document.createElement('div');
   element.id = id;
   element.innerHTML = value;
@@ -64,7 +67,7 @@ function createElement(id, value, n) {
   });
   if(n === 1) elementsOne.push(element);
   if(n === 2) elementsTwo.push(element);
-  if(n === 3) elementsThree.push(element);
+  // if(n === 3) elementsThree.push(element);
   return element;
 }
 
@@ -84,14 +87,19 @@ function panelTwo() {
     panel2.appendChild(createElement(panel2Arr[i][0], panel2Arr[i][1], 2));
   }
 }
-function panelThree() {
-  const h3 = document.createElement('h3');
-  // h3.innerHTML = 'By Time';
-  panel3.appendChild(h3);
-  for (let i = 0; i < panel3Arr.length; i++) {
-    panel3.appendChild(createElement(panel3Arr[i][0], panel3Arr[i][1], 3));
-  }
-}
+// function panelThree() {
+//   const h3 = document.createElement('h3');
+//   // h3.innerHTML = 'By Time';
+//   // panel3.appendChild(h3);
+//   // for (let i = 0; i < panel3Arr.length; i++) {
+//   //   panel3.appendChild(createElement(panel3Arr[i][0], panel3Arr[i][1], 3));
+//   // }
+//   const legendColor = document.createElement('IMG');
+//   legendColor.src = ('./../img/leg_amph.png');
+//     for (let i = 0; i < panel3Arr.length; i++) {
+//     panel3.appendChild(createElement(panel3Arr[i][0], panel3Arr[i][1], 3));
+
+// }
 
 function switcher(i) {
   switch (i) {
@@ -102,10 +110,10 @@ function switcher(i) {
       panelTwo();
       break;
     default:
-      panelThree();
+      break;
   }
 }
 
-for (let i = 0; i < 3; i++) {
+for (let i = 0; i < 2; i++) {
   switcher(i);
 }

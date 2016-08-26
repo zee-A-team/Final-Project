@@ -32,27 +32,34 @@ $footer-gray: lighten($map-gray, 5%);
   display: flex;
   background-color: $map-gray;
   flex-direction: column;
-  color: rgb(254,60,50);
-  div {
-    font-size: 20px;
-    cursor: pointer;
-    color: darken(white, 25%);
-    margin-top: 2%;
-    margin-left: 10%;
-    margin-right: 10%;
-    border: 1px solid;
-    border-left: 15px solid;
-    border-color: lighten($again, 20.5%);
-    width: 75%;
-    padding-top: 23px;
-    padding-left: 5px;
-    padding-bottom: 5px;
-    height: 15%;
+  // color: rgb(254,60,50);
+  img{
+    max-height: 25px;
+    max-width: 25px;
   }
+  // div {
+  //   // font-size: 20px;
+  //   // cursor: pointer;
+  //   // color: darken(white, 25%);
+  //   // margin-top: 2%;
+  //   // margin-left: 10%;
+  //   // margin-right: 10%;
+  //   // border: 1px solid;
+  //   // border-left: 15px solid;
+  //   // border-color: lighten($again, 20.5%);
+  //   // width: 75%;
+  //   // padding-top: 23px;
+  //   // padding-left: 5px;
+  //   // padding-bottom: 5px;
+  //   // height: 15%;
+  // }
 }
 
-.graph-type-icons{
-  position: absolute;
-  bottom: 0;
-  border: 10px solid red;
+#nav-panel {
+ display: none;
+ // flex-direction: column;
+ width: 84%;
+ // align-items: stretch;
+ background-color: yellow;
+ height: inherit;
 }
