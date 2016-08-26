@@ -19,11 +19,11 @@ const panel2Arr = [
 ];
 
 const panel3Arr = [
-  ['legend_bird', null, './img/leg_bird.png', 'Bird'],
-  ['legend_marine', null, './img/leg_marine.png', 'Marine'],
   ['legend_mammal', null, './img/leg_mammal.png', 'Mammal'],
-  ['legend_marsu', null, './img/leg_marsu.png', 'Marsupial'],
+  ['legend_bird', null, './img/leg_bird.png', 'Bird'],
+  ['legend_marine', null, './img/leg_marine.png', 'Fish'],
   ['legend_reptile', null, './img/leg_reptile.png', 'Reptile'],
+  ['legend_marsu', null, './img/leg_marsu.png', 'Marsupial'],
 ];
 
 const elementsOne = [];
