@@ -32,20 +32,14 @@ $footer-gray: lighten($map-gray, 5%);
   display: flex;
   background-color: $map-gray;
   flex-direction: column;
-  color: rgb(254,60,50);
+  h3 {
+    font-weight: bold;
+    text-align: left;
+    color: lighten($footer-gray, 25%);
+  }
   div {
     cursor: pointer;
-    color: lighten($footer-gray, 15%);
-    display: flex;
-    justify-content: center;
-    margin-top: 8%;
-    margin-left: 10%;
-    margin-right: 10%;
-    border: 2px solid;
-    border-left: 10px solid;
-    border-color: $again;
-    width: 75%;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    width: 45px;
+    height: 45px;
   }
 }
