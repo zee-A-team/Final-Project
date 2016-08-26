@@ -290,7 +290,7 @@ function BubbleMap() {
             color: getMeRandomColors('yellow'),
             weight: 1,
             clickable: true,
-            offset: new L.Point(180, 100),
+            offset: new L.Point(-200, 100),
             maxWidth: 270
           })
            .setLatLng(e.latlng)
@@ -331,11 +331,24 @@ function BubbleMap() {
       }
       circleMarker.addTo(my.map);
 
+
+      if (dx.scientific_name === 'Xenomorphus Thingus') {
+        circleMarker.setRadius(0.1);
+        circleMarker.on('mouseover', function(e) {
+          const popup = L.popup()
+           .setLatLng(e.latlng)
+           .setContent(`${dx.common_name} (${dx.year}) <br>
+            <img src="./img/thething.jpg" width="120px"> <p> ${dx.description}` )
+           .openOn(my.map);
+        });
+      }
+      circleMarker.addTo(my.map);
+
       if (dx.scientific_name === 'Tarbosaurus bataar') {
         circleMarker.setRadius(12);
         circleMarker.on('mouseover', function(e) {
           const popup = L.popup({
-            offset: new L.Point(-195, 385)
+            offset: new L.Point(-175, 375)
           })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>

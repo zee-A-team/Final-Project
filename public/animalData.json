@@ -16,8 +16,24 @@
     "size": "LG"
   },
   {
-    "_id": "57bbaf7e7v658b5320d3f835",
-    "scientific_name": "Raphus cucullatus",
+    "_id": "50bbaf7e7v658b5320d3f835",
+    "scientific_name": "Xenomorphus Thingus",
+    "common_name": "The Thing",
+    "date": "0100-01-01T00:00:00Z",
+    "year": "Year: Unknown",
+    "range": "Range: Unknown",
+    "description": "Little is known of this rumored entity, thought to be encountered by a Norwegian Antarctic Research team. We have just dispatched the American team to check up on the Norwegian teams latest status.",
+    "type": "marine",
+    "latitude": -80,
+    "longitude": -159,
+    "latlong": "-80,-159",
+    "continent": "Antarctica",
+    "country": "US",
+    "size": "MD"
+  },
+  {
+    "_id": "57abaf7e7v658b5320d3f835",
+    "scientific_name": "Rhodacanthis palmeri",
     "common_name": "The Dodo",
     "date": "1750-01-01T00:00:00Z",
     "year": "1750",
