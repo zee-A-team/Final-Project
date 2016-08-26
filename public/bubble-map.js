@@ -11,35 +11,6 @@ function BubbleMap() {
 
 
 
-  const graticule = L.graticule().addTo(my.map);
-  L.graticule({ interval: 150 }).addTo(my.map);
-  L.graticule({
-    style: {
-      color: 'rgba(30,30,20,0.1)',
-      // color: 'rbga(250,250,250,0.001)',
-      weight: 1,
-    }
-  }).addTo(my.map);
-
-   // const rrose_geoj = new L.GeoJSON( graticule, {
-   //   style: function(feature){ return feature.properties.style },
-   //   onEachFeature: function(feature,layer){
-   //     layer.on('click',function(e) {
-   //       my.map.closePopup();
-   //       return true;
-   //     });
-   //     layer.on('mouseover mousemove', function(e){
-   //       let hover_bubble = new L.Rrose({ offset: new L.Point(0,-10), closeButton: false, autoPan: false })
-   //         .setContent(feature.properties.name)
-   //         .setLatLng(e.latlng)
-   //         .openOn(my.map);
-   //     });
-   //     layer.on('mouseout', function(e){ my.map.closePopup() });
-   //   }
-   // }).addTo(my.map);
-
-
-
   my.when('data', (data) => {
     my.cleanData = data.filter((d) => {
       const lat = d[latitudeColumn];
@@ -261,17 +232,7 @@ function BubbleMap() {
           weight: 1,
           clickable: true,
         });
-          if (dx.scientific_name === 'Raphus cucullatus') {
-            circleMarker.setRadius(13);
-            circleMarker.on('mouseover', function(e) {
-              const popup = L.popup()
-               .setLatLng(e.latlng)
-               .setContent(`${dx.common_name} (${dx.year})s`)
-               .openOn(my.map);
-            });
-          }else {
-            circleMarker.setRadius(getRandomNumber(3, 4));
-          }
+        circleMarker.setRadius(2);
       }
       else if (aniType === 'marine') {
         circleMarker = L.circleMarker(markerCenter, {
@@ -323,8 +284,6 @@ function BubbleMap() {
       });
 
       if (dx.scientific_name === 'Raphus cucullatus') {
-          circleMarker = L.circleMarker(markerCenter, {
-          });
         circleMarker.setRadius(17);
         circleMarker.on('mouseover', function(e) {
           const popup = L.popup({
@@ -343,7 +302,7 @@ function BubbleMap() {
       }
 
       if (dx.scientific_name === 'Rhodacanthis palmeri') {
-        circleMarker.setRadius(10);
+        circleMarker.setRadius(14);
         circleMarker.on('mouseover', function(e) {
           const popup = L.popup({
             offset: new L.Point(200, 230)
