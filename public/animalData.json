@@ -1049,8 +1049,8 @@
     "description": "--",
     "type": "reptile",
     "latitude": 0.5872,
-    "longitude": 90.76,
-    "latlong": "0.5872,90.76",
+    "longitude": -90.76,
+    "latlong": "0.5872,-90.76",
     "continent": "South America",
     "country": "EC",
     "size": "MD"

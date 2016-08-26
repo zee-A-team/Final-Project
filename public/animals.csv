@@ -64,7 +64,7 @@ _id,scientific_name,common_name,date,year,range,description,type,latitude,longit
 57ab8d611eff02897b163f0c,Phrynomedusa fimbriata,Spiny-knee leaf frog,1920-01-01T00:00:00Z,1920,Brazil,--,amph,-12.54,-53.08,"-12.5,-53.08",South America,BR,SM,,
 57ab8d611eff02897b163f0d,Rhinoderma rufum,Chile Darwin's frog,1980-01-01T00:00:00Z,1980,Chile,--,amph,-47.74,-73.12,"-47.7,-73.12",South America,CL,SM,,
 57ab8d611eff02897b163f0e,Chelonoidis nigra nigra,Charles Island tortoise,1850-01-01T00:00:00Z,1850,Ecuador (Galapagos Islands),--,reptile,-0.73,-91.06,"-0.73,-91.06",South America,EC,MD,,
-57ab8d611eff02897b163f0f,Chelonoidis nigra abingdonii,Pinta Island tortoise,2012-01-01T00:00:00Z,2012,Ecuador (Galapagos Islands),--,reptile,0.5872,90.76,"0.5872,90.76",South America,EC,MD,,
+57ab8d611eff02897b163f0f,Chelonoidis nigra abingdonii,Pinta Island tortoise,2012-01-01T00:00:00Z,2012,Ecuador (Galapagos Islands),--,reptile,0.5872,-90.76,"0.5872,-90.76",South America,EC,MD,,
 57ab8d7c1eff02897b163f10,Sephanoides fernandensis leyboldi,Alejandro Selkirk Island Firecrown,1900-01-01T00:00:00Z,1900,Chile,--,air,-47.74,-73.12,"-47.7,-73.12",South America,CL,SM,,
 57ab8d7c1eff02897b163f11,Podiceps andinus,Colombian grebe,1970-01-01T00:00:00Z,1970,Colombia,--,air,2.47,-72.07,"2.47,-72.07",South America,CO,SM,,
 57ab8d7c1eff02897b163f12,Geospiza magnirostris magnirostris,Darwin's ground finch,1950-01-01T00:00:00Z,1950,Ecuador (Galapagos Islands),--,air,-0.73,-91.06,"-0.73,-91.06",South America,EC,SM,,
