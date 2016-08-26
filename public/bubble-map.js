@@ -266,7 +266,7 @@ function BubbleMap() {
             circleMarker.on('mouseover', function(e) {
               const popup = L.popup()
                .setLatLng(e.latlng)
-               .setContent(`${dx.common_name} (${dx.year}) (${dx.year}`)
+               .setContent(`${dx.common_name} (${dx.year})s`)
                .openOn(my.map);
             });
           }else {
@@ -314,9 +314,7 @@ function BubbleMap() {
         circleMarker.setRadius(rData(dx));
       }
       circleMarker.bindPopup(dx.common_name);
-      // Comment: Please keep this line below
-        // circleMarker.setRadius(rData(dx));
-      // Comment: Please keep this line above (in case u didn't read)
+        circleMarker.setRadius(rData(dx));
       circleMarker.on('mouseover', function(e) {
         const popup = L.popup()
          .setLatLng(e.latlng)
@@ -325,13 +323,21 @@ function BubbleMap() {
       });
 
       if (dx.scientific_name === 'Raphus cucullatus') {
+          circleMarker = L.circleMarker(markerCenter, {
+          });
         circleMarker.setRadius(17);
         circleMarker.on('mouseover', function(e) {
-          const popup = L.popup()
+          const popup = L.popup({
+            color: getMeRandomColors('yellow'),
+            weight: 1,
+            clickable: true,
+            offset: new L.Point(180, 100),
+            maxWidth: 270
+          })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
-            <img src="./img/dodo_wild.jpg" width="290px"> <p> ${dx.description} </p>
-            <p><a href="https://en.wikipedia.org/wiki/Dodo" target="_blank">\>\>Wiki Link</a></p>` )
+            <img src="./img/dodo_wild.jpg" height="190px" width="260px"> <p> ${dx.description}
+            <a href="https://en.wikipedia.org/wiki/Dodo" target="_blank">\>\>Wiki Link</a></p>` )
            .openOn(my.map);
         });
       }
@@ -339,12 +345,14 @@ function BubbleMap() {
       if (dx.scientific_name === 'Rhodacanthis palmeri') {
         circleMarker.setRadius(10);
         circleMarker.on('mouseover', function(e) {
-          const popup = L.popup()
+          const popup = L.popup({
+            offset: new L.Point(200, 230)
+          })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
             <div style="width: 290px; height: 200px; overflow: hidden;">
-            <img src="./img/gkoafinch.jpg" width="290px"> </div> <p>${dx.description} </p>
-            <p><a href="https://en.wikipedia.org/wiki/Greater_koa_finch" target="_blank">\>\>Wiki Link</a></p>` )
+            <img src="./img/gkoafinch.jpg" width="290px"> </div> <p>${dx.description}
+            <a href="https://en.wikipedia.org/wiki/Greater_koa_finch" target="_blank">\>\>Wiki Link</a></p>` )
            .openOn(my.map);
         });
       }
@@ -352,14 +360,13 @@ function BubbleMap() {
       if (dx.scientific_name === 'Mammuthus primigenius') {
         circleMarker.setRadius(21);
         circleMarker.on('mouseover', function(e) {
-          const popup = L.popup()
+          const popup = L.popup({
+            offset: new L.Point(200, 330)
+          })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
-            <img src="./img/mammoth.jpg" width="290px"> <p> ${dx.description} </p>
-            <p><a href="https://en.wikipedia.org/wiki/Mammoth" target="_blank">\>\>Wiki Link</a></p>` )
+            <img src="./img/mammoth.jpg" width="290px"> <p> ${dx.description} <a href="https://en.wikipedia.org/wiki/Mammoth" target="_blank">\>\>Wiki Link</a></p>` )
            .openOn(my.map);
-           // circleMarker.addTo(my.map);
-           // circleMarker.bringToFront();
         });
       }
       circleMarker.addTo(my.map);
