@@ -1,5 +1,21 @@
 [
   {
+    "_id": "57bcaf7e7v658b5320d3f835",
+    "scientific_name": "Tarbosaurus bataar",
+    "common_name": "Tarbosaurus",
+    "date": "0001-01-01T00:00:00Z",
+    "year": "-66 Million BC",
+    "range": "Asia, North America",
+    "description": "Some scientists consider Tarbosaurus bataar from Asia to be a second Tyrannosaurus species while others maintain Tarbosaurus is a separate genus.",
+    "type": "reptile",
+    "latitude": 47,
+    "longitude": 124,
+    "latlong": "47,124",
+    "continent": "Asia",
+    "country": "RU" ,
+    "size": "LG"
+  },
+  {
     "_id": "57bbaf7e7v658b5320d3f835",
     "scientific_name": "Raphus cucullatus",
     "common_name": "The Dodo",
