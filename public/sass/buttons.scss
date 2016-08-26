@@ -15,7 +15,7 @@ $footer-gray: lighten($map-gray, 5%);
     margin-left: 10%;
     margin-right: 10%;
     text-align: left;
-    margin-top: 8.5%;
+    margin-top: 6.5%;
   }
   h3{
     font-weight: bold;
@@ -38,8 +38,15 @@ $footer-gray: lighten($map-gray, 5%);
     color: lighten($footer-gray, 25%);
   }
   div {
+    font-size: 20px;
     cursor: pointer;
     width: 45px;
     height: 45px;
   }
+}
+
+.graph-type-icons{
+  position: absolute;
+  bottom: 0;
+  border: 10px solid red;
 }

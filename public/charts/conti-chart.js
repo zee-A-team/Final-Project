@@ -158,8 +158,7 @@ module.exports = (function() {
         };
 
         animalData.forEach((ele) => {
-          console.log(ele);
-          if (ele.type === 'sea') {
+          if (ele.type === 'marine') {
             return aquatic.aqua++;
           }
           return aquatic.rest++;
