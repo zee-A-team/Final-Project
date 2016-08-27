@@ -7,7 +7,7 @@ module.exports = {
   ],
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
-    new LiveReloadPlugin()
+    new LiveReloadPlugin(),
   ],
   output: {
     path: `${__dirname}public`,
@@ -38,6 +38,7 @@ module.exports = {
         'image-webpack?bypassOnDebug&optimizationLevel=7&interlaced=false',
       ],
     },
+
 
 
 
