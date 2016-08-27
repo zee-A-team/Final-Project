@@ -295,7 +295,7 @@ function BubbleMap() {
           })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
-            <img src="./img/dodo_wild.jpg" height="190px" width="260px"> <p> ${dx.description}
+            <img src="./img/dodo.jpg" height="190px" width="260px"> <p> ${dx.description}
             <a class="hotlinks" href="https://en.wikipedia.org/wiki/Dodo" target="_blank">Wiki Link</a></p>` )
            .openOn(my.map);
         });
@@ -335,7 +335,9 @@ function BubbleMap() {
       if (dx.scientific_name === 'Xenomorphus Thingus') {
         circleMarker.setRadius(0.1);
         circleMarker.on('mouseover', function(e) {
-          const popup = L.popup()
+          const popup = L.popup({
+            offset: new L.Point(195, -35)
+          })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
             <img src="./img/thething.jpg" width="120px"> <p> ${dx.description}` )
@@ -348,7 +350,7 @@ function BubbleMap() {
         circleMarker.setRadius(12);
         circleMarker.on('mouseover', function(e) {
           const popup = L.popup({
-            offset: new L.Point(-175, 375)
+            offset: new L.Point(-195, 355)
           })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
