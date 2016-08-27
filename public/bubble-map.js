@@ -213,6 +213,13 @@ function BubbleMap() {
           return Math.floor(Math.random() * (max - min + 1)) + min;
       };
 
+      function describer(){
+        if(`${dx.description}`!=='--'){
+          return `<p>${dx.description}</p>`;
+        }
+        else {return ''}
+      }
+
       function toTitleCase(str){
         return str.replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase());
       }
@@ -279,7 +286,7 @@ function BubbleMap() {
       circleMarker.on('mouseover', function(e) {
         const popup = L.popup()
          .setLatLng(e.latlng)
-         .setContent(`${dx.common_name} (${dx.year})`)
+         .setContent(`${dx.common_name} (${dx.year}) ${describer()}`)
          .openOn(my.map);
       });
 
