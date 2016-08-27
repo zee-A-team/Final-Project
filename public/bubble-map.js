@@ -317,7 +317,7 @@ function BubbleMap() {
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
             <div style="width: 290px; height: 200px; overflow: hidden;">
-            <img src="./img/gkoafinch.jpg" width="290px"> </div> <p>${dx.description}
+            <img src="./img/gkoafinch.jpg" width="290px"> </div> <p>${dx.description} <br>
             <a class="hotlinks" href="https://en.wikipedia.org/wiki/Greater_koa_finch" target="_blank">Wiki Link</a></p>` )
            .openOn(my.map);
         });
@@ -362,7 +362,7 @@ function BubbleMap() {
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
             <img src="./img/trex.jpg" width="290px"> <p> ${dx.description}
-            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Tarbosaurus" target="_blank">\>\>Wiki Link</a></p>` )
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Tarbosaurus" target="_blank">Wiki Link</a></p>` )
            .openOn(my.map);
         });
       }
