@@ -213,6 +213,13 @@ function BubbleMap() {
           return Math.floor(Math.random() * (max - min + 1)) + min;
       };
 
+      function describer(){
+        if(`${dx.description}`!=='--'){
+          return `<p>${dx.description}</p>`;
+        }
+        else {return ''}
+      }
+
       function toTitleCase(str){
         return str.replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase());
       }
@@ -279,7 +286,7 @@ function BubbleMap() {
       circleMarker.on('mouseover', function(e) {
         const popup = L.popup()
          .setLatLng(e.latlng)
-         .setContent(`${dx.common_name} (${dx.year})`)
+         .setContent(`${dx.common_name} (${dx.year}) ${describer()}`)
          .openOn(my.map);
       });
 
@@ -290,13 +297,13 @@ function BubbleMap() {
             color: getMeRandomColors('yellow'),
             weight: 1,
             clickable: true,
-            offset: new L.Point(180, 100),
+            offset: new L.Point(-200, 100),
             maxWidth: 270
           })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
-            <img src="./img/dodo_wild.jpg" height="190px" width="260px"> <p> ${dx.description}
-            <a href="https://en.wikipedia.org/wiki/Dodo" target="_blank">\>\>Wiki Link</a></p>` )
+            <img src="./img/dodo.jpg" height="190px" width="260px"> <p> ${dx.description}
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Dodo" target="_blank">Wiki Link</a></p>` )
            .openOn(my.map);
         });
       }
@@ -310,8 +317,8 @@ function BubbleMap() {
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
             <div style="width: 290px; height: 200px; overflow: hidden;">
-            <img src="./img/gkoafinch.jpg" width="290px"> </div> <p>${dx.description}
-            <a href="https://en.wikipedia.org/wiki/Greater_koa_finch" target="_blank">\>\>Wiki Link</a></p>` )
+            <img src="./img/gkoafinch.jpg" width="290px"> </div> <p>${dx.description} <br>
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Greater_koa_finch" target="_blank">Wiki Link</a></p>` )
            .openOn(my.map);
         });
       }
@@ -324,7 +331,23 @@ function BubbleMap() {
           })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
-            <img src="./img/mammoth.jpg" width="290px"> <p> ${dx.description} <a href="https://en.wikipedia.org/wiki/Mammoth" target="_blank">\>\>Wiki Link</a></p>` )
+            <img src="./img/mammoth.jpg" width="290px"> <p> ${dx.description}
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Mammoth" target="_blank">Wiki Link</a></p>` )
+           .openOn(my.map);
+        });
+      }
+      circleMarker.addTo(my.map);
+
+
+      if (dx.scientific_name === 'Xenomorphus Thingus') {
+        circleMarker.setRadius(0.5);
+        circleMarker.on('mouseover', function(e) {
+          const popup = L.popup({
+            offset: new L.Point(195, -35)
+          })
+           .setLatLng(e.latlng)
+           .setContent(`${dx.common_name} (${dx.year}) <br>
+            <img src="./img/thething.jpg" width="120px"> <p> ${dx.description}` )
            .openOn(my.map);
         });
       }
@@ -334,11 +357,12 @@ function BubbleMap() {
         circleMarker.setRadius(12);
         circleMarker.on('mouseover', function(e) {
           const popup = L.popup({
-            offset: new L.Point(-200, 400)
+            offset: new L.Point(-195, 355)
           })
            .setLatLng(e.latlng)
            .setContent(`${dx.common_name} (${dx.year}) <br>
-            <img src="./img/trex.jpg" width="290px"> <p> ${dx.description} <a href="https://en.wikipedia.org/wiki/Tyrannosaurus" target="_blank">\>\>Wiki Link</a></p>` )
+            <img src="./img/trex.jpg" width="290px"> <p> ${dx.description}
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Tarbosaurus" target="_blank">Wiki Link</a></p>` )
            .openOn(my.map);
         });
       }

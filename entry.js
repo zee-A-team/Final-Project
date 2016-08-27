@@ -7,6 +7,3 @@ require('./public/sass/buttons.scss');
 require('./public/sass/styles.scss');
 require('./public/sass/leaflet-style.scss');
 require('./public/sass/c3-style.scss');
-require('./public/graticule');
-require('./public/sass/leaflet.rrose.scss');
-require('./public/leaflet.rrose-src');
