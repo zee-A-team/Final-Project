@@ -241,3 +241,29 @@ document.getElementById('toggleAvianChart').addEventListener('click', () => {
     })
     .catch((err) => console.log(err));
 });
+
+// const panel1 = document.getElementById('panel-1');
+// const panel2 = document.getElementById('panel-2');
+// const navPanel = document.getElementById('nav-panel');
+// const aboutPanel = document.getElementById('about-panel');
+
+// document.getElementById('navigate-button').addEventListener('click', () => {
+//  panel1.style.display = 'none';
+//  panel2.style.display = 'none';
+//  navPanel.style.display = 'flex';
+//  aboutPanel.style.display = 'none';
+// });
+
+// document.getElementById('chart-button').addEventListener('click', () => {
+//  panel1.style.display = 'flex';
+//  panel2.style.display = 'flex';
+//  navPanel.style.display = 'none';
+//  aboutPanel.style.display = 'none';
+// });
+
+// document.getElementById('about-button').addEventListener('click', () => {
+//  panel1.style.display = 'none';
+//  panel2.style.display = 'none';
+//  navPanel.style.display = 'none';
+//  aboutPanel.style.display = 'flex';
+// });

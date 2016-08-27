@@ -35,6 +35,10 @@
     {
       "name": "longitude",
       "type": "number"
+    },
+    {
+      "size": "size",
+      "type": "string"
     }
   ]
 }

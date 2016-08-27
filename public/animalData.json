@@ -1,10 +1,58 @@
 [
   {
+    "_id": "57bcaf7e7v658b5320d3f835",
+    "scientific_name": "Tarbosaurus bataar",
+    "common_name": "Tarbosaurus",
+    "date": "0001-01-01T00:00:00Z",
+    "year": "-66 Million BC",
+    "range": "Asia, North America",
+    "description": "Some scientists consider Tarbosaurus bataar from Asia to be a second Tyrannosaurus species while others maintain Tarbosaurus is a separate genus.",
+    "type": "reptile",
+    "latitude": 47,
+    "longitude": 124,
+    "latlong": "47,124",
+    "continent": "Asia",
+    "country": "RU" ,
+    "size": "LG"
+  },
+  {
+    "_id": "50bbaf7e7v658b5320d3f835",
+    "scientific_name": "Xenomorphus Thingus",
+    "common_name": "The Thing",
+    "date": "0100-01-01T00:00:00Z",
+    "year": "Year: Unknown",
+    "range": "Range: Unknown",
+    "description": "Little is known of this rumored entity, thought to be encountered by a Norwegian Antarctic Research team. We have just dispatched the American team to check up on the Norwegian teams latest status.",
+    "type": "marine",
+    "latitude": -80,
+    "longitude": -159,
+    "latlong": "-80,-159",
+    "continent": "Antarctica",
+    "country": "US",
+    "size": "MD"
+  },
+  {
+    "_id": "57abaf7e7v658b5320d3f835",
+    "scientific_name": "Raphus cucullatus",
+    "common_name": "The Dodo",
+    "date": "1750-01-01T00:00:00Z",
+    "year": "1750",
+    "range": "Mauritius",
+    "description": "The dodo (Raphus cucullatus) is an extinct flightless bird that was endemic to the island of Mauritius, east of Madagascar in the Indian Ocean.",
+    "type": "air",
+    "latitude": -19.99,
+    "longitude": 58.42,
+    "latlong": "-19.99,58.42",
+    "continent": "Africa",
+    "country": "FJ",
+    "size": "MD"
+  },
+  {
     "_id": "57ab8c5b1eff02897b163ed1",
     "scientific_name": "Tachybaptus rufolavatus",
     "common_name": "Alaotra grebe",
-    "date": "1985-01-01T00:00:00Z",
-    "year": "1985",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
     "range": "Madagascar",
     "description": "--",
     "type": "air",
@@ -12,14 +60,15 @@
     "longitude": 46.86,
     "latlong": "-18.76,46.86",
     "continent": "Africa",
-    "country": "MG"
+    "country": "MG",
+    "size": "SM"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed2",
     "scientific_name": "Nesillas aldabrana",
     "common_name": "Aldabra brush-warbler",
-    "date": "1983-01-01T00:00:00Z",
-    "year": "1983",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
     "range": "Seychelles",
     "description": "--",
     "type": "air",
@@ -27,14 +76,15 @@
     "longitude": 55.47,
     "latlong": "-4.65,55.47",
     "continent": "Africa",
-    "country": "SC"
+    "country": "SC",
+    "size": "SM"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed3",
     "scientific_name": "Mundia elpenor",
     "common_name": "Ascension flightless crake",
-    "date": "1656-01-01T00:00:00Z",
-    "year": "1656",
+    "date": "1650-01-01T00:00:00Z",
+    "year": "1650",
     "range": "United Kingdom (Ascension)",
     "description": "--",
     "type": "air",
@@ -42,7 +92,8 @@
     "longitude": -5.7,
     "latlong": "-15.90,-5.70",
     "continent": "Africa",
-    "country": "SH"
+    "country": "SH",
+    "size": "SM"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed4",
@@ -57,7 +108,8 @@
     "longitude": -5.7,
     "latlong": "-15.90,-5.70",
     "continent": "Africa",
-    "country": "SH"
+    "country": "SH",
+    "size": "SM"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed5",
@@ -72,7 +124,8 @@
     "longitude": 57.55,
     "latlong": "-20.34,57.55",
     "continent": "Africa",
-    "country": "MU"
+    "country": "MU",
+    "size": "SM"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed6",
@@ -87,29 +140,31 @@
     "longitude": -16.62,
     "latlong": "28.29,-16.62",
     "continent": "Europe",
-    "country": "ES"
+    "country": "ES",
+    "size": "SM"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed7",
     "scientific_name": "Coturnix gomerae",
     "common_name": "Canary Islands quail",
-    "date": "1444-01-01T00:00:00Z",
-    "year": "1444",
-    "range": "United Kingdom (Saint Helena)",
-    "description": "--",
+    "date": "1870-01-01T00:00:00Z",
+    "year": "1870",
+    "range": "Spain (Canary Islands)",
+    "description": "This quail was most likely still present in the Canary Islands after humans settled there. Cats could have been one of the causes of the disappearance of some little flying birds like the Canary Islands quail.",
     "type": "air",
     "latitude": -15.98,
     "longitude": -5.71,
     "latlong": "-15.98,-5.71",
-    "continent": "Africa",
-    "country": "SH"
+    "continent": "Europe",
+    "country": "ES",
+    "size": "SM"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed8",
     "scientific_name": "Dysmoropelia dekarchiskos",
     "common_name": "Saint Helena dove",
-    "date": "1502-01-01T00:00:00Z",
-    "year": "1502",
+    "date": "1500-01-01T00:00:00Z",
+    "year": "1500",
     "range": "United Kingdom (Saint Helena)",
     "description": "--",
     "type": "air",
@@ -117,7 +172,8 @@
     "longitude": -5.71,
     "latlong": "-15.98,-5.71",
     "continent": "Africa",
-    "country": "SH"
+    "country": "SH",
+    "size": "SM"
   },
   {
     "_id": "57ab8c5b1eff02897b163ed9",
@@ -132,14 +188,15 @@
     "longitude": -5.71,
     "latlong": "-15.98,-5.71",
     "continent": "Africa",
-    "country": "SH"
+    "country": "SH",
+    "size": "SM"
   },
   {
     "_id": "57ab8c5b1eff02897b163eda",
     "scientific_name": "Porzana astrictocarpus",
     "common_name": "Saint Helena rail",
-    "date": "1502-01-01T00:00:00Z",
-    "year": "1502",
+    "date": "1500-01-01T00:00:00Z",
+    "year": "1500",
     "range": "United Kingdom (Saint Helena)",
     "description": "--",
     "type": "air",
@@ -147,14 +204,15 @@
     "longitude": -5.71,
     "latlong": "-15.98,-5.71",
     "continent": "Africa",
-    "country": "SH"
+    "country": "SH",
+    "size": "SM"
   },
   {
     "_id": "57ab8c5b1eff02897b163edb",
     "scientific_name": "Psittacula wardis",
     "common_name": "Seychelles parakeet",
-    "date": "1886-01-01T00:00:00Z",
-    "year": "1886",
+    "date": "1880-01-01T00:00:00Z",
+    "year": "1880",
     "range": "Seychelles",
     "description": "--",
     "type": "air",
@@ -162,14 +220,15 @@
     "longitude": 55.47,
     "latlong": "-4.60,55.47",
     "continent": "Africa",
-    "country": "SE"
+    "country": "SE",
+    "size": "SM"
   },
   {
     "_id": "57ab8c5b1eff02897b163edc",
     "scientific_name": "Bulweria bifax",
     "common_name": "Small Saint Helena petrel",
-    "date": "1502-01-01T00:00:00Z",
-    "year": "1502",
+    "date": "1500-01-01T00:00:00Z",
+    "year": "1500",
     "range": "United Kingdom (Saint Helena)",
     "description": "--",
     "type": "air",
@@ -177,7 +236,8 @@
     "longitude": -5.71,
     "latlong": "-15.98,-5.71",
     "continent": "Africa",
-    "country": "SH"
+    "country": "SH",
+    "size": "SM"
   },
   {
     "_id": "57ab8c5b1eff02897b163edd",
@@ -192,12 +252,13 @@
     "longitude": -12.27,
     "latlong": "-37.10,-12.27",
     "continent": "Africa",
-    "country": "SH"
+    "country": "SH",
+    "size": "SM"
   },
   {
     "_id": "57ab8cde1eff02897b163ede",
     "scientific_name": "Equus africanus atlanticus",
-    "common_name": "Atlas wild ass",
+    "common_name": "Atlas Wild Ass",
     "date": "300-01-01T00:00:00Z",
     "year": "300",
     "range": "North African",
@@ -207,7 +268,8 @@
     "longitude": 18.28,
     "latlong": "18.18,18.28",
     "continent": "Africa",
-    "country": "TD"
+    "country": "TD",
+    "size": "MD"
   },
   {
     "_id": "57ab8cde1eff02897b163edf",
@@ -222,22 +284,24 @@
     "longitude": -16.62,
     "latlong": "28.29,-16.62",
     "continent": "Europe",
-    "country": "ES"
+    "country": "ES",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f843",
     "scientific_name": "Bufo periglenes",
     "common_name": "Golden toad",
-    "date": "1989-01-01T00:00:00Z",
-    "year": "1989",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
     "range": "Costa Rica",
     "description": "--",
-    "type": "land",
+    "type": "amph",
     "latitude": 9.74,
     "longitude": -83.75,
     "latlong": "9.74,-83.75",
     "continent": "North America",
-    "country": "CR"
+    "country": "CR",
+    "size": "SM"
   },
   {
     "_id": "57ab8cde1eff02897b163ee0",
@@ -252,7 +316,8 @@
     "longitude": 46.86,
     "latlong": "-18.76,46.86",
     "continent": "Africa",
-    "country": "MG"
+    "country": "MG",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8cde1eff02897b163ee1",
@@ -267,7 +332,8 @@
     "longitude": 46.86,
     "latlong": "-18.76,46.86",
     "continent": "Africa",
-    "country": "MG"
+    "country": "MG",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8cde1eff02897b163ee2",
@@ -282,7 +348,8 @@
     "longitude": 46.86,
     "latlong": "-18.76,46.86",
     "continent": "Africa",
-    "country": "MG"
+    "country": "MG",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8cde1eff02897b163ee3",
@@ -297,7 +364,8 @@
     "longitude": 22.52,
     "latlong": "3.29,22.52",
     "continent": "Africa",
-    "country": "CD"
+    "country": "CD",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8cde1eff02897b163ee4",
@@ -312,7 +380,8 @@
     "longitude": 46.87,
     "latlong": "-18.76,46.87",
     "continent": "Africa",
-    "country": "MG"
+    "country": "MG",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8cde1eff02897b163ee5",
@@ -327,7 +396,8 @@
     "longitude": -16.62,
     "latlong": "28.29,-16.62",
     "continent": "Europe",
-    "country": "ES"
+    "country": "ES",
+    "size": "SM"
   },
   {
     "_id": "57ab8cde1eff02897b163ee6",
@@ -342,7 +412,8 @@
     "longitude": 46.86,
     "latlong": "-18.76,46.86",
     "continent": "Africa",
-    "country": "MG"
+    "country": "MG",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8cde1eff02897b163ee7",
@@ -357,7 +428,8 @@
     "longitude": 46.86,
     "latlong": "-18.76,46.86",
     "continent": "Africa",
-    "country": "MG"
+    "country": "MG",
+    "size": "LG"
   },
   {
     "_id": "57ab8cde1eff02897b163ee8",
@@ -372,7 +444,8 @@
     "longitude": 22.52,
     "latlong": "3.29,22.52",
     "continent": "Africa",
-    "country": "CD"
+    "country": "CD",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8cde1eff02897b163ee9",
@@ -387,7 +460,8 @@
     "longitude": 46.86,
     "latlong": "-18.76,46.86",
     "continent": "Africa",
-    "country": "MG"
+    "country": "MG",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8cde1eff02897b163eea",
@@ -402,37 +476,40 @@
     "longitude": 12.39,
     "latlong": "30.30,12.39",
     "continent": "Africa",
-    "country": "LY"
+    "country": "LY",
+    "size": "LG"
   },
   {
     "_id": "57ab8cde1eff02897b163eeb",
     "scientific_name": "Pelorovis",
     "common_name": "Pelorovis",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "12000 BC",
     "range": "Africa",
-    "description": "12000BC",
+    "description": "12000 BC",
     "type": "land",
     "latitude": 3.29,
     "longitude": 22.52,
     "latlong": "3.29,22.52",
     "continent": "Africa",
-    "country": "CD"
+    "country": "CD",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8cde1eff02897b163eec",
     "scientific_name": "Sivatherium",
     "common_name": "Sivatherium",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-6000 BC",
     "range": "Africa",
-    "description": "-6000BC",
+    "description": "-6000 BC",
     "type": "land",
     "latitude": 3.29,
     "longitude": 22.52,
     "latlong": "3.29,22.52",
     "continent": "Africa",
-    "country": "CD"
+    "country": "CD",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d111eff02897b163eed",
@@ -447,7 +524,8 @@
     "longitude": 12.39,
     "latlong": "30.30,12.39",
     "continent": "Africa",
-    "country": "LY"
+    "country": "LY",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d111eff02897b163eee",
@@ -462,7 +540,8 @@
     "longitude": -0.26,
     "latlong": "34.1,-0.26",
     "continent": "Africa",
-    "country": "LI"
+    "country": "LI",
+    "size": "SM"
   },
   {
     "_id": "57ab8d111eff02897b163eef",
@@ -477,14 +556,15 @@
     "longitude": 23.55,
     "latlong": "-29.8,23.55",
     "continent": "Africa",
-    "country": "ZA"
+    "country": "ZA",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d111eff02897b163ef0",
     "scientific_name": "Alcelaphus buselaphus buselaphus",
     "common_name": "Bubal hartebeest",
-    "date": "1923-01-01T00:00:00Z",
-    "year": "1923",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "North Africa",
     "description": "--",
     "type": "land",
@@ -492,7 +572,8 @@
     "longitude": 12.39,
     "latlong": "30.30,12.39",
     "continent": "Africa",
-    "country": "LY"
+    "country": "LY",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d111eff02897b163ef1",
@@ -507,7 +588,8 @@
     "longitude": 23.55,
     "latlong": "-29.8,23.55",
     "continent": "Africa",
-    "country": "ZA"
+    "country": "ZA",
+    "size": "LG"
   },
   {
     "_id": "57ab8d111eff02897b163ef2",
@@ -522,7 +604,8 @@
     "longitude": 23.55,
     "latlong": "-29.8,23.55",
     "continent": "Africa",
-    "country": "ZA"
+    "country": "ZA",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d111eff02897b163ef3",
@@ -537,7 +620,8 @@
     "longitude": 23.55,
     "latlong": "-29.8,23.55",
     "continent": "Africa",
-    "country": "ZA"
+    "country": "ZA",
+    "size": "MD"
   },
   {
     "_id": "57ab8d111eff02897b163ef4",
@@ -552,7 +636,8 @@
     "longitude": 37.7,
     "latlong": "0.453,37.70",
     "continent": "Africa",
-    "country": "KE"
+    "country": "KE",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d111eff02897b163ef5",
@@ -567,7 +652,8 @@
     "longitude": 46.86,
     "latlong": "-18.76,46.86",
     "continent": "Africa",
-    "country": "MG"
+    "country": "MG",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d111eff02897b163ef6",
@@ -579,17 +665,18 @@
     "description": "--",
     "type": "land",
     "latitude": -20.26,
-    "longitude": 57.56,
-    "latlong": "-20.2,57.56",
+    "longitude": 157.56,
+    "latlong": "-20.2,157.56",
     "continent": "Africa",
-    "country": "MU"
+    "country": "MU",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d111eff02897b163ef7",
     "scientific_name": "Equus quagga quagga",
     "common_name": "Quagga",
-    "date": "1883-01-01T00:00:00Z",
-    "year": "1883",
+    "date": "1880-01-01T00:00:00Z",
+    "year": "1880",
     "range": "Namibia and South Africa",
     "description": "--",
     "type": "land",
@@ -597,14 +684,15 @@
     "longitude": 17.75,
     "latlong": "-21.6,17.75",
     "continent": "Africa",
-    "country": "NA"
+    "country": "NA",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d111eff02897b163ef8",
     "scientific_name": "Eudorcas rufinaa",
     "common_name": "Red gazelle",
-    "date": "1894-01-01T00:00:00Z",
-    "year": "1894",
+    "date": "1890-01-01T00:00:00Z",
+    "year": "1890",
     "range": "Algeria",
     "description": "--",
     "type": "land",
@@ -612,7 +700,8 @@
     "longitude": 3.21,
     "latlong": "31.80,3.21",
     "continent": "Africa",
-    "country": "DZ"
+    "country": "DZ",
+    "size": "MD"
   },
   {
     "_id": "57ab8d111eff02897b163ef9",
@@ -627,14 +716,15 @@
     "longitude": 23.55,
     "latlong": "-29.8,23.55",
     "continent": "Africa",
-    "country": "ZA"
+    "country": "ZA",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d111eff02897b163efa",
     "scientific_name": "Diceros bicornis longipes",
     "common_name": "Western black rhinoceros",
-    "date": "1996-01-01T00:00:00Z",
-    "year": "1996",
+    "date": "1990-01-01T00:00:00Z",
+    "year": "1990",
     "range": "Cameroon",
     "description": "--",
     "type": "land",
@@ -642,7 +732,8 @@
     "longitude": 12.56,
     "latlong": "4.57,12.56",
     "continent": "Africa",
-    "country": "CM"
+    "country": "CM",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d401eff02897b163efb",
@@ -652,12 +743,13 @@
     "year": "1920",
     "range": "Cape Verde",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": 16.06,
     "longitude": -22.78,
     "latlong": "16.06,-22.78",
     "continent": "Africa",
-    "country": "CV"
+    "country": "CV",
+    "size": "SM"
   },
   {
     "_id": "57ab8d401eff02897b163efc",
@@ -667,12 +759,13 @@
     "year": "1850",
     "range": "Mauritius",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": -20.34,
     "longitude": 57.55,
     "latlong": "-20.3,57.55",
     "continent": "Africa",
-    "country": "MU"
+    "country": "MU",
+    "size": "MD"
   },
   {
     "_id": "57ab8d401eff02897b163efd",
@@ -682,19 +775,20 @@
     "year": "1800",
     "range": "Mauritius",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": -20.34,
     "longitude": 57.55,
     "latlong": "-20.3,57.55",
     "continent": "Africa",
-    "country": "MU"
+    "country": "MU",
+    "size": "MD"
   },
   {
     "_id": "57ab8d401eff02897b163efe",
     "scientific_name": "Tetradactylus eastwoodae",
     "common_name": "Eastwood's long-tailed seps",
-    "date": "1912-01-01T00:00:00Z",
-    "year": "1912",
+    "date": "1910-01-01T00:00:00Z",
+    "year": "1910",
     "range": "South Africa",
     "description": "--",
     "type": "land",
@@ -702,7 +796,8 @@
     "longitude": 23.55,
     "latlong": "-29.8,23.55",
     "continent": "Africa",
-    "country": "ZA"
+    "country": "ZA",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d401eff02897b163eff",
@@ -712,12 +807,13 @@
     "year": "1444",
     "range": "Mauritius",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": -20.34,
     "longitude": 57.55,
     "latlong": "-20.3,57.55",
     "continent": "Africa",
-    "country": "MU"
+    "country": "MU",
+    "size": "SM"
   },
   {
     "_id": "57ab8d401eff02897b163f00",
@@ -727,12 +823,13 @@
     "year": "1650",
     "range": "Mauritius",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": -20.34,
     "longitude": 57.55,
     "latlong": "-20.3,57.55",
     "continent": "Africa",
-    "country": "MU"
+    "country": "MU",
+    "size": "SM"
   },
   {
     "_id": "57ab8d401eff02897b163f01",
@@ -747,22 +844,24 @@
     "longitude": 55.65,
     "latlong": "-21.1,55.65",
     "continent": "Africa",
-    "country": "RE"
+    "country": "RE",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d401eff02897b163f02",
     "scientific_name": "Phelsuma edwardnewtoni",
     "common_name": "Rodrigues day gecko",
-    "date": "1917-01-01T00:00:00Z",
-    "year": "1917",
+    "date": "1910-01-01T00:00:00Z",
+    "year": "1910",
     "range": "Mauritius",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": -20.34,
     "longitude": 57.55,
     "latlong": "-20.3,57.55",
     "continent": "Africa",
-    "country": "MU"
+    "country": "MU",
+    "size": "SM"
   },
   {
     "_id": "57ab8d401eff02897b163f03",
@@ -772,12 +871,13 @@
     "year": "1842",
     "range": "Mauritius",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": -20.34,
     "longitude": 57.55,
     "latlong": "-20.3,57.55",
     "continent": "Africa",
-    "country": "MU"
+    "country": "MU",
+    "size": "SM"
   },
   {
     "_id": "57ab8d401eff02897b163f04",
@@ -787,27 +887,29 @@
     "year": "1930",
     "range": "Spain (Canary Islands)",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": 28.29,
     "longitude": -16.62,
     "latlong": "28.29,-16.62",
     "continent": "Europe",
-    "country": "ES"
+    "country": "ES",
+    "size": "MD"
   },
   {
     "_id": "57ab8d401eff02897b163f05",
     "scientific_name": "Bolyeria multocarinata",
     "common_name": "Round Island burrowing boa",
-    "date": "1975-01-01T00:00:00Z",
-    "year": "1975",
+    "date": "1970-01-01T00:00:00Z",
+    "year": "1970",
     "range": "Mauritius",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": -20.34,
     "longitude": 57.55,
     "latlong": "-20.3,57.55",
     "continent": "Africa",
-    "country": "MU"
+    "country": "MU",
+    "size": "MD"
   },
   {
     "_id": "57ab8d401eff02897b163f06",
@@ -817,12 +919,13 @@
     "year": "1750",
     "range": "Mauritius",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": -20.34,
     "longitude": 57.55,
     "latlong": "-20.3,57.55",
     "continent": "Africa",
-    "country": "MU"
+    "country": "MU",
+    "size": "MD"
   },
   {
     "_id": "57ab8d401eff02897b163f07",
@@ -832,12 +935,13 @@
     "year": "1800",
     "range": "Mauritius",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": -20.34,
     "longitude": 57.55,
     "latlong": "-20.3,57.55",
     "continent": "Africa",
-    "country": "MU"
+    "country": "MU",
+    "size": "MD"
   },
   {
     "_id": "57ab8d611eff02897b163f08",
@@ -852,7 +956,8 @@
     "longitude": -75.76,
     "latlong": "2.48,75.76",
     "continent": "South America",
-    "country": "CO"
+    "country": "CO",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d611eff02897b163f09",
@@ -867,14 +972,15 @@
     "longitude": -77.16,
     "latlong": "-1.13,-77.16",
     "continent": "South America",
-    "country": "EC"
+    "country": "EC",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d611eff02897b163f0a",
     "scientific_name": "Atelopus longirostris",
     "common_name": "Atelopus longirostris",
-    "date": "1989-01-01T00:00:00Z",
-    "year": "1989",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
     "range": "Ecuador",
     "description": "--",
     "type": "land",
@@ -882,14 +988,15 @@
     "longitude": -77.16,
     "latlong": "-1.13,-77.16",
     "continent": "South America",
-    "country": "EC"
+    "country": "EC",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d611eff02897b163f0b",
     "scientific_name": "Atelopus vogli",
     "common_name": "Atelopus vogli",
-    "date": "1933-01-01T00:00:00Z",
-    "year": "1933",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Venezuela",
     "description": "--",
     "type": "land",
@@ -897,7 +1004,8 @@
     "longitude": -65.21,
     "latlong": "6.63,-65.21",
     "continent": "South America",
-    "country": "VE"
+    "country": "VE",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d611eff02897b163f0c",
@@ -907,12 +1015,13 @@
     "year": "1920",
     "range": "Brazil",
     "description": "--",
-    "type": "land",
+    "type": "amph",
     "latitude": -12.54,
     "longitude": -53.08,
     "latlong": "-12.5,-53.08",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "SM"
   },
   {
     "_id": "57ab8d611eff02897b163f0d",
@@ -922,12 +1031,13 @@
     "year": "1980",
     "range": "Chile",
     "description": "--",
-    "type": "land",
+    "type": "amph",
     "latitude": -47.74,
     "longitude": -73.12,
     "latlong": "-47.7,-73.12",
     "continent": "South America",
-    "country": "CL"
+    "country": "CL",
+    "size": "SM"
   },
   {
     "_id": "57ab8d611eff02897b163f0e",
@@ -937,12 +1047,13 @@
     "year": "1850",
     "range": "Ecuador (Galapagos Islands)",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": -0.73,
     "longitude": -91.06,
     "latlong": "-0.73,-91.06",
     "continent": "South America",
-    "country": "EC"
+    "country": "EC",
+    "size": "MD"
   },
   {
     "_id": "57ab8d611eff02897b163f0f",
@@ -952,19 +1063,20 @@
     "year": "2012",
     "range": "Ecuador (Galapagos Islands)",
     "description": "--",
-    "type": "land",
-    "latitude": -0.73,
-    "longitude": -91.06,
-    "latlong": "-0.73,-91.06",
+    "type": "reptile",
+    "latitude": 0.5872,
+    "longitude": -90.76,
+    "latlong": "0.5872,-90.76",
     "continent": "South America",
-    "country": "EC"
+    "country": "EC",
+    "size": "MD"
   },
   {
     "_id": "57ab8d7c1eff02897b163f10",
     "scientific_name": "Sephanoides fernandensis leyboldi",
     "common_name": "Alejandro Selkirk Island Firecrown",
-    "date": "1908-01-01T00:00:00Z",
-    "year": "1908",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Chile",
     "description": "--",
     "type": "air",
@@ -972,7 +1084,8 @@
     "longitude": -73.12,
     "latlong": "-47.7,-73.12",
     "continent": "South America",
-    "country": "CL"
+    "country": "CL",
+    "size": "SM"
   },
   {
     "_id": "57ab8d7c1eff02897b163f11",
@@ -987,14 +1100,15 @@
     "longitude": -72.07,
     "latlong": "2.47,-72.07",
     "continent": "South America",
-    "country": "CO"
+    "country": "CO",
+    "size": "SM"
   },
   {
     "_id": "57ab8d7c1eff02897b163f12",
     "scientific_name": "Geospiza magnirostris magnirostris",
     "common_name": "Darwin's ground finch",
-    "date": "1957-01-01T00:00:00Z",
-    "year": "1957",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "Ecuador (Galapagos Islands)",
     "description": "--",
     "type": "air",
@@ -1002,14 +1116,15 @@
     "longitude": -91.06,
     "latlong": "-0.73,-91.06",
     "continent": "South America",
-    "country": "EC"
+    "country": "EC",
+    "size": "SM"
   },
   {
     "_id": "57ab8d7c1eff02897b163f13",
     "scientific_name": "Anas georgica niceforoi",
     "common_name": "Niceforo's pintail",
-    "date": "1952-01-01T00:00:00Z",
-    "year": "1952",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "Colombia",
     "description": "--",
     "type": "air",
@@ -1017,7 +1132,8 @@
     "longitude": -72.07,
     "latlong": "2.47,-72.07",
     "continent": "South America",
-    "country": "CO"
+    "country": "CO",
+    "size": "SM"
   },
   {
     "_id": "57ab8d7c1eff02897b163f14",
@@ -1032,7 +1148,8 @@
     "longitude": -91.06,
     "latlong": "-0.73,-91.06",
     "continent": "South America",
-    "country": "EC"
+    "country": "EC",
+    "size": "SM"
   },
   {
     "_id": "57ab8d7c1eff02897b163f15",
@@ -1047,14 +1164,15 @@
     "longitude": -73.56,
     "latlong": "-10.2,-73.56",
     "continent": "South America",
-    "country": "PE"
+    "country": "PE",
+    "size": "SM"
   },
   {
     "_id": "57ab8d7c1eff02897b163f16",
     "scientific_name": "Heliangelus zusii",
     "common_name": "Antioquia brush finch",
-    "date": "1971-01-01T00:00:00Z",
-    "year": "1971",
+    "date": "1970-01-01T00:00:00Z",
+    "year": "1970",
     "range": "Colombia",
     "description": "--",
     "type": "air",
@@ -1062,14 +1180,15 @@
     "longitude": -72.07,
     "latlong": "2.47,-72.07",
     "continent": "South America",
-    "country": "CO"
+    "country": "CO",
+    "size": "SM"
   },
   {
     "_id": "57ab8d7c1eff02897b163f17",
     "scientific_name": "Heliangelus zusii",
     "common_name": "Bogota SunAngel",
-    "date": "1907-01-01T00:00:00Z",
-    "year": "1907",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Colombia",
     "description": "--",
     "type": "air",
@@ -1077,14 +1196,15 @@
     "longitude": -72.07,
     "latlong": "2.47,7.07",
     "continent": "South America",
-    "country": "CO"
+    "country": "CO",
+    "size": "SM"
   },
   {
     "_id": "57ab8d7c1eff02897b163f18",
     "scientific_name": "Numenius borealis",
     "common_name": "Eskimo Curlew",
-    "date": "1939-01-01T00:00:00Z",
-    "year": "1939",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Brazil and Argentina",
     "description": "--",
     "type": "air",
@@ -1092,7 +1212,8 @@
     "longitude": -56.33,
     "latlong": "-28.2,-56.33",
     "continent": "South America",
-    "country": "AR"
+    "country": "AR",
+    "size": "SM"
   },
   {
     "_id": "57ab8d7c1eff02897b163f19",
@@ -1107,14 +1228,15 @@
     "longitude": -56.33,
     "latlong": "-28.2,-56.33",
     "continent": "South America",
-    "country": "AR"
+    "country": "AR",
+    "size": "SM"
   },
   {
     "_id": "57ab8d7c1eff02897b163f1a",
     "scientific_name": "Sporophila melanops",
     "common_name": "Hooded seedeater",
-    "date": "1823-01-01T00:00:00Z",
-    "year": "1823",
+    "date": "1820-01-01T00:00:00Z",
+    "year": "1820",
     "range": "Brazil",
     "description": "--",
     "type": "air",
@@ -1122,14 +1244,15 @@
     "longitude": -53.08,
     "latlong": "-12.5,-53.08",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "SM"
   },
   {
     "_id": "57ab8d7c1eff02897b163f1b",
     "scientific_name": "Discosura letitiae",
     "common_name": "Letitia's thorntail",
-    "date": "1852-01-01T00:00:00Z",
-    "year": "1852",
+    "date": "1850-01-01T00:00:00Z",
+    "year": "1850",
     "range": "Bolivia",
     "description": "--",
     "type": "air",
@@ -1137,14 +1260,15 @@
     "longitude": -64.77,
     "latlong": "-16.1,-64.77",
     "continent": "South America",
-    "country": "BO"
+    "country": "BO",
+    "size": "SM"
   },
   {
     "_id": "57ab8d7c1eff02897b163f1c",
     "scientific_name": "Grallaria chthonia",
     "common_name": "Tachira antpitta",
-    "date": "1956-01-01T00:00:00Z",
-    "year": "1956",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "Venezuela",
     "description": "--",
     "type": "air",
@@ -1152,7 +1276,8 @@
     "longitude": -65.21,
     "latlong": "6.63,-65.21",
     "continent": "South America",
-    "country": "VE"
+    "country": "VE",
+    "size": "SM"
   },
   {
     "_id": "57ab8d8c1eff02897b163f1d",
@@ -1167,14 +1292,15 @@
     "longitude": -57.12,
     "latlong": "-3.23,-57.12",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f806",
     "scientific_name": "Drepanis pacifica",
     "common_name": "Hawai'i mamo",
-    "date": "1988-01-T00:00:00Z",
-    "year": "1988",
+    "date": "1980-01-T00:00:00Z",
+    "year": "1980",
     "range": "Hawaiian Islands",
     "description": "--",
     "type": "air",
@@ -1182,7 +1308,8 @@
     "longitude": -155.51,
     "latlong": "19.66,-155.51",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57ab8d8c1eff02897b163f1e",
@@ -1197,7 +1324,8 @@
     "longitude": -73.12,
     "latlong": "-47.7,-73.12",
     "continent": "South America",
-    "country": "CL"
+    "country": "CL",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f1f",
@@ -1212,37 +1340,40 @@
     "longitude": -57.74,
     "latlong": "-16.9,-57.74",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f20",
     "scientific_name": "Canis nehringi",
     "common_name": "Canis nehringi",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-8000 BC",
     "range": "South America",
-    "description": "-8000BC",
+    "description": "-8000 BC",
     "type": "land",
     "latitude": -16.95,
     "longitude": -57.74,
     "latlong": "-16.9,-57.74",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f21",
     "scientific_name": "Cuvieronius sp.",
     "common_name": "Cuvieronius",
-    "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "date": "0004-01-01T00:00:00Z",
+    "year": "-4000 BC",
     "range": "South America",
-    "description": "-4000BC",
+    "description": "-4000 BC",
     "type": "land",
     "latitude": -16.95,
     "longitude": -57.74,
     "latlong": "-16.9,-57.74",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f22",
@@ -1257,37 +1388,40 @@
     "longitude": -57.74,
     "latlong": "-16.9,-57.74",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f23",
     "scientific_name": "Catonyx",
     "common_name": "Ground sloths",
-    "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "date": "0006-01-01T00:00:00Z",
+    "year": "-6000 BC",
     "range": "South America",
-    "description": "-6000BC",
+    "description": "-6000 BC",
     "type": "land",
     "latitude": -16.95,
     "longitude": -57.74,
     "latlong": "-16.9,-57.74",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f24",
     "scientific_name": "Doedicurus",
     "common_name": "Glyptodontidaes",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-1100 BC",
     "range": "South America",
-    "description": "-1100BC",
+    "description": "-1100 BC",
     "type": "land",
     "latitude": -16.95,
     "longitude": -57.74,
     "latlong": "-16.9,-57.74",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f25",
@@ -1302,7 +1436,8 @@
     "longitude": -57.74,
     "latlong": "-16.9,-57.74",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f26",
@@ -1317,7 +1452,8 @@
     "longitude": -57.74,
     "latlong": "-16.9,-57.74",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f27",
@@ -1332,7 +1468,8 @@
     "longitude": -57.74,
     "latlong": "-16.9,-57.74",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f28",
@@ -1347,7 +1484,8 @@
     "longitude": -57.74,
     "latlong": "-16.9,-57.74",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f29",
@@ -1362,7 +1500,8 @@
     "longitude": -57.74,
     "latlong": "-16.9,-57.74",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f2a",
@@ -1377,7 +1516,8 @@
     "longitude": -62.4,
     "latlong": "-16.7,-62.40",
     "continent": "South America",
-    "country": "BO"
+    "country": "BO",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f2b",
@@ -1392,7 +1532,8 @@
     "longitude": -57.74,
     "latlong": "-16.9,-57.74",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f2c",
@@ -1407,7 +1548,8 @@
     "longitude": -65.21,
     "latlong": "6.63,-65.21",
     "continent": "South America",
-    "country": "VE"
+    "country": "VE",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f2d",
@@ -1422,37 +1564,40 @@
     "longitude": -53.08,
     "latlong": "-12.5,-53.08",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "SM"
   },
   {
     "_id": "57ab8d8c1eff02897b163f2f",
     "scientific_name": "Nesoryzomys darwini",
     "common_name": "Darwin's rice rat",
-    "date": "1929-01-01T00:00:00Z",
-    "year": "1929",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Ecuador (Galapagos Islands)",
     "description": "--",
     "type": "land",
     "latitude": -0.73,
-    "longitude": -91.06,
-    "latlong": "-0.73,-91.06",
+    "longitude": -89.56,
+    "latlong": "-0.73,89.56",
     "continent": "South America",
-    "country": "EC"
+    "country": "EC",
+    "size": "SM"
   },
   {
     "_id": "57ab8d8c1eff02897b163f31",
     "scientific_name": "Megaoryzomys curioi",
     "common_name": "Galapagos giant rat",
-    "date": "1444-01-01T00:00:00Z",
-    "year": "1444",
+    "date": "1700-01-01T00:00:00Z",
+    "year": "1700",
     "range": "Ecuador (Galapagos Islands)",
-    "description": "--",
+    "description": "Likely met its demise when European settlers introduced invasive species to the island. It is the only species in the genus Megaoryzomys.",
     "type": "land",
-    "latitude": -0.73,
-    "longitude": -91.06,
-    "latlong": "-0.73,-91.06",
+    "latitude": -0.86,
+    "longitude": -91.13,
+    "latlong": "-0.86,-91.13",
     "continent": "South America",
-    "country": "EC"
+    "country": "EC",
+    "size": "SM"
   },
   {
     "_id": "57ab8d8c1eff02897b163f32",
@@ -1461,13 +1606,14 @@
     "date": "1930-01-01T00:00:00Z",
     "year": "1930",
     "range": "Ecuador (Galapagos Islands)",
-    "description": "--",
+    "description": "One (N. i. indefessus) formerly lived on Santa Cruz Island, California, but is now extinct, probably due to the introduction of black rats; and another (N. i. narboroughi) that is still alive on Fernandina Island.",
     "type": "land",
-    "latitude": -0.73,
-    "longitude": -91.06,
-    "latlong": "-0.73,-91.06",
+    "latitude": -0.078,
+    "longitude": -91.35,
+    "latlong": "-0.078,-91.35",
     "continent": "South America",
-    "country": "EC"
+    "country": "EC",
+    "size": "SM"
   },
   {
     "_id": "57ab8d8c1eff02897b163f33",
@@ -1480,9 +1626,10 @@
     "type": "land",
     "latitude": 6.63,
     "longitude": -65.21,
-    "latlong": "6.63,6.21",
+    "latlong": "6.63,-65.21",
     "continent": "Africa",
-    "country": "NG"
+    "country": "NG",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f34",
@@ -1493,18 +1640,19 @@
     "range": "Peru",
     "description": "--",
     "type": "land",
-    "latitude": -10.21,
-    "longitude": -73.56,
-    "latlong": "-10.2,-73.56",
+    "latitude": -20.21,
+    "longitude": -83.56,
+    "latlong": "-20.21,-83.56",
     "continent": "South America",
-    "country": "PE"
+    "country": "PE",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f36",
     "scientific_name": "Noronhomys vespuccii",
     "common_name": "Vespucci's rodent",
-    "date": "1503-01-01T00:00:00Z",
-    "year": "1503",
+    "date": "1500-01-01T00:00:00Z",
+    "year": "1500",
     "range": "Brazil",
     "description": "--",
     "type": "land",
@@ -1512,14 +1660,15 @@
     "longitude": -53.08,
     "latlong": "-12.5,-53.08",
     "continent": "South America",
-    "country": "BR"
+    "country": "BR",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f38",
     "scientific_name": "Octodon pacificus",
     "common_name": "Pacific degu",
-    "date": "1994-01-01T00:00:00Z",
-    "year": "1994",
+    "date": "1990-01-01T00:00:00Z",
+    "year": "1990",
     "range": "Mocha Island,Chile",
     "description": "--",
     "type": "land",
@@ -1527,14 +1676,15 @@
     "longitude": -73.12,
     "latlong": "-47.7,-73.12",
     "continent": "South America",
-    "country": "CL"
+    "country": "CL",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8d8c1eff02897b163f39",
     "scientific_name": "Melanomys zunigae",
     "common_name": "Zuniga's dark rice rat",
-    "date": "1942-01-01T00:00:00Z",
-    "year": "1942",
+    "date": "1940-01-01T00:00:00Z",
+    "year": "1940",
     "range": "Peru",
     "description": "--",
     "type": "land",
@@ -1542,14 +1692,15 @@
     "longitude": -73.56,
     "latlong": "-10.2,-73.56",
     "continent": "South America",
-    "country": "PE"
+    "country": "PE",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f3a",
     "scientific_name": "Struthio camelus syriacus",
     "common_name": "Arabian ostrich",
-    "date": "1966-01-01T00:00:00Z",
-    "year": "1966",
+    "date": "1960-01-01T00:00:00Z",
+    "year": "1960",
     "range": "Middle East",
     "description": "--",
     "type": "air",
@@ -1557,7 +1708,8 @@
     "longitude": 42.02,
     "latlong": "29.16,42.02",
     "continent": "Asia",
-    "country": "SA"
+    "country": "SA",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f3b",
@@ -1572,14 +1724,15 @@
     "longitude": 42.02,
     "latlong": "29.16,42.02",
     "continent": "Asia",
-    "country": "SA"
+    "country": "SA",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f3c",
     "scientific_name": "Branta hutchinsii asiatica",
     "common_name": "Bering Cackling Goose",
-    "date": "1929-01-01T00:00:00Z",
-    "year": "1929",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Russia (Komandorski and Kuril Islands)",
     "description": "--",
     "type": "air",
@@ -1587,7 +1740,8 @@
     "longitude": 98.44,
     "latlong": "62.73,98.44",
     "continent": "Europe",
-    "country": "RU"
+    "country": "RU",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f3d",
@@ -1602,14 +1756,15 @@
     "longitude": 142.2,
     "latlong": "27.03,142.20",
     "continent": "Asia",
-    "country": "JP"
+    "country": "JP",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f3e",
     "scientific_name": "Nycticorax caledonicus crassirostris",
     "common_name": "Bonin nankeen night heron",
-    "date": "1889-01-01T00:00:00Z",
-    "year": "1889",
+    "date": "1880-01-01T00:00:00Z",
+    "year": "1880",
     "range": "Japan (Bonin Islands)",
     "description": "--",
     "type": "air",
@@ -1617,7 +1772,8 @@
     "longitude": 142.2,
     "latlong": "27.03,142.20",
     "continent": "Asia",
-    "country": "JP"
+    "country": "JP",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f3f",
@@ -1632,14 +1788,15 @@
     "longitude": 142.2,
     "latlong": "27.03,142.20",
     "continent": "Asia",
-    "country": "JP"
+    "country": "JP",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f40",
     "scientific_name": "Columba versicolor",
     "common_name": "Bonin wood pigeon",
-    "date": "1889-01-01T00:00:00Z",
-    "year": "1889",
+    "date": "1880-01-01T00:00:00Z",
+    "year": "1880",
     "range": "Japan (Bonin Islands)",
     "description": "--",
     "type": "air",
@@ -1647,7 +1804,8 @@
     "longitude": 142.2,
     "latlong": "27.03,142.20",
     "continent": "Asia",
-    "country": "JP"
+    "country": "JP",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f41",
@@ -1662,7 +1820,8 @@
     "longitude": 123.8,
     "latlong": "10.40,123.80",
     "continent": "Asia",
-    "country": "PH"
+    "country": "PH",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f42",
@@ -1677,7 +1836,8 @@
     "longitude": 33.14,
     "latlong": "34.93,33.14",
     "continent": "Asia",
-    "country": "CY"
+    "country": "CY",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f43",
@@ -1692,14 +1852,15 @@
     "longitude": 142.2,
     "latlong": "27.03,142.20",
     "continent": "Asia",
-    "country": "JP"
+    "country": "JP",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f44",
     "scientific_name": "Todiramphus miyakoensis",
     "common_name": "Ryukyu kingfisher",
-    "date": "1887-01-01T00:00:00Z",
-    "year": "1887",
+    "date": "1880-01-01T00:00:00Z",
+    "year": "1880",
     "range": "Japan (Ryukyu Islands)",
     "description": "--",
     "type": "air",
@@ -1707,14 +1868,15 @@
     "longitude": 127.99,
     "latlong": "26.49,127.99",
     "continent": "Asia",
-    "country": "JP"
+    "country": "JP",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f45",
     "scientific_name": "Columba jouyi",
     "common_name": "Ryukyu wood pigeon",
-    "date": "1936-01-01T00:00:00Z",
-    "year": "1936",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Japan (Ryukyu Islands)",
     "description": "--",
     "type": "air",
@@ -1722,7 +1884,8 @@
     "longitude": 127.99,
     "latlong": "26.49,127.99",
     "continent": "Asia",
-    "country": "JP"
+    "country": "JP",
+    "size": "SM"
   },
   {
     "_id": "57ab8f0d1eff02897b163f46",
@@ -1737,7 +1900,8 @@
     "longitude": 98.44,
     "latlong": "62.73,98.44",
     "continent": "Europe",
-    "country": "RU"
+    "country": "RU",
+    "size": "SM"
   },
   {
     "_id": "57ab8f211eff02897b163f47",
@@ -1745,21 +1909,22 @@
     "common_name": "Aurochs",
     "date": "1627-01-01T00:00:00Z0",
     "year": "16270",
-    "range": "Northern Asia and Indian Sontinent",
+    "range": "Northern Asia and Indian Continent",
     "description": "--",
     "type": "land",
     "latitude": 49.1,
     "longitude": 108.78,
     "latlong": "49.10,108.78",
     "continent": "Asia",
-    "country": "MN"
+    "country": "MN",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f211eff02897b163f48",
     "scientific_name": "Panthera tigris balica",
     "common_name": "Bali tiger",
-    "date": "1937-01-01T00:00:00Z",
-    "year": "1937",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Indonesia (Bali)",
     "description": "--",
     "type": "land",
@@ -1767,7 +1932,8 @@
     "longitude": 115.08,
     "latlong": "-8.34,115.08",
     "continent": "Asia",
-    "country": "ID"
+    "country": "ID",
+    "size": "MD"
   },
   {
     "_id": "57ab8f211eff02897b163f49",
@@ -1782,7 +1948,8 @@
     "longitude": 124.33,
     "latlong": "-9.88,124.33",
     "continent": "Asia",
-    "country": "ID"
+    "country": "ID",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f211eff02897b163f4a",
@@ -1797,7 +1964,8 @@
     "longitude": 64.03,
     "latlong": "36.65,64.03",
     "continent": "Asia",
-    "country": "TM"
+    "country": "TM",
+    "size": "MD"
   },
   {
     "_id": "57ab8f211eff02897b163f4b",
@@ -1808,33 +1976,19 @@
     "range": "Caucasus Mountains,Iran and Turkey",
     "description": "--",
     "type": "land",
-    "latitude": 38.51,
-    "longitude": 44.35,
-    "latlong": "38.51,44.35",
+    "latitude": 40.69,
+    "longitude": 48.25,
+    "latlong": "40.69,48.25",
     "continent": "Asia",
-    "country": "IR"
-  },
-  {
-    "_id": "57ab8f211eff02897b163f4c",
-    "scientific_name": "Bison bonasus caucasicus",
-    "common_name": "Caucasian wisent",
-    "date": "1925-01-01T00:00:00Z",
-    "year": "1925",
-    "range": "Caucasus Mountains",
-    "description": "--",
-    "type": "land",
-    "latitude": 38.51,
-    "longitude": 44.35,
-    "latlong": "38.51,44.35",
-    "continent": "Asia",
-    "country": "IR"
+    "country": "IR",
+    "size": "MD"
   },
   {
     "_id": "57ab8f211eff02897b163f4d",
     "scientific_name": "Sus cebifrons cebifrons",
     "common_name": "Cebu warty pig",
-    "date": "1951-01-01T00:00:00Z",
-    "year": "1951",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "Yemen",
     "description": "--",
     "type": "land",
@@ -1842,7 +1996,8 @@
     "longitude": 46.73,
     "latlong": "15.29,46.73",
     "continent": "Asia",
-    "country": "YE"
+    "country": "YE",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f211eff02897b163f4e",
@@ -1857,7 +2012,8 @@
     "longitude": 121.06,
     "latlong": "-8.77,121.06",
     "continent": "Asia",
-    "country": "ID"
+    "country": "ID",
+    "size": "SM"
   },
   {
     "_id": "57ab8f211eff02897b163f4f",
@@ -1872,7 +2028,8 @@
     "longitude": 121.06,
     "latlong": "-8.77,121.06",
     "continent": "Asia",
-    "country": "ID"
+    "country": "ID",
+    "size": "SM"
   },
   {
     "_id": "57ab8f211eff02897b163f50",
@@ -1884,17 +2041,18 @@
     "description": "--",
     "type": "land",
     "latitude": 23.69,
-    "longitude": 121.01,
-    "latlong": "23.69,121.01",
+    "longitude": 120.01,
+    "latlong": "23.69,120.01",
     "continent": "Asia",
-    "country": "TW"
+    "country": "TW",
+    "size": "MD"
   },
   {
     "_id": "57ab8f211eff02897b163f51",
     "scientific_name": "Canis lupus hattai",
     "common_name": "Hokkaidō wolf",
-    "date": "1889-01-01T00:00:00Z",
-    "year": "1889",
+    "date": "1880-01-01T00:00:00Z",
+    "year": "1880",
     "range": "Japan (Hokkaidō)",
     "description": "--",
     "type": "land",
@@ -1902,44 +2060,47 @@
     "longitude": 142.66,
     "latlong": "43.25,142.66",
     "continent": "Asia",
-    "country": "JP"
+    "country": "JP",
+    "size": "MD"
   },
   {
     "_id": "57ab8f211eff02897b163f52",
     "scientific_name": "Canis lupus hodophilax",
     "common_name": "Honshū wolf",
-    "date": "1905-01-01T00:00:00Z",
-    "year": "1905",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Japan (Honshū)",
     "description": "--",
     "type": "land",
-    "latitude": 35.97,
-    "longitude": 138.23,
-    "latlong": "35.97,138.23",
+    "latitude": 39,
+    "longitude": 140.7,
+    "latlong": "39,140.7",
     "continent": "Asia",
-    "country": "JP"
+    "country": "JP",
+    "size": "MD"
   },
   {
     "_id": "57ab8f211eff02897b163f53",
     "scientific_name": "Crateromys paulus",
-    "common_name": "Ilin Island Cloudrunner",
-    "date": "1953-01-01T00:00:00Z",
-    "year": "1953",
+    "common_name": "Ilin Island Cloudrunner Runner",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "Philippines",
-    "description": "--",
+    "description": "The Ilin Island Cloudrunner (Crateromys paulus) is a critically endangered cloud rat from Ilin Island in the Philippines. It is a fluffy-coated, bushy-tailed rat and may have emerged from tree hollows at night to feed on fruits and leaves. It is known from one specimen, collected on 4 April 1953.",
     "type": "land",
     "latitude": 11.46,
     "longitude": 123.32,
     "latlong": "11.46,123.32",
     "continent": "Asia",
-    "country": "PH"
+    "country": "PH",
+    "size": "SM"
   },
   {
     "_id": "57ab8f211eff02897b163f54",
     "scientific_name": "Rhinoceros sondaicus inermis",
     "common_name": "Indian Javan rhinoceros",
-    "date": "1925-01-01T00:00:00Z",
-    "year": "1925",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Bangladesh,Burma (Myanmar),and India",
     "description": "--",
     "type": "land",
@@ -1947,14 +2108,15 @@
     "longitude": 92.89,
     "latlong": "23.21,92.89",
     "continent": "Asia",
-    "country": "IN"
+    "country": "IN",
+    "size": "LG"
   },
   {
     "_id": "57ab8f211eff02897b163f55",
     "scientific_name": "Lutra lutra whiteleyi",
     "common_name": "Japanese river otter",
-    "date": "1979-01-01T00:00:00Z",
-    "year": "1979",
+    "date": "1970-01-01T00:00:00Z",
+    "year": "1970",
     "range": "Japan",
     "description": "--",
     "type": "sea",
@@ -1962,22 +2124,24 @@
     "longitude": 138.76,
     "latlong": "35.82,138.76",
     "continent": "Asia",
-    "country": "JP"
+    "country": "JP",
+    "size": "MD"
   },
   {
     "_id": "57ab8f211eff02897b163f56",
     "scientific_name": "Zalophus japonicus",
     "common_name": "Japanese sea lion",
-    "date": "1974-01-01T00:00:00Z",
-    "year": "1974",
+    "date": "1970-01-01T00:00:00Z",
+    "year": "1970",
     "range": "Sea of Japan",
     "description": "--",
     "type": "land",
-    "latitude": 35.82,
-    "longitude": 138.76,
-    "latlong": "35.82,138.76",
+    "latitude": 35.42,
+    "longitude": 136.71,
+    "latlong": "35.42,136.71",
     "continent": "Asia",
-    "country": "JP"
+    "country": "JP",
+    "size": "MD"
   },
   {
     "_id": "57ab8f211eff02897b163f57",
@@ -1992,7 +2156,8 @@
     "longitude": 110.57,
     "latlong": "-7.24,110.57",
     "continent": "Asia",
-    "country": "ID"
+    "country": "ID",
+    "size": "LG"
   },
   {
     "_id": "57ab8f211eff02897b163f58",
@@ -2007,14 +2172,15 @@
     "longitude": 92.89,
     "latlong": "23.21,92.89",
     "continent": "Asia",
-    "country": "IN"
+    "country": "IN",
+    "size": "LG"
   },
   {
     "_id": "57ab8f211eff02897b163f59",
     "scientific_name": "Gazella bilkis",
     "common_name": "Queen of Sheba's gazelle",
-    "date": "1951-01-01T00:00:00Z",
-    "year": "1951",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "Yemen",
     "description": "--",
     "type": "land",
@@ -2022,7 +2188,8 @@
     "longitude": 46.73,
     "latlong": "15.29,46.73",
     "continent": "Asia",
-    "country": "YE"
+    "country": "YE",
+    "size": "MD"
   },
   {
     "_id": "57ab8f211eff02897b163f5a",
@@ -2037,14 +2204,15 @@
     "longitude": 47.51,
     "latlong": "18.88,47.51",
     "continent": "Asia",
-    "country": "SA"
+    "country": "SA",
+    "size": "MD"
   },
   {
     "_id": "57ab8f211eff02897b163f5b",
     "scientific_name": "Rucervus schomburgki",
     "common_name": "Schomburgk's deer",
-    "date": "1938-01-01T00:00:00Z",
-    "year": "1938",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Thailand",
     "description": "--",
     "type": "land",
@@ -2052,22 +2220,8 @@
     "longitude": 100.34,
     "latlong": "16.62,100.34",
     "continent": "Asia",
-    "country": "TH"
-  },
-  {
-    "_id": "57ab8f211eff02897b163f5c",
-    "scientific_name": "Hydrodamalis gigas",
-    "common_name": "Steller's sea cow",
-    "date": "1768-01-01T00:00:00Z",
-    "year": "1768",
-    "range": "Russia (Commander Islands)",
-    "description": "--",
-    "type": "land",
-    "latitude": 62.73,
-    "longitude": 98.44,
-    "latlong": "62.73,98.44",
-    "continent": "Europe",
-    "country": "RU"
+    "country": "TH",
+    "size": "MD"
   },
   {
     "_id": "57ab8f211eff02897b163f5d",
@@ -2082,7 +2236,8 @@
     "longitude": 142.2,
     "latlong": "27.03,142.20",
     "continent": "Asia",
-    "country": "Japan"
+    "country": "Japan",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f211eff02897b163f5e",
@@ -2097,7 +2252,8 @@
     "longitude": 121.06,
     "latlong": "-8.77,121.06",
     "continent": "Asia",
-    "country": "ID"
+    "country": "ID",
+    "size": "SM"
   },
   {
     "_id": "57ab8f211eff02897b163f5f",
@@ -2112,7 +2268,8 @@
     "longitude": 103.15,
     "latlong": "4.57,103.15",
     "continent": "Asia",
-    "country": "MY"
+    "country": "MY",
+    "size": "LG"
   },
   {
     "_id": "57ab8f3f1eff02897b163f60",
@@ -2127,14 +2284,15 @@
     "longitude": 108.78,
     "latlong": "49.10,108.78",
     "continent": "Asia",
-    "country": "MN"
+    "country": "MN",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f3f1eff02897b163f61",
     "scientific_name": "Panthera tigris balica",
     "common_name": "Bali tiger",
-    "date": "1937-01-01T00:00:00Z",
-    "year": "1937",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Indonesia (Bali)",
     "description": "--",
     "type": "land",
@@ -2142,7 +2300,8 @@
     "longitude": 115.08,
     "latlong": "-8.34,115.08",
     "continent": "Asia",
-    "country": "ID"
+    "country": "ID",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f3f1eff02897b163f62",
@@ -2157,7 +2316,8 @@
     "longitude": 124.33,
     "latlong": "-9.88,124.33",
     "continent": "Asia",
-    "country": "ID"
+    "country": "ID",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f3f1eff02897b163f63",
@@ -2168,48 +2328,35 @@
     "range": "Turkey to China",
     "description": "--",
     "type": "land",
-    "latitude": 38.7,
-    "longitude": 66.46,
-    "latlong": "38.7,66.46",
+    "latitude": 43.21,
+    "longitude": 87.53,
+    "latlong": "43.21,87.53",
     "continent": "Asia",
-    "country": "UZ"
-  },
-  {
-    "_id": "57ab8f3f1eff02897b163f64",
-    "scientific_name": "Alces alces caucasicus",
-    "common_name": "Caucasian moose",
-    "date": "1850-01-01T00:00:00Z",
-    "year": "1850",
-    "range": "Caucasus Mountains,Iran and Turkey",
-    "description": "--",
-    "type": "land",
-    "latitude": 42.56,
-    "longitude": 44.03,
-    "latlong": "42.56,44.03",
-    "continent": "Asia",
-    "country": "IR"
+    "country": "UZ",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f3f1eff02897b163f65",
     "scientific_name": "Bison bonasus caucasicus",
     "common_name": "Caucasian wisent",
-    "date": "1925-01-01T00:00:00Z",
-    "year": "1925",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Caucasus Mountains",
     "description": "--",
     "type": "land",
-    "latitude": 42.56,
-    "longitude": 44.03,
-    "latlong": "42.56,44.03",
+    "latitude": 45.72,
+    "longitude": 44.12,
+    "latlong": "42.72,44.12",
     "continent": "Asia",
-    "country": "GA"
+    "country": "GA",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f3f1eff02897b163f66",
     "scientific_name": "Sus cebifrons cebifrons",
     "common_name": "Cebu warty pig",
-    "date": "1951-01-01T00:00:00Z",
-    "year": "1951",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "Yemen",
     "description": "--",
     "type": "land",
@@ -2217,7 +2364,8 @@
     "longitude": 46.73,
     "latlong": "15.29,46.73",
     "continent": "Asia",
-    "country": "YE"
+    "country": "YE",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f3f1eff02897b163f67",
@@ -2232,14 +2380,15 @@
     "longitude": 47.51,
     "latlong": "18.88,47.51",
     "continent": "Asia",
-    "country": "SA"
+    "country": "SA",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f3f1eff02897b163f68",
     "scientific_name": "Rucervus schomburgki",
     "common_name": "Schomburgk's deer",
-    "date": "1938-01-01T00:00:00Z",
-    "year": "1938",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Thailand",
     "description": "--",
     "type": "land",
@@ -2247,22 +2396,8 @@
     "longitude": 100.34,
     "latlong": "16.62,100.34",
     "continent": "Asia",
-    "country": "TH"
-  },
-  {
-    "_id": "57ab8f3f1eff02897b163f69",
-    "scientific_name": "Hydrodamalis gigas",
-    "common_name": "Steller's sea cow",
-    "date": "1768-01-01T00:00:00Z",
-    "year": "1768",
-    "range": "Russia (Commander Islands)",
-    "description": "--",
-    "type": "land",
-    "latitude": 62.73,
-    "longitude": 98.44,
-    "latlong": "62.73,98.44",
-    "continent": "Europe",
-    "country": "RU"
+    "country": "TH",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f3f1eff02897b163f6a",
@@ -2277,7 +2412,8 @@
     "longitude": 142.2,
     "latlong": "27.03,142.20",
     "continent": "Asia",
-    "country": "JP"
+    "country": "JP",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f3f1eff02897b163f6b",
@@ -2292,7 +2428,8 @@
     "longitude": 121.06,
     "latlong": "-8.77,121.06",
     "continent": "Asia",
-    "country": "ID"
+    "country": "ID",
+    "size": "SM"
   },
   {
     "_id": "57ab8f3f1eff02897b163f6c",
@@ -2307,14 +2444,15 @@
     "longitude": 103.15,
     "latlong": "4.57,103.15",
     "continent": "Asia",
-    "country": "MY"
+    "country": "MY",
+    "size": "ZZ"
   },
   {
     "_id": "57ab8f681eff02897b163f73",
     "scientific_name": "Pinguinus impennis",
     "common_name": "Great auk",
-    "date": "1854-01-01T00:00:00Z",
-    "year": "1854",
+    "date": "1850-01-01T00:00:00Z",
+    "year": "1850",
     "range": "Iceland and Northern European Coast",
     "description": "--",
     "type": "air",
@@ -2322,7 +2460,8 @@
     "longitude": -18.81,
     "latlong": "64.87,-18.81",
     "continent": "Europe",
-    "country": "IS"
+    "country": "IS",
+    "size": "SM"
   },
   {
     "_id": "57ab8f681eff02897b163f74",
@@ -2337,14 +2476,15 @@
     "longitude": -7.08,
     "latlong": "62.20,-7.08",
     "continent": "Europe",
-    "country": "FO"
+    "country": "FO",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311b1",
     "scientific_name": "Columba vitiensis godmanae",
     "common_name": "White-throated pigeon",
-    "date": "1853-01-01T00:00:00Z",
-    "year": "1853",
+    "date": "1850-01-01T00:00:00Z",
+    "year": "1850",
     "range": "Lord Howe Island",
     "description": "Last recorded 1853. Believed due to hunting.",
     "type": "air",
@@ -2352,22 +2492,24 @@
     "longitude": 159.07,
     "latlong": "-31.55,159.07",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311b2",
     "scientific_name": "Cyanoramphus novaezelandiae subflavescens",
     "common_name": "Red-crowned parakeet",
-    "date": "1869-01-01T00:00:00Z",
-    "year": "1869",
+    "date": "1860-01-01T00:00:00Z",
+    "year": "1860",
     "range": "Lord Howe Island",
-    "description": "Last recorded 1869. Due to persecution,because of predation on gardens and crops.",
+    "description": "Last recorded 1860. Due to persecution,because of predation on gardens and crops.",
     "type": "air",
     "latitude": -31.55,
     "longitude": 159.07,
     "latlong": "-31.55,159.07",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311b3",
@@ -2382,7 +2524,8 @@
     "longitude": 137.55,
     "latlong": "-35.03,137.55",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311b4",
@@ -2397,7 +2540,8 @@
     "longitude": 146.55,
     "latlong": "-42.03,146.55",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311b5",
@@ -2412,7 +2556,8 @@
     "longitude": 132.55,
     "latlong": "-19.03,146.55",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311b6",
@@ -2427,14 +2572,15 @@
     "longitude": 167.95,
     "latlong": "-29.04,167.95",
     "continent": "Australia",
-    "country": "NF"
+    "country": "NF",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311b7",
     "scientific_name": "Rhipidura cervina",
     "common_name": "Lord Howe fantail",
-    "date": "1924-01-01T00:00:00Z",
-    "year": "1924",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Lord Howe Island",
     "description": "Believed to be a result of the introduction of black rats following the grounding of SS *Makamboin June 1918.",
     "type": "air",
@@ -2442,14 +2588,15 @@
     "longitude": 159.07,
     "latlong": "-31.55,159.07",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311b8",
-    "scientific_name": "Turdus poliocephalus vinitinctus",
+    "scientific_name": "Turdus poliocephalus vinitinctSM",
     "common_name": "Lord Howe Island thrush",
-    "date": "1924-01-01T00:00:00Z",
-    "year": "1924",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Lord Howe Island",
     "description": "Believed to be a result of the introduction of black rats following the grounding of SS *Makamboin June 1918.",
     "type": "air",
@@ -2457,14 +2604,15 @@
     "longitude": 159.07,
     "latlong": "-31.55,159.07",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311b9",
     "scientific_name": "Zosterops strenuus",
     "common_name": "Robust white-eye",
-    "date": "1923-01-01T00:00:00Z",
-    "year": "1923",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Lord Howe Island",
     "description": "Believed to be a result of the introduction of black rats following the grounding of SS *Makamboin June 1918.",
     "type": "air",
@@ -2472,7 +2620,8 @@
     "longitude": 159.07,
     "latlong": "-31.55,159.07",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311ba",
@@ -2487,59 +2636,63 @@
     "longitude": 146.55,
     "latlong": "-42.03,146.55",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311bb",
     "scientific_name": "Gerygone insularis",
     "common_name": "Lord Howe warbler",
-    "date": "1928-01-01T00:00:00Z",
-    "year": "1928",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Lord Howe Island",
-    "description": "Not recorded since 1928. Believed to be a result of the introduction of black rats following the grounding of SS *Makamboin June 1918.",
+    "description": "Not recorded since 1920. Believed to be a result of the introduction of black rats following the grounding of SS Makamboin June 1918.",
     "type": "air",
     "latitude": -31.55,
     "longitude": 159.07,
     "latlong": "-31.55,159.07",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
-    "_id": "57b7c81fa63e484229d311bc",
+    "_id": "57b7c81fa63e484229d311 bc",
     "scientific_name": "Ninox novaeseelandiae undulata",
     "common_name": "Norfolk Island boobook",
-    "date": "1996-01-01T00:00:00Z",
-    "year": "1996",
+    "date": "1990-01-01T00:00:00Z",
+    "year": "1990",
     "range": "Norfolk Island",
-    "description": "--",
+    "description": "The owl inhabited the island's subtropical rainforest, which was largely cleared in the 19th century following human settlement.",
     "type": "air",
     "latitude": -29.04,
     "longitude": 167.95,
     "latlong": "-29.04,167.95",
     "continent": "Australia",
-    "country": "NF"
+    "country": "NF",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311bd",
     "scientific_name": "Psephotus pulcherrimus",
     "common_name": "Paradise parrot",
-    "date": "1927-01-01T00:00:00Z",
-    "year": "1927",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "New South Wales,Queensland",
-    "description": "Date uncertain but around 1927; more recent sightings are sometimes claimed but have never been confirmed. Cause uncertain,most hypotheses centre on starvation from lack of grass seed after drought,overgrazing,more frequent fires,and introduction of prickly pear.",
+    "description": "Date uncertain but around 1920; more recent sightings are sometimes claimed but have never been confirmed. Cause uncertain,most hypotheses centre on starvation from lack of grass seed after drought,overgrazing,more frequent fires,and introduction of prickly pear.",
     "type": "air",
     "latitude": -32.04,
     "longitude": 146.95,
     "latlong": "-32.04,146.95",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57b7c81fa63e484229d311be",
     "scientific_name": "Rallus pectoralis clelandi",
     "common_name": "Lewin's water rail",
-    "date": "1932-01-01T00:00:00Z",
-    "year": "1932",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Western Australia",
     "description": "--",
     "type": "air",
@@ -2547,22 +2700,24 @@
     "longitude": 120.07,
     "latlong": "-25.55,120.07",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7e6",
     "scientific_name": "Caloprymnus campestris",
     "common_name": "Desert rat-kangaroo",
-    "date": "1935-01-01T00:00:00Z",
-    "year": "1935",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Queensland,South Australia,Northern Territories",
     "description": "--",
-    "type": "land",
+    "type": "mars",
     "latitude": -20.9,
     "longitude": 142.7,
     "latlong": "-20.90,142.70",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7e7",
@@ -2572,19 +2727,20 @@
     "year": "1950",
     "range": "New South Wales,Northern Territories South Australia,Victoria,Western Australia",
     "description": "--",
-    "type": "land",
+    "type": "mars",
     "latitude": -25.61,
     "longitude": 132.95,
     "latlong": "-25.61,132.95",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7e8",
     "scientific_name": "Conilurus albipes",
     "common_name": "White-footed rabbit-rat",
-    "date": "1857-01-01T00:00:00Z",
-    "year": "1857",
+    "date": "1850-01-01T00:00:00Z",
+    "year": "1850",
     "range": "New South Wales,Queensland,South Australia,Victoria",
     "description": "--",
     "type": "land",
@@ -2592,22 +2748,24 @@
     "longitude": 140.7,
     "latlong": "-32.90,140.70",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7e9",
     "scientific_name": "Lagorchestes asomatus",
     "common_name": "Central hare-wallaby",
-    "date": "1935-01-01T00:00:00Z",
-    "year": "1935",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Northern Territories",
     "description": "--",
-    "type": "land",
+    "type": "mars",
     "latitude": -21.09,
     "longitude": 133.65,
     "latlong": "-20.90,142.70",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7ea",
@@ -2617,79 +2775,84 @@
     "year": "1890",
     "range": "New South Wales,Queensland,South Australia,Victoria",
     "description": "--",
-    "type": "land",
+    "type": "mars",
     "latitude": -20.9,
     "longitude": 142.7,
     "latlong": "-20.90,142.70",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7eb",
     "scientific_name": "Macropus grey",
     "common_name": "Toolache wallaby",
-    "date": "1932-01-01T00:00:00Z",
-    "year": "1932",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "South Australia,Victoria",
     "description": "--",
-    "type": "land",
+    "type": "mars",
     "latitude": -35.54,
     "longitude": 140.86,
     "latlong": "-35.54,140.86",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7ec",
     "scientific_name": "Macrotis leucura",
     "common_name": "Lesser bilby",
-    "date": "1931-01-01T00:00:00Z",
-    "year": "1931",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Northern Territories Queensland,Southern Australia",
     "description": "--",
-    "type": "land",
+    "type": "mars",
     "latitude": -26.9,
     "longitude": 139.63,
     "latlong": "-26.90,139.63",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7ed",
     "scientific_name": "Macropus greyi",
     "common_name": "Toolache wallaby",
-    "date": "1932-01-01T00:00:00Z",
-    "year": "1932",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "South Australia,Victoria",
     "description": "--",
-    "type": "land",
+    "type": "mars",
     "latitude": -35.54,
     "longitude": 140.86,
     "latlong": "-35.54,140.86",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7ee",
     "scientific_name": "Macropus greyi",
     "common_name": "Toolache wallaby",
-    "date": "1932-01-01T00:00:00Z",
-    "year": "1932",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "South Australia,Victoria",
     "description": "--",
-    "type": "land",
+    "type": "mars",
     "latitude": -35.54,
     "longitude": 140.86,
     "latlong": "-35.54,140.86",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7ef",
     "scientific_name": "Melomys rubicola",
-    "common_name": "Bramble Cay melomys",
-    "date": "1896-01-01T00:00:00Z",
-    "year": "1896",
+    "common_name": "Bramble Cay Melomys Rat",
+    "date": "1890-01-01T00:00:00Z",
+    "year": "1890",
     "range": "Bramble Cay,Queensland",
     "description": "--",
     "type": "land",
@@ -2697,14 +2860,15 @@
     "longitude": 143.87,
     "latlong": "-9.14,143.87",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7f0",
     "scientific_name": "Notomys longicaudatus",
-    "common_name": "Long-tailed hopping-mouse",
-    "date": "1901-01-01T00:00:00Z",
-    "year": "1901",
+    "common_name": "Long-tailed hopping mouse",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Northern Territories South Australia,Western Australia",
     "description": "--",
     "type": "land",
@@ -2712,12 +2876,13 @@
     "longitude": 142.7,
     "latlong": "-20.90,142.70",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7f1",
     "scientific_name": "Notomys macrotis",
-    "common_name": "Big-eared hopping-mouse",
+    "common_name": "Big-eared hopping mouse",
     "date": "1843-01-01T00:00:00Z",
     "year": "1843",
     "range": "Western Australia",
@@ -2727,12 +2892,13 @@
     "longitude": 121.86,
     "latlong": "-20.90,142.70",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7f2",
     "scientific_name": "Notomys mordax",
-    "common_name": "Darling Downs hopping-mouse",
+    "common_name": "Darling Downs hopping mouse",
     "date": "1846-01-01T00:00:00Z",
     "year": "1846",
     "range": "New South Wales,Queensland",
@@ -2742,22 +2908,24 @@
     "longitude": 144.27,
     "latlong": "-28.95,144.27",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7f3",
     "scientific_name": "Onychogalea lunata",
     "common_name": "Crescent nail-tail wallaby",
-    "date": "1956-01-01T00:00:00Z",
-    "year": "1956",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "South Australia,Western Australia",
     "description": "--",
-    "type": "land",
+    "type": "mars",
     "latitude": -28.64,
     "longitude": 128.62,
     "latlong": "-28.64,128.62",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7f4",
@@ -2765,36 +2933,38 @@
     "common_name": "Desert bandicoot",
     "date": "1960-01-01T00:00:00Z",
     "year": "1960",
-    "range": "Northern Territories South Australia,Western Australia",
+    "range": "Northern Territories South Australia, Western Australia",
     "description": "--",
-    "type": "land",
+    "type": "mars",
     "latitude": -25.75,
     "longitude": 129.08,
     "latlong": "-25.75,129.08",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7f5",
     "scientific_name": "Potorous platyops",
     "common_name": "Broad-faced potoroo",
-    "date": "1865-01-01T00:00:00Z",
-    "year": "1865",
+    "date": "1860-01-01T00:00:00Z",
+    "year": "1860",
     "range": "Western Australia",
     "description": "--",
-    "type": "land",
+    "type": "mars",
     "latitude": -26.78,
     "longitude": 122.39,
     "latlong": "-26.78,122.39",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7f6",
-    "scientific_name": "Pseudomys glaucus6",
+    "scientific_name": "Pseudomys glaucus",
     "common_name": "Blue-grey mouse",
-    "date": "1956-01-01T00:00:00Z",
-    "year": "1956",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "New South Wales,Queensland",
     "description": "--",
     "type": "land",
@@ -2802,14 +2972,15 @@
     "longitude": 144.27,
     "latlong": "-28.95,144.27",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7f7",
     "scientific_name": "Pseudomys gouldii",
     "common_name": "Gould's mouse",
-    "date": "1857-01-01T00:00:00Z",
-    "year": "1857",
+    "date": "1850-01-01T00:00:00Z",
+    "year": "1850",
     "range": "New South Wales,Queensland,South Australia,Victoria,Western Australia",
     "description": "--",
     "type": "land",
@@ -2817,7 +2988,8 @@
     "longitude": 139.22,
     "latlong": "-25.99,139.22",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7f8",
@@ -2832,14 +3004,15 @@
     "longitude": 143.56,
     "latlong": "-23.63,143.56",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7f9",
     "scientific_name": "Rattus macleari",
     "common_name": "Maclear's rat",
-    "date": "1908-01-01T00:00:00Z",
-    "year": "1908",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Christmas Island",
     "description": "--",
     "type": "land",
@@ -2847,14 +3020,15 @@
     "longitude": 105.64,
     "latlong": "-10.48,105.64",
     "continent": "Asia",
-    "country": "CX"
+    "country": "CX",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7fa",
     "scientific_name": "Thylacinus cynocephalus1",
-    "common_name": "Thylacine,Tasmanian tiger",
-    "date": "1936-01-01T00:00:00Z",
-    "year": "1936",
+    "common_name": "Thylacine Tasmanian tiger",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Tasmania",
     "description": "--",
     "type": "land",
@@ -2862,67 +3036,72 @@
     "longitude": 146.86,
     "latlong": "-42.41,146.86",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7fb",
     "scientific_name": "Rheobatrachus silus",
     "common_name": "Gastric-brooding frog",
-    "date": "1981-01-01T00:00:00Z",
-    "year": "1981",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
     "range": "Queensland",
     "description": "--",
-    "type": "land",
+    "type": "amph",
     "latitude": -20.9,
     "longitude": 142.7,
     "latlong": "-20.90,142.70",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7fc",
     "scientific_name": "Rheobatrachus vitellinus",
     "common_name": "Eungella gastric-brooding frog",
-    "date": "1985-01-01T00:00:00Z",
-    "year": "1985",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
     "range": "Queensland",
     "description": "--",
-    "type": "land",
+    "type": "amph",
     "latitude": -20.9,
     "longitude": 142.7,
     "latlong": "-20.90,142.70",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7fd",
     "scientific_name": "Taudactylus acutirostris",
     "common_name": "Sharp-snouted day frog",
-    "date": "1997-01-01T00:00:00Z",
-    "year": "1997",
+    "date": "1990-01-01T00:00:00Z",
+    "year": "1990",
     "range": "Queensland",
     "description": "--",
-    "type": "land",
+    "type": "amph",
     "latitude": -20.9,
     "longitude": 142.7,
     "latlong": "-20.90,142.70",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7fe",
     "scientific_name": "Taudactylus diurnus",
     "common_name": "Southern day frog",
-    "date": "1979-01-01T00:00:00Z",
-    "year": "1979",
+    "date": "1970-01-01T00:00:00Z",
+    "year": "1970",
     "range": "Queensland",
     "description": "--",
-    "type": "land",
+    "type": "amph",
     "latitude": -20.9,
     "longitude": 142.7,
     "latlong": "-20.90,142.70",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f7ff",
@@ -2937,82 +3116,104 @@
     "longitude": 105.7,
     "latlong": "-10.90,105.70",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f800",
     "scientific_name": "Myadestes woahensis",
-    "common_name": "ʻĀmaui",
+    "common_name": "ʻĀmaui, Oahu Thrush",
     "date": "1850-01-01T00:00:00Z",
     "year": "1850",
     "range": "Oahu",
-    "description": "--",
+    "description": " This species' extinction was not well recorded, as no one mentions a specific year when the ʻāmaui was last identified. Scientists believe that the species vanished between 1840 and 1860, most likely during the late 1850s.",
     "type": "air",
-    "latitude": 21.9,
-    "longitude": -158.7,
+    "latitude": 21.47,
+    "longitude": -157.7,
     "latlong": "21.90,-158.70",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f801",
     "scientific_name": "Moho bishopi",
     "common_name": "Bishop's O'o'",
-    "date": "1904-01-01T00:00:00Z",
-    "year": "1904",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Molokai and Maui",
-    "description": "--",
+    "description": "Causes of the bird's extinction include deforestation, competition from introduced predators, hunting by the Hawaiians due to the much sought yellow feathers to create the precious capes for the nobility, and diseases which were introduced by mosquitoes. It was last seen in 1904.",
     "type": "air",
     "latitude": 21.14,
-    "longitude": -157,
+    "longitude": -156.7,
     "latlong": "21.14,-157.00",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
+  },
+  {
+    "_id": "57bbaf7e7f658b5320d3f801",
+    "scientific_name": "Moho bishopi",
+    "common_name": "Bishop's O'o'",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
+    "range": "Molokai and Maui",
+    "description": "Causes of the bird's extinction include deforestation, competition from introduced predators, hunting by the Hawaiians due to the much sought yellow feathers to create the precious capes for the nobility, and diseases which were introduced by mosquitoes. It was last seen in 1904.",
+    "type": "air",
+    "latitude": 20.77,
+    "longitude": -156.11,
+    "latlong": "21.14,-157.00",
+    "continent": "North America",
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f802",
     "scientific_name": "Drepanis funerea",
     "common_name": "Black mamo",
-    "date": "1907-01-01T00:00:00Z",
-    "year": "1907",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Molokai and Maui",
     "description": "--",
     "type": "air",
-    "latitude": 21.14,
-    "longitude": -157,
+    "latitude": 121.212,
+    "longitude": -156.91,
     "latlong": "21.14,-157.00",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f803",
     "scientific_name": "Hemignathus sagittirostris",
     "common_name": "Greater ʻamakihi",
-    "date": "1901-01-01T00:00:00Z",
-    "year": "1901",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Hawaii/Big Island",
     "description": "--",
     "type": "air",
-    "latitude": 19.66,
+    "latitude": 19.99,
     "longitude": -155.51,
     "latlong": "19.66,-155.51",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f804",
     "scientific_name": "Rhodacanthis palmeri",
     "common_name": "Greater koa finch",
-    "date": "1896-01-01T00:00:00Z",
-    "year": "1896",
+    "date": "1890-01-01T00:00:00Z",
+    "year": "1890",
     "range": "Hawaii/Big Island",
-    "description": "--",
+    "description": "The last confirmed sighting was in 1896, although there were sporadic later reports. These forests were dominated by its preferred food source, koa, and were logged and replaced with pasture beginning in 1850.",
     "type": "air",
-    "latitude": 19.66,
+    "latitude": 19.33,
     "longitude": -155.51,
-    "latlong": "19.66,-155.51",
+    "latlong": "19.33,-155.51",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f805",
@@ -3023,101 +3224,108 @@
     "range": "Hawaii/Big Island",
     "description": "--",
     "type": "air",
-    "latitude": 19.66,
-    "longitude": -155.51,
-    "latlong": "19.66,-155.51",
+    "latitude": 21,
+    "longitude": -157.18,
+    "latlong": "21,-157.18",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f807",
     "scientific_name": "Moho nobilis",
     "common_name": "Hawaiʻi ʻōʻō",
-    "date": "1934-01-01T00:00:00Z",
-    "year": "1934",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Hawaii/Big Island",
     "description": "--",
     "type": "air",
-    "latitude": 19.66,
-    "longitude": -155.51,
-    "latlong": "19.66,-155.51",
+    "latitude": 19.41,
+    "longitude": -155.21,
+    "latlong": "19.41,-155.21",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f808",
     "scientific_name": "Porzana sandwichensis",
     "common_name": "Hawaiian rail",
-    "date": "1883-01-01T00:00:00Z",
-    "year": "1883",
+    "date": "1880-01-01T00:00:00Z",
+    "year": "1880",
     "range": "Hawaii/Big Island",
     "description": "--",
     "type": "air",
-    "latitude": 19.66,
-    "longitude": -155.51,
-    "latlong": "19.66,-155.51",
+    "latitude": 19.34,
+    "longitude": -155.31,
+    "latlong": "19.34,-155.31",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f809",
     "scientific_name": "Myadestes myadestinus",
     "common_name": "Kāmaʻo",
-    "date": "1989-01-01T00:00:00Z",
-    "year": "1989",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
     "range": "Kauaʻi",
     "description": "--",
     "type": "air",
     "latitude": 22.09,
-    "longitude": -159.52,
+    "longitude": -159.38,
     "latlong": "22.09,-159.52",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f80a",
     "scientific_name": "Hemignathus ellisianus stejnegeri",
     "common_name": "Kauaʻi ʻakialoa",
-    "date": "1965-01-01T00:00:00Z",
-    "year": "1965",
+    "date": "1960-01-01T00:00:00Z",
+    "year": "1960",
     "range": "Kauaʻi",
     "description": "--",
     "type": "air",
     "latitude": 22.09,
-    "longitude": -159.52,
+    "longitude": -159.48,
     "latlong": "22.09,-159.52",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f80b",
     "scientific_name": "Moho braccatus",
     "common_name": "Kauaʻi ʻO'o",
-    "date": "1987-01-01T00:00:00Z",
-    "year": "1987",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
     "range": "Kauaʻi",
     "description": "--",
     "type": "air",
     "latitude": 22.09,
-    "longitude": -159.52,
+    "longitude": -159.32,
     "latlong": "22.09,-159.52",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f80c",
     "scientific_name": "Chaetoptila angustipluma",
     "common_name": "Kioea",
-    "date": "1859-01-01T00:00:00Z",
-    "year": "1859",
+    "date": "1850-01-01T00:00:00Z",
+    "year": "1850",
     "range": "Hawaii/Big Island",
     "description": "--",
     "type": "air",
-    "latitude": 19.66,
-    "longitude": -155.51,
+    "latitude": 19.77,
+    "longitude": -155.31,
     "latlong": "19.66,-155.51",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f80d",
@@ -3129,47 +3337,50 @@
     "description": "--",
     "type": "air",
     "latitude": 20.82,
-    "longitude": 156.92,
-    "latlong": "20.82,156.92",
+    "longitude": -156.92,
+    "latlong": "20.82,-156.92",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f80e",
     "scientific_name": "Chloridops kona",
     "common_name": "Kona grosbeak",
-    "date": "1894-01-01T00:00:00Z",
-    "year": "1894",
+    "date": "1890-01-01T00:00:00Z",
+    "year": "1890",
     "range": "Hawaii/Big Island",
     "description": "--",
     "type": "air",
-    "latitude": 19.66,
-    "longitude": -155.51,
+    "latitude": 19.26,
+    "longitude": -155,
     "latlong": "19.66,-155.51",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f80f",
     "scientific_name": "Dysmorodrepanis munroi",
     "common_name": "Lanai hookbill",
-    "date": "1918-01-01T00:00:00Z",
-    "year": "1918",
+    "date": "1940-01-01T00:00:00Z",
+    "year": "1940",
     "range": "Lanai",
-    "description": "--",
+    "description": "With the loss of the trees and the flowers, the bird had no shelter or food and disappeared in 1940",
     "type": "air",
     "latitude": 20.82,
-    "longitude": 156.92,
-    "latlong": "20.82,156.92",
+    "longitude": -156.92,
+    "latlong": "20.82,-156.92",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f810",
     "scientific_name": "Porzana palmeri",
     "common_name": "Laysan rail",
-    "date": "1944-01-01T00:00:00Z",
-    "year": "1944",
+    "date": "1940-01-01T00:00:00Z",
+    "year": "1940",
     "range": "Laysan",
     "description": "--",
     "type": "air",
@@ -3177,14 +3388,15 @@
     "longitude": -71.73,
     "latlong": "25.76,-71.73",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f811",
     "scientific_name": "Himatione fraithii",
     "common_name": "Laysan honeycreeper",
-    "date": "1923-01-01T00:00:00Z",
-    "year": "1923",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Laysan",
     "description": "--",
     "type": "air",
@@ -3192,7 +3404,8 @@
     "longitude": -71.73,
     "latlong": "25.76,-71.73",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f812",
@@ -3207,44 +3420,47 @@
     "longitude": -71.73,
     "latlong": "25.76,-71.73",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f813",
     "scientific_name": "Rhodacanthis flaviceps",
     "common_name": "Lesser koa finch",
-    "date": "1891-01-01T00:00:00Z",
-    "year": "1891",
+    "date": "1890-01-01T00:00:00Z",
+    "year": "1890",
     "range": "Hawaii/Big Island",
-    "description": "--",
+    "description": "Rhodacanthis is an extinct genus of Hawaiian honeycreeper.",
     "type": "air",
-    "latitude": 19.66,
-    "longitude": -155.51,
-    "latlong": "19.66,-155.51",
+    "latitude": 19.23,
+    "longitude": -155.13,
+    "latlong": "19.28,-155.73",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f814",
     "scientific_name": "Loxops coccineus ochraceus",
     "common_name": "Maui ʻakepa",
-    "date": "1988-01-01T00:00:00Z",
-    "year": "1988",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
     "range": "Maui",
-    "description": "--",
+    "description": "The akepa (Loxops coccineus) is divided into three species, only one of which, the Hawaiʻi ʻakepa on Big Island, can be found today",
     "type": "air",
-    "latitude": 21.14,
-    "longitude": -157,
-    "latlong": "21.14,-157.00",
+    "latitude": 20.74,
+    "longitude": -156.38,
+    "latlong": "20.74,-156.38",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f815",
     "scientific_name": "Paroreomyza flammea",
     "common_name": "Molokaʻi creeper",
-    "date": "1963-01-01T00:00:00Z",
-    "year": "1963",
+    "date": "1960-01-01T00:00:00Z",
+    "year": "1960",
     "range": "Molokaʻi",
     "description": "--",
     "type": "air",
@@ -3252,22 +3468,24 @@
     "longitude": -157,
     "latlong": "21.14,-157.00",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f816",
     "scientific_name": "Moho apicalis",
     "common_name": "Oʻahu ʻōʻō",
-    "date": "1837-01-01T00:00:00Z",
+    "date": "1830-01-01T00:00:00Z",
     "year": "1837",
     "range": "Oahu",
     "description": "--",
     "type": "air",
-    "latitude": 21.9,
+    "latitude": 21.40,
     "longitude": -158.7,
-    "latlong": "21.90,-158.70",
+    "latlong": "26.90,-158.70",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f817",
@@ -3278,11 +3496,12 @@
     "range": "Oahu",
     "description": "--",
     "type": "air",
-    "latitude": 21.9,
-    "longitude": -158.7,
+    "latitude": 21.46,
+    "longitude": -157.4,
     "latlong": "21.90,-158.70",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f818",
@@ -3291,13 +3510,14 @@
     "date": "1990-01-01T00:00:00Z",
     "year": "1990",
     "range": "Oahu",
-    "description": "--",
+    "description": "The akepa (Loxops coccineus) is divided into three species, only one of which, the Hawaiʻi ʻakepa on Big Island, can be found today",
     "type": "air",
-    "latitude": 21.9,
-    "longitude": -158.7,
+    "latitude": 21.35,
+    "longitude": -157.5,
     "latlong": "21.90,-158.70",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f819",
@@ -3306,28 +3526,62 @@
     "date": "1837-01-01T00:00:00Z",
     "year": "1837",
     "range": "Oahu",
-    "description": "--",
+    "description": "The last sightings - both on Kauaʻi and Maui - were in 1998, though it is possible some of the sighting in the 1990s actually involve the Kauaʻi ʻamakihi.",
     "type": "air",
-    "latitude": 21.9,
-    "longitude": -158.7,
-    "latlong": "21.90,-158.70",
+    "latitude": 21.48,
+    "longitude": -157.7,
+    "latlong": "21,-158.70",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
+  },
+  {
+    "_id": "57bbaf7e7f658b5320d3f819",
+    "scientific_name": "Hemignathus lucidus lucidus",
+    "common_name": "Kauaʻi nukupuʻu",
+    "date": "1998-01-01T00:00:00Z",
+    "year": "1998",
+    "range": "Kauai",
+    "description": "The last sightings - both on Kauaʻi and Maui - were in 1998, though it is possible some of the sighting in the 1990s actually involve the Kauaʻi ʻamakihi.",
+    "type": "air",
+    "latitude": 22.3,
+    "longitude": -159.2,
+    "latlong": "22.06,-159.70",
+    "continent": "North America",
+    "country": "US",
+    "size": "SM"
+  },
+  {
+    "_id": "57bbaf7e7f658b5320d3f819",
+    "scientific_name": "Hemignathus lucidus lucidus",
+    "common_name": "Maui nukupuʻu",
+    "date": "1995-01-01T00:00:00Z",
+    "year": "1995",
+    "range": "Maui",
+    "description": "The last sightings - both on Kauaʻi and Maui - were in 1998, though it is possible some of the sighting in the 1990s actually involve the Kauaʻi ʻamakihi.",
+    "type": "air",
+    "latitude": 20.7,
+    "longitude": -156.1,
+    "latlong": "20.7,-156.1",
+    "continent": "North America",
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f81a",
     "scientific_name": "Ciridops anna",
     "common_name": "Ula-'ai-hawane",
-    "date": "1892-01-01T00:00:00Z",
-    "year": "1892",
+    "date": "1890-01-01T00:00:00Z",
+    "year": "1890",
     "range": "Hawaii/Big Island",
     "description": "--",
     "type": "air",
-    "latitude": 19.66,
-    "longitude": -155.51,
+    "latitude": 19.68,
+    "longitude": -155.21,
     "latlong": "19.66,-155.51",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f81b",
@@ -3342,14 +3596,15 @@
     "longitude": 160.156,
     "latlong": "-9.64,160.156",
     "continent": "Australia",
-    "country": "SB"
+    "country": "SB",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f81c",
     "scientific_name": "Uromys porculus",
     "common_name": "Guadalcanal rat",
-    "date": "1888-01-01T00:00:00Z",
-    "year": "1888",
+    "date": "1880-01-01T00:00:00Z",
+    "year": "1880",
     "range": "Solomon Islands",
     "description": "--",
     "type": "land",
@@ -3357,14 +3612,15 @@
     "longitude": 160.156,
     "latlong": "-9.64,160.156",
     "continent": "Australia",
-    "country": "SB"
+    "country": "SB",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f81d",
     "scientific_name": "Pteropus tokudae",
     "common_name": "Guam flying fox",
-    "date": "1967-01-01T00:00:00Z",
-    "year": "1967",
+    "date": "1960-01-01T00:00:00Z",
+    "year": "1960",
     "range": "Guam",
     "description": "--",
     "type": "land",
@@ -3372,7 +3628,8 @@
     "longitude": 144.79,
     "latlong": "13.44,144.79",
     "continent": "Australia",
-    "country": "GU"
+    "country": "GU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f81e",
@@ -3387,14 +3644,15 @@
     "longitude": 34.58,
     "latlong": "7.51,134.58",
     "continent": "Australia",
-    "country": "PW"
+    "country": "PW",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f81f",
     "scientific_name": "Nyctimene sanctacrucis",
     "common_name": "Nendo tube-nosed fruit bat",
-    "date": "1907-01-01T00:00:00Z",
-    "year": "1907",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Solomon Islands",
     "description": "--",
     "type": "bat",
@@ -3402,22 +3660,24 @@
     "longitude": 144.79,
     "latlong": "13.44,144.79",
     "continent": "Australia",
-    "country": "GU"
+    "country": "GU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f820",
     "scientific_name": "Mekosuchus",
     "common_name": "Mekosuchus",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-1000 BC",
     "range": "New Caledonia and Vanuatu",
-    "description": "-1000BC",
+    "description": "-1000 BC",
     "type": "land",
     "latitude": -21.33,
-    "longitude": 165.42,
-    "latlong": "-21.33,165.42",
+    "longitude": 165042,
+    "latlong": "-21.33,165042",
     "continent": "Australia",
-    "country": "NC"
+    "country": "NC",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f821",
@@ -3432,29 +3692,31 @@
     "longitude": 175.18,
     "latlong": "-21.19,-175.18",
     "continent": "Australia",
-    "country": "TO"
+    "country": "TO",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f822",
     "scientific_name": "Volia athollandersoni",
     "common_name": "Volia",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-5000 BC",
     "range": "Fiji",
-    "description": "-5000BC",
+    "description": "-5000 BC",
     "type": "land",
     "latitude": -17.85,
     "longitude": 177.98,
     "latlong": "-17.85,177.98",
     "continent": "Australia",
-    "country": "FJ"
+    "country": "FJ",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f823",
     "scientific_name": "Nesoclopeus poecilopterus",
     "common_name": "Bar-winged rail",
-    "date": "1973-01-01T00:00:00Z",
-    "year": "1973",
+    "date": "1970-01-01T00:00:00Z",
+    "year": "1970",
     "range": "Fiji",
     "description": "--",
     "type": "air",
@@ -3462,7 +3724,8 @@
     "longitude": 177.98,
     "latlong": "-17.85,177.98",
     "continent": "Australia",
-    "country": "FJ"
+    "country": "FJ",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f824",
@@ -3477,7 +3740,8 @@
     "longitude": -151.46,
     "latlong": "-16.81,-151.46",
     "continent": "Australia",
-    "country": "PF"
+    "country": "PF",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f825",
@@ -3492,7 +3756,8 @@
     "longitude": 149.9,
     "latlong": "-17.67,-149.40",
     "continent": "Australia",
-    "country": "PF"
+    "country": "PF",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f826",
@@ -3500,21 +3765,22 @@
     "common_name": "Christmas sandpiper",
     "date": "1850-01-01T00:00:00Z",
     "year": "1850",
-    "range": "Kiribati",
+    "range": "Kirimati",
     "description": "--",
     "type": "air",
     "latitude": 1.87,
     "longitude": -157.36,
     "latlong": "1.87,-157.36",
     "continent": "Australia",
-    "country": "KI"
+    "country": "KI",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f827",
     "scientific_name": "Microgoura meeki",
     "common_name": "Choiseul pigeon",
-    "date": "1904-01-01T00:00:00Z",
-    "year": "1904",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Solomon Islands",
     "description": "--",
     "type": "air",
@@ -3522,14 +3788,15 @@
     "longitude": 160.156,
     "latlong": "-9.64,160.156",
     "continent": "Australia",
-    "country": "SB"
+    "country": "SB",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f828",
     "scientific_name": "Myiagra freycineti",
     "common_name": "Guam flycatcher",
-    "date": "1983-01-01T00:00:00Z",
-    "year": "1983",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
     "range": "Guam",
     "description": "--",
     "type": "air",
@@ -3537,7 +3804,8 @@
     "longitude": 144.79,
     "latlong": "13.44,144.79",
     "continent": "Australia",
-    "country": "GU"
+    "country": "GU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f829",
@@ -3552,7 +3820,8 @@
     "longitude": 162.98,
     "latlong": "5.31,162.98",
     "continent": "Australia",
-    "country": "FM"
+    "country": "FM",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f82a",
@@ -3567,14 +3836,15 @@
     "longitude": 162.98,
     "latlong": "5.31,162.98",
     "continent": "Australia",
-    "country": "FM"
+    "country": "FM",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f82b",
     "scientific_name": "Caloenas maculata",
     "common_name": "Liverpool pigeon",
-    "date": "1851-01-01T00:00:00Z",
-    "year": "1851",
+    "date": "1850-01-01T00:00:00Z",
+    "year": "1850",
     "range": "Tahiti",
     "description": "--",
     "type": "air",
@@ -3582,14 +3852,15 @@
     "longitude": 149.9,
     "latlong": "-17.67,-149.40",
     "continent": "Australia",
-    "country": "PF"
+    "country": "PF",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f82c",
     "scientific_name": "Gallinula silvestris",
     "common_name": "Makira woodhen",
-    "date": "1953-01-01T00:00:00Z",
-    "year": "1953",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "Solomon Islands",
     "description": "--",
     "type": "air",
@@ -3597,14 +3868,15 @@
     "longitude": 160.156,
     "latlong": "-9.64,160.156",
     "continent": "Australia",
-    "country": "SB"
+    "country": "SB",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f82d",
     "scientific_name": "Anas oustaleti",
     "common_name": "Mariana mallard",
-    "date": "1974-01-01T00:00:00Z",
-    "year": "1974",
+    "date": "1970-01-01T00:00:00Z",
+    "year": "1970",
     "range": "Northern Mariana Islands",
     "description": "--",
     "type": "air",
@@ -3612,29 +3884,31 @@
     "longitude": 145.63,
     "latlong": "15.04,145.63",
     "continent": "Australia",
-    "country": "MP"
+    "country": "MP",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f82e",
     "scientific_name": "Porphyrio paepae",
-    "common_name": "Marquesas swamphe",
+    "common_name": "Marquesas Swamphe Bird",
     "date": "1900-01-01T00:00:00Z",
     "year": "1900",
     "range": "Marquesas Islands",
-    "description": "--",
+    "description": "Swamphe Bird may have survived to around 1900, as it is in the lower right corner of Paul Gauguin's 1902 painting Le Sorcier, as there is a bird which resembles native descriptions of Porphyrio paepae. Thor Heyerdahl claimed to have seen a similar flightless bird on Hiva Oa in 1937.",
     "type": "air",
-    "latitude": 9.75,
+    "latitude": -9.75,
     "longitude": -139.02,
     "latlong": "-9.75,-139.02",
     "continent": "Australia",
-    "country": "PF"
+    "country": "PF",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f82f",
     "scientific_name": "Pomarea pomarea",
     "common_name": "Maupiti monarch",
-    "date": "1823-01-01T00:00:00Z",
-    "year": "1823",
+    "date": "1820-01-01T00:00:00Z",
+    "year": "1820",
     "range": "Maupiti",
     "description": "--",
     "type": "air",
@@ -3642,14 +3916,15 @@
     "longitude": -152.26,
     "latlong": "-16.44,-152.26",
     "continent": "Australia",
-    "country": "PF"
+    "country": "PF",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f830",
     "scientific_name": "Porzana nigra",
     "common_name": "Miller's rail",
-    "date": "1784-01-01T00:00:00Z",
-    "year": "1784",
+    "date": "1780-01-01T00:00:00Z",
+    "year": "1780",
     "range": "Tahiti",
     "description": "--",
     "type": "air",
@@ -3657,14 +3932,15 @@
     "longitude": 149.9,
     "latlong": "-17.67,-149.40",
     "continent": "Australia",
-    "country": "PF"
+    "country": "PF",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f831",
     "scientific_name": "Aplonis mavornata",
     "common_name": "Mysterious starlin",
-    "date": "1774-01-01T00:00:00Z",
-    "year": "1774",
+    "date": "1770-01-01T00:00:00Z",
+    "year": "1770",
     "range": "Cook Islands",
     "description": "--",
     "type": "air",
@@ -3672,7 +3948,8 @@
     "longitude": 159.78,
     "latlong": "-21.23,-159.78",
     "continent": "Australia",
-    "country": "CK"
+    "country": "CK",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f832",
@@ -3684,25 +3961,27 @@
     "description": "--",
     "type": "air",
     "latitude": -21.33,
-    "longitude": 165.42,
-    "latlong": "-21.33,165.42",
+    "longitude": 165042,
+    "latlong": "-21.33,165042",
     "continent": "Australia",
-    "country": "NC"
+    "country": "NC",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f833",
     "scientific_name": "Sylviornis neocaledoniae",
     "common_name": "New Caledonian giant scrubfowl",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-1500 BC",
     "range": "Fiji",
-    "description": "-1500BC",
+    "description": "-1500 BC",
     "type": "air",
     "latitude": -17.85,
     "longitude": 177.98,
     "latlong": "-17.85,177.98",
     "continent": "Australia",
-    "country": "FJ"
+    "country": "FJ",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f834",
@@ -3717,14 +3996,15 @@
     "longitude": -140.14,
     "latlong": "-8.86,-140.14",
     "continent": "Australia",
-    "country": "PF"
+    "country": "PF",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f835",
     "scientific_name": "Eclectus infectus",
     "common_name": "Oceanic eclectus parrot",
-    "date": "1793-01-01T00:00:00Z",
-    "year": "1793",
+    "date": "1790-01-01T00:00:00Z",
+    "year": "1790",
     "range": "Tonga and Vanuatu",
     "description": "--",
     "type": "air",
@@ -3732,29 +4012,31 @@
     "longitude": 177.98,
     "latlong": "-17.85,177.98",
     "continent": "Australia",
-    "country": "FJ"
+    "country": "FJ",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f836",
     "scientific_name": "Ptilinopus mercierii",
     "common_name": "Red-moustached fruit dove",
-    "date": "1922-01-01T00:00:00Z",
-    "year": "1922",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Marquesas Islands",
-    "description": "--",
+    "description": "The last record was of the subspecies tristrami on Hiva Oa, in 1922.",
     "type": "air",
-    "latitude": 9.75,
+    "latitude": -17.75,
     "longitude": -139.02,
-    "latlong": "-9.75,-139.02",
+    "latlong": "-17.75,-139.02",
     "continent": "Australia",
-    "country": "PF"
+    "country": "PF",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f837",
     "scientific_name": "Cyanoramphus ulietanus",
     "common_name": "Society parakeet",
-    "date": "1777-01-01T00:00:00Z",
-    "year": "1777",
+    "date": "1770-01-01T00:00:00Z",
+    "year": "1770",
     "range": "Raiatea",
     "description": "--",
     "type": "air",
@@ -3762,7 +4044,8 @@
     "longitude": -151.46,
     "latlong": "-16.81,-151.46",
     "continent": "Australia",
-    "country": "PF"
+    "country": "PF",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f838",
@@ -3777,14 +4060,15 @@
     "longitude": 149.9,
     "latlong": "-17.67,-149.40",
     "continent": "Australia",
-    "country": "PF"
+    "country": "PF",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f839",
     "scientific_name": "Prosobonia leucoptera",
     "common_name": "Tahiti sandpiper",
-    "date": "1922-01-01T00:00:00Z",
-    "year": "1922",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Tahiti",
     "description": "--",
     "type": "air",
@@ -3792,7 +4076,8 @@
     "longitude": 149.9,
     "latlong": "-17.67,-149.40",
     "continent": "Australia",
-    "country": "PF"
+    "country": "PF",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f83a",
@@ -3807,7 +4092,8 @@
     "longitude": 149.82,
     "latlong": "-17.53,149.82",
     "continent": "Australia",
-    "country": "PF"
+    "country": "PF",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f83b",
@@ -3822,14 +4108,15 @@
     "longitude": -157.36,
     "latlong": "1.87,-157.36",
     "continent": "Australia",
-    "country": "KI"
+    "country": "KI",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f83c",
     "scientific_name": "Gallicolumba ferruginea",
     "common_name": "Tanna ground dove",
-    "date": "1774-01-01T00:00:00Z",
-    "year": "1774",
+    "date": "1770-01-01T00:00:00Z",
+    "year": "1770",
     "range": "Vanuatu",
     "description": "--",
     "type": "air",
@@ -3837,14 +4124,15 @@
     "longitude": 166.95,
     "latlong": "-15.37,166.95",
     "continent": "Australia",
-    "country": "VU"
+    "country": "VU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f83d",
     "scientific_name": "Gallicolumba salamonis",
     "common_name": "Thick-billed ground dove",
-    "date": "1927-01-01T00:00:00Z",
-    "year": "1927",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Solomon Islands",
     "description": "--",
     "type": "air",
@@ -3852,14 +4140,15 @@
     "longitude": 160.156,
     "latlong": "-9.64,160.156",
     "continent": "Australia",
-    "country": "SB"
+    "country": "SB",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f83e",
     "scientific_name": "Gallirallus hypoleucus",
     "common_name": "Tongatapu rail",
-    "date": "1777-01-01T00:00:00Z",
-    "year": "1777",
+    "date": "1770-01-01T00:00:00Z",
+    "year": "1770",
     "range": "Tonga",
     "description": "--",
     "type": "air",
@@ -3867,14 +4156,15 @@
     "longitude": 177.98,
     "latlong": "-17.85,177.98",
     "continent": "Australia",
-    "country": "FJ"
+    "country": "FJ",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f83f",
     "scientific_name": "Gallirallus wakensis",
     "common_name": "Wake Island rail",
-    "date": "1945-01-01T00:00:00Z",
-    "year": "1945",
+    "date": "1940-01-01T00:00:00Z",
+    "year": "1940",
     "range": "Wake Island",
     "description": "--",
     "type": "air",
@@ -3882,14 +4172,15 @@
     "longitude": 166.64,
     "latlong": "-19.28,166.64",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f840",
     "scientific_name": "Prosobonia ellisi",
     "common_name": "White-winged sandpiper",
-    "date": "1777-01-01T00:00:00Z",
-    "year": "1777",
+    "date": "1770-01-01T00:00:00Z",
+    "year": "1770",
     "range": "Moorea",
     "description": "--",
     "type": "air",
@@ -3897,29 +4188,31 @@
     "longitude": 149.82,
     "latlong": "-17.53,149.82",
     "continent": "Australia",
-    "country": "AU"
+    "country": "AU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f841",
     "scientific_name": "Plethodon ainsworthi",
     "common_name": "Ainsworth's salamander",
-    "date": "1964-01-01T00:00:00Z",
-    "year": "1964",
+    "date": "1960-01-01T00:00:00Z",
+    "year": "1960",
     "range": "USA",
     "description": "--",
     "type": "land",
-    "latitude": 40.22,
-    "longitude": -101.25,
-    "latlong": "40.22,-101.25",
+    "latitude": 37.11,
+    "longitude": -94.39,
+    "latlong": "37.11,-94.39",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f842",
     "scientific_name": "Craugastor escoces",
     "common_name": "Craugastor escoces",
-    "date": "1986-01-01T00:00:00Z",
-    "year": "1986",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
     "range": "Costa Rica",
     "description": "--",
     "type": "land",
@@ -3927,202 +4220,216 @@
     "longitude": -83.75,
     "latlong": "9.74,-83.75",
     "continent": "North America",
-    "country": "CR"
+    "country": "CR",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f844",
     "scientific_name": "Aiolornis incredibilis",
     "common_name": "Aiolornis",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "North America",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "air",
     "latitude": 40.22,
     "longitude": -101.25,
     "latlong": "40.22,-101.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f845",
     "scientific_name": "Nesotrochis debooyi",
     "common_name": "Antillean cave rail",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-20000 BC",
     "range": "Virgin Islands",
-    "description": "-20001BC",
+    "description": "-20000 BC",
     "type": "air",
     "latitude": 18.41,
     "longitude": -64.61,
     "latlong": "18.41,-64.61",
     "continent": "North America",
-    "country": "VG"
+    "country": "VG",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f846",
     "scientific_name": "Nesotrochis debooyi",
     "common_name": "Antillean cave rail",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-20000 BC",
     "range": "Puerto Rico",
-    "description": "-20001BC",
+    "description": "-20000 BC",
     "type": "air",
     "latitude": 18.22,
     "longitude": -66.59,
     "latlong": "18.22,-66.59",
     "continent": "North America",
-    "country": "PR"
+    "country": "PR",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f847",
     "scientific_name": "Meleagris californica",
     "common_name": "Californian turkey",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "USA",
-    "description": "-10001BC",
+    "description": "Died out toward end of last ice age, approx -10000 BC",
     "type": "air",
-    "latitude": 40.22,
-    "longitude": -101.25,
-    "latlong": "40.22,-101.25",
+    "latitude": 37.87,
+    "longitude": -119.32,
+    "latlong": "37.87,-119.32",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f848",
     "scientific_name": "Cathartornis gracilis",
     "common_name": "Cathartornis gracilis",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "USA",
-    "description": "-10001BC",
+    "description": "Died out toward end of last ice age, approx -10000 BC",
     "type": "air",
     "latitude": 33.22,
     "longitude": -90.25,
     "latlong": "33.22,-90.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f849",
     "scientific_name": "Chendytes lawi",
     "common_name": "Chendytes lawi",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-300 BC",
     "range": "Western USA Coast",
-    "description": "-1800BC",
+    "description": "A flightless seaduck that probably went extinct around -300 BC due to hunting",
     "type": "air",
     "latitude": 40.86,
     "longitude": -120.93,
     "latlong": "40.86,-120.93",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f84a",
     "scientific_name": "Gymnogyps varonai",
     "common_name": "Cuban condor",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-9700 BC",
     "range": "Cuba",
-    "description": "-9700BC",
+    "description": "-9700 BC",
     "type": "air",
     "latitude": 21.52,
     "longitude": -77.78,
     "latlong": "21.52,-77.78",
     "continent": "North America",
-    "country": "CU"
+    "country": "CU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f84b",
     "scientific_name": "Buteogallus daggetti",
     "common_name": "Daggett's eagle",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "13000 BC",
     "range": "California",
-    "description": "13000BC",
+    "description": "13000 BC",
     "type": "air",
     "latitude": 25.59,
     "longitude": -99.99,
     "latlong": "25.59,-99.99",
     "continent": "North America",
-    "country": "MX"
+    "country": "MX",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f84c",
     "scientific_name": "Buteogallus daggetti",
     "common_name": "Daggett's eagle",
-    "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "date": "0030-01-01T00:00:00Z",
+    "year": "1300 BC",
     "range": "Nuevo Lean,Mexico",
-    "description": "1300BC",
+    "description": "1300 BC",
     "type": "air",
     "latitude": 40.22,
     "longitude": -101.25,
     "latlong": "40.22,-101.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
  {
    "_id": "57bbaf7e7f658b5320d3f84d",
    "scientific_name": "Ciconia maltha",
    "common_name": "La Brea stork",
    "date": "0001-T00:00:00Z",
-   "year": "-10001BC",
+   "year": "-10000 BC",
    "range": "Western,Southern USA",
-   "description": "-10001BC",
+   "description": "Died out toward end of last ice age, approx -10000 BC",
    "type": "air",
    "latitude": 36.25,
    "longitude": -115.49,
    "latlong": "36.25,-115.49",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "SM"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f84e",
    "scientific_name": "Ciconia maltha",
    "common_name": "La Brea stork",
    "date": "0001-T00:00:00Z",
-   "year": "-10001BC",
+   "year": "-10000 BC",
    "range": "Cuba",
-   "description": "-10001BC",
+   "description": "Died out toward end of last ice age, approx -10000 BC",
    "type": "air",
    "latitude": 21.52,
    "longitude": -77.78,
    "latlong": "21.52,-77.78",
    "continent": "North America",
-   "country": "CU"
+   "country": "CU",
+   "size": "SM"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f84f",
    "scientific_name": "Teratornis merriami & Teratornis woodburnensis",
    "common_name": "Teratorns",
-   "date": "0001-T00:00:00Z",
-   "year": "-8000BC",
+   "date": "0002-T00:00:00Z",
+   "year": "-8000 BC",
    "range": "North America",
-   "description": "-8000BC",
+   "description": "-8000 BC",
    "type": "air",
    "latitude": 40.22,
    "longitude": -101.25,
    "latlong": "40.22,-101.25",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "SM"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f850",
    "scientific_name": "Amplibuteo woodwardi",
    "common_name": "Woodward's eagle",
    "date": "0001-T00:00:00Z",
-   "year": "-20001BC",
+   "year": "-20000 BC",
    "range": "Caribbean",
-   "description": "-20001BC",
+   "description": "-20000 BC",
    "type": "air",
    "latitude": 24.59,
    "longitude": -78.02,
    "latlong": "24.59,-78.02",
    "continent": "North America",
-   "country": "BS"
+   "country": "BS",
+   "size": "SM"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f851",
@@ -4137,7 +4444,8 @@
    "longitude": -101.13,
    "latlong": "19.86,-101.13",
    "continent": "North America",
-   "country": "MX"
+   "country": "MX",
+   "size": "ZZ"
  },
 
  {
@@ -4153,14 +4461,15 @@
    "longitude": -118.61,
    "latlong": "42.38,-118.61",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f853",
    "scientific_name": "Gambusia amistadensis",
    "common_name": "Amistad gambusia",
-   "date": "1987-T00:00:00Z",
-   "year": "1987",
+   "date": "1980-T00:00:00Z",
+   "year": "1980",
    "range": "Goodenough Spring,Texas",
    "description": "--",
    "type": "marine",
@@ -4168,14 +4477,15 @@
    "longitude": -101.25,
    "latlong": "29.54,-101.25",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f854",
    "scientific_name": "Empetrichthys merriami",
    "common_name": "Ash Meadows killifish",
-   "date": "1948-T00:00:00Z",
-   "year": "1948",
+   "date": "1940-T00:00:00Z",
+   "year": "1940",
    "range": "Ash Meadows,Nevada",
    "description": "--",
    "type": "marine",
@@ -4183,14 +4493,15 @@
    "longitude": -94.36,
    "latlong": "37.83,-94",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f855",
    "scientific_name": "Rhinichthys cataractae smithi",
    "common_name": "Banff longnose dace",
-   "date": "1987-T00:00:00Z",
-   "year": "1987",
+   "date": "1980-T00:00:00Z",
+   "year": "1980",
    "range": "Banff,Alberta",
    "description": "--",
    "type": "marine",
@@ -4198,14 +4509,15 @@
    "longitude": -115.57,
    "latlong": "51.17,-115.57",
    "continent": "North America",
-   "country": "CA"
+   "country": "CA",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f856",
    "scientific_name": "Coregonus nigripinnis",
    "common_name": "Blackfin cisco",
-   "date": "1969-T00:00:00Z",
-   "year": "1969",
+   "date": "1960-T00:00:00Z",
+   "year": "1960",
    "range": "Great Lakes,Canada and USA",
    "description": "--",
    "type": "marine",
@@ -4213,14 +4525,15 @@
    "longitude": -87.71,
    "latlong": "46.02,-87.71",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f857",
    "scientific_name": "Sander vitreus glaucus",
    "common_name": "Blue walleye",
-   "date": "1983-T00:00:00Z",
-   "year": "1983",
+   "date": "1980-T00:00:00Z",
+   "year": "1980",
    "range": "Great Lakes,Canada and USA",
    "description": "--",
    "type": "marine",
@@ -4228,7 +4541,8 @@
    "longitude": -87.71,
    "latlong": "46.02,-87.71",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f858",
@@ -4243,14 +4557,15 @@
    "longitude": -99.96,
    "latlong": "50.65,-99.96",
    "continent": "North America",
-   "country": "CA"
+   "country": "CA",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f859",
    "scientific_name": "Coregonus johannae",
    "common_name": "Deepwater cisco",
-   "date": "1952-T00:00:00Z",
-   "year": "1952",
+   "date": "1950-T00:00:00Z",
+   "year": "1950",
    "range": "Great Lakes,Canada and USA",
    "description": "--",
    "type": "marine",
@@ -4258,14 +4573,15 @@
    "longitude": -87.71,
    "latlong": "46.02,-87.71",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f85a",
    "scientific_name": "Rhinichthys osculus reliquus",
    "common_name": "Grass Valley speckled dace",
-   "date": "1938-T00:00:00Z",
-   "year": "1938",
+   "date": "1930-T00:00:00Z",
+   "year": "1930",
    "range": "Lander County,Nevada",
    "description": "--",
    "type": "marine",
@@ -4273,14 +4589,15 @@
    "longitude": -116.98,
    "latlong": "40.05,-116.98",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f85b",
    "scientific_name": "Moxostoma lacerum",
    "common_name": "Harelip sucker",
-   "date": "1893-T00:00:00Z",
-   "year": "1893",
+   "date": "1890-T00:00:00Z",
+   "year": "1890",
    "range": "Southeastern USA",
    "description": "--",
    "type": "marine",
@@ -4288,7 +4605,8 @@
    "longitude": -85.08,
    "latlong": "33.83,-85.08",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f85c",
@@ -4303,14 +4621,15 @@
    "longitude": -116.1,
    "latlong": "41.35,-116.1",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f85d",
    "scientific_name": "Rhinichthys deaconi",
    "common_name": "Las Vegas dace",
-   "date": "1986-T00:00:00Z",
-   "year": "1986",
+   "date": "1980-T00:00:00Z",
+   "year": "1980",
    "range": "Las Vegas Valley,USA",
    "description": "--",
    "type": "marine",
@@ -4318,14 +4637,15 @@
    "longitude": -115.17,
    "latlong": "36.11,-115.17",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f85e",
    "scientific_name": "Coregonus alpenae",
    "common_name": "Longjaw cisco",
-   "date": "1975-T00:00:00Z",
-   "year": "1975",
+   "date": "1970-T00:00:00Z",
+   "year": "1970",
    "range": "Great Lakes,Canada and USA",
    "description": "--",
    "type": "marine",
@@ -4333,14 +4653,15 @@
    "longitude": -87.71,
    "latlong": "46.02,-87.71",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f85f",
    "scientific_name": "Etheostoma sellare",
    "common_name": "Maryland darter",
-   "date": "1988-T00:00:00Z",
-   "year": "1988",
+   "date": "1980-T00:00:00Z",
+   "year": "1980",
    "range": "Deer Creek,Maryland",
    "description": "--",
    "type": "marine",
@@ -4348,14 +4669,15 @@
    "longitude": -76.45,
    "latlong": "39.04,-76.45",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f860",
    "scientific_name": "Lepidomeda altivelis",
    "common_name": "Pahranagat spinedace",
-   "date": "1938-T00:00:00Z",
-   "year": "1938",
+   "date": "1930-T00:00:00Z",
+   "year": "1930",
    "range": "Pahranagat Valley,Nevada",
    "description": "--",
    "type": "marine",
@@ -4363,14 +4685,15 @@
    "longitude": -115.04,
    "latlong": "37.19,-115.04",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f861",
    "scientific_name": "Notropis orca",
    "common_name": "Phantom shiner",
-   "date": "1975-T00:00:00Z",
-   "year": "1975",
+   "date": "1970-T00:00:00Z",
+   "year": "1970",
    "range": "Rio Grande Basin,Mexico and USA",
    "description": "--",
    "type": "marine",
@@ -4378,14 +4701,15 @@
    "longitude": -99.49,
    "latlong": "28.27,-99.49",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f862",
    "scientific_name": "Gambusia georgei",
    "common_name": "San Marcos gambusia",
-   "date": "1983-T00:00:00Z",
-   "year": "1983",
+   "date": "1980-T00:00:00Z",
+   "year": "1980",
    "range": "San Marcos Spring,Texas",
    "description": "--",
    "type": "marine",
@@ -4393,14 +4717,15 @@
    "longitude": -116.42,
    "latlong": "38.8,-116.42",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f863",
    "scientific_name": "Noturus trautmani",
    "common_name": "Scioto madtom",
-   "date": "1957-T00:00:00Z",
-   "year": "1957",
+   "date": "1950-T00:00:00Z",
+   "year": "1950",
    "range": "Big Darby Creek,Ohio",
    "description": "--",
    "type": "marine",
@@ -4408,14 +4733,15 @@
    "longitude": -83.1,
    "latlong": "39.77,-83.1",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f864",
    "scientific_name": "Coregonus reighardi",
    "common_name": "Shortnose cisco",
-   "date": "1985-T00:00:00Z",
-   "year": "1985",
+   "date": "1980-T00:00:00Z",
+   "year": "1980",
    "range": "Great Lakes,Canada and USA",
    "description": "--",
    "type": "marine",
@@ -4423,7 +4749,8 @@
    "longitude": -87.71,
    "latlong": "46.02,-87.71",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f865",
@@ -4438,14 +4765,15 @@
    "longitude": -72.08,
    "latlong": "42.9,-72.08",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f866",
    "scientific_name": "Cyprinodon nevadensis calidae",
    "common_name": "Tecopa pupfish",
-   "date": "1979-T00:00:00Z",
-   "year": "1979",
+   "date": "1970-T00:00:00Z",
+   "year": "1970",
    "range": "Majavo Desert Springs,California",
    "description": "--",
    "type": "marine",
@@ -4453,7 +4781,8 @@
    "longitude": -116.51,
    "latlong": "33.92,-116.51",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f867",
@@ -4468,14 +4797,15 @@
    "longitude": -111.8,
    "latlong": "40.21,-111.8",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f868",
    "scientific_name": "Cottus echinatus",
    "common_name": "Utah Lake sculpin",
-   "date": "1928-T00:00:00Z",
-   "year": "1928",
+   "date": "1920-T00:00:00Z",
+   "year": "1920",
    "range": "Utah Lake,Utah",
    "description": "--",
    "type": "marine",
@@ -4483,14 +4813,15 @@
    "longitude": -111.8,
    "latlong": "40.21,-111.8",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f869",
    "scientific_name": "Oncorhynchus clarki macdonald",
    "common_name": "Yellowfin cutthroat trout",
-   "date": "1903-T00:00:00Z",
-   "year": "1903",
+   "date": "1900-T00:00:00Z",
+   "year": "1900",
    "range": "Twin Lakes,Colorado",
    "description": "--",
    "type": "marine",
@@ -4498,22 +4829,24 @@
    "longitude": -106.38,
    "latlong": "39.08,-106.38",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
  {
    "_id": "57bbaf7e7f658b5320d3f86a",
    "scientific_name": "Oncorhynchus rastrosus",
    "common_name": "Saber-toothed salmon",
    "date": "0001-T00:00:00Z",
-   "year": "-20001BC",
+   "year": "-20000 BC",
    "range": "Western Coast of Canada and USA",
-   "description": "-20001BC",
+   "description": "-20000 BC",
    "type": "marine",
    "latitude": 48.24,
    "longitude": -122.87,
    "latlong": "48.24,-122.87",
    "continent": "North America",
-   "country": "US"
+   "country": "US",
+   "size": "ZZ"
  },
 
   {
@@ -4521,367 +4854,390 @@
     "scientific_name": "Miracinonyx trumani* & *Miracinonyx inexpectatus",
     "common_name": "American cheetahs",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "North America",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": 40.22,
     "longitude": -101.25,
-    "latlong": "40.22,-101.25",
+    "latlong": "40.22,-106.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f86c",
     "scientific_name": "Panthera leo atrox",
     "common_name": "American lion",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "USA,Canada and Mexico",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": 56.21,
     "longitude": -131.95,
     "latlong": "56.21,-131.95",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f86d",
     "scientific_name": "Mammut americanum",
     "common_name": "American mastodon",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-8500 BC",
     "range": "USA and Canada",
-    "description": "-8500BC",
+    "description": "-8500 BC",
     "type": "land",
     "latitude": 36.21,
     "longitude": -91.95,
     "latlong": "36.21,-91.95",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f86e",
     "scientific_name": "Odocoileus lucasi",
     "common_name": "American mountain deer",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "USA",
-    "description": "-10001BC",
+    "description": "Died out toward end of last ice age, approx -10000 BC",
     "type": "land",
     "latitude": 40.22,
     "longitude": -101.25,
     "latlong": "40.22,-101.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "MD"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f86f",
     "scientific_name": "Aztlanolagus agilis",
     "common_name": "Aztlanolagus agilis",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "Southeastern Arizona to Central America",
-    "description": "-10001BC",
+    "description": "Died out toward end of last ice age, approx -10000 BC",
     "type": "land",
     "latitude": 13.95,
     "longitude": -85.43,
     "latlong": "13.95,-85.43",
     "continent": "North America",
-    "country": "NI"
+    "country": "NI",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f870",
     "scientific_name": "Dasypus bellus",
     "common_name": "Beautiful armadillo",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-8000 BC",
     "range": "USA to South America",
-    "description": "-8000BC",
+    "description": "-8000 BC",
     "type": "land",
     "latitude": 32.13,
     "longitude": -102.83,
     "latlong": "32.13,-102.83",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f871",
     "scientific_name": "Bison antiquus",
     "common_name": "Bison antiquus",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "USA and Canada",
-    "description": "-10001BC",
+    "description": "Died out toward end of last ice age, approx -10000 BC",
     "type": "land",
     "latitude": 32.13,
     "longitude": -102.83,
     "latlong": "32.13,-102.83",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f872",
     "scientific_name": "Bison occidentalis",
     "common_name": "Bison occidentalis",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-5000 BC",
     "range": "Alaska to Minnesota",
-    "description": "-5000BC",
+    "description": "-5000 BC",
     "type": "land",
-    "latitude": 50.86,
+    "latitude": 57.86,
     "longitude": -105.12,
     "latlong": "50.86,-105.12",
     "continent": "North America",
-    "country": "CA"
+    "country": "CA",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f873",
     "scientific_name": "Amblyrhiza inundata",
     "common_name": "Blunt-toothed giant hutia",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "Northern Lesser Antilles",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": 16.3,
     "longitude": -61.68,
     "latlong": "16.3,-61.68",
     "continent": "North America",
-    "country": "GP"
+    "country": "GP",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f874",
     "scientific_name": "Tapirus californicus",
     "common_name": "California tapir",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "USA",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": 40.22,
     "longitude": -101.25,
     "latlong": "40.22,-101.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f875",
-    "scientific_name": "Camelops spp.",
+    "scientific_name": "Camelops",
     "common_name": "Camelops",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-8000 BC",
     "range": "USA and Mexico",
-    "description": "-8000BC",
+    "description": "Camelops is an extinct genus of camel that once roamed western North America, where it disappeared at the end of the Pleistocene about 10,000 years ago.",
     "type": "land",
     "latitude": 31.51,
     "longitude": -106.26,
     "latlong": "31.51,-106.26",
     "continent": "North America",
-    "country": "MX"
+    "country": "MX",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f876",
     "scientific_name": "Capromeryx minor",
     "common_name": "Capromeryx",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "USA and Mexico",
-    "description": "-11000BC",
+    "description": "-11000 BC, Capromeryx minor is a very small, extinct species of pronghorn-like antilocaprid ungulate discovered in the La Brea Tar Pits of California and elsewhere.",
     "type": "land",
-    "latitude": 24.51,
-    "longitude": -130.26,
-    "latlong": "24.51,-130.26",
+    "latitude": 33.74,
+    "longitude": -114.26,
+    "latlong": "33.74,-114.26",
     "continent": "North America",
-    "country": "MX"
+    "country": "MX",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f877",
     "scientific_name": "Caribbean ground sloths",
     "common_name": "Caribbean ground sloths",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-5000 BC",
     "range": "Caribbean Islands",
-    "description": "-5000BC",
+    "description": "-5000 BC",
     "type": "land",
     "latitude": 21.6,
     "longitude": -71.89,
     "latlong": "21.6,-71.89",
     "continent": "North America",
-    "country": "TC"
+    "country": "TC",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f878",
     "scientific_name": "Mammuthus columbi",
     "common_name": "Columbian mammoth",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-5800 BC",
     "range": "USA and Mexico",
-    "description": "-5800BC",
+    "description": "-5800 BC",
     "type": "land",
     "latitude": 41.51,
     "longitude": -120.26,
     "latlong": "41.51,-126.26",
     "continent": "North America",
-    "country": "MX"
+    "country": "MX",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f879",
     "scientific_name": "Tapirus copei",
     "common_name": "Cope's tapir",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "USA",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": 40.22,
     "longitude": -101.25,
     "latlong": "40.22,-101.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f87a",
     "scientific_name": "Cuon alpinus",
     "common_name": "Dhole",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "North America",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": 36.22,
     "longitude": -97.25,
     "latlong": "36.22,-97.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f87b",
     "scientific_name": "Canis dirus",
     "common_name": "Dire wolf",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-8000 BC",
     "range": "North America",
-    "description": "-8000BC",
+    "description": "-8000 BC",
     "type": "land",
     "latitude": 38.22,
     "longitude": -103.25,
     "latlong": "38.22,-103.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f87c",
     "scientific_name": "Panthera leo spelaea",
     "common_name": "Eurasian cave lion",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "Canada and Alaska",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": "56.1304",
     "longitude": 106.347,
     "latlong": "56.1304,106.347",
     "continent": "Europe",
-    "country": "RU"
+    "country": "RU",
+    "size": "MD"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f87d",
     "scientific_name": "Tremarctos floridanus",
     "common_name": "Florida spectacled bear",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-8000 BC",
     "range": "USA",
-    "description": "-8000BC",
+    "description": "-8000 BC",
     "type": "land",
     "latitude": 40.22,
     "longitude": -101.25,
     "latlong": "40.22,-101.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "LG"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f87e",
-    "scientific_name": "Castoroides leiseyorum* & *Castoroides ohioensis",
+    "scientific_name": "Castoroides leiseyorum Castoroides ohioensis",
     "common_name": "Giant beaver",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "Canada and USA",
-    "description": "-11000BC",
-    "type": "beaver",
+    "description": "-11000 BC",
+    "type": "land",
     "latitude": 56.1304,
     "longitude": 106.347,
     "latlong": "56.13,106.347",
     "continent": "Europe",
-    "country": "RU"
+    "country": "RU",
+    "size": "MD"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f87f",
     "scientific_name": "Glyptodon",
     "common_name": "Glyptodon",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "Central America",
-    "description": "-10001BC",
-    "type": "turtle",
-    "latitude": 12.77,
-    "longitude": 85.603,
-    "latlong": "12.77,85.603",
+    "description": "Died out toward end of last ice age, approx -10000 BC",
+    "type": "reptile",
+    "latitude": -9.77,
+    "longitude": -55.603,
+    "latlong": "-9.77,-55.603",
     "continent": "North America",
-    "country": "GU"
+    "country": "GU",
+    "size": "MD"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f881",
     "scientific_name": "Oreamnos harringtoni",
     "common_name": "Harrington's mountain goat",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-12000 BC",
     "range": "USA and Mexico",
-    "description": "-12000BC",
+    "description": "-12000 BC",
     "type": "land",
     "latitude": 28.51,
     "longitude": -108.26,
     "latlong": "28.51,-108.26",
     "continent": "North America",
-    "country": "MX"
+    "country": "MX",
+    "size": "MD"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f882",
     "scientific_name": "Holmesina septentrionalis",
-    "common_name": "Holmesina septentrionalis",
+    "common_name": "Holmesina septentrionalis -Giant Armadillo",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
-    "range": "USA",
-    "description": "-8000BC",
+    "year": "-8000 BC",
+    "description": "Holmesina individuals were much larger than any modern armadillo: They could reach a length of 2 m, and a weight of 227 kg (500 lbs), while the modern giant armadillo does not attain more than 54 kg (119 lbs).",
     "type": "land",
-    "latitude": 40.22,
-    "longitude": -101.25,
-    "latlong": "40.22,-101.25",
+    "latitude": 44.22,
+    "longitude": -93.25,
+    "latlong": "44.22,-93.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f883",
-    "scientific_name": "Megalonyx spp.",
+    "scientific_name": "Megalonyx",
     "common_name": "Jefferson's ground sloth",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "USA and Canada",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": 56.1304,
     "longitude": 106.35,
     "latlong": "56.13,106.35",
     "continent": "Europe",
-    "country": "RU"
+    "country": "RU",
+    "size": "MD"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f884",
     "scientific_name": "Equus conversidens",
     "common_name": "Mexican horse",
     "date": "11000-01-01T00:00:00Z",
-    "year": "1100Z",
+    "year": "1100",
     "range": "USA and Mexico",
     "description": "--",
     "type": "land",
@@ -4889,11 +5245,12 @@
     "longitude": -106.26,
     "latlong": "31.51,-106.26",
     "continent": "North America",
-    "country": "MX"
+    "country": "MX",
+    "size": "MD"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f886",
-    "scientific_name": "Neochoerus aesopi* & *Neochoerus pinckneyi",
+    "scientific_name": "Neochoerus aesopi",
     "common_name": "Neochoerus",
     "date": "11000-01-01T00:00:00Z",
     "year": "1100Z",
@@ -4904,7 +5261,8 @@
     "longitude": -82.42,
     "latlong": "8.91,-82.42",
     "continent": "North America",
-    "country": "PA"
+    "country": "PA",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f887",
@@ -4919,7 +5277,8 @@
     "longitude": -77.29,
     "latlong": "18.1,-77.29",
     "continent": "North America",
-    "country": "JM"
+    "country": "JM",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f888",
@@ -4934,7 +5293,8 @@
     "longitude": -82.42,
     "latlong": "8.91,-82.42",
     "continent": "North America",
-    "country": "PA"
+    "country": "PA",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f889",
@@ -4947,286 +5307,305 @@
     "type": "land",
     "latitude": 8.91,
     "longitude": -82.42,
-    "latlong": "7.91,-83.42",
+    "latlong": "8.91,-82.42",
     "continent": "North America",
-    "country": "PA"
+    "country": "PA",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f88a",
     "scientific_name": "Paramylodon harlani",
     "common_name": "Paramylodon harlani",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "North America",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
-    "latitude": 40.22,
-    "longitude": -101.25,
-    "latlong": "40.22,-101.25",
+    "latitude": 45.22,
+    "longitude": -92.25,
+    "latlong": "45.22,-92.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f88b",
     "scientific_name": "Elasmodontomys obliquus",
     "common_name": "Plate-toothed giant hutia",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "Puerto Rico",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": 18.22,
     "longitude": -66.59,
     "latlong": "18.22,-66.59",
     "continent": "North America",
-    "country": "PR"
+    "country": "PR",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f88c",
     "scientific_name": "Oregonensis bicalcaratus compressus intermedius",
     "common_name": "Platygonus",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "North America",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
-    "latitude": 40.22,
-    "longitude": -101.25,
-    "latlong": "38.22,-99.25",
+    "latitude": 46.63,
+    "longitude": -107.75,
+    "latlong": "46.63,-107.75",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f88d",
     "scientific_name": "Mammuthus exilis",
     "common_name": "Pygmy mammoth",
-    "date": "0300-01-01T00:00:00Z",
-    "year": "0300",
+    "date": "007-01-01T00:00:00Z",
+    "year": "-11300 BC",
     "range": "Channel Islands of California,USA",
-    "description": "-11300BC",
+    "description": "-11300 BC",
     "type": "land",
     "latitude": 34.01,
     "longitude": -119.78,
     "latlong": "34.01,-119.78",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f899",
     "scientific_name": "Palaeolama",
     "common_name": "Stout-legged llama",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "USA",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": 64.22,
     "longitude": -131.25,
     "latlong": "64.22,-131.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f88f",
     "scientific_name": "Saiga tatarica",
     "common_name": "Saiga antelope",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "North America",
-    "description": "-10001BC",
+    "description": "Died out toward end of last ice age, approx -10000 BC",
     "type": "land",
     "latitude": 35.22,
     "longitude": -111.25,
     "latlong": "35.22,-111.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f890",
     "scientific_name": "Homotherium",
     "common_name": "Scimitar cats",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "USA,Canada,Mexico",
-    "description": "-10001BC",
+    "description": "Died out toward end of last ice age, approx -10000 BC",
     "type": "land",
     "latitude": 38.11,
     "longitude": -90.83,
     "latlong": "38.11,-90.83",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f891",
     "scientific_name": "Nothrotheriops shastensis",
     "common_name": "Shasta ground sloth",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000",
     "range": "USA",
-    "description": "-10001",
+    "description": "-10000",
     "type": "land",
     "latitude": 29.11,
     "longitude": -94.83,
     "latlong": "29.11,-94.83",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f892",
     "scientific_name": "Equus scotti",
     "common_name": "Scott's horse",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "USA and Mexico",
-    "description": "-10001BC",
+    "description": "Died out toward end of last ice age, approx -10000 BC",
     "type": "land",
     "latitude": 31.2,
     "longitude": -105,
     "latlong": "31.2,-105",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f896",
-    "scientific_name": "Bison priscus*â€™",
+    "scientific_name": "Bison priscus",
     "common_name": "Steppe wisent",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "Alaska and Yukon",
-    "description": "-10001BC",
+    "description": "Died out toward end of last ice age, approx -10000 BC",
     "type": "land",
     "latitude": 65.52,
     "longitude": -143.86,
     "latlong": "65.52,-143.86",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f897",
     "scientific_name": "Hemiauchenia",
     "common_name": "Stilt-legged llama",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "USA and Mexico",
-    "description": "-10001BC",
+    "description": "Died out toward end of last ice age, approx -10000 BC",
     "type": "land",
     "latitude": 55.55,
     "longitude": -85.4,
     "latlong": "55.55,-85.4",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f898",
     "scientific_name": "Stockoceros onusrosagris",
     "common_name": "Stockoceros",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "Southwestern North America",
-    "description": "-10001BC",
+    "description": "Died out toward end of last ice age, approx -10000 BC",
     "type": "land",
     "latitude": 48.22,
     "longitude": -111.25,
     "latlong": "48.22,-111.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f89a",
     "scientific_name": "Tapirus merriami",
-    "common_name": "Tapirus merriami",
+    "common_name": "Tapir - Tapirus merriami",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "USA",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": 44.22,
     "longitude": -97.25,
     "latlong": "44.22,-97.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f89b",
     "scientific_name": "Quemisia gravis",
     "common_name": "Twisted-toothed mouse",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "Hispaniola",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": 18.022,
     "longitude": -73.11,
     "latlong": "18.022,-73.11",
     "continent": "North America",
-    "country": "DO"
+    "country": "DO",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f89c",
     "scientific_name": "Ursus maritimus tyrannus",
-    "common_name": "Ursus maritimus tyrannus",
+    "common_name": "Ursus maritimus Polar Bear",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-70000 BC",
     "range": "Arctic",
-    "description": "-11000BC",
+    "description": "-11000 BC",
     "type": "land",
     "latitude": 70.67,
     "longitude": -107.06,
     "latlong": "70.67,-107.06",
     "continent": "North America",
-    "country": "CA"
+    "country": "CA",
+    "size": "MD"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f89d",
     "scientific_name": "Equus occidentalis",
     "common_name": "Western horse",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-10000 BC",
     "range": "USA",
-    "description": "-10001BC",
+    "description": "--",
     "type": "land",
     "latitude": 36.22,
     "longitude": -105.25,
     "latlong": "36.22,-105.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "MD"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f89e",
     "scientific_name": "Mammuthus primigenius",
     "common_name": "Woolly mammoth",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-2000 BC",
     "range": "Northern USA",
-    "description": "-2000BC",
+    "description": "Woolly mammoths survived a great loss of habitat at the end of the Saale glaciation 125,000 years ago, and it is likely that humans hunted the remaining populations to extinction at the end of the last glacial period.",
     "type": "land",
-    "latitude": 41.22,
-    "longitude": -106.25,
-    "latlong": "41.22,-106.25",
+    "latitude": 47.22,
+    "longitude": -100.25,
+    "latlong": "47.22,-100.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "LG"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f89f",
     "scientific_name": "Equus lambei",
     "common_name": "Yukon horse",
     "date": "0001-01-01T00:00:00Z",
-    "year": "0001",
+    "year": "-11000 BC",
     "range": "USA and Canada",
-    "description": "-11000BC",
+    "description": "Equus lambei ranged across North America until approximately 10,000 years ago. It probably was much like the extinct Tarpan and the living Przewalski's Horse of today.",
     "type": "land",
     "latitude": 59.17,
     "longitude": -136.89,
     "latlong": "59.17,-136.89",
     "continent": "North America",
-    "country": "CA"
+    "country": "CA",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8a0",
     "scientific_name": "Megalomys desmarestii",
     "common_name": "Antillean giant rice rat",
-    "date": "1902-01-01T00:00:00Z",
-    "year": "1902",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "France (Martinique)",
     "description": "--",
     "type": "land",
@@ -5234,7 +5613,8 @@
     "longitude": -61.06,
     "latlong": "14.71,-61.06",
     "continent": "North America",
-    "country": "MQ"
+    "country": "MQ",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8a1",
@@ -5249,14 +5629,15 @@
     "longitude": -120.73,
     "latlong": "73.06,-120.73",
     "continent": "North America",
-    "country": "CA"
+    "country": "CA",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8a2",
     "scientific_name": "Procyon lotor gloverallen",
     "common_name": "Barbados raccoon",
-    "date": "1964-01-01T00:00:00Z",
-    "year": "1964",
+    "date": "1960-01-01T00:00:00Z",
+    "year": "1960",
     "range": "Barbados",
     "description": "--",
     "type": "land",
@@ -5264,14 +5645,15 @@
     "longitude": -59.55,
     "latlong": "13.16,-59.55",
     "continent": "North America",
-    "country": "BB"
+    "country": "BB",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8a3",
     "scientific_name": "Neotoma bunkeri",
     "common_name": "Bunker's woodrat",
-    "date": "1932-01-01T00:00:00Z",
-    "year": "1932",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Mexico (Coronados Islands)",
     "description": "--",
     "type": "land",
@@ -5279,29 +5661,31 @@
     "longitude": -111.55,
     "latlong": "26.11,-111.55",
     "continent": "North America",
-    "country": "MX"
+    "country": "MX",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8a4",
     "scientific_name": "Ursus arctos californicu",
     "common_name": "California golden bear",
-    "date": "1922-01-01T00:00:00Z",
-    "year": "1922",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "California",
-    "description": "--",
+    "description": "The grizzly became a symbol of the Bear Flag Republic, Less than 75 years after the discovery of gold in 1848, almost every grizzly bear in California had been tracked down and killed. The last hunted California grizzly was shot in Tulare County, California, in August 1922. Later, in 1924, a grizzly known to roam an area of the Sierra Madre Mountains (Santa Barbara County) was spotted for the last time, and thereafter, grizzlies were never seen again in California.",
     "type": "land",
-    "latitude": 41.22,
-    "longitude": -106.25,
-    "latlong": "41.22,-106.25",
+    "latitude": 39.79,
+    "longitude": -120.25,
+    "latlong": "39.79,-120.25",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "MD"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8a5",
     "scientific_name": "Monachus tropicalis",
     "common_name": "Caribbean monk seal",
-    "date": "1952-01-01T00:00:00Z",
-    "year": "1952",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "Caribbean Sea",
     "description": "--",
     "type": "land",
@@ -5309,7 +5693,8 @@
     "longitude": -101.25,
     "latlong": "24.58,-101.25",
     "continent": "North America",
-    "country": "MX"
+    "country": "MX",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8a6",
@@ -5324,7 +5709,8 @@
     "longitude": -104.95,
     "latlong": "44.21,-104.95",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8a7",
@@ -5339,7 +5725,8 @@
     "longitude": -74.78,
     "latlong": "23.52,-74.78",
     "continent": "North America",
-    "country": "CU"
+    "country": "CU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8a8",
@@ -5354,14 +5741,15 @@
     "longitude": -70.58,
     "latlong": "45.46,-70.58",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8a9",
     "scientific_name": "Cervus canadensis canadiensi",
     "common_name": "Eastern elk",
-    "date": "1887-01-01T00:00:00Z",
-    "year": "1887",
+    "date": "1880-01-01T00:00:00Z",
+    "year": "1880",
     "range": "Eastern Canada and USA",
     "description": "--",
     "type": "land",
@@ -5369,14 +5757,15 @@
     "longitude": -68.58,
     "latlong": "46.46,-68.58",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8aa",
     "scientific_name": "Geomys pinetis goff",
     "common_name": "Goff's pocket gopher",
-    "date": "1955-01-01T00:00:00Z",
-    "year": "1955",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "Florida",
     "description": "--",
     "type": "land",
@@ -5384,14 +5773,15 @@
     "longitude": -81.65,
     "latlong": "28.7,-81.65",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8ab",
     "scientific_name": "Microtus pennsylvanicus nesophilu",
     "common_name": "Gull Island vole",
-    "date": "1897-01-01T00:00:00Z",
-    "year": "1897",
+    "date": "1890-01-01T00:00:00Z",
+    "year": "1890",
     "range": "Gull Island,New York",
     "description": "--",
     "type": "land",
@@ -5399,11 +5789,12 @@
     "longitude": -82.68,
     "latlong": "42.53,-82.68",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8ac",
-    "scientific_name": "Heteropsomys insulans* [",
+    "scientific_name": "Heteropsomys insulans",
     "common_name": "Hispaniolan edible rat",
     "date": "1500-01-01T00:00:00Z",
     "year": "1500",
@@ -5414,7 +5805,8 @@
     "longitude": -71.11,
     "latlong": "19.022,-71.11",
     "continent": "North America",
-    "country": "DO"
+    "country": "DO",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8ad",
@@ -5429,7 +5821,8 @@
     "longitude": -66.59,
     "latlong": "18.22,-66.59",
     "continent": "North America",
-    "country": "PR"
+    "country": "PR",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8ae",
@@ -5444,11 +5837,12 @@
     "longitude": -71.11,
     "latlong": "19.022,-71.11",
     "continent": "North America",
-    "country": "DO"
+    "country": "DO",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8af",
-    "scientific_name": "Xenothrix mcgregori1",
+    "scientific_name": "Xenothrix mcgregori",
     "common_name": "Jamaican monkey",
     "date": "1500-01-01T00:00:00Z",
     "year": "1500",
@@ -5459,11 +5853,12 @@
     "longitude": -77.29,
     "latlong": "18.1,-77.29",
     "continent": "North America",
-    "country": "JM"
+    "country": "JM",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8b0",
-    "scientific_name": "Oryzomys antillarum1",
+    "scientific_name": "Oryzomys antillarum",
     "common_name": "Jamaican rice rat",
     "date": "1870-01-01T00:00:00Z",
     "year": "1870",
@@ -5474,26 +5869,28 @@
     "longitude": -67.29,
     "latlong": "14.1,-67.29",
     "continent": "North America",
-    "country": "JM"
+    "country": "JM",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8b1",
-    "scientific_name": "Geocapromys thoracatus1",
+    "scientific_name": "Geocapromys thoracatus",
     "common_name": "Little Swan Island hutia",
-    "date": "1955-01-01T00:00:00Z",
-    "year": "1955",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "Swan Islands,Honduras",
-    "description": "--",
+    "description": "A slow-moving, guinea-pig-like rodent disappeared after a severe hurricane (Hurricane Janet) in 1950, followed by the introduction of house cats to the island.",
     "type": "land",
     "latitude": 17.41,
     "longitude": -83.92,
     "latlong": "17.41,83.92",
     "continent": "North America",
-    "country": "HN"
+    "country": "HN",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8b2",
-    "scientific_name": "Solenodon marcanoi1",
+    "scientific_name": "Solenodon marcanoi",
     "common_name": "Marcano's solenodon",
     "date": "1500-01-01T00:00:00Z",
     "year": "1500",
@@ -5504,14 +5901,15 @@
     "longitude": -73.11,
     "latlong": "22.022,-73.11",
     "continent": "North America",
-    "country": "DO"
+    "country": "DO",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8b3",
     "scientific_name": "Cervus canadensis merriam",
     "common_name": "Merriam's elk",
-    "date": "1906-01-01T00:00:00Z",
-    "year": "1906",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Southwestern USA",
     "description": "--",
     "type": "land",
@@ -5519,14 +5917,15 @@
     "longitude": -107.93,
     "latlong": "34.97,-107.93",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8b4",
     "scientific_name": "Ursus arctos nelson",
     "common_name": "Mexican grizzly bear",
-    "date": "1964-01-01T00:00:00Z",
-    "year": "1964",
+    "date": "1960-01-01T00:00:00Z",
+    "year": "1960",
     "range": "Mexico and Southwestern USA",
     "description": "--",
     "type": "land",
@@ -5534,11 +5933,12 @@
     "longitude": -109.93,
     "latlong": "31.9,-109.93",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8b5",
-    "scientific_name": "Isolobodon montanus1",
+    "scientific_name": "Isolobodon montanus",
     "common_name": "Montane hutia",
     "date": "1500-01-01T00:00:00Z",
     "year": "1500",
@@ -5549,14 +5949,15 @@
     "longitude": -71.11,
     "latlong": "19.022,-69.11",
     "continent": "North America",
-    "country": "DO"
+    "country": "DO",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8b6",
-    "scientific_name": "Oryzomys nelsoni1",
+    "scientific_name": "Oryzomys nelsoni",
     "common_name": "Nelson's rice rat",
-    "date": "1897-01-01T00:00:00Z",
-    "year": "1897",
+    "date": "1890-01-01T00:00:00Z",
+    "year": "1890",
     "range": "Maraa Madre Island,Mexico",
     "description": "--",
     "type": "land",
@@ -5564,11 +5965,12 @@
     "longitude": -106.57,
     "latlong": "21.63,-106.57",
     "continent": "North America",
-    "country": "MX"
+    "country": "MX",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8b7",
-    "scientific_name": "Pennatomys nivalis1",
+    "scientific_name": "Pennatomys nivalis",
     "common_name": "Nevis rice rat",
     "date": "1500-01-01T00:00:00Z",
     "year": "1500",
@@ -5579,14 +5981,15 @@
     "longitude": -65.57,
     "latlong": "17.14,-65.57",
     "continent": "Europe",
-    "country": "NE"
+    "country": "NE",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8b8",
     "scientific_name": "Canis lupus beothuc",
     "common_name": "Newfoundland wolf",
-    "date": "1911-01-01T00:00:00Z",
-    "year": "1911",
+    "date": "1910-01-01T00:00:00Z",
+    "year": "1910",
     "range": "Newfoundland",
     "description": "--",
     "type": "land",
@@ -5594,11 +5997,12 @@
     "longitude": -55.7,
     "latlong": "48.61,-55.7",
     "continent": "North America",
-    "country": "CA"
+    "country": "CA",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8b9",
-    "scientific_name": "Boromys offella1",
+    "scientific_name": "Boromys offella",
     "common_name": "Oriente cave rat",
     "date": "1500-01-01T00:00:00Z",
     "year": "1500",
@@ -5609,14 +6013,15 @@
     "longitude": -77.78,
     "latlong": "21.52,-77.78",
     "continent": "North America",
-    "country": "CU"
+    "country": "CU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8ba",
     "scientific_name": "Peromyscus polionotus decoloratu",
     "common_name": "Pallid beach mouse",
-    "date": "1959-01-01T00:00:00Z",
-    "year": "1959",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
     "range": "Florida",
     "description": "--",
     "type": "land",
@@ -5624,11 +6029,12 @@
     "longitude": -81.89,
     "latlong": "29.21,81.89",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8bb",
-    "scientific_name": "Isolobodon portoricensis1",
+    "scientific_name": "Isolobodon portoricensis",
     "common_name": "Puerto Rican hutia",
     "date": "1600-01-01T00:00:00Z",
     "year": "1600",
@@ -5639,11 +6045,12 @@
     "longitude": -70.11,
     "latlong": "17.022,-70.11",
     "continent": "North America",
-    "country": "DO"
+    "country": "DO",
+    "size": "ZZ"
   },
   {
-    "_id": "57bbaf7e7f658b5320d3f8bc",
-    "scientific_name": "Isolobodon portoricensis1",
+    "_id": "57bbaf7e7f658b5320d3f8 bc",
+    "scientific_name": "Isolobodon portoricensis",
     "common_name": "Puerto Rican hutia",
     "date": "1600-01-01T00:00:00Z",
     "year": "1600",
@@ -5654,7 +6061,8 @@
     "longitude": -67.59,
     "latlong": "19.22,-67.59",
     "continent": "North America",
-    "country": "PR"
+    "country": "PR",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8bd",
@@ -5669,14 +6077,15 @@
     "longitude": -66.59,
     "latlong": "18.22,-66.59",
     "continent": "North America",
-    "country": "PR"
+    "country": "PR",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8be",
     "scientific_name": "Megalomys luciae1",
-    "common_name": "Santa Lucian giant ri ce rat",
-    "date": "1852-01-01T00:00:00Z",
-    "year": "1852",
+    "common_name": "Santa Lucian giant rice rat",
+    "date": "1850-01-01T00:00:00Z",
+    "year": "1850",
     "range": "St. Lucia",
     "description": "--",
     "type": "land",
@@ -5684,14 +6093,15 @@
     "longitude": -60.97,
     "latlong": "13.91,-60.97",
     "continent": "North America",
-    "country": "LC"
+    "country": "LC",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8bf",
-    "scientific_name": "Oligoryzomys victus2",
+    "scientific_name": "Oligoryzomys victus",
     "common_name": "Saint Vincent pygmy rice rat",
-    "date": "1898-01-01T00:00:00Z",
-    "year": "1898",
+    "date": "1890-01-01T00:00:00Z",
+    "year": "1890",
     "range": "St. Vincent",
     "description": "--",
     "type": "land",
@@ -5699,11 +6109,12 @@
     "longitude": -60.97,
     "latlong": "13.91,-60.97",
     "continent": "North America",
-    "country": "LC"
+    "country": "LC",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8c0",
-    "scientific_name": "Plagiodontia ipnaeum2",
+    "scientific_name": "Plagiodontia ipnaeum",
     "common_name": "Samana hutia",
     "date": "1500-01-01T00:00:00Z",
     "year": "1500",
@@ -5714,12 +6125,13 @@
     "longitude": -71,
     "latlong": "20,-71",
     "continent": "North America",
-    "country": "DO"
+    "country": "DO",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8c1",
-    "scientific_name": "Neotoma martinensis2",
-    "common_name": "San MartÃ­n Island woodra t",
+    "scientific_name": "Neotoma martinensis",
+    "common_name": "San Martan Island woodrat",
     "date": "1950-01-01T00:00:00Z",
     "year": "1950",
     "range": "San Martan Island,Mexico",
@@ -5729,11 +6141,12 @@
     "longitude": -116.11,
     "latlong": "30.49,-116.11",
     "continent": "North America",
-    "country": "MX"
+    "country": "MX",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8c2",
-    "scientific_name": "Neovison macrodon2",
+    "scientific_name": "Neovison macrodon",
     "common_name": "Sea mink",
     "date": "1860-01-01T00:00:00Z",
     "year": "1860",
@@ -5744,29 +6157,31 @@
     "longitude": -68.45,
     "latlong": "47.27,-68.45",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8c3",
     "scientific_name": "Sylvilagus floridanus hitchens",
     "common_name": "Smith Island cottontail",
-    "date": "1987-01-01T00:00:00Z",
-    "year": "1987",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
     "range": "Smith Island,Virginia",
     "description": "--",
     "type": "land",
     "latitude": 37.98,
-    "longitude": "-76.03",
+    "longitude": -76.03,
     "latlong": "37.98,-76.03",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8c4",
     "scientific_name": "Vulpes macrotis macroti",
     "common_name": "Southern California kit fox",
-    "date": "1903-01-01T00:00:00Z",
-    "year": "1903",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Southern California,USA",
     "description": "--",
     "type": "land",
@@ -5774,14 +6189,15 @@
     "longitude": -118.21,
     "latlong": "35.46,-118.21",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8c5",
     "scientific_name": "Canis lupus young",
     "common_name": "Southern Rocky Mountains wolf",
-    "date": "1935-01-01T00:00:00Z",
-    "year": "1935",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
     "range": "Southern Rocky Mountains,USA",
     "description": "--",
     "type": "land",
@@ -5789,22 +6205,24 @@
     "longitude": -106.7,
     "latlong": "36.14,-106.7",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8c6",
-    "scientific_name": "Hydrodamalis gigas2",
+    "scientific_name": "Hydrodamalis gigas",
     "common_name": "Steller's sea cow",
-    "date": "1768-01-01T00:00:00Z",
-    "year": "1768",
+    "date": "1760-01-01T00:00:00Z",
+    "year": "1760",
     "range": "Commander Islands",
-    "description": "--",
+    "description": "Related to the dugong. Within 27 years of discovery by Europeans, the slow-moving and easily captured Steller's sea cow was hunted to extinction.",
     "type": "land",
     "latitude": 54.98,
     "longitude": 166.32,
     "latlong": "54.98,166.32",
     "continent": "Europe",
-    "country": "RU"
+    "country": "RU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8c7",
@@ -5819,11 +6237,12 @@
     "longitude": -119.99,
     "latlong": "47.56,-119.99",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8c8",
-    "scientific_name": "Boromys torrei2",
+    "scientific_name": "Boromys torrei",
     "common_name": "Torre's cave rat",
     "date": "1500-01-01T00:00:00Z",
     "year": "1500",
@@ -5834,14 +6253,15 @@
     "longitude": -77.78,
     "latlong": "21.52,-77.78",
     "continent": "North America",
-    "country": "CU"
+    "country": "CU",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8c9",
     "scientific_name": "Sorex ornatus juncensi",
     "common_name": "Tule shrew",
-    "date": "1905-01-01T00:00:00Z",
-    "year": "1905",
+    "date": "1900-01-01T00:00:00Z",
+    "year": "1900",
     "range": "Baja California,Mexico",
     "description": "--",
     "type": "land",
@@ -5849,7 +6269,8 @@
     "longitude": -113.9,
     "latlong": "28.93,-113.9",
     "continent": "North America",
-    "country": "MX"
+    "country": "MX",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8ca",
@@ -5858,13 +6279,14 @@
     "date": "1500-01-01T00:00:00Z",
     "year": "1500",
     "range": "Cuba",
-    "description": "--",
+    "description": "Some authorities estimate extinction coinciding with the arrivals of rats (Rattus) aboard Spanish vessels in the early 16th century",
     "type": "land",
     "latitude": 21.52,
     "longitude": -77.78,
     "latlong": "21.52,-77.78",
     "continent": "North America",
-    "country": "CU"
+    "country": "CU",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8cb",
@@ -5873,58 +6295,62 @@
     "date": "1500-01-01T00:00:00Z",
     "year": "1500",
     "range": "Hispaniola",
-    "description": "--",
+    "description": "Some authorities estimate extinction coinciding with the arrivals of rats (Rattus) aboard Spanish vessels in the early 16th century",
     "type": "land",
     "latitude": 19.02,
     "longitude": -71.11,
     "latlong": "19.02,-71.11",
     "continent": "North America",
-    "country": "DO"
+    "country": "DO",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8cc",
     "scientific_name": "Nesphontes",
-    "common_name": "Nesphontes",
+    "commonSMame": "West Indies Shrew",
     "date": "1500-01-01T00:00:00Z",
     "year": "1500",
     "range": "Puerto Rico",
-    "description": "--",
+    "description": "Some authorities estimate extinction coinciding with the arrivals of rats aboard Spanish vessels in the early 16th century",
     "type": "land",
     "latitude": 18.22,
     "longitude": -66.59,
     "latlong": "18.22,-66.59",
     "continent": "North America",
-    "country": "PR"
+    "country": "PR",
+    "size": "ZZ"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8cd",
     "scientific_name": "Ameiva cineracea",
-    "common_name": "Guadeloupe ameiva",
-    "date": "1928-01-01T00:00:00Z",
-    "year": "1928",
+    "common_SMme": "Guadeloupe ameiva lizard",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "France (Guadeloupe)",
-    "description": "--",
-    "type": "land",
+    "description": "Its extinction likely occurred when this area was decimated by a hurricane in 1928",
+    "type": "reptile",
     "latitude": 16.2,
     "longitude": -61.67,
     "latlong": "16.2,-61.67",
     "continent": "North America",
-    "country": "GP"
+    "country": "GP",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8ce",
     "scientific_name": "Celestus occiduus",
-    "common_name": "Jamaica giant galliwasp",
+    "common_name": "Jamaica giant galliwasp Lizard",
     "date": "1840-01-01T00:00:00Z",
     "year": "1840",
     "range": "Jamaica",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": 18.1,
     "longitude": -77.29,
     "latlong": "18.1,-77.29",
     "continent": "North America",
-    "country": "JM"
+    "country": "JM",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8cf",
@@ -5934,27 +6360,29 @@
     "year": "1830",
     "range": "France (Martinique)",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": 14.71,
     "longitude": -61.06,
     "latlong": "14.71,-61.06",
     "continent": "North America",
-    "country": "MQ"
+    "country": "MQ",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8d0",
     "scientific_name": "Leiocephalus eremitus",
     "common_name": "Navassa curly-tailed lizard",
-    "date": "1917-01-01T00:00:00Z",
-    "year": "1917",
+    "date": "1910-01-01T00:00:00Z",
+    "year": "1910",
     "range": "Navassa Island,USA",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": 18.4,
     "longitude": -75.01,
     "latlong": "18.4,-75.01",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "SM"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8d1",
@@ -5964,12 +6392,13 @@
     "year": "1870",
     "range": "Navassa Island,USA",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": 18.0,
     "longitude": -74.97,
     "latlong": "18.0,-74.97",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "MD"
   },
   {
     "_id": "57bbaf7e7f658b5320d3f8d2",
@@ -5979,26 +6408,511 @@
     "year": "1880",
     "range": "Navassa Island,USA",
     "description": "--",
-    "type": "land",
+    "type": "reptile",
     "latitude": 18.4,
     "longitude": -75.01,
     "latlong": "18.4,-75.01",
     "continent": "North America",
-    "country": "US"
+    "country": "US",
+    "size": "ZZ"
   },
   {
     "_id": "57b7c81fa63e484229d311b0",
     "scientific_name": "Aplonis fusca",
     "common_name": "Tasman starling",
-    "date": "1923-01-01T00:00:00Z",
-    "year": "1923",
+    "date": "1920-01-01T00:00:00Z",
+    "year": "1920",
     "range": "Norfolk Island and Lord Howe Island,New South Wales",
-    "description": "Last recorded 1923. Competition from introduced European starling,song thrush and common blackbird,clearance for agriculture. Predation from introduced black rats.",
+    "description": "Last recorded 1920. Competition from introduced European starling,song thrush and common blackbird,clearance for agriculture. Predation from introduced black rats.",
     "type": "air",
     "latitude": -29.04,
     "longitude": 167.95,
     "latlong": "-29.04,167.95",
     "continent": "Australia",
-    "country": "NF"
+    "country": "NF",
+    "size": "SM"
+  },
+  {
+    "common_name": "Great auk",
+    "scientific_name": "Pinguinus impennis",
+    "date": "1854-01-01T00:00:00Z",
+    "year": "1854",
+    "range": "Iceland",
+    "image": "--",
+    "description": "--",
+    "type": "air",
+    "latitude": "64.9631",
+    "longitude": "19.0208",
+    "latlong": "64.9631,19.0208",
+    "country": "IS",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Pied raven",
+    "scientific_name": "Corvus corax varius",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
+    "range": "Denmark",
+    "image": "--",
+    "description": "--",
+    "type": "air",
+    "latitude": "56.2639",
+    "longitude": "9.5018",
+    "latlong": "56.2639,9.5018",
+    "country": "DK",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Chondrostoma scodrense",
+    "scientific_name": "Chondrostoma scodrense",
+    "date": "1890-01-01T00:00:00Z",
+    "year": "1890",
+    "range": "Albania and Montenegro",
+    "image": "--",
+    "description": "--",
+    "type": "marine",
+    "latitude": "41.1533",
+    "longitude": "20.1683",
+    "latlong": "41.1533,20.1683",
+    "country": "AL",
+    "continent": "Europe",
+    "size" : "SM"
+  },
+  {
+    "common_name": "Coregonus bezola",
+    "scientific_name": "Coregonus bezola",
+    "date": "1960-01-01T00:00:00Z",
+    "year": "1960",
+    "range": "Lac du Bourget, France",
+    "image": "--",
+    "description": "--",
+    "type": "marine",
+    "latitude": "45.7297",
+    "longitude": "5.8696",
+    "latlong": "45.7297,5.8696",
+    "country": "FR",
+    "continent": "Europe",
+    "size" : "SM"
+  },
+  {
+    "common_name": "Coregonus fera",
+    "scientific_name": "Coregonus fera",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
+    "range": "France and Switzerland",
+    "image": "--",
+    "description": "--",
+    "type": "marine",
+    "latitude": "46.8182",
+    "longitude": "8.2275",
+    "latlong": "46.8182,8.2275",
+    "country": "FR",
+    "continent": "Europe",
+    "size" : "SM"
+  },
+  {
+    "common_name": "Coregonus restrictus",
+    "scientific_name": "Coregonus restrictus",
+    "date": "1890-01-01T00:00:00Z",
+    "year": "1890",
+    "range": "Lake Morat, Switzerland",
+    "image": "--",
+    "description": "--",
+    "type": "marine",
+    "latitude": "46.8182",
+    "longitude": "8.2275",
+    "latlong": "46.8182,8.2275",
+    "country": "CH",
+    "continent": "Europe",
+    "size" : "SM"
+  },
+  {
+    "common_name": "Deepwater char",
+    "scientific_name": "Salvelinus profundus",
+    "date": "1970-01-01T00:00:00Z",
+    "year": "1970",
+    "range": "Austria, Germany and Switzerland",
+    "image": "--",
+    "description": "--",
+    "type": "marine",
+    "latitude": "47.5162",
+    "longitude": "14.5501",
+    "latlong": "47.5162,14.5501",
+    "country": "DE",
+    "continent": "Europe",
+    "size" : "SM"
+  },
+  {
+    "common_name": "Gravenche",
+    "scientific_name": "Coregonus hiemalis",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
+    "range": "France and Switzerland",
+    "image": "--",
+    "description": "--",
+    "type": "marine",
+    "latitude": "46.2276",
+    "longitude": "2.2137",
+    "latlong": "46.2276,2.2137",
+    "country": "CH",
+    "continent": "Europe",
+    "size" : "SM"
+  },
+  {
+    "common_name": "Houting",
+    "scientific_name": "Coregonus oxyrinchus",
+    "date": "1940-01-01T00:00:00Z",
+    "year": "1940",
+    "range": "Belgium, France, Germany, the Netherlands and United Kingdom",
+    "image": "--",
+    "description": "--",
+    "type": "marine",
+    "latitude": "51.1657",
+    "longitude": "10.4515",
+    "latlong": "51.1657,10.4515",
+    "country": "DE",
+    "continent": "Europe",
+    "size" : "SM"
+  },
+  {
+    "common_name": "Lake Constance whitemarine",
+    "scientific_name": "Coregonus gutturosus",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
+    "range": "Austria, Germany and Switzerland",
+    "image": "--",
+    "description": "--",
+    "type": "marine",
+    "latitude": "51.1657",
+    "longitude": "10.4515",
+    "latlong": "51.1657,10.4515",
+    "country": "AT",
+    "continent": "Europe",
+    "size" : "SM"
+  },
+  {
+    "common_name": "Romanogobio antipai",
+    "scientific_name": "Romanogobio antipai",
+    "date": "1890-01-01T00:00:00Z",
+    "year": "1890",
+    "range": "Lower Danube, Romania and Ukraine",
+    "image": "--",
+    "description": "--",
+    "type": "marine",
+    "latitude": "48.3794",
+    "longitude": "31.1656",
+    "latlong": "48.3794,31.1656",
+    "country": "UA",
+    "continent": "Europe",
+    "size" : "SM"
+  },
+  {
+    "common_name": "Salvelinus neocomensis",
+    "scientific_name": "Salvelinus neocomensis",
+    "date": "1904-01-01T00:00:00Z",
+    "year": "1904",
+    "range": "Lake Neuchâtel, Switzerland",
+    "image": "--",
+    "description": "--",
+    "type": "marine",
+    "latitude": "46.9107",
+    "longitude": "6.8721",
+    "latlong": "46.9107,6.8721",
+    "country": "CH",
+    "continent": "Europe",
+    "size" : "SM"
+  },
+  {
+    "common_name": "Techirghiol stickleback",
+    "scientific_name": "Gasterosteus crenobiontus",
+    "date": "1960-01-01T00:00:00Z",
+    "year": "1960",
+    "range": "Lake Techirghiol, Romania",
+    "image": "--",
+    "description": "--",
+    "type": "marine",
+    "latitude": "45.9432",
+    "longitude": "24.9668",
+    "latlong": "45.9432,24.9668",
+    "country": "RO",
+    "continent": "Europe",
+    "size" : "SM"
+  },
+  {
+    "common_name": "Ukrainian migratory lamprey",
+    "scientific_name": "Eudontomyzon",
+    "date": "Unknown",
+    "year": "Unknown",
+    "range": "Moldova, Russia and Ukraine",
+    "image": "--",
+    "description": "--",
+    "type": "marine",
+    "latitude": "47.4116",
+    "longitude": "28.3699",
+    "latlong": "47.4116,28.3699",
+    "country": "MD",
+    "continent": "Europe",
+    "size" : "SM"
+  },
+
+  {
+    "common_name": "Aurochs",
+    "scientific_name": "Bos primigenius",
+    "date": "1627-01-01T00:00:00Z",
+    "year": "1627",
+    "range": "Europe (native to Poland)",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "51.9194",
+    "longitude": "19.1451",
+    "latlong": "51.9194,19.1451",
+    "country": "PL",
+    "continent": "Europe",
+    "size": "SM"
+
+  },
+  {
+    "common_name": "Caspian tiger",
+    "scientific_name": "Panthera tigris virgata",
+    "date": "1970-01-01T00:00:00Z",
+    "year": "1970",
+    "range": "Turkey to Caucasus Mountains",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "38.9637",
+    "longitude": "35.2433",
+    "latlong": "38.9637,35.2433",
+    "country": "TR",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Caucasian moose",
+    "scientific_name": "Alces alces caucasicus",
+    "date": "1850-01-01T00:00:00Z",
+    "year": "1850",
+    "range": "Caucasus Mountains",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "43.5852",
+    "longitude": "45.0000",
+    "latlong": "43.5852,45.0000",
+    "country": "RU",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Caucasian wisent",
+    "scientific_name": "Bison bonasus caucasicus",
+    "date": "1925-01-01T00:00:00Z",
+    "year": "1925",
+    "range": "Caucasus Mountains",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "43.5852",
+    "longitude": "45.0000",
+    "latlong": "43.5852,45.0000",
+    "country": "RU",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Carpathian wisent",
+    "scientific_name": "Bison bonasus hungarorum",
+    "date": "1790-01-01T00:00:00Z",
+    "year": "1790",
+    "range": "Carpathian Mountains",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "47.2390",
+    "longitude": "25.5909",
+    "latlong": "47.2390,25.5909",
+    "country": "RO",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Majorcan hare",
+    "scientific_name": "Lepus granatensis solisi",
+    "date": "1980-01-01T00:00:00Z",
+    "year": "1980",
+    "range": "Spain (Majorca)",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "39.6953",
+    "longitude": "3.0176",
+    "latlong": "39.6953,3.0176",
+    "country": "ES",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Portuguese ibex",
+    "scientific_name": "Capra pyrenaica lusitanica",
+    "date": "1892-01-01T00:00:00Z",
+    "year": "1892",
+    "range": "Portugal and Spain",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "39.3999",
+    "longitude": "8.2245",
+    "latlong": "39.3999,8.2245",
+    "country": "PT",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Pyrenean ibex",
+    "scientific_name": "Capra pyrenaica pyrenaica",
+    "date": "2000-01-01T00:00:00Z",
+    "year": "2000",
+    "range": "Andorra, France, Portugal and Spain",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "42.5063",
+    "longitude": "1.5218",
+    "latlong": "42.5063,1.5218",
+    "country": "FR",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Sardinian giant shrew",
+    "scientific_name": "Nesiotites similis",
+    "date": "1500--01-01T00:00:00Z",
+    "year": "1500",
+    "range": "Italy (Sardinia)",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "40.1209",
+    "longitude": "9.0129",
+    "latlong": "40.1209,9.0129",
+    "country": "IT",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Sardinian lynx",
+    "scientific_name": "Lynx lynx sardiniae*",
+    "date": "1900--01-01T00:00:00Z",
+    "year": "1900",
+    "range": "Italy (Sardinia)",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "40.1209",
+    "longitude": "9.0129",
+    "latlong": "40.1209,9.0129",
+    "country": "IT",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Sardinian pika",
+    "scientific_name": "Prolagus sardus",
+    "date": "1774-01-01T00:00:00Z",
+    "year": "1774",
+    "range": "Italy (Sardinia)",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "40.1209",
+    "longitude": "9.0129",
+    "latlong": "40.1209,9.0129",
+    "country": "IT",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "St Kilda house mouse",
+    "scientific_name": "Mus musculus muralis",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
+    "range": "United Kingdom (St Kilda)",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "55.3781",
+    "longitude": "3.4360",
+    "latlong": "55.3781,3.4360",
+    "country": "UK",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Tarpan",
+    "scientific_name": "Equus ferus ferus",
+    "date": "1909-01-01T00:00:00Z",
+    "year": "1909",
+    "range": "Europe",
+    "image": "--",
+    "description": "--",
+    "type": "land",
+    "latitude": "54.5260",
+    "longitude": "15.2551",
+    "latlong": "54.5260,15.2551",
+    "country": "EU",
+    "continent": "Europe",
+    "size": "SM"
+  },
+  {
+    "common_name": "Ratas Island lizard",
+    "scientific_name": "Podarcis lilfordi rodriquezi",
+    "date": "1950-01-01T00:00:00Z",
+    "year": "1950",
+    "range": "Spain (Minorca)",
+    "image": "--",
+    "description": "--",
+    "type": "reptile",
+    "latitude": "39.9496",
+    "longitude": "4.1104",
+    "latlong": "39.9496,4.1104",
+    "country": "ES",
+    "continent": "Europe",
+    "size" : "MD"
+  },
+  {
+    "scientific_name": "Gallotia simonyi simonyi",
+    "common_name": "Roque Chico de Salmor giant lizard",
+    "date": "1930-01-01T00:00:00Z",
+    "year": "1930",
+    "range": "Spain (Canary Islands)",
+    "image": "--",
+    "description": "--",
+    "type": "reptile",
+    "latitude": "28.2916",
+    "longitude": "16.6291",
+    "latlong": "28.2916,16.6291",
+    "country": "ES",
+    "continent": "Europe",
+    "size" : "MD"
+  },
+  {
+    "common_name": "Santo Stefano lizard",
+    "scientific_name": "Podarcis sicula sanctistephani",
+    "date": "1965-01-01T00:00:00Z",
+    "year": "1965",
+    "range": "Italy (Santo Stefano Island)",
+    "image": "--",
+    "description": "--",
+    "type": "reptile",
+    "latitude": "40.7897",
+    "longitude": "13.4555",
+    "latlong": "40.7897,13.4555",
+    "country": "IT",
+    "continent": "Europe",
+    "size" : "MD"
   }
+
 ]

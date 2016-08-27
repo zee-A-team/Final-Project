@@ -9,6 +9,8 @@ function BubbleMap() {
 
   const my = ChiasmLeaflet();
 
+
+
   my.when('data', (data) => {
     my.cleanData = data.filter((d) => {
       const lat = d[latitudeColumn];
@@ -54,8 +56,8 @@ function BubbleMap() {
   const randomizer = (object) => {
     const tempObj = object;
     if (!locationRandomizer.includes(tempObj)) {
-      tempObj.latitude += Math.random(0, 500);
-      tempObj.longitude += Math.random(0, 500);
+      tempObj.latitude -= (Math.random() * (0.00 + 0.0100) + 0.0000).toFixed(4);
+      tempObj.longitude -= (Math.random() * (0.20 - 0.0200) + 0.0200).toFixed(4);
       locationRandomizer.push(tempObj);
     }
   };
@@ -72,51 +74,155 @@ function BubbleMap() {
       const markerCenter = L.latLng(lat, lng);
       let circleMarker;
 
+      const orangeArr = [
+        // '#ff894a',
+        // '#ff7830',
+        // '#ff6817'
+        '#e34f00',
+        '#c94600',
+        '#b03d00',
+        '#FF6103',
+        '#fc5800'
+      ];
+
       const redArr = [
+        // '#330000',
+        // '#4c0000',
+        // '#660000',
+        // '#7f0000',
+        // '#990000',
+        // '#b20000',
+        '#cc0000',
         '#e50000',
-        '#990000',
-        '#4c0000',
-        '#ff0000',
-        '#FF2400',
-        '#6F4242',
-        '#8B3626'
+        '#ff0000'
       ];
 
       const blueArr = [
-        '#7f7fff',
-        '#1919ff',
-        '#0000e5',
-        '#000099',
-        '#779999',
-        '#668B8B'
+        // '#474369',
+        // '#514d79',
+        // '#5c5788',
+        '#666198',
+        '#746fa3',
+        '#837fad',
+        '#928eb7'
       ];
 
       const yellowArr = [
         '#ffff00',
         '#FFA500',
         '#cccc00',
-        '#FF6103',
         '#999900',
-        '#CDAD00',
-        '#8B7500'
+        // '#CDAD00',
+        // '#8B7500'
       ];
+
+      const greenArr = [
+        // '#436947',
+        // '#4d7951',
+        // '#57885c',
+        '#619866',
+        '#6fa374',
+        '#7fad83',
+        '#8eb792'
+      ];
+
+      const liteGreenArr = [
+        'green'
+      ];
+
+      const purpleArr = [
+        'purple'
+      ];
+
+  function geometryHover(username, map, layer, options) {
+
+  options = options || {}
+  var HIGHLIGHT_STYLE = {
+    weight: 3,
+    color: '#FFFFFF',
+    opacity: 1,
+    fillColor: '#FFFFFF',
+    fillOpacity: 0.3
+  };
+  style = options.style || HIGHLIGHT_STYLE;
+  var polygonsHighlighted = [];
+
+
+  // fetch the geometry
+  var sql = new cartodb.SQL({ user: username, format: 'geojson' });
+  sql.execute("select cartodb_id, ST_Simplify(the_geom, 0.1) as the_geom from (" + layer.getSQL() + ") as _wrap").done(function(geojson) {
+    var features = geojson.features;
+    for(var i = 0; i < features.length; ++i) {
+      var f = geojson.features[i];
+      var key = f.properties.cartodb_id
+
+      // generate geometry
+      var geo = L.GeoJSON.geometryToLayer(features[i].geometry);
+      geo.setStyle(style);
+
+      // add to polygons
+      polygons[key] = polygons[key] ||  [];
+      polygons[key].push(geo);
+    }
+  });
+
+  function featureOver(e, pos, latlng, data) {
+    featureOut();
+    var pol = polygons[data.cartodb_id] || [];
+    for(var i = 0; i < pol.length; ++i) {
+      map.addLayer(pol[i]);
+      polygonsHighlighted.push(pol[i]);
+    }
+  }
+
+  function featureOut() {
+    var pol = polygonsHighlighted;
+    for(var i = 0; i < pol.length; ++i) {
+      map.removeLayer(pol[i]);
+    }
+    polygonsHighlighted = [];
+  }
+
+  layer.on('featureOver', featureOver);
+  layer.on('featureOut', featureOut);
+  layer.setInteraction(true);
+
+}
 
       function getMeRandomColors(randParam) {
         let randomColor;
-        if (randParam === 'red') {
-          randomColor = redArr[Math.floor(Math.random() * redArr.length)];
+        if (randParam === 'orange') {
+          randomColor = orangeArr[Math.floor(Math.random() * orangeArr.length)];
         } else if (randParam === 'blue') {
           randomColor = blueArr[Math.floor(Math.random() * blueArr.length)];
         } else if (randParam === 'yellow') {
           randomColor = yellowArr[Math.floor(Math.random() * yellowArr.length)];
+        } else if (randParam === 'purple') {
+          randomColor = purpleArr[Math.floor(Math.random() * purpleArr.length)];
+        } else if (randParam === 'green') {
+          randomColor = greenArr[Math.floor(Math.random() * greenArr.length)];
+        } else if (randParam === 'lightgreen') {
+          randomColor = liteGreenArr[Math.floor(Math.random() * liteGreenArr.length)];
+        } else if (randParam === 'red') {
+          randomColor = redArr[Math.floor(Math.random() * redArr.length)];
         }
         return randomColor;
+      }
+
+      var getRandomNumber = function (min, max) {
+          return Math.floor(Math.random() * (max - min + 1)) + min;
+      };
+
+      function describer(){
+        if(`${dx.description}`!=='--'){
+          return `<p>${dx.description}</p>`;
+        }
+        else {return ''}
       }
 
       function toTitleCase(str){
         return str.replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase());
       }
-
       dx.common_name = toTitleCase(dx.common_name);
 
       if (aniType === 'land') {
@@ -125,29 +231,141 @@ function BubbleMap() {
           weight: 3,
           clickable: true,
         });
-
-      } else if (aniType === 'air') {
+        circleMarker.setRadius(getRandomNumber(5, 6));
+      }
+      else if (aniType === 'air') {
         circleMarker = L.circleMarker(markerCenter, {
           color: getMeRandomColors('yellow'),
           weight: 1,
           clickable: true,
         });
-
-      } else {
+        circleMarker.setRadius(2);
+      }
+      else if (aniType === 'marine') {
         circleMarker = L.circleMarker(markerCenter, {
           color: getMeRandomColors('blue'),
           weight: 2,
           clickable: true,
         });
+        circleMarker.setRadius(3);
+      }
+      else if (aniType === 'mars') {
+        circleMarker = L.circleMarker(markerCenter, {
+          color: getMeRandomColors('orange'),
+          weight: 2,
+          clickable: true,
+        });
+        circleMarker.setRadius(getRandomNumber(6, 7));
+      }
+      else if (aniType === 'reptile') {
+        circleMarker = L.circleMarker(markerCenter, {
+          color: getMeRandomColors('green'),
+          weight: 2,
+          clickable: true,
+        });
+        circleMarker.setRadius(getRandomNumber(6, 7));
+      }
+      else if (aniType === 'amph') {
+        circleMarker = L.circleMarker(markerCenter, {
+          color: getMeRandomColors('lightgreen'),
+          weight: 2,
+          clickable: true,
+        });
+        circleMarker.setRadius(getRandomNumber(2, 3));
+      }
+      else {
+        circleMarker = L.circleMarker(markerCenter, {
+          color: getMeRandomColors('blue'),
+          weight: 2,
+          clickable: true,
+        });
+        circleMarker.setRadius(rData(dx));
       }
       circleMarker.bindPopup(dx.common_name);
-      circleMarker.setRadius(rData(dx));
+        circleMarker.setRadius(rData(dx));
       circleMarker.on('mouseover', function(e) {
         const popup = L.popup()
          .setLatLng(e.latlng)
-         .setContent(`${dx.common_name} (${dx.year})`)
+         .setContent(`${dx.common_name} (${dx.year}) ${describer()}`)
          .openOn(my.map);
       });
+
+      if (dx.scientific_name === 'Raphus cucullatus') {
+        circleMarker.setRadius(17);
+        circleMarker.on('mouseover', function(e) {
+          const popup = L.popup({
+            color: getMeRandomColors('yellow'),
+            weight: 1,
+            clickable: true,
+            offset: new L.Point(-200, 100),
+            maxWidth: 270
+          })
+           .setLatLng(e.latlng)
+           .setContent(`${dx.common_name} (${dx.year}) <br>
+            <img src="./img/dodo.jpg" height="190px" width="260px"> <p> ${dx.description}
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Dodo" target="_blank">Wiki Link</a></p>` )
+           .openOn(my.map);
+        });
+      }
+
+      if (dx.scientific_name === 'Rhodacanthis palmeri') {
+        circleMarker.setRadius(14);
+        circleMarker.on('mouseover', function(e) {
+          const popup = L.popup({
+            offset: new L.Point(200, 230)
+          })
+           .setLatLng(e.latlng)
+           .setContent(`${dx.common_name} (${dx.year}) <br>
+            <div style="width: 290px; height: 200px; overflow: hidden;">
+            <img src="./img/gkoafinch.jpg" width="290px"> </div> <p>${dx.description} <br>
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Greater_koa_finch" target="_blank">Wiki Link</a></p>` )
+           .openOn(my.map);
+        });
+      }
+
+      if (dx.scientific_name === 'Mammuthus primigenius') {
+        circleMarker.setRadius(21);
+        circleMarker.on('mouseover', function(e) {
+          const popup = L.popup({
+            offset: new L.Point(200, 330)
+          })
+           .setLatLng(e.latlng)
+           .setContent(`${dx.common_name} (${dx.year}) <br>
+            <img src="./img/mammoth.jpg" width="290px"> <p> ${dx.description}
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Mammoth" target="_blank">Wiki Link</a></p>` )
+           .openOn(my.map);
+        });
+      }
+      circleMarker.addTo(my.map);
+
+
+      if (dx.scientific_name === 'Xenomorphus Thingus') {
+        circleMarker.setRadius(0.5);
+        circleMarker.on('mouseover', function(e) {
+          const popup = L.popup({
+            offset: new L.Point(195, -35)
+          })
+           .setLatLng(e.latlng)
+           .setContent(`${dx.common_name} (${dx.year}) <br>
+            <img src="./img/thething.jpg" width="120px"> <p> ${dx.description}` )
+           .openOn(my.map);
+        });
+      }
+      circleMarker.addTo(my.map);
+
+      if (dx.scientific_name === 'Tarbosaurus bataar') {
+        circleMarker.setRadius(12);
+        circleMarker.on('mouseover', function(e) {
+          const popup = L.popup({
+            offset: new L.Point(-195, 355)
+          })
+           .setLatLng(e.latlng)
+           .setContent(`${dx.common_name} (${dx.year}) <br>
+            <img src="./img/trex.jpg" width="290px"> <p> ${dx.description}
+            <a class="hotlinks" href="https://en.wikipedia.org/wiki/Tarbosaurus" target="_blank">Wiki Link</a></p>` )
+           .openOn(my.map);
+        });
+      }
       circleMarker.addTo(my.map);
 
       return circleMarker;

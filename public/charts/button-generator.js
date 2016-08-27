@@ -19,21 +19,27 @@ const panel2Arr = [
 ];
 
 const panel3Arr = [
-  ['legend_bird', null, './img/leg_bird.png'],
-  ['legend_marine', null, './img/leg_marine.png'],
-  ['legend_mammal', null, './img/leg_mammal.png'],
-  ['legend_marsu', null, './img/leg_marsu.png'],
-  ['legend_reptile', null, './img/leg_reptile.png'],
+  ['legend_mammal', null, './img/leg_mammal.png', 'Mammal'],
+  ['legend_bird', null, './img/leg_bird.png', 'Bird'],
+  ['legend_marine', null, './img/leg_marine.png', 'Fish'],
+  ['legend_reptile', null, './img/leg_reptile.png', 'Reptile'],
+  ['legend_marsu', null, './img/leg_marsu.png', 'Marsupial'],
 ];
+
 const elementsOne = [];
 const elementsTwo = [];
 const elementsThree = [];
 
-function createElement(id, value, n, url) {
+function createElement(id, value, n, url, legendName) {
   const element = document.createElement('div');
   element.id = id;
   if (url) {
+    let name = document.createElement('div');
+    name.innerHTML = legendName;
+    name.className = 'legend-text';
+    element.appendChild(name);
     element.style.backgroundImage = `url('${url}')`;
+    element.className = 'icon-images';
     elementsThree.push(element);
     return element;
   }
@@ -95,10 +101,11 @@ function panelThree() {
   h3.innerHTML = 'Legend';
   panel3.appendChild(h3);
   for (let i = 0; i < panel3Arr.length; i++) {
-    panel3.appendChild(createElement(panel3Arr[i][0], panel3Arr[i][1], 3, panel3Arr[i][2]));
+    panel3.appendChild(createElement(panel3Arr[i][0], panel3Arr[i][1], 3, panel3Arr[i][2], panel3Arr[i][3]));
   }
 }
 
 panelOne();
 panelTwo();
 panelThree();
+

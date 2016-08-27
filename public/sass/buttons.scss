@@ -43,10 +43,18 @@ $footer-gray: lighten($map-gray, 5%);
     width: 45px;
     height: 45px;
   }
-}
 
-.graph-type-icons{
-  position: absolute;
-  bottom: 0;
-  border: 10px solid red;
+.icon-images{
+  margin-left: 10%;
+  background-size: contain;
+  height: 20px;
+  background-repeat: no-repeat;
+  margin-top: 6%;
+  }
+
+.legend-text{
+  font-size: 15px;
+  margin-left: 100%;
+  color: lighten($footer-gray, 25%);
+  }
 }
