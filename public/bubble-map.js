@@ -340,7 +340,7 @@ function BubbleMap() {
 
 
       if (dx.scientific_name === 'Xenomorphus Thingus') {
-        circleMarker.setRadius(0.1);
+        circleMarker.setRadius(0.5);
         circleMarker.on('mouseover', function(e) {
           const popup = L.popup({
             offset: new L.Point(195, -35)
