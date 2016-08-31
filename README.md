@@ -11,8 +11,8 @@ When building this project, we found that there was no one data source that woul
 
 Our custom data-set is public and available through GraphQl.
 
-TO RUN LOCALLY:
+##TO RUN LOCALLY:
+```bash
 npm install
 npm start
-localhost:3001
-localhost:3001/graphql
+```
