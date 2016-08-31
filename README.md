@@ -1,15 +1,18 @@
 # Extinction Data Visualization
 
-Project is deployed and live [xtinct.online](xtinct.online)
+A visual demonstration of Animal Extinction Rates over time. http://xtinct.online
 
-[alt tag](http://imgur.com/07cUfpr)
+![pic](http://i.imgur.com/j7B7Ap4.png)
+![pic](http://i.imgur.com/6dPMgp6.png)
 
-This purpose of this application is to visualize animal-extinction rates to raise awareness of the increase in extinction-rates in recent times.
+The purpose of this project is to illustrate the increase of animal-extinction rates during recent years.
 
-There is no one source of data for animal-extinctions. Most of the data we have has been hand-scraped from Wikipedia.
-Our API is public and can be queried with GraphQl
+When building this project, we found that there was no one data source that would fit our needs to create this application. We have created a custom database by hand-scraping various resources on the internet.
 
-Instructions:
-Fork/clone
-run npm install
-run npm start
+Our custom data-set is public and available through GraphQl.
+
+TO RUN LOCALLY:
+npm install
+npm start
+localhost:3001
+localhost:3001/graphql
