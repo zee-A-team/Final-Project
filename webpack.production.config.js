@@ -1,30 +1,28 @@
-const webpack = require('webpack');
-
 module.exports = {
   entry: [
-    './entry.js',
+    './entry.js'
   ],
   output: {
     path: `${__dirname}/public`,
-    filename: 'bundle.js',
+    filename: 'bundle.js'
   },
   module: {
     loaders: [{
       test: /.js?$/,
       loader: 'babel-loader',
-      exclude: /node_modules/,
+      exclude: /node_modules/
     },
     {
       test: /(\.scss$|\.css$)/,
       loaders: [
         'style',
         'css',
-        'sass',
-      ],
-    },
+        'sass'
+      ]
+    }
     ],
     postcss: [
-      require('autoprefixer'),
-    ],
-  },
-};
+      require('autoprefixer')
+    ]
+  }
+}

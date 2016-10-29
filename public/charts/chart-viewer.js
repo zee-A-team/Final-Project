@@ -1,6 +1,6 @@
-const d3 = require('d3');
-const c3 = require('c3');
-const charts = require('./conti-chart');
+const d3 = require('d3')
+const c3 = require('c3')
+const charts = require('./conti-chart')
 
 document.getElementById('toggleHemiChart').addEventListener('click', () => {
   charts.hemiChart('../animalData.json')
@@ -10,21 +10,21 @@ document.getElementById('toggleHemiChart').addEventListener('click', () => {
         data: {
           columns: [
               ['Northern Hemisphere', poles.north],
-              ['Southern Hemisphere', poles.south],
+              ['Southern Hemisphere', poles.south]
           ],
           type: 'pie',
           colors: {
             'Northern Hemisphere': '#F03C02',
-            'Southern Hemisphere': '#C21A01',
+            'Southern Hemisphere': '#C21A01'
           },
           size: {
             width: 640
-          },
-        },
-      });
+          }
+        }
+      })
     })
-    .catch((err) => console.log(err));
-});
+    .catch((err) => console.log(err))
+})
 
 document.getElementById('toggleEuChart').addEventListener('click', () => {
   charts.euChart('../animalData.json')
@@ -34,21 +34,21 @@ document.getElementById('toggleEuChart').addEventListener('click', () => {
         data: {
           columns: [
               ['Europe', eu.eu],
-              ['World', eu.world],
+              ['World', eu.world]
           ],
           type: 'pie',
           colors: {
             'Europe': '#F03C02',
-            'World': '#C21A01',
+            'World': '#C21A01'
           },
           size: {
             width: 640
-          },
-        },
-      });
+          }
+        }
+      })
     })
-    .catch((err) => console.log(err));
-});
+    .catch((err) => console.log(err))
+})
 
 document.getElementById('toggleAsiaChart').addEventListener('click', () => {
   charts.asiaChart('../animalData.json')
@@ -58,21 +58,21 @@ document.getElementById('toggleAsiaChart').addEventListener('click', () => {
         data: {
           columns: [
               ['Asia', asia.asia],
-              ['World', asia.world],
+              ['World', asia.world]
           ],
           type: 'pie',
           colors: {
             'Asia': '#F03C02',
-            'World': '#C21A01',
+            'World': '#C21A01'
           },
           size: {
             width: 640
-          },
-        },
-      });
+          }
+        }
+      })
     })
-    .catch((err) => console.log(err));
-});
+    .catch((err) => console.log(err))
+})
 
 document.getElementById('toggleAfricaChart').addEventListener('click', () => {
   charts.africaChart('../animalData.json')
@@ -82,21 +82,21 @@ document.getElementById('toggleAfricaChart').addEventListener('click', () => {
         data: {
           columns: [
               ['Africa', africa.africa],
-              ['World', africa.world],
+              ['World', africa.world]
           ],
           type: 'pie',
           colors: {
             'Africa': '#F03C02',
-            'World': '#C21A01',
+            'World': '#C21A01'
           },
           size: {
             width: 640
-          },
-        },
-      });
+          }
+        }
+      })
     })
-    .catch((err) => console.log(err));
-});
+    .catch((err) => console.log(err))
+})
 
 document.getElementById('toggleNaChart').addEventListener('click', () => {
   charts.naChart('../animalData.json')
@@ -106,21 +106,21 @@ document.getElementById('toggleNaChart').addEventListener('click', () => {
         data: {
           columns: [
               ['North America', na.na],
-              ['World', na.world],
+              ['World', na.world]
           ],
           type: 'pie',
           colors: {
             'North America': '#F03C02',
-            'World': '#C21A01',
+            'World': '#C21A01'
           },
           size: {
             width: 640
-          },
-        },
-      });
+          }
+        }
+      })
     })
-    .catch((err) => console.log(err));
-});
+    .catch((err) => console.log(err))
+})
 
 document.getElementById('toggleSaChart').addEventListener('click', () => {
   charts.saChart('../animalData.json')
@@ -130,21 +130,21 @@ document.getElementById('toggleSaChart').addEventListener('click', () => {
         data: {
           columns: [
               ['South America', sa.sa],
-              ['World', sa.world],
+              ['World', sa.world]
           ],
           type: 'pie',
           colors: {
             'South America': '#F03C02',
-            'World': '#C21A01',
+            'World': '#C21A01'
           },
           size: {
             width: 640
-          },
-        },
-      });
+          }
+        }
+      })
     })
-    .catch((err) => console.log(err));
-});
+    .catch((err) => console.log(err))
+})
 
 document.getElementById('toggleAuChart').addEventListener('click', () => {
   charts.auChart('../animalData.json')
@@ -154,21 +154,21 @@ document.getElementById('toggleAuChart').addEventListener('click', () => {
         data: {
           columns: [
               ['Australia', au.au],
-              ['World', au.world],
+              ['World', au.world]
           ],
           type: 'pie',
           colors: {
             'Australia': '#F03C02',
-            'World': '#C21A01',
+            'World': '#C21A01'
           },
           size: {
             width: 640
-          },
-        },
-      });
+          }
+        }
+      })
     })
-    .catch((err) => console.log(err));
-});
+    .catch((err) => console.log(err))
+})
 
 document.getElementById('toggleTerrChart').addEventListener('click', () => {
   charts.terrestrialChart('../animalData.json')
@@ -178,21 +178,21 @@ document.getElementById('toggleTerrChart').addEventListener('click', () => {
         data: {
           columns: [
               ['Terrestrial', terr.terr],
-              ['Rest', terr.rest],
+              ['Rest', terr.rest]
           ],
           type: 'pie',
           colors: {
             'Terrestrial': '#F03C02',
-            'Rest': '#C21A01',
+            'Rest': '#C21A01'
           },
           size: {
-            width: 640,
-          },
-        },
-      });
+            width: 640
+          }
+        }
+      })
     })
-    .catch((err) => console.log(err));
-});
+    .catch((err) => console.log(err))
+})
 
 document.getElementById('toggleAquaChart').addEventListener('click', () => {
   charts.aquaChart('../animalData.json')
@@ -202,21 +202,21 @@ document.getElementById('toggleAquaChart').addEventListener('click', () => {
         data: {
           columns: [
               ['Aquatic', aqua.aqua],
-              ['Rest', aqua.rest],
+              ['Rest', aqua.rest]
           ],
           type: 'pie',
           colors: {
             'Aquatic': '#F03C02',
-            'Rest': '#C21A01',
+            'Rest': '#C21A01'
           },
           size: {
-            width: 640,
-          },
-        },
-      });
+            width: 640
+          }
+        }
+      })
     })
-    .catch((err) => console.log(err));
-});
+    .catch((err) => console.log(err))
+})
 
 document.getElementById('toggleAvianChart').addEventListener('click', () => {
   charts.avianChart('../animalData.json')
@@ -226,21 +226,21 @@ document.getElementById('toggleAvianChart').addEventListener('click', () => {
         data: {
           columns: [
               ['Avian', avian.avi],
-              ['Rest', avian.rest],
+              ['Rest', avian.rest]
           ],
           type: 'pie',
           colors: {
             'Avian': '#F03C02',
-            'Rest': '#C21A01',
+            'Rest': '#C21A01'
           },
           size: {
             width: 640
-          },
-        },
-      });
+          }
+        }
+      })
     })
-    .catch((err) => console.log(err));
-});
+    .catch((err) => console.log(err))
+})
 
 // const panel1 = document.getElementById('panel-1');
 // const panel2 = document.getElementById('panel-2');

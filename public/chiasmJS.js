@@ -1,21 +1,21 @@
-'use strict';
+'use strict'
 
-const Chiasm = require('chiasm');
-const ChiasmCrossfilter = require('./chiasm-crossfilter');
-const ChiasmLayout = require('chiasm-layout');
-const ChiasmLinks = require('chiasm-links');
-const ChiasmDatasetLoader = require('chiasm-dataset-loader');
-const BarChart = require('./barChart');
-const BubbleMap = require('./bubble-map');
+const Chiasm = require('chiasm')
+const ChiasmCrossfilter = require('./chiasm-crossfilter')
+const ChiasmLayout = require('chiasm-layout')
+const ChiasmLinks = require('chiasm-links')
+const ChiasmDatasetLoader = require('chiasm-dataset-loader')
+const BarChart = require('./barChart')
+const BubbleMap = require('./bubble-map')
 
-const chiasm = new Chiasm();
+const chiasm = new Chiasm()
 
-chiasm.plugins.layout = ChiasmLayout;
-chiasm.plugins.links = ChiasmLinks;
-chiasm.plugins.datasetLoader = ChiasmDatasetLoader;
-chiasm.plugins.barChart = BarChart;
-chiasm.plugins.bubbleMap = BubbleMap;
-chiasm.plugins.crossfilter = ChiasmCrossfilter;
+chiasm.plugins.layout = ChiasmLayout
+chiasm.plugins.links = ChiasmLinks
+chiasm.plugins.datasetLoader = ChiasmDatasetLoader
+chiasm.plugins.barChart = BarChart
+chiasm.plugins.bubbleMap = BubbleMap
+chiasm.plugins.crossfilter = ChiasmCrossfilter
 
 chiasm.setConfig({
   layout: {
@@ -26,23 +26,23 @@ chiasm.setConfig({
         orientation: 'vertical',
         children: [
           'map',
-          'date-chart',
-        ],
+          'date-chart'
+        ]
       },
       sizes: {
         'date-chart': {
-          size: 0.3,
-        },
-      },
-    },
+          size: 0.3
+        }
+      }
+    }
   },
   map: {
     plugin: 'bubbleMap',
     state: {
       center: [0, 0],
       zoom: 0,
-      rMax: 30,
-    },
+      rMax: 30
+    }
   },
   'date-chart': {
     plugin: 'barChart',
@@ -50,14 +50,14 @@ chiasm.setConfig({
       fill: '#FF7F78',
       yColumn: 'value',
       xColumn: 'key',
-      margin: { left: 1, top: 1, right: 14, bottom: 1 },
-    },
+      margin: { left: 1, top: 1, right: 14, bottom: 1 }
+    }
   },
   'data-loader': {
     plugin: 'datasetLoader',
     state: {
-      path: 'animals',
-    },
+      path: 'animals'
+    }
   },
   crossfilter: {
     plugin: 'crossfilter',
@@ -65,21 +65,21 @@ chiasm.setConfig({
       groups: {
         dates: {
           dimension: 'date',
-          aggregation: 'year',
+          aggregation: 'year'
         },
         locations: {
-          dimension: 'latlong',
+          dimension: 'latlong'
         },
         latitudes: {
           dimension: 'latitude',
-          aggregation: 'floor 500',
+          aggregation: 'floor 500'
         },
         longitudes: {
           dimension: 'longitude',
-          aggregation: 'floor 500',
-        },
-      },
-    },
+          aggregation: 'floor 500'
+        }
+      }
+    }
   },
   links: {
     plugin: 'links',
@@ -91,8 +91,8 @@ chiasm.setConfig({
         'data-loader.dataset -> map.datasetForScaleDomain',
         'date-chart.brushIntervalX -> crossfilter.dateFilter',
         'map.longitudeInterval -> crossfilter.longitudeFilter',
-        'map.latitudeInterval -> crossfilter.latitudeFilter',
-      ],
-    },
-  },
-});
+        'map.latitudeInterval -> crossfilter.latitudeFilter'
+      ]
+    }
+  }
+})

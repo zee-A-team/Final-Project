@@ -1,6 +1,6 @@
-const mongoose = require('mongoose');
+const mongoose = require('mongoose')
 
-const Schema = mongoose.Schema;
+const Schema = mongoose.Schema
 const animalSchema = new Schema({
   _id: String,
   common_name: String,
@@ -14,7 +14,7 @@ const animalSchema = new Schema({
   latlong: String,
   country: String,
   continent: String,
-  year: String,
-});
+  year: String
+})
 
-module.exports = mongoose.model('animals', animalSchema);
+module.exports = mongoose.model('animals', animalSchema)
