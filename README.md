@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/zee-A-team/Final-Project.png?label=ready&title=Ready)](https://waffle.io/zee-A-team/Final-Project)
 # Extinction Data Visualization
 
 A visual demonstration of Animal Extinction Rates over time. http://xtinct.online
