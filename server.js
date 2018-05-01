@@ -47,6 +47,11 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: true }))
 
 app.get('/', (req, res) => res.sendFile('public/index.html'))
+app.get('/new', (req, res) => res.sendFile('public/new.html', { root: __dirname }))
+
+app.post('/new', (req, res) => {
+  return res.sendFile('public/index.html')
+});
 
 app.use(graffiti.express({
   schema,
